@@ -1,0 +1,342 @@
+{
+ "turns": [
+  {
+   "turn": 1,
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan",
+    "the eldest son"
+   ],
+   "text": "My wife, you must not worry. The eldest son will marry well and provide for the family. And the fool in the court will be cared for as he should be. You have done more than enough for all of us.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 2,
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "I trust you, my husband, and I know you will take care of them as I have. But do not let my foolishness and worries burden you further.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 3,
+   "speaker": "the eldest son",
+   "speak_to": [
+    "Wang Lung",
+    "O-lan"
+   ],
+   "text": "Mother, please rest assured. Father will ensure that all is well. I will do my best to marry soon and care for the family as you wish.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 4,
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan",
+    "the eldest son"
+   ],
+   "text": "My dearest, do not fear. Your son and I will see to everything as you wish. Your legacy will live on through us.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 5,
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung",
+    "the eldest son"
+   ],
+   "text": "I am grateful, my husband, and I trust you. Eldest son, I am proud of your commitment. Ensure your bride understands her duty to the family.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 6,
+   "speaker": "the eldest son",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "Mother, I will make sure my wife understands her duties. Please focus on resting and getting well.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 7,
+   "speaker": "O-lan",
+   "speak_to": [
+    "the eldest son"
+   ],
+   "text": "I see your determination, eldest son, and it brings me peace. Remember, your bride must be firm and ready to take on the responsibilities that come with our family's future.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 8,
+   "speaker": "the eldest son",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "Mother, I will speak to my wife and ensure she is ready to take on her role with the family. Please rest now.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 9,
+   "speaker": "O-lan",
+   "speak_to": [
+    "the eldest son"
+   ],
+   "text": "I thank you, eldest son. Ensure the maid understands her place as well, for she too must support our family.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 10,
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "My dear, do not worry about the maid or the eldest son's wife. They will understand their roles and support our family. Focus on your health, my love.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 11,
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "I trust your words, husband, but my heart cannot rest until I see my son settled. Speak to the maid as well, Wang Lung, and remind her of her duties.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 12,
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "I will speak to the maid and ensure she understands her duties, as you wish, my dear. Rest now, O-lan, and let us all work together to make your wishes come true.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 13,
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "I am grateful, Wang Lung, but I must also speak to her myself to ensure she understands the importance of her role. Please arrange it so.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 14,
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "My dearest O-lan, I will arrange for you to speak to the maid. Rest easy, and let us all do what we must to ensure your peace of mind.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 15,
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "Thank you, Wang Lung. I shall speak to the maid tomorrow when I feel stronger. For now, let us gather the family and discuss the wedding plans.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 16,
+   "speaker": "the maid",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "I will see to the arrangements for the wedding, sir, and ensure everything is prepared as you and O-lan wish.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 17,
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "Rest now, my love. The eldest son and his new wife will help with the preparations, and the maid is eager to assist. We will see to everything for the wedding.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 18,
+   "speaker": "O-lan",
+   "speak_to": [
+    "the eldest son",
+    "the maid"
+   ],
+   "text": "Thank you, eldest son and your wife, for your support. We must ensure this wedding is a blessing for all, not a burden.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 19,
+   "speaker": "the maid",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "I will start preparing the necessary items for the wedding, sir, and make sure everything is in order.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 20,
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "I will speak with the village elders about a suitable date for the wedding, my love. We shall make sure it is a day of joy and happiness for our son.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  }
+ ],
+ "termination": "max_turns",
+ "attempts": 20,
+ "call_stats": {
+  "calls": 20,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "meta": {
+  "text_id": "good_earth",
+  "model": "qwen2.5:14b",
+  "mode": "first_person",
+  "seed": 3,
+  "condition": "full",
+  "max_turns": 20,
+  "temperature": 0.7,
+  "memory_k": 5,
+  "policy": "addressee",
+  "enforce": true
+ },
+ "opening": [
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "[GE-OMITTED:1:aa]"
+  },
+  {
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "[GE-OMITTED:3:aa]"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "Die I must, [GE-OMITTED:5:aa] [GE-OMITTED:6:aa] and well she serves me, [GE-OMITTED:7:aa] [GE-OMITTED:8:aa] because I must die, [GE-OMITTED:9:aa] [GE-OMITTED:10:aa] [GE-OMITTED:11:aa]"
+  },
+  {
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "[GE-OMITTED:14:aa]"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "[GE-OMITTED:15:aa]"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "[GE-OMITTED:21:aa] [GE-OMITTED:22:aa]"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "And has everyone wine? [GE-OMITTED:35:aa]"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "the eldest son"
+   ],
+   "text": "[GE-OMITTED:40:aa] My son, [GE-OMITTED:41:aa] and my daughter, [GE-OMITTED:42:aa] there is she. [GE-OMITTED:43:aa]"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "[GE-OMITTED:52:aa] [GE-OMITTED:53:aa]"
+  }
+ ],
+ "characters": [
+  "O-lan",
+  "Wang Lung",
+  "the eldest son",
+  "the maid"
+ ],
+ "seconds": 121.3
+}

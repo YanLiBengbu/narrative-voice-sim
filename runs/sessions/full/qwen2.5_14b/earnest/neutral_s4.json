@@ -1,0 +1,452 @@
+{
+ "turns": [
+  {
+   "turn": 1,
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Mother, surely the number of the house and the age of the tenant are not the only factors in assessing Jack's worthiness. His character and intentions should be considered as well.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 2,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Gwendolen"
+   ],
+   "text": "Gwendolen, I appreciate your interest in Jack's character and intentions, but I must insist that we adhere to the proper standards of society when considering such matters.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 3,
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Mother, I understand your concerns, but it seems you are overlooking the depth of Jack's character and the sincerity of his intentions towards me.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 4,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Gwendolen",
+    "Jack"
+   ],
+   "text": "Gwendolen, while I understand your romantic inclinations, they must be tempered with a clear understanding of the importance of a solid social foundation. Jack, your residence in Belgrave Square is indeed respectable, but I need more information about your family background and your connections within our society.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 5,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Lady Bracknell, I understand your concern and I assure you that my intentions towards Gwendolen are sincere and honorable. I am eager to provide any additional information about my background that you may require.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 6,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Jack, I appreciate your assurances, but actions speak louder than words. Please provide me with the names of your relations who are of note in our society. I must also know the circumstances of your birth and upbringing.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 7,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Lady Bracknell, I understand your need for thoroughness. I was found as a baby in a handbag at the railway station, which is the extent of my known origins. I have endeavored to build a respectable life since then, and I hope to be able to provide Gwendolen with the happiness and security she deserves.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 8,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "A handbag, indeed? I must say, Mr. Worthing, this is rather unconventional. However, the important thing to consider is your present position and your ability to provide for Gwendolen. Can you tell me more about your financial situation and your social connections?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 9,
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Mother, I must insist that you do not dismiss Jack so lightly. He is a man of character and integrity, and I am certain he will provide for me well.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 10,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Gwendolen",
+    "Jack"
+   ],
+   "text": "Gwendolen, I understand your enthusiasm, but I must insist on adhering to the facts. Mr. Worthing, you will forgive me for saying that being found in a handbag is not the most respectable of origins. However, I am willing to overlook this unusual circumstance if you can demonstrate a suitable present station.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 11,
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Mother, I do not care about Mr. Worthing's origin in a handbag. What matters is that he is a gentleman of character and means to do right by me. Will you not see beyond these superficial concerns?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 12,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Gwendolen",
+    "Jack"
+   ],
+   "text": "Gwendolen, while I appreciate your loyalty, it is not the time for sentiment. Mr. Worthing, I must ask you to clarify your current social standing and financial stability. These are the foundations upon which a respectable marriage is built.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 13,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Lady Bracknell, you are quite right to inquire about such matters. I am currently in a position of financial comfort and am able to provide for a wife. I hope to demonstrate my character and commitment to Gwendolen through my actions and intentions.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 14,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Mr. Worthing, while your assurances are commendable, actions must speak louder than words. Can you provide evidence of your financial standing and social connections? It is imperative that Gwendolen marries into stability and respectability.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 15,
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Mother, how many times must I tell you? I love Jack for who he is, not his bank account or social status. Can you not be happy for me?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 16,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Gwendolen",
+    "Jack"
+   ],
+   "text": "Gwendolen, my dear, your mother knows what is best for you. Mr. Worthing, I am not unsympathetic to your aspirations, but I must insist on tangible proof of your standing. Letters of recommendation and references will suffice to begin.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 17,
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Mother, your insistence is maddening. I do not need letters and references to know that Jack is a man of integrity and worth. Can you not see that?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 18,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Lady Bracknell, I understand your concerns and respect your determination to ensure Gwendolen's future is secure. I will provide the necessary references and letters to address your requirements.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 19,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Mr. Worthing, while your cooperation is appreciated, I must emphasize the importance of adhering to societal expectations. I will now require those references and proof of your lineage.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 20,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Of course, Lady Bracknell. I will gather the necessary documents and provide them as soon as possible to demonstrate my standing.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  }
+ ],
+ "termination": "max_turns",
+ "attempts": 20,
+ "call_stats": {
+  "calls": 20,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "meta": {
+  "text_id": "earnest",
+  "model": "qwen2.5:14b",
+  "mode": "neutral",
+  "seed": 4,
+  "condition": "full",
+  "max_turns": 20,
+  "temperature": 0.7,
+  "memory_k": 5,
+  "policy": "addressee",
+  "enforce": true
+ },
+ "opening": [
+  {
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "I am engaged to Mr. Worthing, mamma."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Gwendolen"
+   ],
+   "text": "Pardon me, you are not engaged to any one. When you do become engaged to some one, I, or your father, will inform you of the fact. An engagement should come on a young girl as a surprise, pleasant or unpleasant, as the case may be. It is hardly a matter that she could be allowed to arrange for herself . . . And now I have a few questions to put to you, Mr. Worthing. While I am making these inquiries, you, Gwendolen, will wait for me below in the carriage."
+  },
+  {
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Mamma!"
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Gwendolen"
+   ],
+   "text": "In the carriage, Gwendolen!"
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Gwendolen"
+   ],
+   "text": "Gwendolen, the carriage!"
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "You can take a seat, Mr. Worthing."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Thank you, Lady Bracknell, I prefer standing."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "I feel bound to tell you that you are not down on my list of eligible young men, although I have the same list as the dear Duchess of Bolton has. We work together, in fact. However, I am quite ready to enter your name, should your answers be what a really affectionate mother requires. Do you smoke?"
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Well, yes, I must admit I smoke."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "I am glad to hear it. A man should always have an occupation of some kind. There are far too many idle men in London as it is. How old are you?"
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Twenty-nine."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "A very good age to be married at. I have always been of opinion that a man who desires to get married should know either everything or nothing. Which do you know?"
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "I know nothing, Lady Bracknell."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "I am pleased to hear it. I do not approve of anything that tampers with natural ignorance. Ignorance is like a delicate exotic fruit; touch it and the bloom is gone. The whole theory of modern education is radically unsound. Fortunately in England, at any rate, education produces no effect whatsoever. If it did, it would prove a serious danger to the upper classes, and probably lead to acts of violence in Grosvenor Square. What is your income?"
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Between seven and eight thousand a year."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "In land, or in investments?"
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "In investments, chiefly."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "That is satisfactory. What between the duties expected of one during one’s lifetime, and the duties exacted from one after one’s death, land has ceased to be either a profit or a pleasure. It gives one position, and prevents one from keeping it up. That’s all that can be said about land."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "I have a country house with some land, of course, attached to it, about fifteen hundred acres, I believe; but I dons depend on that for my real income. In fact, as far as I can make out, the poachers are the only people who make anything out of it."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "A country house! How many bedrooms? Well, that point can be cleared up afterwards. You have a town house, I hope? A girl with a simple, unspoiled nature, like Gwendolen, could hardly be expected to reside in the country."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Well, I own a house in Belgrave Square, but it is let by the year to Lady Bloxham. Of course, I can get it back whenever I like, at six months’ notice."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bloxham? I don’t know her."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Oh, she goes about very little. She is a lady considerably advanced in years."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Ah, nowadays that is no guarantee of respectability of character. What number in Belgrave Square?"
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "149."
+  }
+ ],
+ "characters": [
+  "Lady Bracknell",
+  "Jack",
+  "Gwendolen"
+ ],
+ "seconds": 140.2
+}

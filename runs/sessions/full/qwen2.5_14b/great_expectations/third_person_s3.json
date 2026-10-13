@@ -1,0 +1,206 @@
+{
+ "turns": [
+  {
+   "turn": 1,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip told Miss Havisham that he would go and call Estella right away, bowing slightly and stepping towards the door with a nervous glance back at Miss Havisham.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 2,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham watched Pip leave, her eyes narrowing as she observed his every movement with a mixture of curiosity and disdain. She then turned back to the room, her gaze settling on the stopped clocks and other remnants of her past.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 3,
+   "speaker": "Pip",
+   "speak_to": [
+    "Estella"
+   ],
+   "text": "Pip told Estella, who was standing just beyond the door, that Miss Havisham wanted to see her.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 4,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Estella"
+   ],
+   "text": "Miss Havisham waited until Estella entered the room, her presence a stark contrast to Pip’s nervous energy. She then fixed Estella with a piercing gaze, asking her to take a seat.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  }
+ ],
+ "termination": "silence",
+ "attempts": 10,
+ "call_stats": {
+  "calls": 10,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "meta": {
+  "text_id": "great_expectations",
+  "model": "qwen2.5:14b",
+  "mode": "third_person",
+  "seed": 3,
+  "condition": "full",
+  "max_turns": 20,
+  "temperature": 0.7,
+  "memory_k": 5,
+  "policy": "addressee",
+  "enforce": true
+ },
+ "opening": [
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham asked Pip who it was."
+  },
+  {
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip told Miss Havisham that he was Pip, ma’am."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham asked Pip if he was Pip?"
+  },
+  {
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip informed Miss Havisham that he was Mr. Pumblechook’s boy, ma’am. Come—to play."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham told Pip to come nearer; let her look at him. Come close."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham asked Pip if he was not afraid of a woman who had never seen the sun since he was born?"
+  },
+  {
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip replied that he was not."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham asked Pip if he knew what she touched here?"
+  },
+  {
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip told Miss Havisham that he did, ma’am."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham asked Pip what she touched?"
+  },
+  {
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip told Miss Havisham that she touched her heart."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham exclaimed that it was broken!"
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham told Pip that she was tired. She wanted diversion, and she had done with men and women. Play."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham said that she sometimes had sick fancies, and she had a sick fancy that she wanted to see some play. There, there! with an impatient movement of the fingers of her right hand; play, play, play!"
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham asked Pip if he was sullen and obstinate?"
+  },
+  {
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip told Miss Havisham that he was not, ma’am, he was very sorry for her, and very sorry he could not play just now. If she complained of him he would get into trouble with his sister, so he would do it if he could; but it was so new here, and so strange, and so fine,—and melancholy—."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham remarked that it was so new to him, so old to her; so strange to him, so familiar to her; so melancholy to both of them! She asked Pip to call Estella."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham told Pip to call Estella. At the door."
+  }
+ ],
+ "characters": [
+  "Miss Havisham",
+  "Pip"
+ ],
+ "seconds": 45.9
+}

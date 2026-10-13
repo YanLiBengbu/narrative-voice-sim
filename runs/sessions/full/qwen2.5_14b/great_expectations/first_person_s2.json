@@ -1,0 +1,398 @@
+{
+ "turns": [
+  {
+   "turn": 1,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Yes, ma'am.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 2,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Estella"
+   ],
+   "text": "Come in, Estella. Show this boy the grounds.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 3,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Yes, Miss Havisham. I will go with Estella, if that is what you wish.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 4,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Very well, go with her. And remember, this place holds secrets better left undisturbed.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 5,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Yes, Miss Havisham. I will be careful and not disturb anything.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 6,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Be sure to keep your eyes to the ground, Pip. There are things here that are better left unseen and unheard.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 7,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Yes, Miss Havisham. I will keep my eyes to the ground and be very careful.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 8,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Follow Estella, but remember, this place is a world of its own, with its own rules. Observe, but do not question.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 9,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Yes, Miss Havisham. I will follow Estella and observe carefully.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 10,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Remember, Pip, time stands still in this place. Observe and learn, but do not be surprised by what you see.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 11,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "I understand, Miss Havisham. I will be very careful and watchful.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 12,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "And remember, Pip, in this place, the past is never truly past. It haunts us all.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 13,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "I will remember that, Miss Havisham. I will try not to be startled by anything.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 14,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Estella will show you around, Pip. Observe her closely, for she is a product of this twisted world.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 15,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Yes, Miss Havisham. I will pay close attention to Estella and do as you say.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 16,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Pay attention to her mannerisms, her coldness. She is a mirror of my own heart, now.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 17,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Yes, Miss Havisham. I will observe Estella carefully and learn from her.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 18,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Remember, Pip, the world may be kind to you, but I have learned that it is not kind to everyone. Observe and learn, but do not become like them.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 19,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "I understand, Miss Havisham. I will remember your words and be careful not to become like the world.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 20,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Observe the world, Pip, but do not be of it. Keep your heart locked away, as I have done, or it will be broken again and again.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  }
+ ],
+ "termination": "max_turns",
+ "attempts": 20,
+ "call_stats": {
+  "calls": 20,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "meta": {
+  "text_id": "great_expectations",
+  "model": "qwen2.5:14b",
+  "mode": "first_person",
+  "seed": 2,
+  "condition": "full",
+  "max_turns": 20,
+  "temperature": 0.7,
+  "memory_k": 5,
+  "policy": "addressee",
+  "enforce": true
+ },
+ "opening": [
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Who is it?"
+  },
+  {
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip, ma’am."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Pip?"
+  },
+  {
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Mr. Pumblechook’s boy, ma’am. Come—to play."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Come nearer; let me look at you. Come close."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Look at me. You are not afraid of a woman who has never seen the sun since you were born?"
+  },
+  {
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "No."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Do you know what I touch here?"
+  },
+  {
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Yes, ma’am."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "What do I touch?"
+  },
+  {
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Your heart."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Broken!"
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "I am tired. I want diversion, and I have done with men and women. Play."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "I sometimes have sick fancies, and I have a sick fancy that I want to see some play. There, there! with an impatient movement of the fingers of her right hand; play, play, play!"
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Are you sullen and obstinate?"
+  },
+  {
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "No, ma’am, I am very sorry for you, and very sorry I can’t play just now. If you complain of me I shall get into trouble with my sister, so I would do it if I could; but it’s so new here, and so strange, and so fine,—and melancholy—."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "So new to him, so old to me; so strange to him, so familiar to me; so melancholy to both of us! Call Estella."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Call Estella. At the door."
+  }
+ ],
+ "characters": [
+  "Miss Havisham",
+  "Pip"
+ ],
+ "seconds": 98.4
+}

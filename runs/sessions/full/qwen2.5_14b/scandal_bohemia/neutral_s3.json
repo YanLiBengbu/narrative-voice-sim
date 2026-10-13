@@ -1,0 +1,387 @@
+{
+ "turns": [
+  {
+   "turn": 1,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "Your Majesty, the situation you present is indeed complex and sensitive. I shall require all the details to proceed.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 2,
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "The matter pertains to a private document of great personal and political significance. It was entrusted to a lady of high society, who now refuses to return it. This document could be detrimental to my reign and the stability of Bohemia.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 3,
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "Indeed, Your Majesty. Dr. Holmes has a keen eye for detail, and he will need to understand the full scope of the situation to assist you effectively.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 4,
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "I implore you, Mr. Holmes, to take this case. The document in question is not merely a piece of paper, but a symbol of power and a potential catalyst for political upheaval. The lady in question is a close associate of the Queen of France, which complicates matters further.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 5,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "Very well, Your Majesty. I shall undertake this case. However, I require your complete trust and cooperation. Can we proceed to your residence to examine the evidence?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 6,
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "Your wisdom and discretion are appreciated, Mr. Holmes. I shall lead you to my residence immediately, where we can discuss the specifics and review the evidence in private.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 7,
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "Sherlock Holmes",
+    "the King of Bohemia"
+   ],
+   "text": "Of course, Holmes. Let us follow Your Majesty to his residence at once.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 8,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia",
+    "Dr. Watson"
+   ],
+   "text": "Very good, Your Majesty. Let us waste no time then. Dr. Watson, are you ready?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 9,
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Dr. Watson",
+    "Sherlock Holmes"
+   ],
+   "text": "Indeed, let us proceed with haste. Dr. Watson, Mr. Holmes, I shall take the lead. Follow me.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 10,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia",
+    "Dr. Watson"
+   ],
+   "text": "Very well, let us move swiftly. I trust the evidence will provide us with the necessary clues.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 11,
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "Sherlock Holmes",
+    "the King of Bohemia"
+   ],
+   "text": "Of course, Holmes. Your Majesty, are there any precautions we should take during our journey to your residence?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 12,
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Dr. Watson",
+    "Sherlock Holmes"
+   ],
+   "text": "Indeed, Dr. Watson, there are certain precautions. We must remain vigilant and discreet. The matter at hand is of utmost sensitivity and could have grave consequences if mishandled.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 13,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia",
+    "Dr. Watson"
+   ],
+   "text": "Understood, Your Majesty. Let us proceed with caution. However, rest assured that I will not overlook any detail that could be pertinent to the case.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 14,
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "Sherlock Holmes",
+    "the King of Bohemia"
+   ],
+   "text": "Understood, Holmes. Your Majesty, I will ensure that Mr. Holmes is able to work without interruption during our journey.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 15,
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Dr. Watson",
+    "Sherlock Holmes"
+   ],
+   "text": "I appreciate your vigilance, Dr. Watson. And Mr. Holmes, I place my utmost trust in your capabilities. Let us hope that our journey will not be unnecessarily prolonged.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 16,
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "the King of Bohemia",
+    "Sherlock Holmes"
+   ],
+   "text": "Indeed, Your Majesty, I will do everything in my power to support Mr. Holmes and ensure the safety and confidentiality of our mission.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 17,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "Dr. Watson",
+    "the King of Bohemia"
+   ],
+   "text": "Dr. Watson, prepare to depart at once. We have no time to lose. Your Majesty, I will uncover the truth, but I require a complete and thorough account of all pertinent facts from the outset.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 18,
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "Indeed, Mr. Holmes. I will provide you with all the necessary information, though I must insist on the utmost discretion. The stakes are too high for any leaks.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 19,
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "Sherlock Holmes",
+    "the King of Bohemia"
+   ],
+   "text": "Of course, Holmes. Your Majesty, rest assured that Mr. Holmes and I will handle this matter with the utmost care and secrecy. We will leave as soon as possible.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 20,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "Dr. Watson",
+    "the King of Bohemia"
+   ],
+   "text": "Very well, let us proceed without delay. Watson, gather your equipment and be ready to depart. Your Majesty, I will require your full cooperation throughout this investigation.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  }
+ ],
+ "termination": "max_turns",
+ "attempts": 20,
+ "call_stats": {
+  "calls": 20,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "meta": {
+  "text_id": "scandal_bohemia",
+  "model": "qwen2.5:14b",
+  "mode": "neutral",
+  "seed": 3,
+  "condition": "full",
+  "max_turns": 20,
+  "temperature": 0.7,
+  "memory_k": 5,
+  "policy": "addressee",
+  "enforce": true
+ },
+ "opening": [
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes"
+   ],
+   "text": "You had my note? I told you that I would call."
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "Pray take a seat. This is my friend and colleague, Dr. Watson, who is occasionally good enough to help me in my cases. Whom have I the honour to address?"
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "You may address me as the Count Von Kramm, a Bohemian nobleman. I understand that this gentleman, your friend, is a man of honour and discretion, whom I may trust with a matter of the most extreme importance. If not, I should much prefer to communicate with you alone."
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "It is both, or none."
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "Then I must begin. I must bind you both to absolute secrecy for two years; at the end of that time the matter will be of no importance. At present it is not too much to say that it is of such weight it may have an influence upon European history."
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "I promise."
+  },
+  {
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "And I."
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "You will excuse this mask. The august person who employs me wishes his agent to be unknown to you, and I may confess at once that the title by which I have just called myself is not exactly my own."
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "I was aware of it."
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "The circumstances are of great delicacy, and every precaution has to be taken to quench what might grow to be an immense scandal and seriously compromise one of the reigning families of Europe. To speak plainly, the matter implicates the great House of Ormstein, hereditary kings of Bohemia."
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "I was also aware of that."
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "If your Majesty would condescend to state your case, I should be better able to advise you."
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "You are right. I am the King. Why should I attempt to conceal it?"
+  }
+ ],
+ "characters": [
+  "Sherlock Holmes",
+  "Dr. Watson",
+  "the King of Bohemia"
+ ],
+ "seconds": 123.5
+}

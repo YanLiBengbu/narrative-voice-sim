@@ -1,0 +1,356 @@
+{
+ "turns": [
+  {
+   "turn": 1,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth told Mr. Darcy that she could not accept his declaration of love, citing his own past behavior and his role in spreading false information about her, which had caused her great distress and hurt her reputation.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 2,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy explained to Elizabeth that he had acted out of misguided pride and a desire to protect his family's reputation, but that his true feelings for her had only recently come to light, and that he was willing to overcome his past mistakes for the sake of their potential future together.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 3,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth told Mr. Darcy that his words, though elegant, did little to change her opinion of him, and that she saw no reason to trust him after his years of treating her with disdain and disrespect.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 4,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy insisted that his past behavior was nothing but a misguided attempt to protect Elizabeth's good name and reputation, and that his true feelings for her only became clear when he had overcome his own pride and prejudices.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 5,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth told Mr. Darcy that his excuses and justifications were transparent and unconvincing, and that she would not be swayed by empty words of apology.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 6,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy insisted that his love for Elizabeth was genuine and that he would do anything to prove his sincerity, despite her stubborn refusal to believe him.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 7,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth told Mr. Darcy that his professions of love were nothing more than a desperate attempt to salvage his pride, and that she would never accept him as long as he held onto his haughty reserve.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 8,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy told Elizabeth that she was being unreasonable and that her rejection of him was motivated by her own pride and prejudices.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 9,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth told Mr. Darcy that his condescending attitude was precisely the reason she had never considered him a suitable suitor, and that his attempts to justify his past behavior were only making things worse.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 10,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "He insisted that his love for Elizabeth was genuine, and that he was willing to overlook past misunderstandings to be with her.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 11,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth told Mr. Darcy that his declarations of love were too little, too late, and that she would not be swayed by his attempts to charm her.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 12,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy pointed out that Elizabeth's rejection was based on misconceptions and a lack of understanding of his true character, and he urged her to reconsider her decision, insisting that his love for her was genuine and unwavering.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 13,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth told Mr. Darcy that she was not interested in his apologies or explanations, as they only served to remind her of his past behavior and the hurt he had caused her.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 14,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy declared that he had expected her rejection, given her past behavior towards him, but he could not help but feel that she was being unreasonable in her refusal to accept his apologies.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 15,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth told Mr. Darcy that his apology was nothing more than a thinly veiled attempt to salvage his own pride, and that she would never accept anything less than a genuine change in his behavior.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 16,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy explained that his past behavior was a product of his own misguided pride, and that he had since come to realize the error of his ways, particularly in his treatment of Elizabeth.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 17,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth told Mr. Darcy that his words were too little, too late, and that she could never forgive him for his past treatment of her.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 18,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy insisted that his feelings for Elizabeth were genuine, and that she was being unreasonable to hold a grudge against him.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 19,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth told Mr. Darcy that his words were empty and that she would not be swayed by his declarations of love, especially when his past actions had caused her so much distress.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 20,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy told Elizabeth that she was mistaken in her judgment of him, and that his past behavior was merely a manifestation of his own noble character, which she was too blind to see.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  }
+ ],
+ "termination": "max_turns",
+ "attempts": 20,
+ "call_stats": {
+  "calls": 20,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "meta": {
+  "text_id": "pride_prejudice",
+  "model": "llama3.1:8b",
+  "mode": "third_person",
+  "seed": 1,
+  "condition": "no_memory",
+  "max_turns": 20,
+  "temperature": 0.7,
+  "memory_k": 1,
+  "policy": "addressee",
+  "enforce": true
+ },
+ "opening": [
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy told Elizabeth that he had struggled in vain, that his feelings would not be repressed, and that he ardently admired and loved her."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth replied to Mr. Darcy that it was the established mode to express a sense of obligation for the sentiments avowed, however unequally they may be returned, and that she could not feel gratitude towards him."
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy remarked to Elizabeth that she had given him no reason to expect a favourable reply, and that he had no great interest in her opinion."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth asked Mr. Darcy why he had chosen to tell her that he liked her against his will, against his reason, and even against his character, and whether this was some excuse for incivility."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth told Mr. Darcy that she had every reason to think ill of him, and that no motive could excuse the unjust and ungenerous part he had acted in separating her sister from his friend."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth asked Mr. Darcy if he could deny that he had been the principal means of dividing her sister from his friend."
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy told Elizabeth that he had no wish to deny that he had done everything in his power to separate his friend from her sister, and that he rejoiced in his success."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth told Mr. Darcy that his character had been unfolded in the recital she received from Mr. Wickham, and that she had never desired his good opinion."
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy observed to Elizabeth that she took an eager interest in Mr. Wickham's concerns."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth replied to Mr. Darcy that anyone who knew Mr. Wickham's misfortunes could not help feeling an interest in him."
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy exclaimed to Elizabeth that Mr. Wickham's misfortunes were indeed great."
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy confirmed to Elizabeth that Mr. Wickham's misfortunes had been great indeed."
+  }
+ ],
+ "characters": [
+  "Elizabeth",
+  "Mr. Darcy"
+ ],
+ "seconds": 74.6
+}

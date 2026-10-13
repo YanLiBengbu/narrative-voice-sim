@@ -1,0 +1,402 @@
+{
+ "turns": [
+  {
+   "turn": 1,
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "the King of Bohemia",
+    "Sherlock Holmes"
+   ],
+   "text": "Dr. Watson's eyes sparkled with interest as he leaned forward, his voice taking on a tone of genuine curiosity, and he said, the matter was indeed most intriguing, and he must admit that he was all the more curious now that Mr. Holmes had hinted at the involvement of the House of Ormstein.",
+   "compliant_first": false,
+   "regenerated": false,
+   "director_rewrite": true,
+   "residual_violation": false
+  },
+  {
+   "turn": 2,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "King of Bohemia",
+    "Dr. Watson"
+   ],
+   "text": "Sherlock Holmes was of the opinion that the matter was a mere trifle, a trifling affair, compared to the gravity of the scandal that might arise if the truth were to be revealed.",
+   "compliant_first": false,
+   "regenerated": false,
+   "director_rewrite": true,
+   "residual_violation": false
+  },
+  {
+   "turn": 3,
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "King of Bohemia",
+    "Sherlock Holmes"
+   ],
+   "text": "Dr. Watson's eyes narrowed as he leaned forward, his voice low and inquiring, and he asked, what were the implications of this scandal, and how might it affect the delicate balance of power in Europe, a question that hung in the air like a challenge, his tone a subtle blend of curiosity and skepticism.",
+   "compliant_first": false,
+   "regenerated": false,
+   "director_rewrite": true,
+   "residual_violation": false
+  },
+  {
+   "turn": 4,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "King of Bohemia",
+    "Dr. Watson"
+   ],
+   "text": "The game, as they say, was afoot, and the stakes were higher than either of them may have initially supposed.",
+   "compliant_first": false,
+   "regenerated": false,
+   "director_rewrite": true,
+   "residual_violation": false
+  },
+  {
+   "turn": 5,
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "King of Bohemia",
+    "Sherlock Holmes"
+   ],
+   "text": "It seemed to Dr. Watson that the King of Bohemia's predicament was a most singular and complex one, with far-reaching consequences, and he was eager to hear more about the circumstances that had led him to seek Mr. Holmes's counsel.",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 6,
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "The King of Bohemia's thoughts were a jumble of distress and foreboding, the implications of this scandal far more dire than he dared to imagine, and the weight of its consequences bore down upon his mind like a physical burden.",
+   "compliant_first": false,
+   "regenerated": false,
+   "director_rewrite": true,
+   "residual_violation": false
+  },
+  {
+   "turn": 7,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "King of Bohemia",
+    "Dr. Watson"
+   ],
+   "text": "The threads of this tangled web are beginning to emerge, and Sherlock Holmes suspected that the lady at the center of this affair was the key to unraveling the whole, though he was increasingly convinced that her name was not what it seemed.",
+   "compliant_first": false,
+   "regenerated": false,
+   "director_rewrite": true,
+   "residual_violation": false
+  },
+  {
+   "turn": 8,
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "Sherlock Holmes"
+   ],
+   "text": "Sherlock Holmes, it seemed to him, was being singularly opaque about the lady in question, and he found himself wondering if there was something Mr. Holmes wasn't telling them, something that might be crucial to understanding the full extent of this affair.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 9,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "King of Bohemia",
+    "Dr. Watson"
+   ],
+   "text": "The lady in question, Countess Irene Adler, was an enigma, a puzzle that Mr. Holmes had been attempting to solve for weeks, and he was beginning to suspect that she was more than a mere pawn in the King of Bohemia's game of cat and mouse.",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 10,
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "The gravity of this situation, he thought, was such that it could have far-reaching consequences, not only for his own kingdom but for the entire continent, and he found himself growing increasingly anxious as the minutes ticked by.",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 11,
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "Sherlock Holmes",
+    "King of Bohemia"
+   ],
+   "text": "Sherlock Holmes, it seemed to him, was being singularly opaque about the lady in question, and he found himself wondering if there was something Mr. Holmes wasn't telling them, something that might be crucial to understanding the full extent of this affair, and he couldn't help but feel a twinge of concern for the King of Bohemia's predicament.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 12,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "King of Bohemia",
+    "Dr. Watson"
+   ],
+   "text": "The facts, as he has them, suggest that Countess Adler is not merely an acquaintance of the lady in question, but rather the lady in question herself, a revelation that upends the entire scenario and raises more questions than it answers.",
+   "compliant_first": false,
+   "regenerated": false,
+   "director_rewrite": true,
+   "residual_violation": false
+  },
+  {
+   "turn": 13,
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "Sherlock Holmes",
+    "the King of Bohemia"
+   ],
+   "text": "This revelation, he thought, was a game-changer, and it seemed to him that Mr. Holmes was deliberately keeping them in the dark about the extent of Countess Adler's involvement.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 14,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "King of Bohemia",
+    "Dr. Watson"
+   ],
+   "text": "The King of Bohemia's distress is understandable, but his anxiety would be better spent on ascertaining the facts, rather than speculating on the consequences of Countess Adler's involvement.",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 15,
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "Sherlock Holmes",
+    "King of Bohemia"
+   ],
+   "text": "it seemed to him that Mr. Holmes was indeed being deliberately enigmatic about Countess Adler's true nature, and he wondered if there was any particular reason for such reticence",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 16,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "King of Bohemia",
+    "Dr. Watson"
+   ],
+   "text": "The King of Bohemia's distress is palpable, but his energies would be better directed towards uncovering the truth, rather than indulging in futile speculation.",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 17,
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "Sherlock Holmes",
+    "King of Bohemia"
+   ],
+   "text": "it was imperative to know more about Countess Adler's involvement, and the sooner they uncovered the truth, the better it would be for all parties concerned",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 18,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "King of Bohemia",
+    "Dr. Watson"
+   ],
+   "text": "Sherlock Holmes's eyes narrowed, his gaze piercing as he leaned forward, his voice low and measured, 'The King of Bohemia's tale, while intriguing, has yet to convince me of the gravity of the situation; let us proceed with caution and examine the facts, rather than rushing to conclusions.'",
+   "compliant_first": false,
+   "regenerated": false,
+   "director_rewrite": true,
+   "residual_violation": true
+  },
+  {
+   "turn": 19,
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "Sherlock Holmes"
+   ],
+   "text": "He couldn't help but wonder, Mr. Holmes, if there was any truth to the King's suspicion that Countess Adler was somehow involved in the matter at hand.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 20,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "King of Bohemia"
+   ],
+   "text": "The facts, as they stand, are too sparse to warrant such an alarming conclusion, Count von Kramm.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  }
+ ],
+ "termination": "max_turns",
+ "attempts": 20,
+ "call_stats": {
+  "calls": 42,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "meta": {
+  "text_id": "scandal_bohemia",
+  "model": "llama3.1:8b",
+  "mode": "third_person_voice",
+  "seed": 0,
+  "condition": "voice",
+  "max_turns": 20,
+  "temperature": 0.7,
+  "memory_k": 5,
+  "policy": "addressee",
+  "enforce": true
+ },
+ "opening": [
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "the King of Bohemia asked Sherlock Holmes and Dr. Watson if they had received his note"
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "the King of Bohemia told Sherlock Holmes and Dr. Watson that he had informed them that he would call"
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "Sherlock Holmes invited the King of Bohemia to take a seat and introduced Dr. Watson as his friend and colleague"
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes"
+   ],
+   "text": "the King of Bohemia told Sherlock Holmes that he might address him as the Count Von Kramm, a Bohemian nobleman"
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "the King of Bohemia explained to Sherlock Holmes that he understood that Dr. Watson was a man of honour and discretion, whom he might trust with a matter of the utmost importance"
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "Sherlock Holmes told the King of Bohemia that Dr. Watson was indeed a man of honour and discretion, and that he might say anything to him that he would say to Sherlock Holmes"
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "the King of Bohemia asked Sherlock Holmes and Dr. Watson to bind themselves to absolute secrecy for two years, as the matter was of such weight that it might have an influence upon European history"
+  },
+  {
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "Sherlock Holmes promised the King of Bohemia that he would keep the matter secret"
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "Dr. Watson also promised the King of Bohemia that he would keep the matter secret"
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "the King of Bohemia excused the mask he was wearing, explaining that the person who employed him wished to remain unknown"
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "Sherlock Holmes told the King of Bohemia that he was aware of the true identity of the person who employed him"
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "the King of Bohemia explained to Sherlock Holmes and Dr. Watson that the matter was of great delicacy, and that every precaution had to be taken to prevent a scandal that might compromise the House of Ormstein"
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "Sherlock Holmes told the King of Bohemia that he was also aware of the involvement of the House of Ormstein"
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "the King of Bohemia observed that Sherlock Holmes seemed to be a very different person from the one he had been led to expect"
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "Sherlock Holmes asked the King of Bohemia to state his case, so that he could advise him more effectively"
+  }
+ ],
+ "characters": [
+  "Sherlock Holmes",
+  "Dr. Watson",
+  "the King of Bohemia"
+ ],
+ "seconds": 182.8
+}

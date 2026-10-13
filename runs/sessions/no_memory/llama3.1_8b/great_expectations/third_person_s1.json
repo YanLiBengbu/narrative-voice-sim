@@ -1,0 +1,405 @@
+{
+ "turns": [
+  {
+   "turn": 1,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip explained to Miss Havisham that he couldn't play with Estella just then, as he was on his way to meet his sister, Mrs. Joe, in the village, and he was worried about getting into trouble if he was late.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 2,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham told Pip that he was being excessively cautious, and that a little bit of trouble was good for the character.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 3,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip explained that he was a poor boy, and his parents would be worried if he stayed out late, which was why he didn't want to play with Miss Havisham's daughter, Estella, beyond this evening.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 4,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham told Pip that his petty concerns and plebeian excuses were of no consequence, and that he would stay with Estella for as long as she pleased.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 5,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip explained that he did not wish to stay away from his family for too long, as his sister was sick and his mother was worried.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 6,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham told Pip that his excuses were of little consequence, and that he was expected to amuse her, as she had grown accustomed to Estella's company, but the young girl was not available at the moment.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 7,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip explained that he was not sure he was comfortable playing games, as he was still in school and had a lot of work to catch up on",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 8,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham told Pip that his studies were of no consequence, and that she had provided him with a rare opportunity to indulge in more refined pursuits, which he would be ungrateful to decline.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 9,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip explained that his mother had always encouraged him to continue his studies, and that he felt a sense of obligation to provide for her and his sister.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 10,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham insisted that Pip's obligations to his family were of no consequence in this instance, and that she would not be deterred from her desire for his company.",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 11,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip explained that he had responsibilities at home, especially towards his sister, and that he couldn't just leave without providing for her needs.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 12,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham told Pip that he was a foolish boy, too bound by trivial concerns to appreciate the luxury and freedom she offered, and that his excuses were transparent attempts to escape her company.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 13,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip explained that he was not trying to escape her company, but his mother was unwell and needed his care.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 14,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham told Pip that he had no mother to care for, and that his presence here was what she had requested",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 15,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip explained that he had a sister, Magwitch, who took care of him, but he was afraid to bring her here because Miss Havisham's house was so grand and he didn't think she would be comfortable",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 16,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham asked Pip if he thought his sister, Magwitch, was not capable of appreciating the finer things in life, and if he was not being overly protective of her.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 17,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip explained that his sister's situation was not about appreciating finer things, but about being safe and free from the hardships he and his sister had endured.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 18,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham's voice dripped with disdain as she turned to Pip, her eyes narrowing in suspicion.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 19,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip explained that he was afraid of getting into trouble with his sister, Mrs. Joe, if he spent too much time away from home, especially if he were to get into mischief while at Miss Havisham's estate.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 20,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham's voice dripped with disdain as she told Pip that he would never amount to anything if he let trivial matters like his sister's disapproval hold him back.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  }
+ ],
+ "termination": "max_turns",
+ "attempts": 20,
+ "call_stats": {
+  "calls": 21,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "meta": {
+  "text_id": "great_expectations",
+  "model": "llama3.1:8b",
+  "mode": "third_person",
+  "seed": 1,
+  "condition": "no_memory",
+  "max_turns": 20,
+  "temperature": 0.7,
+  "memory_k": 1,
+  "policy": "addressee",
+  "enforce": true
+ },
+ "opening": [
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham asked Pip who it was."
+  },
+  {
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip replied that he was Mr. Pumblechook's boy."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham asked Pip if he was Mr. Pumblechook's boy."
+  },
+  {
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip told Miss Havisham that he was Mr. Pumblechook's boy and had come to play."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham told Pip to come nearer and let her look at him."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham asked Pip if he was afraid of a woman who had never seen the sun since he was born."
+  },
+  {
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip replied that he was not afraid."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham asked Pip if he knew what she touched when she touched her heart."
+  },
+  {
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip replied that he knew it was her heart."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham exclaimed that her heart was broken."
+  },
+  {
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Miss Havisham told Pip that she was tired and wanted diversion."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham said that she sometimes had sick fancies and had a sick fancy that she wanted to see some play."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham repeatedly told Pip to play."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham asked Pip if he was sullen and obstinate."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Pip replied that he was not sullen and obstinate, but was very sorry for Miss Havisham and could not play just now."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham ordered Pip to call Estella."
+  },
+  {
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Miss Havisham told Pip to call Estella, who was at the door."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham asked Pip to call Estella."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham told Pip to call Estella, who was at the door."
+  }
+ ],
+ "characters": [
+  "Miss Havisham",
+  "Pip"
+ ],
+ "seconds": 81.1
+}

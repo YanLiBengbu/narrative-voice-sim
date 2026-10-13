@@ -1,0 +1,256 @@
+{
+ "turns": [
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "You have no right to expect my interest in your opinion, after the way you have treated me."
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "I have not treated you unfairly, Miss Bennet, I have merely tried to protect you from the attentions of a man who does not deserve your regard."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Protect me? You have done nothing but humiliate me and make me feel like a fool."
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "I have done what I believed to be best for you, and for your family."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "And what of your behavior towards Wickham? You have never shown any concern for his well-being, only for your own pride."
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "I have acted with the utmost propriety in my dealings with Wickham, and I will not be lectured by someone who knows so little of the world."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "I know enough to see through your hypocrisy, sir."
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "I assure you, Miss Bennet, that I am not acting hypocritically, but rather with a sense of duty and responsibility."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Your sense of duty and responsibility is precisely what I find so objectionable."
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "You are, as ever, quick to judge me without giving me the benefit of the doubt."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "I have given you every opportunity to show me that you are worthy of my trust, and you have failed miserably."
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "I fear you are as obstinate as ever, Miss Bennet, and as resistant to reason."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "I am obstinate, sir, because I will not be swayed by empty flattery and false promises."
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "You wound me, Miss Bennet, with your cruel words."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "I do not wound you, sir, I merely tell the truth as I see it."
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "I suppose we shall never agree, Miss Bennet."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "I hope we never do, sir."
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "I must confess, I find your spirit quite... intriguing."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Intriguing? I think you mean insufferable."
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Perhaps, Miss Bennet. Perhaps."
+  }
+ ],
+ "termination": "single_call",
+ "attempts": 1,
+ "call_stats": {
+  "calls": 1,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "meta": {
+  "text_id": "pride_prejudice",
+  "model": "llama3.1:8b",
+  "mode": "third_person",
+  "seed": 2,
+  "condition": "single_prompt",
+  "max_turns": 20,
+  "temperature": 0.7,
+  "memory_k": null,
+  "policy": null,
+  "enforce": false
+ },
+ "opening": [
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy told Elizabeth that he had struggled in vain, that his feelings would not be repressed, and that he ardently admired and loved her."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth replied to Mr. Darcy that it was the established mode to express a sense of obligation for the sentiments avowed, however unequally they may be returned, and that she could not feel gratitude towards him."
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy remarked to Elizabeth that she had given him no reason to expect a favourable reply, and that he had no great interest in her opinion."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth asked Mr. Darcy why he had chosen to tell her that he liked her against his will, against his reason, and even against his character, and whether this was some excuse for incivility."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth told Mr. Darcy that she had every reason to think ill of him, and that no motive could excuse the unjust and ungenerous part he had acted in separating her sister from his friend."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth asked Mr. Darcy if he could deny that he had been the principal means of dividing her sister from his friend."
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy told Elizabeth that he had no wish to deny that he had done everything in his power to separate his friend from her sister, and that he rejoiced in his success."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth told Mr. Darcy that his character had been unfolded in the recital she received from Mr. Wickham, and that she had never desired his good opinion."
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy observed to Elizabeth that she took an eager interest in Mr. Wickham's concerns."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth replied to Mr. Darcy that anyone who knew Mr. Wickham's misfortunes could not help feeling an interest in him."
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy exclaimed to Elizabeth that Mr. Wickham's misfortunes were indeed great."
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy confirmed to Elizabeth that Mr. Wickham's misfortunes had been great indeed."
+  }
+ ],
+ "characters": [
+  "Elizabeth",
+  "Mr. Darcy"
+ ],
+ "seconds": 48.2
+}

@@ -1,0 +1,356 @@
+{
+ "turns": [
+  {
+   "turn": 1,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "You call those misfortunes great, sir? I call them what they are: a series of selfish and dishonorable actions.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 2,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "You wound me, Elizabeth, with your cruel words.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 3,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "You may have the power to wound with your words, sir, but I have the truth on my side, and that is a far more painful blow.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 4,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "You mistake the nature of our conversation, Elizabeth. It is not about past grievances, but about the future we might share.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 5,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "I am not interested in sharing a future with you, sir. Your past behavior has made it clear that you do not possess the character to treat me with the respect and kindness I deserve.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 6,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "I must confess, Elizabeth, that your refusal cuts me to the quick. I had hoped that your feelings towards me would be different, but I suppose I must accept that my own behavior has created an insurmountable obstacle to our union.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 7,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "I see no reason to be sorrowful, sir. Your behavior has not changed, and I will not pretend that it has.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 8,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "I must insist, Elizabeth, that you are not doing me justice. You are holding my past behavior against me, but you are not considering the circumstances that led to those actions.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 9,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "I am not interested in hearing your excuses, Mr. Darcy. You may have convinced yourself that your behavior was justified, but it does not excuse the hurt and humiliation you caused me.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 10,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "I must confess, I find it quite astonishing that you would so readily dismiss my professions of love, despite the many indications that have led me to believe you harbor some affection for me. Your reserve and haughty demeanor are hardly conducive to a romantic relationship, and I fear that we are not suited to one another.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 11,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Your 'indications' of affection are nothing but your own vanity, sir. I have never given you any reason to believe that I harbor any feelings for you beyond disdain.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 12,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "I must insist that you are not being entirely truthful, Elizabeth. Your words betray a certain... distress at my declaration, which I find it difficult to attribute solely to disdain.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 13,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "I am not distressed, Mr. Darcy, I am merely insulted. Your assumption that I would harbor any affection for you is laughable, and I will not stand here and listen to your condescending remarks.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 14,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "I daresay, Elizabeth, you are not being entirely candid with me. Your behavior towards me suggests a certain... tumult in your feelings, which I am at a loss to explain.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 15,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "I will not indulge in a discussion with you about my feelings, Mr. Darcy, for I am certain that you would twist my words to suit your own purposes.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 16,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "I suppose, Elizabeth, that I am not accustomed to being rebuffed in such a manner. Your words are a stark reminder of the affronts I have suffered at your hands in the past.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 17,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "I have no doubt that I have affronted you, Mr. Darcy, but it is you who has consistently demonstrated a lack of respect for my feelings and opinions. Your pride and arrogance have led you to ignore my boundaries, and I will not be swayed by your words, no matter how elegantly phrased they may be.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 18,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "I must confess, Elizabeth, that I find your continued rejection of my affections to be quite perplexing, given the esteem in which I hold you.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 19,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "I daresay, Mr. Darcy, it is you who should be perplexed, for you seem to have forgotten the manner in which you treated me at Netherfield and at the assembly, not to mention your egregious interference in my affairs.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 20,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "I must insist that you retract your accusations, Elizabeth. Your words are a gross injustice and a clear indication of your lack of understanding of my character.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  }
+ ],
+ "termination": "max_turns",
+ "attempts": 20,
+ "call_stats": {
+  "calls": 20,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "meta": {
+  "text_id": "pride_prejudice",
+  "model": "llama3.1:8b",
+  "mode": "first_person",
+  "seed": 2,
+  "condition": "round_robin",
+  "max_turns": 20,
+  "temperature": 0.7,
+  "memory_k": 5,
+  "policy": "round_robin",
+  "enforce": true
+ },
+ "opening": [
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "In vain have I struggled. It will not do. My feelings will not be repressed. You must allow me to tell you how ardently I admire and love you."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "In such cases as this, it is, I believe, the established mode to express a sense of obligation for the sentiments avowed, however unequally they may be returned. It is natural that obligation should be felt, and if I could feel gratitude, I would now thank you. But I cannot--I have never desired your good opinion, and you have certainly bestowed it most unwillingly. I am sorry to have occasioned pain to anyone. It has been most unconsciously done, however, and I hope will be of short duration. The feelings which you tell me have long prevented the acknowledgment of your regard can have little difficulty in overcoming it after this explanation."
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "And this is all the reply which I am to have the honour of expecting! I might, perhaps, wish to be informed why, with so little endeavour at civility, I am thus rejected. But it is of small importance."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "I might as well inquire, why, with so evident a design of offending and insulting me, you chose to tell me that you liked me against your will, against your reason, and even against your character? Was not this some excuse for incivility, if I was uncivil? But I have other provocations. You know I have. Had not my own feelings decided against you, had they been indifferent, or had they even been favourable, do you think that any consideration would tempt me to accept the man who has been the means of ruining, perhaps for ever, the happiness of a most beloved sister?"
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "I have every reason in the world to think ill of you. No motive can excuse the unjust and ungenerous part you acted there. You dare not, you cannot deny that you have been the principal, if not the only means of dividing them from each other, of exposing one to the censure of the world for caprice and instability, the other to its derision for disappointed hopes, and involving them both in misery of the acutest kind."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Can you deny that you have done it?"
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "I have no wish of denying that I did everything in my power to separate my friend from your sister, or that I rejoice in my success. Towards him I have been kinder than towards myself."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "But it is not merely this affair, on which my dislike is founded. Long before it had taken place, my opinion of you was decided. Your character was unfolded in the recital which I received many months ago from Mr. Wickham. On this subject, what can you have to say? In what imaginary act of friendship can you here defend yourself? or under what misrepresentation can you here impose upon others?"
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "You take an eager interest in that gentleman’s concerns."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Who that knows what his misfortunes have been can help feeling an interest in him?"
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "His misfortunes!"
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "yes, his misfortunes have been great indeed."
+  }
+ ],
+ "characters": [
+  "Elizabeth",
+  "Mr. Darcy"
+ ],
+ "seconds": 0.0
+}

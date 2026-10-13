@@ -1,0 +1,356 @@
+{
+ "turns": [
+  {
+   "turn": 1,
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "What use is beauty to us? A man's sons are his legacy, not his looks.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 2,
+   "speaker": "O-lan",
+   "speak_to": [
+    "the eldest son",
+    "Wang Lung"
+   ],
+   "text": "I am old now, but I will see my son married and settled before I go. He needs a good wife to take care of him and give him sons of his own.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 3,
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan",
+    "the eldest son"
+   ],
+   "text": "O-lan, my love, you are already a good mother, and I will take care of our son. You do not have to worry about him now.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 4,
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung",
+    "the eldest son"
+   ],
+   "text": "I am not yet at peace, Wang Lung. I must see our son married and settled before I go.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 5,
+   "speaker": "the eldest son",
+   "speak_to": [
+    "O-lan",
+    "Wang Lung"
+   ],
+   "text": "Mother, please do not worry about me. I will find a good wife and settle down, just as you wish.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 6,
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "What is this foolishness, O-lan? You are ill, and you worry about me? I will take care of everything, including finding a good wife for our son.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 7,
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung",
+    "the eldest son"
+   ],
+   "text": "I will not be at peace, Wang Lung, until I see our son married and settled. It is my duty, and it is what I must do before I go.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 8,
+   "speaker": "the eldest son",
+   "speak_to": [
+    "O-lan",
+    "Wang Lung"
+   ],
+   "text": "Mother, don't worry about me. I will take good care of myself and find a good wife, just like you want.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 9,
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "No, O-lan, you must not worry about me, I will take care of myself, but you must rest and let the doctor tend to you, you are not strong enough to worry about our son's future",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 10,
+   "speaker": "the maid",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "Please, honorable mother, don't you worry about me or my future, I'll take care of myself and make you proud, just rest and take your medicine like the doctor says",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 11,
+   "speaker": "O-lan",
+   "speak_to": [
+    "the eldest son",
+    "Wang Lung"
+   ],
+   "text": "My son will be married soon, and I must see to it that he is settled with a good wife, one who will take care of him and the farm",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 12,
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan",
+    "the eldest son"
+   ],
+   "text": "O-lan, do not tire yourself with this, I will see to it that our son is well taken care of and married when the time is right, you must rest now and think of nothing but your own recovery",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 13,
+   "speaker": "the eldest son",
+   "speak_to": [
+    "O-lan",
+    "Wang Lung"
+   ],
+   "text": "Mother, please don't worry about me, Father will take care of everything as he always does, I'm sure he'll find a good wife for me soon",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 14,
+   "speaker": "O-lan",
+   "speak_to": [
+    "the eldest son"
+   ],
+   "text": "It is not just a good wife you need, my son, but a wife who will take care of you and your father when I am gone. I have seen the way the maid takes care of you, and I think she would be a good choice.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 15,
+   "speaker": "the eldest son",
+   "speak_to": [
+    "O-lan",
+    "Wang Lung"
+   ],
+   "text": "Mother, do not worry about me, I will be fine. I will take care of Father and make sure he is happy, I promise.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 16,
+   "speaker": "O-lan",
+   "speak_to": [
+    "the eldest son"
+   ],
+   "text": "I know you will try, son, but I must see this done before I go. Your father needs a strong son to care for him, and I must see you married and settled.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 17,
+   "speaker": "the eldest son",
+   "speak_to": [
+    "O-lan",
+    "Wang Lung"
+   ],
+   "text": "Mother, please, don't worry about me, I will take care of Father, I promise. I will get married and settle down, just as you want.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 18,
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "O-lan, you are talking nonsense, you will not leave us! You are the one who has held us together, who has kept our family strong.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 19,
+   "speaker": "O-lan",
+   "speak_to": [
+    "the eldest son"
+   ],
+   "text": "My son, I want to see you settled before I go. I want to know that you are happy and provided for.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 20,
+   "speaker": "the eldest son",
+   "speak_to": [
+    "O-lan",
+    "Wang Lung"
+   ],
+   "text": "Mother, do not worry about me. I will be fine, and Father will always take care of me.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  }
+ ],
+ "termination": "max_turns",
+ "attempts": 20,
+ "call_stats": {
+  "calls": 20,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "meta": {
+  "text_id": "good_earth",
+  "model": "llama3.1:8b",
+  "mode": "first_person",
+  "seed": 0,
+  "condition": "no_memory",
+  "max_turns": 20,
+  "temperature": 0.7,
+  "memory_k": 1,
+  "policy": "addressee",
+  "enforce": true
+ },
+ "opening": [
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "[GE-OMITTED:1:aa]"
+  },
+  {
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "[GE-OMITTED:3:aa]"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "Die I must, [GE-OMITTED:5:aa] [GE-OMITTED:6:aa] and well she serves me, [GE-OMITTED:7:aa] [GE-OMITTED:8:aa] because I must die, [GE-OMITTED:9:aa] [GE-OMITTED:10:aa] [GE-OMITTED:11:aa]"
+  },
+  {
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "[GE-OMITTED:14:aa]"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "[GE-OMITTED:15:aa]"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "[GE-OMITTED:21:aa] [GE-OMITTED:22:aa]"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "And has everyone wine? [GE-OMITTED:35:aa]"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "[GE-OMITTED:40:aa] My son, [GE-OMITTED:41:aa] and my daughter, [GE-OMITTED:42:aa] there is she. [GE-OMITTED:43:aa]"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "Well, and if I am ugly, [GE-OMITTED:50:aa] [GE-OMITTED:51:aa]"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "[GE-OMITTED:52:aa] [GE-OMITTED:53:aa]"
+  }
+ ],
+ "characters": [
+  "O-lan",
+  "Wang Lung",
+  "the eldest son",
+  "the maid"
+ ],
+ "seconds": 73.1
+}

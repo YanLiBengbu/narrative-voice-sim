@@ -1,0 +1,456 @@
+{
+ "turns": [
+  {
+   "turn": 1,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "One hundred and forty-nine! Really, Mr. Worthing, the numbers in Belgrave Square are becoming quite commonplace. One expects a gentleman of presumed breeding to possess a more distinguished address, wouldn't you agree?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 2,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Indeed, Lady Bracknell, I quite understand. My family, you see, has not always… adhered to the strictest of societal conventions. It's a rather long and complicated story, I'm afraid.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 3,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "A long and complicated story, you say? How very tiresome! I trust it does not involve anything so vulgar as a prolonged association with the theatrical profession, or worse, a family history of poverty? One simply *cannot* tolerate such uncertainties when considering a suitable match for my daughter.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 4,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Oh, certainly not, Lady Bracknell! My family’s… circumstances are, well, they are rather peculiar, yes, but poverty is entirely out of the question. There was a… misunderstanding, a long time ago, involving a handbag and a railway station, but it’s really not as dreadful as it sounds.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 5,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "A handbag and a railway station? My dear Mr. Worthing, you appear to be attempting to amuse me, but I confess I find your explanations increasingly bewildering. One does not simply *misunderstand* a handbag; one either possesses it, or one does not. Pray, enlighten me further, and do try to be concise.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 6,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "It’s… it’s rather difficult to explain succinctly, Lady Bracknell. The handbag, you see, was left unattended, and I… well, I felt obliged to see if it belonged to anyone. It was a matter of civic duty, really!",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 7,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Civic duty, Mr. Worthing? Really! I find it exceedingly difficult to reconcile a sense of civic duty with the inexplicable appearance of a handbag at a railway station. Do tell me, does this ‘civic duty’ extend to pilfering lost property, or is it merely a convenient excuse for a lack of proper upbringing?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 8,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Oh, good heavens, Lady Bracknell, pilfering is a most dreadful accusation! I would never! It was simply… a rather unusual situation, and I acted with the best of intentions. I merely wished to ascertain the owner, you see.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 9,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Best of intentions, you say? My dear Mr. Worthing, I am beginning to suspect that your ‘best intentions’ are precisely what are causing all this considerable confusion. One's intentions, however noble, are utterly meaningless without a foundation of good breeding and a demonstrable understanding of social decorum.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 10,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "I assure you, Lady Bracknell, I am perfectly aware of the importance of good breeding and social decorum! It’s just… these matters are rather complicated, and I'm attempting to convey the circumstances as accurately as possible. Perhaps if you’d allow me a moment to gather my thoughts…",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 11,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "A moment to gather one's thoughts? My dear Mr. Worthing, a moment is precisely what I have not! It seems to me that the more you attempt to 'gather' your thoughts, the more entangled they become. Pray, do not insult my intelligence with further obfuscation; I require clarity, not a meandering narrative!",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 12,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Lady Bracknell, I truly do apologize if I’m not articulating myself with the precision you require. It’s simply that the entire affair—the handbag, the child—it all happened rather suddenly, and I’m striving to present it in a… a digestible manner.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 13,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "A 'digestible manner,' you say? Mr. Worthing, I find your attempts at explanation increasingly tiresome. It appears that the only thing truly indigestible is your rather… unconventional history. Let us move on, shall we?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 14,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Lady Bracknell, with the utmost respect, I assure you I only wish to be forthright. It’s not that I *intend* to be unconventional, but certain… unforeseen circumstances have arisen which, I believe, require some explanation. Perhaps if I could simply address the matter of the handbag directly?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 15,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "The handbag, Mr. Worthing? Really! Do you imagine that a handbag, however elaborately adorned, can possibly excuse a deficiency in one's parentage? I am beginning to suspect that your 'forthrightness' is merely a euphemism for a lamentable lack of discretion.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 16,
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Mother, really! Must you persist in this… *inquisition*? Mr. Worthing is perfectly acceptable, and I am quite certain that a handbag, however ‘elaborately adorned,’ is a far more interesting topic than one’s dreary parentage.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 17,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack",
+    "Gwendolen"
+   ],
+   "text": "My dear Gwendolen, your enthusiasm is, as always, admirable, but misplaced. One cannot simply dismiss the delicate matter of lineage with a flippant remark, however charming. Mr. Worthing, I insist you elaborate on this… handbag. It appears to be the linchpin of this entire, rather perplexing, narrative.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 18,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Forgive me, Lady Bracknell, but I truly do believe the handbag's significance lies not in its adornment, but in its… unexpected discovery. It was found, you see, in the cloakroom at Victoria Station, along with a note addressed to someone I've been trying to identify ever since. I assure you, my intentions are entirely honourable, and I simply wish to understand the circumstances surrounding it.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 19,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Unexpected discovery, you say? Mr. Worthing, I find your attempts at explanation increasingly… diverting. But diverting does not equate to satisfactory; I require concrete details, not whimsical anecdotes about misplaced luggage and anonymous notes. Pray, do proceed, but be mindful that I am not easily impressed by tales of happenstance.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 20,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "I… I do apologize, Lady Bracknell. The note, it simply stated ‘Please reply as soon as possible to Mr. Bertram, 14 Curzon Street.’ I haven't yet… I haven't yet had the opportunity to investigate further, I confess.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  }
+ ],
+ "termination": "max_turns",
+ "attempts": 20,
+ "call_stats": {
+  "calls": 20,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "meta": {
+  "text_id": "earnest",
+  "model": "gemma3:12b",
+  "mode": "first_person",
+  "seed": 3,
+  "condition": "full",
+  "max_turns": 20,
+  "temperature": 0.7,
+  "memory_k": 5,
+  "policy": "addressee",
+  "enforce": true
+ },
+ "opening": [
+  {
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "I am engaged to Mr. Worthing, mamma."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Gwendolen"
+   ],
+   "text": "Pardon me, you are not engaged to any one. When you do become engaged to some one, I, or your father, should his health permit him, will inform you of the fact. An engagement should come on a young girl as a surprise, pleasant or unpleasant, as the case may be. It is hardly a matter that she could be allowed to arrange for herself . . . And now I have a few questions to put to you, Mr. Worthing. While I am making these inquiries, you, Gwendolen, will wait for me below in the carriage."
+  },
+  {
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Mamma!"
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Gwendolen"
+   ],
+   "text": "In the carriage, Gwendolen!"
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Gwendolen"
+   ],
+   "text": "Gwendolen, the carriage!"
+  },
+  {
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Yes, mamma."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "You can take a seat, Mr. Worthing."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Thank you, Lady Bracknell, I prefer standing."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "I feel bound to tell you that you are not down on my list of eligible young men, although I have the same list as the dear Duchess of Bolton has. We work together, in fact. However, I am quite ready to enter your name, should your answers be what a really affectionate mother requires. Do you smoke?"
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Well, yes, I must admit I smoke."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "I am glad to hear it. A man should always have an occupation of some kind. There are far too many idle men in London as it is. How old are you?"
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Twenty-nine."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "A very good age to be married at. I have always been of opinion that a man who desires to get married should know either everything or nothing. Which do you know?"
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "I know nothing, Lady Bracknell."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "I am pleased to hear it. I do not approve of anything that tampers with natural ignorance. Ignorance is like a delicate exotic fruit; touch it and the bloom is gone. The whole theory of modern education is radically unsound. Fortunately in England, at any rate, education produces no effect whatsoever. If it did, it would prove a serious danger to the upper classes, and probably lead to acts of violence in Grosvenor Square. What is your income?"
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Between seven and eight thousand a year."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "In land, or in investments?"
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "In investments, chiefly."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "What between the duties expected of one during one’s lifetime, and the duties exacted from one after one’s death, land has ceased to be either a profit or a pleasure. It gives one position, and prevents one from keeping it up. That’s all that can be said about land."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "I have a country house with some land, of course, attached to it, about fifteen hundred acres, I believe; but I don’t depend on that for my real income. In fact, as far as I can make out, the poachers are the only people who make anything out of it."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "A country house! How many bedrooms? Well, that point can be cleared up afterwards. You have a town house, I hope? A girl with a simple, unspoiled nature, like Gwendolen, could hardly be expected to reside in the country."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Well, I own a house in Belgrave Square, but it is let by the year to Lady Bloxham. Of course, I can get it back whenever I like, at six months’ notice."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bloxham? I don’t know her."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Oh, she goes about very little. She is a lady considerably advanced in years."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Ah, nowadays that is no guarantee of respectability of character. What number in Belgrave Square?"
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "149."
+  }
+ ],
+ "characters": [
+  "Lady Bracknell",
+  "Jack",
+  "Gwendolen"
+ ],
+ "seconds": 193.0
+}

@@ -1,0 +1,244 @@
+{
+ "turns": [
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "[GE-OMITTED:21:aa] [GE-OMITTED:22:aa]"
+  },
+  {
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "O-lan, do not talk like this, you are not finished with anything yet, and you will get well."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "I will not get well, and I must see my son married and settled before I go, so that he will not be a burden to you."
+  },
+  {
+   "speaker": "the eldest son",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "Mother, do not worry about me, I will take care of Father and myself, and I will marry a good woman when the time is right."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "the eldest son"
+   ],
+   "text": "I want to see you married, and I want to see the woman you choose to be a good mother to my grandchildren."
+  },
+  {
+   "speaker": "the maid",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "Excuse me, Mother, but I have been thinking, and I would like to help with the arrangements for the son's wedding."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "the maid"
+   ],
+   "text": "You are a good girl, and I appreciate your offer, but this is a matter for the family to decide."
+  },
+  {
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "I will take care of the wedding arrangements, O-lan, you just rest and get well."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "I will not get well, and I must see this through, so that my son will be taken care of."
+  },
+  {
+   "speaker": "the eldest son",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "Mother, do not worry, I will take care of myself, and I will make sure that Father takes care of you."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "the eldest son"
+   ],
+   "text": "I want to see you happy, and I want to see you with a good woman by your side."
+  },
+  {
+   "speaker": "the maid",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "May I suggest a match with the daughter of the neighboring farmer, she is a good girl and would make a suitable wife for the son."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "the maid"
+   ],
+   "text": "That is a good idea, but I want to see the woman for myself, before I give my approval."
+  },
+  {
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "O-lan, you are tired, and you need to rest, I will take care of everything."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "I am not tired, and I must see this through, so that my son will be taken care of."
+  },
+  {
+   "speaker": "the eldest son",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "Mother, do not worry, I will take care of everything, and I will make sure that Father takes care of you."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "the eldest son"
+   ],
+   "text": "I want to see you happy, and I want to see you with a good woman by your side."
+  },
+  {
+   "speaker": "the maid",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "I will make sure that the preparations for the wedding are made, and that everything is ready for the son's new life."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "the maid"
+   ],
+   "text": "Thank you, girl, you are a good help to me, and I am content that everything will be taken care of."
+  },
+  {
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "O-lan, you are a good wife and mother, and I will take care of everything, do not worry."
+  }
+ ],
+ "termination": "single_call",
+ "attempts": 1,
+ "call_stats": {
+  "calls": 1,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "meta": {
+  "text_id": "good_earth",
+  "model": "llama3.1:8b",
+  "mode": "first_person",
+  "seed": 0,
+  "condition": "single_prompt",
+  "max_turns": 20,
+  "temperature": 0.7,
+  "memory_k": null,
+  "policy": null,
+  "enforce": false
+ },
+ "opening": [
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "[GE-OMITTED:1:aa]"
+  },
+  {
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "[GE-OMITTED:3:aa]"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "Die I must, [GE-OMITTED:5:aa] [GE-OMITTED:6:aa] and well she serves me, [GE-OMITTED:7:aa] [GE-OMITTED:8:aa] because I must die, [GE-OMITTED:9:aa] [GE-OMITTED:10:aa] [GE-OMITTED:11:aa]"
+  },
+  {
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "[GE-OMITTED:14:aa]"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "[GE-OMITTED:15:aa]"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "[GE-OMITTED:21:aa] [GE-OMITTED:22:aa]"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "And has everyone wine? [GE-OMITTED:35:aa]"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "[GE-OMITTED:40:aa] My son, [GE-OMITTED:41:aa] and my daughter, [GE-OMITTED:42:aa] there is she. [GE-OMITTED:43:aa]"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "Well, and if I am ugly, [GE-OMITTED:50:aa] [GE-OMITTED:51:aa]"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "[GE-OMITTED:52:aa] [GE-OMITTED:53:aa]"
+  }
+ ],
+ "characters": [
+  "O-lan",
+  "Wang Lung",
+  "the eldest son",
+  "the maid"
+ ],
+ "seconds": 13.7
+}

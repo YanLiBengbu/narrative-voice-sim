@@ -1,0 +1,371 @@
+{
+ "turns": [
+  {
+   "turn": 1,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Contemptuously, you say? Pray, enlighten me, Mr. Darcy. Are you suggesting that my compassion for a man who has suffered genuine hardship somehow reflects poorly upon my judgment? It seems a rather novel interpretation of charity, even for one as… discerning as yourself.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 2,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Miss Bennet, your… *novel interpretation* of charity is itself a testament to a regrettable inclination toward sentimentality, devoid of reason. I find it necessary to address the matter of Mr. Wickham, but I shall do so with the understanding that your predisposition against me will, I fear, prevent any degree of objectivity.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 3,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Sentimentality, Mr. Darcy? I find that accusation rather amusing, considering the lengths to which *you* have gone to manipulate situations and condemn individuals based on your own prejudiced notions. Perhaps it is not sentimentality that guides my actions, but a simple unwillingness to accept the arrogant judgments you so readily dispense.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 4,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Miss Bennet, your levity is quite unnecessary. I did not intend to disparage your compassion, merely to illustrate the flawed logic underpinning it; Mr. Wickham’s character is not deserving of such indulgence. It appears, however, that you are determined to misinterpret my every word, conveniently overlooking the truth in favour of perpetuating a false narrative.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 5,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "A false narrative, Mr. Darcy? I am beginning to suspect your pronouncements are less concerned with truth than with justifying your own actions. Do you truly believe I am so easily swayed by mere words, or are you simply attempting to deflect from the uncomfortable reality of your own failings?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 6,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Miss Bennet, your persistence in twisting my intentions is… vexing. I assure you, my observations regarding Mr. Wickham and your subsequent treatment of him stem not from a desire to manipulate, but from a profound sense of duty to protect those vulnerable to his deceitful nature.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 7,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Duty, Mr. Darcy? Is that truly what you call it, or is it merely a convenient cloak for your relentless meddling? I find it exceedingly tiresome to be lectured on morality by a gentleman who has demonstrably interfered in the lives of others, believing himself possessed of some superior understanding.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 8,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Miss Bennet, your accusations are delivered with a sharpness that, whilst perhaps intended to wound, only serve to highlight a regrettable lack of discernment. I perceive a deliberate attempt on your part to portray me as a figure of unwarranted interference, yet I maintain that my actions, however misguided they may appear through your prejudiced lens, were motivated by a sincere, if perhaps clumsily expressed, desire to uphold principles of propriety and safeguard those susceptible to harm.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 9,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Principles of propriety, you say? It is a remarkably flexible concept when it suits your purposes, is it not, Mr. Darcy? I daresay interfering in the affairs of young ladies and ruining their prospects is *precisely* the sort of action one might expect from a man who believes himself above reproach.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 10,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Miss Bennet, I find myself increasingly at a loss to comprehend the depths of your… antagonism. To suggest that I manipulate principles of propriety to suit my designs is a charge I must, with the utmost gravity, refute; it is a misrepresentation born, I suspect, of a regrettable inclination towards prejudice.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 11,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Regrettable inclination towards prejudice, you say? How convenient that you should deflect any criticism with such a facile explanation, Mr. Darcy. It requires a rather remarkable degree of self-assurance to accuse *me* of prejudice when your own actions betray a profound lack of judgment and a staggering sense of entitlement.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 12,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Entitlement? Pray, enlighten me, Mr. Darcy. Do you truly believe that simply possessing wealth and a respectable name entitles one to dictate the course of other people's lives?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 13,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Miss Bennet, your persistent insistence upon characterizing my actions as born of entitlement reveals a deliberate disregard for the complexities inherent in maintaining social order. It is not a matter of dictating lives, but of exercising a responsibility – a burden, if you will – that attends those in a position to influence the well-being of others, and to guide them towards a path of rectitude and, dare I say, happiness.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 14,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "A 'burden,' you call it? How very fortunate for you, Mr. Darcy, to be so burdened with the responsibility of guiding others. I confess, I find your justifications increasingly tiresome, and your attempts to cloak arrogance in the guise of benevolent concern to be quite transparent.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 15,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Miss Bennet, I find your assessment of my motives, I must confess, profoundly disheartening. To suggest I *cloak* arrogance—a word I find excessively vulgar—is to demonstrate a regrettable obstinacy in refusing to perceive the genuine concern which informs my actions; and to imply I seek to *dictate*—as you so readily do—is to misunderstand entirely the principles of propriety and the delicate balance required to ensure the stability of society.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 16,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Delicate balance, Mr. Darcy? It seems to me the only balance you concern yourself with is the preservation of your own self-image. You speak of propriety and stability, yet your actions, past and present, demonstrate a remarkable capacity for disrupting both.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 17,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Miss Bennet, I confess, I am at a loss. Your accusations, however cleverly veiled in irony, are…intemperate. I have endeavoured to explain my actions with clarity and reason, yet you persist in interpreting them through a lens of unwarranted suspicion and, dare I say, malice.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 18,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Malice, Mr. Darcy? I assure you, I harbor no malice, only a rather keen observation of the absurdity of your self-regard. It is not I who am intemperate, but you, attempting to justify actions which, however grandly you frame them, remain an imposition upon the lives of others.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 19,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Miss Bennet, I perceive my attempts at reasoned discourse are met with a…spirited resistance. I assure you, my intentions are not born of a desire for self-aggrandizement, but from a conviction that my observations, however unwelcome, are rooted in a genuine desire for the betterment of those around me—a sentiment, it appears, you deem absurd.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 20,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "A genuine desire for betterment? How very convenient for you, Mr. Darcy. It allows you to absolve yourself of any responsibility for the pain you have so readily inflicted, does it not?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  }
+ ],
+ "termination": "max_turns",
+ "attempts": 20,
+ "call_stats": {
+  "calls": 20,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "meta": {
+  "text_id": "pride_prejudice",
+  "model": "gemma3:12b",
+  "mode": "first_person",
+  "seed": 0,
+  "condition": "exemplars",
+  "max_turns": 20,
+  "temperature": 0.7,
+  "memory_k": 5,
+  "policy": "addressee",
+  "enforce": true,
+  "exemplars": true
+ },
+ "opening": [
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "In vain have I struggled. It will not do. My feelings will not be repressed. You must allow me to tell you how ardently I admire and love you."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "She answered him with cold civility."
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "His sense of her inferiority, of its being a degradation, of the family obstacles which judgment had always opposed to inclination, were dwelt on with a warmth which seemed due to the consequence he was wounding, but was very unlikely to recommend his suit."
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "He concluded with representing to her the strength of that attachment which in spite of all his endeavours he had found impossible to conquer; and with expressing his hope that it would now be rewarded by her acceptance of his hand."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "In such cases as this, it is, I believe, the established mode to express a sense of obligation for the sentiments avowed, however unequally they may be returned. It is natural that obligation should be felt, and if I could feel gratitude, I would now thank you. But I cannot--I have never desired your good opinion, and you have certainly bestowed it most unwillingly. I am sorry to have occasioned pain to anyone. It has been most unconsciously done, however, and I hope will be of short duration. The feelings which you tell me have long prevented the acknowledgment of your regard can have little difficulty in overcoming it after this explanation."
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "And this is all the reply which I am to have the honour of expecting! I might, perhaps, wish to be informed why, with so little endeavour at civility, I am thus rejected. But it is of small importance."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "I might as well inquire why, with so evident a design of offending and insulting me, you chose to tell me that you liked me against your will, against your reason, and even against your character? Was not this some excuse for incivility, if I was uncivil? But I have other provocations. You know I have. Had not my own feelings decided against you, had they been indifferent, or had they even been favourable, do you think that any consideration would tempt me to accept the man who has been the means of ruining, perhaps for ever, the happiness of a most beloved sister?"
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "I have every reason in the world to think ill of you. No motive can excuse the unjust and ungenerous part you acted there. You dare not, you cannot deny that you have been the principal, if not the only means of dividing them from each other, of exposing one to the censure of the world for caprice and instability, the other to its derision for disappointed hopes, and involving them both in misery of the acutest kind."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Can you deny that you have done it?"
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "I have no wish of denying that I did everything in my power to separate my friend from your sister, or that I rejoice in my success. Towards him I have been kinder than towards myself."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "But it is not merely this affair on which my dislike is founded. Long before it had taken place, my opinion of you was decided. Your character was unfolded in the recital which I received many months ago from Mr. Wickham. On this subject, what can you have to say? In what imaginary act of friendship can you here defend yourself? or under what misrepresentation can you here impose upon others?"
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "You take an eager interest in that gentleman’s concerns."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Who that knows what his misfortunes have been can help feeling an interest in him?"
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "His misfortunes! repeated Darcy, contemptuously--yes, his misfortunes have been great indeed."
+  }
+ ],
+ "characters": [
+  "Elizabeth",
+  "Mr. Darcy"
+ ],
+ "seconds": 230.3
+}

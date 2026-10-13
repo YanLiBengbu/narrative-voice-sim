@@ -1,0 +1,410 @@
+{
+ "turns": [
+  {
+   "turn": 1,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip was extremely sorry, Miss Havisham, but he couldn't play with Estella, not right now, no, not at all, because he had to return home, it was getting quite late and his sister, Magwitch, was waiting for him.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 2,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip",
+    "Estella"
+   ],
+   "text": "Miss Havisham's eyes, red-rimmed and sunken, seemed to bore into Pip's very soul as she spoke, her voice dripping with disdain. Foolish boy, what a pitiful excuse you make, and what a ridiculous notion to think that anyone cares about the hours on a clock. Estella has been waiting for you, and she will not be kept waiting.",
+   "compliant_first": false,
+   "regenerated": false,
+   "director_rewrite": true,
+   "residual_violation": true
+  },
+  {
+   "turn": 3,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip was deeply sorry, Miss Havisham, but he truly couldn't stay, not now, not when his sister, Magwitch, was waiting for him at home, and it was getting quite late, and he didn't want to worry her.",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 4,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham's eyes narrowed, her voice dripping with disdain, as she spoke of Pip's excuses, 'Foolish boy, you think you can just make up excuses and I will believe them? No, you will stay and play with Estella, and if you do not, then perhaps you will never be invited here again.'",
+   "compliant_first": false,
+   "regenerated": false,
+   "director_rewrite": true,
+   "residual_violation": true
+  },
+  {
+   "turn": 5,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "He was afraid, Miss Havisham, that he might be forgetting himself, and that his sister, Magwitch, would indeed be worried, and he wouldn't want to cause her distress.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 6,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Foolish boy, Miss Havisham thought, he will stay and play with Estella, and if he does not, then perhaps his sister will not be the only one to suffer the consequences of his disobedience.",
+   "compliant_first": false,
+   "regenerated": false,
+   "director_rewrite": true,
+   "residual_violation": false
+  },
+  {
+   "turn": 7,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "He was afraid, Miss Havisham, that if he stayed and played with Estella, it would be a great imposition on his sister, and he didn't want to be responsible for bringing her any trouble.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 8,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip",
+    "Estella"
+   ],
+   "text": "Foolish boy, to think he could dictate his own schedule, and that of his sister, when he was a guest in her house. He will stay and play with Estella, and if he does not, then perhaps he will suffer the slings and arrows of outrageous fortune.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 9,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "He didn't wish to be impertinent, Miss Havisham, but he really couldn't stay and play with Estella, not without his sister's permission, and he feared that she might not give it, and he didn't want to cause any trouble, if it could be helped.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 10,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip",
+    "Estella"
+   ],
+   "text": "Foolish boy, to think he could dictate his own schedule, and that of his sister, when he was a guest in her house. He will stay and play with Estella, and if he does not, then perhaps he will suffer the slings and arrows of outrageous fortune.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 11,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "He was afraid that Miss Havisham might think him ungrateful if he didn't stay and play with Estella, but he really couldn't do it, not without his sister's permission, and he didn't know how to ask for it, and he feared it might cause trouble.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 12,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip",
+    "Estella"
+   ],
+   "text": "Foolish boy, to think he could so readily dismiss the pleasure of Estella's company, and yet cling to the apron-strings of his sister's narrow-mindedness.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 13,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "He was afraid that Miss Havisham might think him very presumptuous if he were to ask his sister to come, and he didn't want to be a bother",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 14,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip",
+    "Estella"
+   ],
+   "text": "Foolish boy, to think he could so readily dismiss the pleasure of Estella's company, and yet cling to the apron-strings of his sister's narrow-mindedness. He will stay and play with Estella, and if he does not, then perhaps he will suffer the slings and arrows of outrageous fortune.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 15,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "He didn't know how Miss Havisham could think him so heartless, when he was only trying to do what was right, and he was afraid of being punished if he didn't stay and play with Estella, even if it meant disobeying his sister.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 16,
+   "speaker": "Miss Havisham",
+   "speak_to": [],
+   "text": "How dare he think he can so readily dismiss the pleasure of Estella's company, and yet cling to the apron-strings of his sister's narrow-mindedness!",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 17,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "He didn't want to be in any trouble with Miss Havisham, and he was worried that if he didn't stay and play with Estella, it might make her very sad.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 18,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip",
+    "Estella"
+   ],
+   "text": "How dare he think he can so readily dismiss the pleasure of Estella's company, and yet cling to the apron-strings of his sister's narrow-mindedness! He will not leave until he has made amends, and played with Estella as he should.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 19,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "He didn't know if he should stay and play with Estella, but he was afraid of being in trouble with Miss Havisham if he disobeyed her, and he thought it would be better to just go home and ask his sister to explain things to him.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 20,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip",
+    "Estella"
+   ],
+   "text": "How dare he hesitate, when Estella's happiness is at stake? He will stay and play with her, or suffer the consequences!",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  }
+ ],
+ "termination": "max_turns",
+ "attempts": 20,
+ "call_stats": {
+  "calls": 27,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "meta": {
+  "text_id": "great_expectations",
+  "model": "llama3.1:8b",
+  "mode": "third_person_voice",
+  "seed": 1,
+  "condition": "voice",
+  "max_turns": 20,
+  "temperature": 0.7,
+  "memory_k": 5,
+  "policy": "addressee",
+  "enforce": true
+ },
+ "opening": [
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham asked Pip who it was."
+  },
+  {
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip replied that he was Mr. Pumblechook's boy."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham asked Pip if he was Mr. Pumblechook's boy."
+  },
+  {
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip told Miss Havisham that he was Mr. Pumblechook's boy and had come to play."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham told Pip to come nearer and let her look at him."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham asked Pip if he was afraid of a woman who had never seen the sun since he was born."
+  },
+  {
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip replied that he was not afraid."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham asked Pip if he knew what she touched when she touched her heart."
+  },
+  {
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip replied that he knew it was her heart."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham exclaimed that her heart was broken."
+  },
+  {
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Miss Havisham told Pip that she was tired and wanted diversion."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham said that she sometimes had sick fancies and had a sick fancy that she wanted to see some play."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham repeatedly told Pip to play."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham asked Pip if he was sullen and obstinate."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Pip replied that he was not sullen and obstinate, but was very sorry for Miss Havisham and could not play just now."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham ordered Pip to call Estella."
+  },
+  {
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Miss Havisham told Pip to call Estella, who was at the door."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham asked Pip to call Estella."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham told Pip to call Estella, who was at the door."
+  }
+ ],
+ "characters": [
+  "Miss Havisham",
+  "Pip"
+ ],
+ "seconds": 117.6
+}

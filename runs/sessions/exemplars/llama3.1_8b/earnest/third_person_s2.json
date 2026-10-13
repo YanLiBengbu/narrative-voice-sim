@@ -1,0 +1,453 @@
+{
+ "turns": [
+  {
+   "turn": 1,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell's eyes narrowed as she turned to Jack, her voice dripping with disdain. She told him that his family, connections, and social standing were of the utmost importance, and that she would not be satisfied with anything less than a satisfactory explanation of his background.",
+   "compliant_first": false,
+   "regenerated": false,
+   "director_rewrite": true,
+   "residual_violation": false
+  },
+  {
+   "turn": 2,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack explained that he did not have a family, and that he was raised by his strict and elderly aunt",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 3,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell's expression turned skeptical as she asked, 'And I suppose this aunt of yours, Mr. Worthing, was a woman of great refinement and breeding?'",
+   "compliant_first": false,
+   "regenerated": false,
+   "director_rewrite": true,
+   "residual_violation": true
+  },
+  {
+   "turn": 4,
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Gwendolen insisted that her mother should not be questioning Mr. Worthing's character and background, and that she knew him well enough to trust him.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 5,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Gwendolen",
+    "Jack"
+   ],
+   "text": "Lady Bracknell asked Gwendolen to refrain from intervening in this matter, as her mother's concerns about Mr. Worthing's suitability as a husband for her daughter took precedence over any feelings of loyalty or affection.",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 6,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack explained that he had always been aware of the importance of social standing and had made an effort to educate himself, but his aunt had not encouraged him to think about his family's connections.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 7,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Gwendolen",
+    "Jack"
+   ],
+   "text": "Lady Bracknell's expression turned stern as she told Gwendolen and Mr. Worthing that she had every right to be concerned about the potential union, given the uncertainty surrounding Mr. Worthing's family connections and background.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 8,
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Lady Bracknell",
+    "Jack"
+   ],
+   "text": "Gwendolen stood up straight and insisted that she would not be ignored in this conversation, that her feelings and opinions mattered.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 9,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell told Mr. Worthing that she would not be swayed by his protestations of familiarity with her daughter, and that she would press on with her inquiries to determine his suitability as a husband.",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 10,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Mr. Worthing asked if Lady Bracknell's concerns about his family's connections were not, in fact, already being addressed through his marriage to her daughter, Gwendolen.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 11,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell told Mr. Worthing that his attempt to deflect her concerns was quite unconvincing, and that she would not be satisfied with vague assurances about his suitability as a husband for her daughter.",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 12,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack explained that he understood Lady Bracknell's concerns and was willing to provide any information she needed about his family's connections.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 13,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell asked Mr. Worthing to provide proof of his family's respectable connections, and to reveal the circumstances of his birth, as she suspected that there may be more to his story than he had initially let on.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 14,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack explained that his father was a large and impressive man, and that he had passed away when Jack was still very young, as he had been in the habit of doing for many years.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 15,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell asked Mr. Worthing to explain the circumstances of his father's death, and to provide a detailed account of his family's business dealings.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 16,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack replied that his father's death had been due to a long illness, and that his mother had managed the family business after his passing.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 17,
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Gwendolen asked to be let out of the carriage, her voice rising in annoyance at the prolonged questioning.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 18,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Gwendolen"
+   ],
+   "text": "Lady Bracknell insisted that Mr. Worthing provide a full and satisfactory explanation of his father's illness and business dealings, and warned him that she would not be satisfied with vague or evasive answers.",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 19,
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Gwendolen told her mother that she would not be kept waiting any longer, and that she expected a decision about the marriage to be made soon.",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 20,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Gwendolen"
+   ],
+   "text": "Lady Bracknell told Gwendolen that it would be unbecoming for a young lady of her standing to become impatient in the face of a few, albeit necessary, inquiries about the gentleman she proposes to marry.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  }
+ ],
+ "termination": "max_turns",
+ "attempts": 20,
+ "call_stats": {
+  "calls": 29,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "meta": {
+  "text_id": "earnest",
+  "model": "llama3.1:8b",
+  "mode": "third_person",
+  "seed": 2,
+  "condition": "exemplars",
+  "max_turns": 20,
+  "temperature": 0.7,
+  "memory_k": 5,
+  "policy": "addressee",
+  "enforce": true,
+  "exemplars": true
+ },
+ "opening": [
+  {
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Gwendolen told Lady Bracknell that she was engaged to Mr. Worthing."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Gwendolen",
+    "Jack"
+   ],
+   "text": "Lady Bracknell asked Gwendolen and Mr. Worthing to pardon her, as they were not engaged to anyone. She explained that when they did become engaged, she or Mr. Worthing's father, if his health permitted, would inform them of the fact. An engagement should come as a surprise to a young girl, and it was hardly a matter she could arrange for herself. While she was making inquiries, Gwendolen would wait for her below in the carriage."
+  },
+  {
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Gwendolen called out to Lady Bracknell."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Gwendolen"
+   ],
+   "text": "Lady Bracknell told Gwendolen to wait for her in the carriage."
+  },
+  {
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Gwendolen replied to Lady Bracknell that she would wait for her."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell told Mr. Worthing to take a seat."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack stood tall, his eyes locked on Lady Bracknell, and said that he preferred to remain standing, rather than take a seat."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell informed Mr. Worthing that he was not on her list of eligible young men, although she had the same list as the Duchess of Bolton. However, she was willing to enter his name if his answers were satisfactory. She asked him if he smoked."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Mr. Worthing admitted to Lady Bracknell that he smoked."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell was pleased to hear that Mr. Worthing smoked. She believed that a man should have an occupation. There were too many idle men in London. She asked Mr. Worthing how old he was."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Mr. Worthing told Lady Bracknell that he was twenty-nine."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell thought that twenty-nine was a good age to get married. She believed that a man who wanted to get married should know either everything or nothing. She asked Mr. Worthing which category he fell into."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Mr. Worthing replied to Lady Bracknell that he knew nothing."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell was pleased to hear that Mr. Worthing knew nothing. She believed that ignorance was a delicate and exotic fruit that should not be tampered with. She stated that education was unsound and produced no effect in England. If it did, it would be a danger to the upper classes. She asked Mr. Worthing about his income."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Mr. Worthing told Lady Bracknell that his income was between seven and eight thousand a year."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell asked Mr. Worthing if his income came from land or investments."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Mr. Worthing replied to Lady Bracknell that his income came from investments."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell thought that Mr. Worthing's income was satisfactory. She stated that land was no longer a profit or pleasure, but rather a means of gaining position and losing it. She asked Mr. Worthing about his country house."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Mr. Worthing told Lady Bracknell that he had a country house with some land, but he did not depend on it for his income. In fact, the poachers were the only ones who made anything out of it."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell asked Mr. Worthing how many bedrooms his country house had. She also asked if he had a town house, as a girl like Gwendolen could not be expected to reside in the country."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Mr. Worthing told Lady Bracknell that he owned a house in Belgrave Square, but it was let by the year to Lady Bloxham."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell asked Mr. Worthing who Lady Bloxham was."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack observed that Lady Bracknell went out very little, and that she was a lady considerably advanced in years."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell asked Mr. Worthing what number his house in Belgrave Square was."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Mr. Worthing told Lady Bracknell that his house was number 149."
+  }
+ ],
+ "characters": [
+  "Lady Bracknell",
+  "Gwendolen",
+  "Jack"
+ ],
+ "seconds": 113.3
+}

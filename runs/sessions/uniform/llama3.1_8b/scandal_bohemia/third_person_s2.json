@@ -1,0 +1,392 @@
+{
+ "turns": [
+  {
+   "turn": 1,
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "the King of Bohemia told Sherlock Holmes and Dr. Watson that his situation was becoming increasingly precarious, and that he feared the consequences of his marriage to the opera singer, Irene Adler, being exposed",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 2,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "Dr. Watson"
+   ],
+   "text": "Sherlock Holmes asked Dr. Watson to take notes on the conversation, as the details were likely to be complex and sensitive.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 3,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "King of Bohemia"
+   ],
+   "text": "Sherlock Holmes asked the King of Bohemia to elaborate on the circumstances surrounding his marriage to the opera singer, Irene Adler, and to clarify the potential consequences of its exposure.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 4,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "King of Bohemia"
+   ],
+   "text": "Sherlock Holmes asked the King of Bohemia to produce the letter written by Irene Adler, as it was likely to be the key to understanding the situation.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 5,
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "King of Bohemia"
+   ],
+   "text": "Dr. Watson asked the King of Bohemia to clarify the nature of his relationship with Irene Adler, seeking to understand the extent of his involvement with the opera singer.",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 6,
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes"
+   ],
+   "text": "the King of Bohemia asked Sherlock Holmes to consider the far-reaching implications of his marriage being exposed, and the devastating consequences it would have on European politics and diplomacy",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 7,
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "King of Bohemia",
+    "Sherlock Holmes"
+   ],
+   "text": "Dr. Watson asked the King of Bohemia to provide more details about the circumstances that led to his marriage being kept a secret from the public.",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 8,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia",
+    "Dr. Watson"
+   ],
+   "text": "Sherlock Holmes expressed his skepticism about the King of Bohemia's concerns, suggesting that his marriage was likely not as scandalous as he claimed, and that there must be more to the story.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 9,
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "King of Bohemia",
+    "Sherlock Holmes"
+   ],
+   "text": "Dr. Watson asked the King of Bohemia to explain why he had chosen to confide in Sherlock Holmes and not in the authorities or his own court officials.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 10,
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "King of Bohemia",
+    "Sherlock Holmes"
+   ],
+   "text": "Dr. Watson asked the King of Bohemia if he could provide any proof or evidence to support his claims of the marriage's potential impact on European politics.",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 11,
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes"
+   ],
+   "text": "the King of Bohemia explained that he had chosen to confide in Sherlock Holmes because of his reputation for discretion and his ability to navigate the complexities of European politics with ease",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 12,
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes"
+   ],
+   "text": "The King of Bohemia implored Sherlock Holmes to understand the gravity of the situation, explaining that a public revelation of his marriage could destabilize the balance of power in Europe and precipitate a catastrophic war.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 13,
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes"
+   ],
+   "text": "The King of Bohemia's voice trembled as he asked Sherlock Holmes if he truly believed that his marriage was of no consequence, and if he was not aware of the far-reaching implications that a public scandal could have on the delicate balance of power in Europe.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 14,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "King of Bohemia"
+   ],
+   "text": "Sherlock Holmes told the King of Bohemia that his concerns were understandable, but that he required more specific information about the marriage in question, and that he needed to know the exact circumstances surrounding the union.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 15,
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Dr. Watson"
+   ],
+   "text": "The King of Bohemia's voice cracked as he asked Dr. Watson if he knew anything about the marriage of his sister, Irene Adler, to the opera singer, and if this union could have any bearing on the situation he had described to Sherlock Holmes.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 16,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "King of Bohemia"
+   ],
+   "text": "Sherlock Holmes asked the King of Bohemia to produce the marriage certificate, stating that it was the most straightforward way to verify the details of the union.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 17,
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "Sherlock Holmes",
+    "the King of Bohemia"
+   ],
+   "text": "Dr. Watson asked the King of Bohemia to clarify the nature of the marriage and whether it was a matter of public record, his eyes fixed intently on the King's face.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 18,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "King of Bohemia"
+   ],
+   "text": "Sherlock Holmes turned to the King of Bohemia and asked, with a hint of skepticism, to explain the exact nature of his relationship with the opera singer, and what possible connection this had to the marriage certificate he had requested.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 19,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "King of Bohemia"
+   ],
+   "text": "Sherlock Holmes leaned forward in his chair, his eyes narrowing as he told the King of Bohemia that his story was becoming increasingly convoluted and that he required a clear, coherent explanation for the suspicious circumstances surrounding the marriage of his sister.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 20,
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "King of Bohemia",
+    "Sherlock Holmes"
+   ],
+   "text": "Dr. Watson asked the King of Bohemia if the marriage of his sister to the opera singer was a private arrangement, and whether there were any legal or family implications that might be relevant to the situation at hand",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  }
+ ],
+ "termination": "max_turns",
+ "attempts": 20,
+ "call_stats": {
+  "calls": 23,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "meta": {
+  "text_id": "scandal_bohemia",
+  "model": "llama3.1:8b",
+  "mode": "third_person",
+  "seed": 2,
+  "condition": "uniform",
+  "max_turns": 20,
+  "temperature": 0.7,
+  "memory_k": 5,
+  "policy": "uniform",
+  "enforce": true
+ },
+ "opening": [
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "the King of Bohemia asked Sherlock Holmes and Dr. Watson if they had received his note"
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "the King of Bohemia told Sherlock Holmes and Dr. Watson that he had informed them that he would call"
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "Sherlock Holmes invited the King of Bohemia to take a seat and introduced Dr. Watson as his friend and colleague"
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes"
+   ],
+   "text": "the King of Bohemia told Sherlock Holmes that he might address him as the Count Von Kramm, a Bohemian nobleman"
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "the King of Bohemia explained to Sherlock Holmes that he understood that Dr. Watson was a man of honour and discretion, whom he might trust with a matter of the utmost importance"
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "Sherlock Holmes told the King of Bohemia that Dr. Watson was indeed a man of honour and discretion, and that he might say anything to him that he would say to Sherlock Holmes"
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "the King of Bohemia asked Sherlock Holmes and Dr. Watson to bind themselves to absolute secrecy for two years, as the matter was of such weight that it might have an influence upon European history"
+  },
+  {
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "Sherlock Holmes promised the King of Bohemia that he would keep the matter secret"
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "Dr. Watson also promised the King of Bohemia that he would keep the matter secret"
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "the King of Bohemia excused the mask he was wearing, explaining that the person who employed him wished to remain unknown"
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "Sherlock Holmes told the King of Bohemia that he was aware of the true identity of the person who employed him"
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "the King of Bohemia explained to Sherlock Holmes and Dr. Watson that the matter was of great delicacy, and that every precaution had to be taken to prevent a scandal that might compromise the House of Ormstein"
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "Sherlock Holmes told the King of Bohemia that he was also aware of the involvement of the House of Ormstein"
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "the King of Bohemia observed that Sherlock Holmes seemed to be a very different person from the one he had been led to expect"
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "Sherlock Holmes asked the King of Bohemia to state his case, so that he could advise him more effectively"
+  }
+ ],
+ "characters": [
+  "Sherlock Holmes",
+  "Dr. Watson",
+  "the King of Bohemia"
+ ],
+ "seconds": 101.3
+}

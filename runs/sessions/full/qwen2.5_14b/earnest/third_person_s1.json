@@ -1,0 +1,448 @@
+{
+ "turns": [
+  {
+   "turn": 1,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell asked Jack to provide further details about his residence, expressing a need for more concrete evidence of his social standing.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 2,
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Gwendolen told her mother that she found it quite unnecessary to produce such a detailed examination of Jack’s residence.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 3,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Gwendolen"
+   ],
+   "text": "Lady Bracknell insisted that Gwendolen ought to take her inquiries more seriously and that such matters were not to be trifled with.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 4,
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Gwendolen told her mother that she found her insistence on such stringent social inquiries to be quite stifling and wondered if love and happiness were not more important than mere addresses.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 5,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Gwendolen"
+   ],
+   "text": "Lady Bracknell insisted that such inquiries were necessary to ensure her daughter's future happiness and security, reminding Gwendolen that marriages based on trifling matters such as love often ended in regret and instability.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 6,
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Gwendolen told her mother that she felt such strictures were stifling her ability to find true happiness and that she was determined to follow her heart rather than societal expectations.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 7,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Gwendolen"
+   ],
+   "text": "Lady Bracknell insisted that her daughter must adhere to the proper conduct and that disregarding social conventions for the sake of fleeting emotions would lead to nothing but disappointment and scandal.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 8,
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Gwendolen told her mother that she was determined to marry Jack regardless of social conventions, feeling that true love was the foundation of a marriage rather than mere adherence to societal expectations.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 9,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Gwendolen"
+   ],
+   "text": "Lady Bracknell told Gwendolen that she would not tolerate such defiance and that she expected her daughter to consider the practical aspects of marriage, not just the whims of the moment.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 10,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack told Lady Bracknell that he understood her concerns and assured her that his intentions were honourable, hoping to address any misgivings she might have about his suitability as a husband for Gwendolen.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 11,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell told Jack that she was aware of his intentions but that his past conduct was questionable and needed to be addressed before any further discussion could take place.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 12,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack told Lady Bracknell that he would do everything in his power to rectify any past mistakes and prove his worthiness as a future husband for Gwendolen, hoping to reassure her of his sincerity and commitment.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 13,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell told Jack that while his assurances were noted, actions spoke louder than words and she required tangible evidence of his reformation before she would consider him a suitable match for her daughter.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 14,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack told Lady Bracknell that he was committed to providing her with the evidence she required and would work diligently to demonstrate his reliability and respectability.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 15,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell told Jack that she required a more concrete demonstration of his commitment and reform, such as a stable occupation and impeccable references, before she would give her consent to his marriage with Gwendolen.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 16,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack assured Lady Bracknell that he would secure a respectable position and gather impeccable references to demonstrate his commitment to her satisfaction.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 17,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell told Jack that until he provided her with the evidence she sought, she would not entertain the notion of his marriage to Gwendolen, regardless of his assurances.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 18,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack assured Lady Bracknell that he would work tirelessly to secure a position that would meet her standards and provide the necessary references.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 19,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell insisted that Jack must prove his worthiness through actions rather than words, and that his intentions alone were insufficient to secure her daughter’s hand in marriage.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 20,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack insisted that he would do everything in his power to meet Lady Bracknell’s expectations and prove himself a worthy suitor, demonstrating his commitment to securing a respectable position and gathering impeccable references.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  }
+ ],
+ "termination": "max_turns",
+ "attempts": 20,
+ "call_stats": {
+  "calls": 20,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "meta": {
+  "text_id": "earnest",
+  "model": "qwen2.5:14b",
+  "mode": "third_person",
+  "seed": 1,
+  "condition": "full",
+  "max_turns": 20,
+  "temperature": 0.7,
+  "memory_k": 5,
+  "policy": "addressee",
+  "enforce": true
+ },
+ "opening": [
+  {
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Gwendolen told Lady Bracknell that she was engaged to Mr. Worthing, mamma."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Gwendolen"
+   ],
+   "text": "Lady Bracknell told Gwendolen that she was not engaged to anyone and that when she did become engaged, she or her father would inform her of the fact."
+  },
+  {
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Gwendolen told Lady Bracknell, 'Mamma!'"
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Gwendolen"
+   ],
+   "text": "Lady Bracknell told Gwendolen to go to the carriage."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Gwendolen"
+   ],
+   "text": "Lady Bracknell told Gwendolen to get into the carriage."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell told Jack to take a seat."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack told Lady Bracknell that he preferred standing."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell told Jack that she felt bound to inform him that he was not down on her list of eligible young men."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack told Lady Bracknell that he must admit he smoked."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell told Jack that she was glad to hear it and that a man should always have an occupation of some kind."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack told Lady Bracknell that he was twenty-nine."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell asked Jack if he knew everything or nothing."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack told Lady Bracknell that he knew nothing."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell told Jack that she was pleased to hear it and that she did not approve of anything that tampers with natural ignorance."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack told Lady Bracknell that his income was between seven and eight thousand a year."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell asked Jack if his income was in land or in investments."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack told Lady Bracknell that his income was in investments."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell told Jack that it was satisfactory."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack told Lady Bracknell that he had a country house with some land attached to it, about fifteen hundred acres."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell told Jack that a country house was satisfactory and asked how many bedrooms it had."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack told Lady Bracknell that he owned a house in Belgrave Square, but it was let by the year to Lady Bloxham."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell told Jack that she did not know Lady Bloxham."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack told Lady Bracknell that Lady Bloxham went about very little and was a lady considerably advanced in years."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell told Jack that nowadays that was no guarantee of respectability of character and asked what number in Belgrave Square."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack told Lady Bracknell that the number was 149."
+  }
+ ],
+ "characters": [
+  "Lady Bracknell",
+  "Jack",
+  "Gwendolen"
+ ],
+ "seconds": 127.5
+}

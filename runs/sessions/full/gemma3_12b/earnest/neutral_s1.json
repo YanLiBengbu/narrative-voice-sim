@@ -1,0 +1,457 @@
+{
+ "turns": [
+  {
+   "turn": 1,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "One hundred and forty-nine! Good heavens! That is quite near the Earl of Eyrecourt, and he is, unfortunately, a man of notoriously loose principles. Do you frequent this address, Mr. Worthing? It is imperative that I ascertain your habits.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 2,
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Really, Mama, must you inquire so relentlessly? Mr. Worthing is perfectly respectable, and I am quite certain that proximity to the Earl of Eyrecourt cannot possibly tarnish *his* character.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 3,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack",
+    "Gwendolen"
+   ],
+   "text": "My dear Gwendolen, your youthful enthusiasm is charming, but it does not obviate the necessity for thorough investigation. Mr. Worthing, I trust you understand that a man’s acquaintances are a mirror reflecting his own moral standing?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 4,
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Mama, you are being excessively dramatic! Mr. Worthing is *my* fiancé, and I find your relentless questioning rather tiresome. Surely my judgment is sufficient to determine his suitability.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 5,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack",
+    "Gwendolen"
+   ],
+   "text": "My dear Gwendolen, your *judgment*, as you call it, is clearly clouded by a most inconvenient infatuation. Mr. Worthing, let us proceed. I am most interested in your family background; it is, after all, a cornerstone of any respectable union. Pray, tell me, who were your parents?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 6,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "My parents, Lady Bracknell? That’s… a rather complicated matter, I’m afraid. I was, you see, found as a baby at a railway station – a rather unusual beginning, I grant you, but I’ve always striven to conduct myself with the utmost propriety.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 7,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Found, you say? At a railway station? Good heavens! It appears we are confronted with a most irregular circumstance. Mr. Worthing, a gentleman found abandoned is scarcely a foundation upon which to build a life, let alone a marriage.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 8,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Indeed, Lady Bracknell. I assure you, I’ve done my very best to make up for my… unconventional origins. I've endeavoured to create a respectable life for myself, and I believe my actions speak for that, don't you think?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 9,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Actions, Mr. Worthing, are but a superficial veneer! It is lineage, *birth*, that truly defines a gentleman. A railway station, I repeat, is hardly a nursery befitting the progeny of respectable families.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 10,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "A railway station, yes, quite unusual, Lady Bracknell. However, I am a man of means, and I’ve always taken great care to uphold the standards of a gentleman, regardless of my… initial circumstances. Surely, that counts for something, wouldn't you agree?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 11,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Means, Mr. Worthing, are merely a temporary expedient. One can, of course, *acquire* means, but one cannot acquire a suitable ancestry. Tell me, do your parents maintain a respectable social circle? I am quite insistent on knowing.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 12,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "My… my parents, Lady Bracknell? That’s a rather delicate matter, I’m afraid. I'm not entirely certain who they are, actually; you see, I was, as I mentioned, found…",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 13,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Found, Mr. Worthing? Good heavens! It appears we are delving into a veritable abyss of social impropriety. To be found, abandoned like a misplaced glove, is simply *not* done, and speaks volumes about one's parentage – or lack thereof.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 14,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "I… I assure you, Lady Bracknell, it was a most respectable glove, I’m sure! And the circumstances were rather… peculiar. I’m quite certain there’s a perfectly reasonable explanation for everything, if one only had the proper information.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 15,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "A glove, Mr. Worthing? Really! One does not simply *assure* one of the respectability of a discarded article. It is its provenance that matters, and you seem remarkably vague on the subject. Pray, enlighten me further; I am simply *dying* to hear this 'perfectly reasonable explanation.'",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 16,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "I… well, it happened on a railway line, Lady Bracknell. A stationmaster, a very kind man, he took me in, and raised me as his own, but… but I’ve no memory of my parents before that. It's all rather hazy, you see.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 17,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "A railway line, you say? Most unfortunate. A railway line suggests a certain… lack of rootedness, Mr. Worthing, a vagrancy of the spirit which is decidedly unbecoming in a gentleman aspiring to the hand of my daughter. Do enlighten me: were you travelling first class, at least?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 18,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "First class, Lady Bracknell? Oh dear, I... I believe I was travelling in a carriage, yes. It’s all a bit indistinct, I confess; I was quite young at the time, you see. I wouldn't want to misrepresent myself, but I do believe it was a rather comfortable carriage, all things considered.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 19,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "A carriage, Mr. Worthing? While marginally less objectionable than a third-class compartment, it still fails to inspire confidence. One expects a gentleman of suitable prospects to travel with a degree of established *style*, not merely a modicum of comfort. Pray, were you accompanied by a chaperone?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 20,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "A chaperone, Lady Bracknell? Good heavens, I... I truly couldn't say. It was all rather a long time ago, and my memory, as I've mentioned, isn't precisely what it should be. I do hope this isn't causing too much… inconvenience?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  }
+ ],
+ "termination": "max_turns",
+ "attempts": 20,
+ "call_stats": {
+  "calls": 20,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "meta": {
+  "text_id": "earnest",
+  "model": "gemma3:12b",
+  "mode": "neutral",
+  "seed": 1,
+  "condition": "full",
+  "max_turns": 20,
+  "temperature": 0.7,
+  "memory_k": 5,
+  "policy": "addressee",
+  "enforce": true
+ },
+ "opening": [
+  {
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "I am engaged to Mr. Worthing, mamma."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Gwendolen"
+   ],
+   "text": "Pardon me, you are not engaged to any one. When you do become engaged to some one, I, or your father, should his health permit him, will inform you of the fact. An engagement should come on a young girl as a surprise, pleasant or unpleasant, as the case may be. It is hardly a matter that she could be allowed to arrange for herself . . . And now I have a few questions to put to you, Mr. Worthing. While I am making these inquiries, you, Gwendolen, will wait for me below in the carriage."
+  },
+  {
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Mamma!"
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Gwendolen"
+   ],
+   "text": "In the carriage, Gwendolen!"
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Gwendolen"
+   ],
+   "text": "Gwendolen, the carriage!"
+  },
+  {
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Yes, mamma."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "You can take a seat, Mr. Worthing."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Thank you, Lady Bracknell, I prefer standing."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "I feel bound to tell you that you are not down on my list of eligible young men, although I have the same list as the dear Duchess of Bolton has. We work together, in fact. However, I am quite ready to enter your name, should your answers be what a really affectionate mother requires. Do you smoke?"
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Well, yes, I must admit I smoke."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "I am glad to hear it. A man should always have an occupation of some kind. There are far too many idle men in London as it is. How old are you?"
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Twenty-nine."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "A very good age to be married at. I have always been of opinion that a man who desires to get married should know either everything or nothing. Which do you know?"
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "I know nothing, Lady Bracknell."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "I am pleased to hear it. I do not approve of anything that tampers with natural ignorance. Ignorance is like a delicate exotic fruit; touch it and the bloom is gone. The whole theory of modern education is radically unsound. Fortunately in England, at any rate, education produces no effect whatsoever. If it did, it would prove a serious danger to the upper classes, and probably lead to acts of violence in Grosvenor Square. What is your income?"
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Between seven and eight thousand a year."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "In land, or in investments?"
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "In investments, chiefly."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "What between the duties expected of one during one’s lifetime, and the duties exacted from one after one’s death, land has ceased to be either a profit or a pleasure. It gives one position, and prevents one from keeping it up. That’s all that can be said about land."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "I have a country house with some land, of course, attached to it, about fifteen hundred acres, I believe; but I don’t depend on that for my real income. In fact, as far as I can make out, the poachers are the only people who make anything out of it."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "A country house! How many bedrooms? Well, that point can be cleared up afterwards. You have a town house, I hope? A girl with a simple, unspoiled nature, like Gwendolen, could hardly be expected to reside in the country."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Well, I own a house in Belgrave Square, but it is let by the year to Lady Bloxham. Of course, I can get it back whenever I like, at six months’ notice."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bloxham? I don’t know her."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Oh, she goes about very little. She is a lady considerably advanced in years."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Ah, nowadays that is no guarantee of respectability of character. What number in Belgrave Square?"
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "149."
+  }
+ ],
+ "characters": [
+  "Lady Bracknell",
+  "Jack",
+  "Gwendolen"
+ ],
+ "seconds": 195.2
+}

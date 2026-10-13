@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying article."
+title: "narrative-voice-sim: LLM-driven multi-agent simulation of narrative voice shifts"
+authors:
+  - family-names: Zhao
+    given-names: Lili
+    affiliation: "Department of Foreign Languages, Bengbu University"
+  - family-names: Shi
+    given-names: Hui
+    affiliation: "Music College, Shanghai Normal University"
+license: MIT
+repository-code: "https://github.com/YanLiBengbu/narrative-voice-sim"
+url: "https://yanlibengbu.github.io/narrative-voice-sim/"
+preferred-citation:
+  type: article
+  title: "An LLM-driven multi-agent simulation framework for quantitative analysis of narrative voice shifts in literary texts"
+  authors:
+    - family-names: Zhao
+      given-names: Lili
+    - family-names: Shi
+      given-names: Hui
+  journal: "PeerJ Computer Science"
+  year: 2026
+  notes: "Manuscript CS-2026:04:138274 (under review)"

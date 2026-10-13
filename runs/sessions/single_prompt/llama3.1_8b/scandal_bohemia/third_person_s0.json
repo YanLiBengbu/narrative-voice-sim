@@ -1,0 +1,297 @@
+{
+ "turns": [
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "I must warn you, gentlemen, the matter I bring before you is of the utmost delicacy."
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia",
+    "Dr. Watson"
+   ],
+   "text": "State your case, Count Von Kramm, and let us proceed with all due haste."
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "I fear for the future of my kingdom, gentlemen, and I beg of you to help me in this matter."
+  },
+  {
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "the King of Bohemia",
+    "Sherlock Holmes"
+   ],
+   "text": "Please, Your Majesty, tell us exactly what is troubling you."
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Dr. Watson",
+    "Sherlock Holmes"
+   ],
+   "text": "My kingdom's future hangs in the balance, and I fear a scandal that may compromise the House of Ormstein."
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia",
+    "Dr. Watson"
+   ],
+   "text": "And you believe this scandal is connected to the person who employed me?"
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "Yes, I fear that they may be involved, and that you, Mr. Holmes, may be the only one who can help me."
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia",
+    "Dr. Watson"
+   ],
+   "text": "I am, in fact, aware of the true identity of the person who employed me, Count Von Kramm."
+  },
+  {
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "the King of Bohemia",
+    "Sherlock Holmes"
+   ],
+   "text": "But, Holmes, how do you know this?"
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "Dr. Watson",
+    "the King of Bohemia"
+   ],
+   "text": "Elementary, Watson, and I shall explain it all in due course."
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "I must admit, gentlemen, I am both astonished and relieved that you are aware of the situation."
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia",
+    "Dr. Watson"
+   ],
+   "text": "Now, let us proceed, Count Von Kramm, and hear the details of this matter."
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "Very well, gentlemen, I shall tell you everything."
+  },
+  {
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "the King of Bohemia",
+    "Sherlock Holmes"
+   ],
+   "text": "Please, Your Majesty, tell us the truth about the House of Ormstein."
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Dr. Watson",
+    "Sherlock Holmes"
+   ],
+   "text": "It is a long and complicated story, but I shall try to summarize it for you."
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia",
+    "Dr. Watson"
+   ],
+   "text": "I think I see the threads of this case beginning to unravel, Count Von Kramm."
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "You are a very perceptive man, Mr. Holmes, and I fear that you may be the only one who can help me now."
+  },
+  {
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "the King of Bohemia",
+    "Sherlock Holmes"
+   ],
+   "text": "But, Holmes, what exactly do you plan to do?"
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "Dr. Watson",
+    "the King of Bohemia"
+   ],
+   "text": "Leave that to me, Watson, and do not worry, Count Von Kramm, you are in good hands."
+  }
+ ],
+ "termination": "single_call",
+ "attempts": 1,
+ "call_stats": {
+  "calls": 1,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "meta": {
+  "text_id": "scandal_bohemia",
+  "model": "llama3.1:8b",
+  "mode": "third_person",
+  "seed": 0,
+  "condition": "single_prompt",
+  "max_turns": 20,
+  "temperature": 0.7,
+  "memory_k": null,
+  "policy": null,
+  "enforce": false
+ },
+ "opening": [
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "the King of Bohemia asked Sherlock Holmes and Dr. Watson if they had received his note"
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "the King of Bohemia told Sherlock Holmes and Dr. Watson that he had informed them that he would call"
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "Sherlock Holmes invited the King of Bohemia to take a seat and introduced Dr. Watson as his friend and colleague"
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes"
+   ],
+   "text": "the King of Bohemia told Sherlock Holmes that he might address him as the Count Von Kramm, a Bohemian nobleman"
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "the King of Bohemia explained to Sherlock Holmes that he understood that Dr. Watson was a man of honour and discretion, whom he might trust with a matter of the utmost importance"
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "Sherlock Holmes told the King of Bohemia that Dr. Watson was indeed a man of honour and discretion, and that he might say anything to him that he would say to Sherlock Holmes"
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "the King of Bohemia asked Sherlock Holmes and Dr. Watson to bind themselves to absolute secrecy for two years, as the matter was of such weight that it might have an influence upon European history"
+  },
+  {
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "Sherlock Holmes promised the King of Bohemia that he would keep the matter secret"
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "Dr. Watson also promised the King of Bohemia that he would keep the matter secret"
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "the King of Bohemia excused the mask he was wearing, explaining that the person who employed him wished to remain unknown"
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "Sherlock Holmes told the King of Bohemia that he was aware of the true identity of the person who employed him"
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "the King of Bohemia explained to Sherlock Holmes and Dr. Watson that the matter was of great delicacy, and that every precaution had to be taken to prevent a scandal that might compromise the House of Ormstein"
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "Sherlock Holmes told the King of Bohemia that he was also aware of the involvement of the House of Ormstein"
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "the King of Bohemia observed that Sherlock Holmes seemed to be a very different person from the one he had been led to expect"
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "Sherlock Holmes asked the King of Bohemia to state his case, so that he could advise him more effectively"
+  }
+ ],
+ "characters": [
+  "Sherlock Holmes",
+  "Dr. Watson",
+  "the King of Bohemia"
+ ],
+ "seconds": 56.2
+}

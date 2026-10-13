@@ -1,0 +1,402 @@
+{
+ "turns": [
+  {
+   "turn": 1,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia",
+    "Dr. Watson"
+   ],
+   "text": "Sherlock Holmes understood the gravity of the King of Bohemia's situation and told him that they would proceed to the matter at hand.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I understand the gravity of your situation, Your Majesty. Let us proceed to the matter at hand."
+  },
+  {
+   "turn": 2,
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "Sherlock Holmes",
+    "the King of Bohemia"
+   ],
+   "text": "Dr. Watson must say, he tells the King of Bohemia, that the matter indeed carries a weight that is both daunting and delicate. He trusts that Mr. Holmes will guide them through this with his usual sagacity.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I must say, your Majesty, that the matter indeed carries a weight that is both daunting and delicate. I trust that Mr. Holmes will guide us through this with his usual sagacity."
+  },
+  {
+   "turn": 3,
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "He was deeply grateful for the gentlemen's understanding. Let them proceed with the utmost discretion, he told them, as the stakes were exceedingly high.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I am deeply grateful for your understanding, gentlemen. Let us proceed with the utmost discretion, as the stakes are exceedingly high."
+  },
+  {
+   "turn": 4,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia",
+    "Dr. Watson"
+   ],
+   "text": "Sherlock Holmes suggested they move to the sitting room for a more private conversation. He insisted that the King of Bohemia provide him with a detailed account of his circumstances.",
+   "compliant_first": false,
+   "regenerated": false,
+   "director_rewrite": true,
+   "residual_violation": false,
+   "speech": "Let us adjourn to the sitting room where we can speak more privately. I will require a full account of your circumstances, Your Majesty."
+  },
+  {
+   "turn": 5,
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "Sherlock Holmes",
+    "the King of Bohemia"
+   ],
+   "text": "Dr. Watson told the King of Bohemia that he would accompany him and ensure that Mr. Holmes received all the information he required to assist him.",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I will accompany you, Your Majesty, and ensure that Mr. Holmes receives all the information he requires to assist you."
+  },
+  {
+   "turn": 6,
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "He shall follow them, gentlemen. Let them not tarry, for time is of the essence in this matter. He has much to reveal, and he trusts their discretion and wisdom.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I shall follow you, gentlemen. Let us not tarry, for time is of the essence in this matter. I have much to reveal, and I trust your discretion and wisdom."
+  },
+  {
+   "turn": 7,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "Sherlock Holmes proceeded without delay, telling the King of Bohemia that he had no patience for unnecessary formalities.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Let us proceed without delay, Your Majesty. I have no patience for unnecessary formalities."
+  },
+  {
+   "turn": 8,
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "the King of Bohemia",
+    "Sherlock Holmes"
+   ],
+   "text": "Dr. Watson told the King of Bohemia that he would follow and ensure that Mr. Holmes received all the necessary information.",
+   "compliant_first": false,
+   "regenerated": false,
+   "director_rewrite": true,
+   "residual_violation": false,
+   "speech": "I will follow, Your Majesty, and ensure that Mr. Holmes receives all the necessary information."
+  },
+  {
+   "turn": 9,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "Sherlock Holmes told the King of Bohemia, Let us proceed, then. He insisted that the king would require his full attention and candor.",
+   "compliant_first": false,
+   "regenerated": false,
+   "director_rewrite": true,
+   "residual_violation": true,
+   "speech": "Let us proceed, then. I shall require your full attention and candor, Your Majesty."
+  },
+  {
+   "turn": 10,
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "He shall lead Sherlock Holmes and Dr. Watson to a place of privacy where he can speak freely. His concerns are grave, and the details must remain confidential.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I shall lead you both to a place of privacy where I can speak freely. My concerns are grave, and the details must remain confidential."
+  },
+  {
+   "turn": 11,
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "Dr. Watson will accompany the King of Bohemia and ensure that Sherlock receives all the necessary information.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I will accompany you, Your Majesty, and ensure that Sherlock receives all the necessary information."
+  },
+  {
+   "turn": 12,
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "Very well, let them proceed to the drawing room where they may speak without eavesdroppers.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Very well, let us proceed to the drawing room where we may speak without eavesdroppers."
+  },
+  {
+   "turn": 13,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "Dr. Watson"
+   ],
+   "text": "Very well, let them follow him then. He trusts that the matter is as urgent as the king suggests.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Very well, let us follow him then. I trust that the matter is as urgent as the king suggests."
+  },
+  {
+   "turn": 14,
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "Dr. Watson shall accompany the king and take notes to ensure nothing is missed when they return to discuss the matter with Mr. Holmes.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I shall accompany the king and take notes to ensure nothing is missed when we return to discuss the matter with Mr. Holmes."
+  },
+  {
+   "turn": 15,
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "He shall lead the way, gentlemen. He followed them to the drawing room where they may speak in confidence.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I shall lead the way, gentlemen. Follow me to the drawing room where we may speak in confidence."
+  },
+  {
+   "turn": 16,
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "Dr. Watson told the King of Bohemia that he would remain there and await the King's return while Holmes prepared himself for their discussion.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I will remain here and await your return, Your Majesty, while Holmes prepares himself for our discussion."
+  },
+  {
+   "turn": 17,
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "He shall now reveal more of his true purpose there. It was of the utmost importance and concerned matters of great delicacy within his royal family.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I shall now reveal more of my true purpose here. It is of the utmost importance and concerns matters of great delicacy within my royal family."
+  },
+  {
+   "turn": 18,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "Sherlock Holmes told the King of Bohemia that he was ready to listen and would strive to uncover the essence of the monarch's predicament.",
+   "compliant_first": false,
+   "regenerated": false,
+   "director_rewrite": true,
+   "residual_violation": false,
+   "speech": "Very well, Your Majesty. Proceed with your narrative, and I shall endeavor to deduce the nature of your dilemma."
+  },
+  {
+   "turn": 19,
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "Indeed, the matter is most delicate and personal. It involves a past indiscretion that now threatens the stability of his kingdom and the happiness of his family.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Indeed, the matter is most delicate and personal. It involves a past indiscretion that now threatens the stability of my kingdom and the happiness of my family."
+  },
+  {
+   "turn": 20,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "Sherlock Holmes understood the gravity of the situation and told the King of Bohemia that he would proceed with the details, assuring him that he would endeavor to assist.",
+   "compliant_first": false,
+   "regenerated": false,
+   "director_rewrite": true,
+   "residual_violation": false,
+   "speech": "I understand the gravity of the situation, Your Majesty. Please proceed with the details, and I shall endeavor to assist."
+  }
+ ],
+ "termination": "max_turns",
+ "attempts": 20,
+ "call_stats": {
+  "calls": 51,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "meta": {
+  "text_id": "scandal_bohemia",
+  "model": "qwen2.5:14b",
+  "mode": "third_person_narrated",
+  "seed": 2,
+  "condition": "narrated",
+  "max_turns": 20,
+  "temperature": 0.7,
+  "memory_k": 5,
+  "policy": "addressee",
+  "enforce": true
+ },
+ "opening": [
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes"
+   ],
+   "text": "the King of Bohemia told Sherlock Holmes that he had the King's note and that he had promised to call."
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "Sherlock Holmes asked the King of Bohemia and Dr. Watson to take a seat and introduced Dr. Watson as his friend and colleague who occasionally helped him in his cases."
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "the King of Bohemia addressed Sherlock Holmes and Dr. Watson as Count Von Kramm, a Bohemian nobleman, and expressed his understanding that Dr. Watson was a man of honour and discretion whom he could trust with a matter of extreme importance."
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "Sherlock Holmes insisted that it was both, or none."
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "the King of Bohemia began by binding Sherlock Holmes and Dr. Watson to absolute secrecy for two years, stating that the matter was of such weight it might have an influence upon European history."
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "Sherlock Holmes promised."
+  },
+  {
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "Dr. Watson also promised."
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "the King of Bohemia explained that the mask was due to the employer's wish for his agent to be unknown, and confessed that the title he had used was not exactly his own."
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "Sherlock Holmes was aware of it."
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "the King of Bohemia stated that the circumstances were of great delicacy and every precaution had to be taken to quench what might grow to be an immense scandal and seriously compromise one of the reigning families of Europe."
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "Sherlock Holmes was also aware of that."
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "the King of Bohemia told Sherlock Holmes and Dr. Watson that if His Majesty would condescend to state his case, he would be better able to advise him."
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "the King of Bohemia asked why he should attempt to conceal it and revealed that he was the King."
+  }
+ ],
+ "characters": [
+  "Sherlock Holmes",
+  "Dr. Watson",
+  "the King of Bohemia"
+ ],
+ "seconds": 165.1
+}

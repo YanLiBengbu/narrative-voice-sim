@@ -1,0 +1,197 @@
+{
+ "turns": [
+  {
+   "turn": 1,
+   "speaker": "the eldest son",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "She worries about the future, doesn't she? I will ensure everything is as she wishes, Father. The maid and I will do our best.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 2,
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "the eldest son"
+   ],
+   "text": "Your mother… she always thinks of everything, doesn’t she? It’s good that you are taking care of things, son, and that you and the maid will see to it all, just as she asks. I’ll… I’ll be here, watching over her.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 3,
+   "speaker": "the eldest son",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "The maid is capable, Father. I believe she will manage well. We will, of course, follow Mother’s instructions carefully.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 4,
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "the eldest son",
+    "the maid"
+   ],
+   "text": "It’s… it’s a comfort to know you’re both thinking of her wishes, son. I trust you both will do what is right, and… and that you’ll remember her guidance, always. She has a good heart, your mother, and wants only what is best for the family.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 5,
+   "speaker": "the eldest son",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "I understand, Father. We will not forget her concerns. I am certain we can fulfill her expectations.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 6,
+   "speaker": "the eldest son",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "It is important that we all remain strong, Father. I will speak with the steward about the arrangements; everything will be handled properly.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 7,
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "the eldest son",
+    "the maid"
+   ],
+   "text": "It’s… it’s a heavy burden, these instructions, isn't it, son? I trust you'll be able to bear it, and that you and the maid will be able to… to see them through, as your mother wishes. I only want what’s best for my family, and I believe you both do too.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  }
+ ],
+ "termination": "silence",
+ "attempts": 14,
+ "call_stats": {
+  "calls": 14,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "meta": {
+  "text_id": "good_earth",
+  "model": "gemma3:12b",
+  "mode": "first_person",
+  "seed": 4,
+  "condition": "full",
+  "max_turns": 20,
+  "temperature": 0.7,
+  "memory_k": 5,
+  "policy": "addressee",
+  "enforce": true
+ },
+ "opening": [
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "[GE-OMITTED:1:aa]"
+  },
+  {
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "[GE-OMITTED:3:aa]"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "Die I must, [GE-OMITTED:5:aa] [GE-OMITTED:6:aa] and well she serves me, [GE-OMITTED:7:aa] [GE-OMITTED:8:aa] because I must die, [GE-OMITTED:9:aa] [GE-OMITTED:10:aa] [GE-OMITTED:11:aa]"
+  },
+  {
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "[GE-OMITTED:14:aa]"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "[GE-OMITTED:15:aa]"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "Now she will be well, yet!"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "[GE-OMITTED:21:aa] [GE-OMITTED:22:aa]"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "And has everyone wine? [GE-OMITTED:35:aa]"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "[GE-OMITTED:40:aa] My son, [GE-OMITTED:41:aa] and my daughter, [GE-OMITTED:42:aa] there is she. [GE-OMITTED:43:aa]"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "Well, and if I am ugly, [GE-OMITTED:50:aa] [GE-OMITTED:51:aa]"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "[GE-OMITTED:52:aa] [GE-OMITTED:53:aa]"
+  }
+ ],
+ "characters": [
+  "O-lan",
+  "Wang Lung",
+  "the eldest son",
+  "the maid"
+ ],
+ "seconds": 112.7
+}

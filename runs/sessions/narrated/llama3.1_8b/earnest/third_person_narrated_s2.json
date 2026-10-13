@@ -1,0 +1,481 @@
+{
+ "turns": [
+  {
+   "turn": 1,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell was afraid, she said, that she did not trust Jack's account of his property in Belgrave Square.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I am afraid, Mr. Worthing, that I do not trust your account of your property in Belgrave Square."
+  },
+  {
+   "turn": 2,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "He was afraid he hadn't meant to give the impression that he owned the house in Belgrave Square, Lady Bracknell. It was actually his brother's property.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I'm afraid I didn't mean to give the impression that I own the house in Belgrave Square, Lady Bracknell. It's actually my brother's property."
+  },
+  {
+   "turn": 3,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell's expression was one of polite incredulity as she said, Mr. Worthing, his explanation was not entirely satisfactory.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I must say, Mr. Worthing, your explanation is not entirely satisfactory."
+  },
+  {
+   "turn": 4,
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Gwendolen would not be ignored for much longer, Mother.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I won't be ignored for much longer, Mother."
+  },
+  {
+   "turn": 5,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Gwendolen",
+    "Jack"
+   ],
+   "text": "Lady Bracknell was taken aback, she thought, by the awkwardness of the situation, and one that she did not fully understand.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "This is a very awkward situation, Mr. Worthing, and one that I must say I do not fully understand."
+  },
+  {
+   "turn": 6,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "He assured Lady Bracknell that his brother's property was quite separate from his own, and he had nothing to do with its management.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I assure you, Lady Bracknell, that my brother's property is quite separate from my own, and I have nothing to do with its management."
+  },
+  {
+   "turn": 7,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack",
+    "Gwendolen"
+   ],
+   "text": "Lady Bracknell did not think, Mr. Worthing, that he had made any effort to explain the circumstances surrounding this supposed brother of his.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I do not think, Mr. Worthing, that you have made any effort to explain the circumstances surrounding this supposed brother of yours."
+  },
+  {
+   "turn": 8,
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Jack",
+    "Lady Bracknell"
+   ],
+   "text": "Gwendolen refused to sit there in the cold while Lady Bracknell pried into her fiancé's affairs. She would rather hear the truth about this supposed brother of his, if it was so very important.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I refuse to sit here in the cold while you pry into my fiancé's affairs. I'd rather hear the truth about this supposed brother of his, if it's so very important."
+  },
+  {
+   "turn": 9,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack",
+    "Gwendolen"
+   ],
+   "text": "Lady Bracknell was insisting, that Jack provide a more satisfactory explanation for this brother of his, or she feared their conversation was at an end.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I must insist, Mr. Worthing, that you provide a more satisfactory explanation for this brother of yours, or I fear our conversation is at an end."
+  },
+  {
+   "turn": 10,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell",
+    "Gwendolen"
+   ],
+   "text": "He was afraid he didn't know what more he could say about his brother, Lady Bracknell. He assured her, he was perfectly respectable, and he was sure he would be delighted to meet her, if she were to call on him.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I-I'm afraid I don't know what more I can say about my brother, Lady Bracknell. I assure you, he's perfectly respectable, and I'm sure he would be delighted to meet you, if you were to call on him."
+  },
+  {
+   "turn": 11,
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Lady Bracknell",
+    "Jack"
+   ],
+   "text": "Gwendolen thought it was time for Lady Bracknell to stop interrogating Jack and let her hear the truth about this brother of his. She had had enough of Lady Bracknell's questioning!",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I think it's time for you to stop interrogating Jack and let me hear the truth about this brother of his. I've had enough of your questioning!"
+  },
+  {
+   "turn": 12,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack",
+    "Gwendolen"
+   ],
+   "text": "Lady Bracknell was insisting, that Jack provide a more concrete explanation of his brother's whereabouts, this vagueness was becoming quite tiresome.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I must insist, Mr. Worthing, that you provide a more concrete explanation of your brother's whereabouts. This vagueness is becoming quite tiresome."
+  },
+  {
+   "turn": 13,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "He was afraid he didn't know where his brother was, he told Lady Bracknell, he'd never really asked him, and he wasn't sure he'd even tell him if he did.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I'm afraid I don't know where my brother is, Lady Bracknell. I've never really asked him, and I'm not sure he'd even tell me if I did."
+  },
+  {
+   "turn": 14,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack",
+    "Gwendolen"
+   ],
+   "text": "Lady Bracknell's eyes narrowed as she spoke, her voice dripping with disdain. She feared, Mr. Worthing, that his explanation had only served to raise further doubts about his suitability as a husband for her daughter.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I fear, Mr. Worthing, that your explanation has only served to raise further doubts about your suitability as a husband for my daughter."
+  },
+  {
+   "turn": 15,
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Lady Bracknell",
+    "Jack"
+   ],
+   "text": "Gwendolen was not going to stand for this, she declared, it was time for Lady Bracknell to stop questioning Jack and let her hear the truth about this ridiculous brother of his.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I won't stand for this, Mother! It's time for you to stop questioning Jack and let me hear the truth about this ridiculous brother of his."
+  },
+  {
+   "turn": 16,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "He thought, if he may say so, that he was more than willing to provide any further information Lady Bracknell required, but he did hope she could understand that his brother's...ah...elusive nature could be a bit of a trial for him as well.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I think, if I may say so, Lady Bracknell, that I am more than willing to provide any further information you require, but I do hope you can understand that my brother's...ah...elusive nature can be a bit of a trial for me as well."
+  },
+  {
+   "turn": 17,
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Gwendolen was not interested in hearing any more of these absurd questions, and it was time for Lady Bracknell to stop trying to frighten her away from Jack.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I'm not interested in hearing any more of these absurd questions, Mother. It's time for you to stop trying to frighten me away from Jack."
+  },
+  {
+   "turn": 18,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Gwendolen",
+    "Jack"
+   ],
+   "text": "Lady Bracknell's eyes narrowed as she gazed at Gwendolen, her voice dripping with disdain. She must say, Mr. Worthing, that his attempts to shift the blame for his brother's disappearance onto his shoulders were quite...disturbing.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I must say, Mr. Worthing, that your attempts to shift the blame for your brother's disappearance onto his shoulders are quite...disturbing."
+  },
+  {
+   "turn": 19,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell",
+    "Gwendolen"
+   ],
+   "text": "He begged her pardon, Lady Bracknell, he didn't see how his brother's disappearance was relevant to their engagement.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I beg your pardon, Lady Bracknell, I don't see how my brother's disappearance is relevant to our engagement."
+  },
+  {
+   "turn": 20,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Gwendolen",
+    "Jack"
+   ],
+   "text": "Lady Bracknell was saying, Mr. Worthing, she found his attempts to deflect her inquiries most...unseemly. And as for his brother's disappearance, she assured him, it was quite relevant to their conversation, given his rather...curious assertion that he was a single man.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I must say, Mr. Worthing, I find your attempts to deflect my inquiries most...unseemly. And as for your brother's disappearance, I assure you, it is quite relevant to our conversation, given your rather...curious assertion that you are a single man."
+  }
+ ],
+ "termination": "max_turns",
+ "attempts": 20,
+ "call_stats": {
+  "calls": 40,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "meta": {
+  "text_id": "earnest",
+  "model": "llama3.1:8b",
+  "mode": "third_person_narrated",
+  "seed": 2,
+  "condition": "narrated",
+  "max_turns": 20,
+  "temperature": 0.7,
+  "memory_k": 5,
+  "policy": "addressee",
+  "enforce": true
+ },
+ "opening": [
+  {
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Gwendolen told Lady Bracknell that she was engaged to Mr. Worthing."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Gwendolen",
+    "Jack"
+   ],
+   "text": "Lady Bracknell asked Gwendolen and Mr. Worthing to pardon her, as they were not engaged to anyone. She explained that when they did become engaged, she or Mr. Worthing's father, if his health permitted, would inform them of the fact. An engagement should come as a surprise to a young girl, and it was hardly a matter she could arrange for herself. While she was making inquiries, Gwendolen would wait for her below in the carriage."
+  },
+  {
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Gwendolen called out to Lady Bracknell."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Gwendolen"
+   ],
+   "text": "Lady Bracknell told Gwendolen to wait for her in the carriage."
+  },
+  {
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Gwendolen replied to Lady Bracknell that she would wait for her."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell told Mr. Worthing to take a seat."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack stood tall, his eyes locked on Lady Bracknell, and said that he preferred to remain standing, rather than take a seat."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell informed Mr. Worthing that he was not on her list of eligible young men, although she had the same list as the Duchess of Bolton. However, she was willing to enter his name if his answers were satisfactory. She asked him if he smoked."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Mr. Worthing admitted to Lady Bracknell that he smoked."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell was pleased to hear that Mr. Worthing smoked. She believed that a man should have an occupation. There were too many idle men in London. She asked Mr. Worthing how old he was."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Mr. Worthing told Lady Bracknell that he was twenty-nine."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell thought that twenty-nine was a good age to get married. She believed that a man who wanted to get married should know either everything or nothing. She asked Mr. Worthing which category he fell into."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Mr. Worthing replied to Lady Bracknell that he knew nothing."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell was pleased to hear that Mr. Worthing knew nothing. She believed that ignorance was a delicate and exotic fruit that should not be tampered with. She stated that education was unsound and produced no effect in England. If it did, it would be a danger to the upper classes. She asked Mr. Worthing about his income."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Mr. Worthing told Lady Bracknell that his income was between seven and eight thousand a year."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell asked Mr. Worthing if his income came from land or investments."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Mr. Worthing replied to Lady Bracknell that his income came from investments."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell thought that Mr. Worthing's income was satisfactory. She stated that land was no longer a profit or pleasure, but rather a means of gaining position and losing it. She asked Mr. Worthing about his country house."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Mr. Worthing told Lady Bracknell that he had a country house with some land, but he did not depend on it for his income. In fact, the poachers were the only ones who made anything out of it."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell asked Mr. Worthing how many bedrooms his country house had. She also asked if he had a town house, as a girl like Gwendolen could not be expected to reside in the country."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Mr. Worthing told Lady Bracknell that he owned a house in Belgrave Square, but it was let by the year to Lady Bloxham."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell asked Mr. Worthing who Lady Bloxham was."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack observed that Lady Bracknell went out very little, and that she was a lady considerably advanced in years."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell asked Mr. Worthing what number his house in Belgrave Square was."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Mr. Worthing told Lady Bracknell that his house was number 149."
+  }
+ ],
+ "characters": [
+  "Lady Bracknell",
+  "Gwendolen",
+  "Jack"
+ ],
+ "seconds": 86.0
+}

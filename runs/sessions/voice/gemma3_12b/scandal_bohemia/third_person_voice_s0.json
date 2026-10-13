@@ -1,0 +1,382 @@
+{
+ "turns": [
+  {
+   "turn": 1,
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "Sherlock Holmes",
+    "the King of Bohemia"
+   ],
+   "text": "It was certainly a most peculiar circumstance, the King admitting his royal status after such an elaborate charade. One couldn't help but wonder at the intricacies of the situation and the lengths to which a monarch would go to maintain a semblance of privacy, though Mr. Holmes seemed to take it all rather in his stride.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 2,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia",
+    "Dr. Watson"
+   ],
+   "text": "He observed that the King’s explanation, while novel, did little to illuminate the core of the matter; a confession of identity, however belated, scarcely altered the urgency of the situation. It would appear, he remarked, that a detailed exposition of the facts precipitating this elaborate disguise would be considerably more productive than a mere declaration of royal lineage.",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 3,
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "Sherlock Holmes",
+    "the King of Bohemia"
+   ],
+   "text": "Indeed, he thought, Mr. Holmes was remarkably unruffled by the King’s revelation, as if such disclosures were commonplace occurrences in his line of work. It was all rather bewildering, this business of royalty and compromising photographs, and he found himself eager to hear the particulars that Mr. Holmes alluded to, hoping they might shed some light on this most unusual predicament.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 4,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia",
+    "Dr. Watson"
+   ],
+   "text": "The matter, it appears, concerns a photograph, and photographs, unlike royal lineages, are rather concrete entities. He would appreciate, therefore, a concise account of the circumstances surrounding its creation and the subsequent actions taken to retrieve it, omitting, naturally, the theatrical preamble.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 5,
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "He sighed, a dramatic expulsion of air that seemed to ripple through his opulent waistcoat, and felt compelled to explain that the circumstances, while regrettable, were not entirely of his own making. The lady in question, an actress of some renown, possessed a certain… persuasive charm, and the photograph, regrettably, captured a moment of… indiscretion. It was, he insisted, a matter of national importance to retrieve it, lest it fall into the wrong hands and incite unrest.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 6,
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "Sherlock Holmes",
+    "the King of Bohemia"
+   ],
+   "text": "He had to admit, the King’s description of the actress's persuasive charm was rather amusing, though the gravity of the situation remained quite clear; the prospect of unrest sparked by a photograph was certainly a disquieting thought. Still, he found himself wondering just how persuasive one could be to compel a monarch into such a compromising position, and he hoped Mr. Holmes would soon be able to unravel the details of this most peculiar entanglement.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 7,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia",
+    "Dr. Watson"
+   ],
+   "text": "He regarded the King with a clinical detachment, finding the theatricality tiresome, and observed that ‘national importance’ was a phrase frequently employed to mask personal embarrassment. It would be considerably more helpful, he suggested, if the gentleman would furnish details regarding this actress's name and current whereabouts, rather than indulging in further pronouncements concerning her ‘persuasive charm.’",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 8,
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "He found himself compelled to concede, with a visible tremor of frustration, that Mr. Holmes's directness was… bracing, though perhaps lacking in the necessary delicacy for a matter of such profound sensitivity. The lady’s name is Irene Adler, a most accomplished artist, and her whereabouts are, regrettably, presently unknown, which is precisely why he finds himself in such a desperate predicament!",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 9,
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "Sherlock Holmes",
+    "the King of Bohemia"
+   ],
+   "text": "He could scarcely imagine an actress possessing such persuasive powers, though he supposed that was precisely what made the situation so delicate and, frankly, rather fascinating. It was a most unusual case, certainly, and he hoped Mr. Holmes would be able to ascertain Miss Adler’s whereabouts swiftly; the King seemed genuinely distressed, and the potential for unrest was a troubling prospect indeed.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 10,
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes"
+   ],
+   "text": "He wrung his hands, a gesture of profound agitation, and lamented that the very notion of Miss Adler’s whereabouts being ‘presently unknown’ was almost…insulting! Surely, a lady of such undeniable influence, such…remarkable talents, would not simply vanish into thin air; there must be associates, confidantes, a residence, some trace of her existence!",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 11,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "He regarded the King’s lamentations with a degree of patience that he found, frankly, rather taxing. Surely, even a monarch, however distressed, ought to possess a more robust grasp of elementary investigative procedure; one does not simply *assume* a vanished individual has performed a vanishing trick, but rather seeks evidence of their movements.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 12,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "Dr. Watson",
+    "the King of Bohemia"
+   ],
+   "text": "He found the King’s theatrical despair rather tiresome, and suggested that lamentations, however heartfelt, rarely yielded useful information. Perhaps, he proposed, if the gentleman would cease indulging in such displays and instead focus on providing any and all details, however seemingly insignificant, concerning Miss Adler’s known associates or habitual haunts, a more productive line of inquiry might be established.",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 13,
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes"
+   ],
+   "text": "Surely, Mr. Holmes, one does not simply dismiss the gravity of the situation with such…clinical detachment! It is not a matter of ‘elementary investigative procedure,’ but of a royal reputation, a kingdom’s stability, hanging precariously in the balance; Miss Adler's disappearance is not a parlor trick, but a crisis!",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 14,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "He finds the King’s hyperbolic pronouncements… diverting, at the very least. The stability of a kingdom is, of course, a significant matter, but a melodramatic presentation does little to illuminate the facts of the case; a concise and truthful account of Miss Adler’s history, however unpalatable, would prove far more valuable.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 15,
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes"
+   ],
+   "text": "One does not, Mr. Holmes, *demand* a concise and truthful account; one *requests* it, with the utmost urgency!",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 16,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "He observed that a 'request,' as the King termed it, often carried the implicit expectation of compliance, and that such expectations rarely improved the quality of information received. It would be advantageous, he suggested, if the gentleman would now endeavour to recall the circumstances surrounding Miss Adler’s initial acquaintance, and refrain from further appeals to the dramatic.",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 17,
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes"
+   ],
+   "text": "The King of Bohemia observed that Mr. Holmes seemed to find the gravity of the matter... insufficiently conveyed. Very well, he declared, let it be known that Irene Adler was not merely an acquaintance, but a lady of considerable charm and influence, who, regrettably, had captured a royal heart – a heart, he added with a touch of rueful drama, that now found itself in a most distressing predicament!",
+   "compliant_first": false,
+   "regenerated": false,
+   "director_rewrite": true,
+   "residual_violation": false
+  },
+  {
+   "turn": 18,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "He noted, with a flicker of amusement, that the King’s distress appeared to be conveniently timed, and that a touch of theatricality seemed to be a habitual defense mechanism. It would be interesting, he mused, to ascertain the degree to which this 'distressing predicament' was of the King's own making.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 19,
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes"
+   ],
+   "text": "He bristled at the imputation of theatricality, naturally! Surely, Mr. Holmes, a man of reason could appreciate that when a kingdom's stability—a kingdom’s *very existence*—is threatened, a touch of… emphasis… is not merely permissible, but *necessary*! It is scarcely a ‘defense mechanism,’ sir, but a recognition of the gravity of the situation!",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 20,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "He found the King’s indignation rather… predictable. It appeared that appeals to the stability of a kingdom, however dramatic, were unlikely to elicit further information unless supported by demonstrable facts; he suggested, therefore, that the gentleman might find it more productive to focus on the specifics of Miss Adler’s movements after the photograph was taken.",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false
+  }
+ ],
+ "termination": "max_turns",
+ "attempts": 20,
+ "call_stats": {
+  "calls": 27,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "meta": {
+  "text_id": "scandal_bohemia",
+  "model": "gemma3:12b",
+  "mode": "third_person_voice",
+  "seed": 0,
+  "condition": "voice",
+  "max_turns": 20,
+  "temperature": 0.7,
+  "memory_k": 5,
+  "policy": "addressee",
+  "enforce": true
+ },
+ "opening": [
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "The King of Bohemia inquired whether they had received his note, adding that he had informed them he would call."
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "Dr. Watson",
+    "the King of Bohemia"
+   ],
+   "text": "Sherlock Holmes requested that the King take a seat and introduced him to Dr. Watson, his friend and colleague, who occasionally assisted him in his cases, and then asked whom he had the honour to address."
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "The King of Bohemia stated that he should be addressed as the Count Von Kramm, a Bohemian nobleman, and expressed his hope that Dr. Watson was a man of honour and discretion, someone he could trust with a matter of extreme importance, otherwise he would prefer to speak with Sherlock Holmes alone."
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "Dr. Watson",
+    "the King of Bohemia"
+   ],
+   "text": "Sherlock Holmes assured them that both were suitable, or neither, and that the King could speak freely before Dr. Watson as he would with him."
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "The King of Bohemia explained that he needed them both to bind to absolute secrecy for two years, after which the matter would be unimportant, and that currently it was of such weight it could influence European history."
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "Sherlock Holmes promised."
+  },
+  {
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "Dr. Watson concurred."
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "The King of Bohemia apologized for the mask, explaining that the person who employed him wished his agent to remain unknown, and he confessed that the title he had used was not his own."
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "Sherlock Holmes revealed that he had been aware of this."
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "The King of Bohemia emphasized that the circumstances were delicate and required precautions to prevent a scandal that could compromise the House of Ormstein, hereditary kings of Bohemia."
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "Sherlock Holmes confirmed that he too was aware of that."
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "Sherlock Holmes suggested that if the King would state his case, he would be better able to advise him."
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "The King of Bohemia acknowledged that he was right and then asked why he had attempted to conceal his identity, stating that he was, in fact, the King."
+  }
+ ],
+ "characters": [
+  "Sherlock Holmes",
+  "Dr. Watson",
+  "the King of Bohemia"
+ ],
+ "seconds": 203.2
+}

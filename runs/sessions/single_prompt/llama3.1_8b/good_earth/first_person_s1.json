@@ -1,0 +1,248 @@
+{
+ "turns": [
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "You have been good to me, I know, but now you must see to our son's marriage."
+  },
+  {
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "Do not speak of this now, my love, you are not well."
+  },
+  {
+   "speaker": "the eldest son",
+   "speak_to": [
+    "O-lan",
+    "Wang Lung"
+   ],
+   "text": "Mother, I will do as you say, I will find a good wife for myself."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "the eldest son"
+   ],
+   "text": "You are young and foolish, but I know you will do well."
+  },
+  {
+   "speaker": "the maid",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "Mother, I will help with the arrangements."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "the maid"
+   ],
+   "text": "You are very kind, but I must see to this myself."
+  },
+  {
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "You must not exhaust yourself, my love."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "I am not exhausted, I am only tired of being sick."
+  },
+  {
+   "speaker": "the eldest son",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "Father, I will go to the market and find a good wife for myself."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "the eldest son"
+   ],
+   "text": "Be careful, my son, and do not bring home anyone who is not good."
+  },
+  {
+   "speaker": "the maid",
+   "speak_to": [
+    "O-lan",
+    "Wang Lung"
+   ],
+   "text": "I will go and prepare the rooms for the guests."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "the maid"
+   ],
+   "text": "You are very busy, but I am glad you can help."
+  },
+  {
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "I will take care of everything, my love."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "You are kind, but I must see to this myself."
+  },
+  {
+   "speaker": "the eldest son",
+   "speak_to": [
+    "O-lan",
+    "Wang Lung"
+   ],
+   "text": "I will go and find a good wife for myself."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "the eldest son"
+   ],
+   "text": "Be careful, my son, and do not bring home anyone who is not good."
+  },
+  {
+   "speaker": "the maid",
+   "speak_to": [
+    "O-lan",
+    "Wang Lung"
+   ],
+   "text": "I will go and prepare the food for the guests."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "the maid"
+   ],
+   "text": "You are very kind, but I am glad you can help."
+  },
+  {
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "I will take care of everything, my love."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "I know you will, but I must see to this myself."
+  }
+ ],
+ "termination": "single_call",
+ "attempts": 1,
+ "call_stats": {
+  "calls": 1,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "meta": {
+  "text_id": "good_earth",
+  "model": "llama3.1:8b",
+  "mode": "first_person",
+  "seed": 1,
+  "condition": "single_prompt",
+  "max_turns": 20,
+  "temperature": 0.7,
+  "memory_k": null,
+  "policy": null,
+  "enforce": false
+ },
+ "opening": [
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "[GE-OMITTED:1:aa]"
+  },
+  {
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "[GE-OMITTED:3:aa]"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "Die I must, [GE-OMITTED:5:aa] [GE-OMITTED:6:aa] and well she serves me, [GE-OMITTED:7:aa] [GE-OMITTED:8:aa] because I must die, [GE-OMITTED:9:aa] [GE-OMITTED:10:aa] [GE-OMITTED:11:aa]"
+  },
+  {
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "[GE-OMITTED:14:aa]"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "[GE-OMITTED:15:aa]"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "[GE-OMITTED:21:aa] [GE-OMITTED:22:aa]"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "And has everyone wine? [GE-OMITTED:35:aa]"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "[GE-OMITTED:40:aa] My son, [GE-OMITTED:41:aa] and my daughter, [GE-OMITTED:42:aa] there is she. [GE-OMITTED:43:aa]"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "Well, and if I am ugly, [GE-OMITTED:50:aa] [GE-OMITTED:51:aa]"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "[GE-OMITTED:52:aa] [GE-OMITTED:53:aa]"
+  }
+ ],
+ "characters": [
+  "O-lan",
+  "Wang Lung",
+  "the eldest son",
+  "the maid"
+ ],
+ "seconds": 25.9
+}

@@ -1,0 +1,252 @@
+{
+ "turns": [
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "You have no other duty but to take care of our son."
+  },
+  {
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan",
+    "the eldest son"
+   ],
+   "text": "What is wrong with you, O-lan? Why are you talking like this?"
+  },
+  {
+   "speaker": "the eldest son",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "Mother, you're scaring me. What's going on?"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "the eldest son"
+   ],
+   "text": "I am just making sure that you will be taken care of when I am gone."
+  },
+  {
+   "speaker": "the maid",
+   "speak_to": [
+    "O-lan",
+    "Wang Lung"
+   ],
+   "text": "Please, mother, don't talk like that. You will get better."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "the maid"
+   ],
+   "text": "I am at peace, child. This is what I have been working towards."
+  },
+  {
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan",
+    "the eldest son"
+   ],
+   "text": "O-lan, stop talking about dying. You will be fine."
+  },
+  {
+   "speaker": "the eldest son",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "Father, I think she's just tired. We should let her rest."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "I have given you all that I can, Wang Lung. Now it is your turn to take care of our son."
+  },
+  {
+   "speaker": "the maid",
+   "speak_to": [
+    "O-lan",
+    "Wang Lung"
+   ],
+   "text": "Mother, please, don't talk like that. You're making us all sad."
+  },
+  {
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan",
+    "the eldest son"
+   ],
+   "text": "I will take care of our son, O-lan. Don't worry."
+  },
+  {
+   "speaker": "the eldest son",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "Mother, I will take care of you. Don't worry about us."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "I know that you will, Wang Lung. But it is not just about food and shelter. It is about love and kindness."
+  },
+  {
+   "speaker": "the maid",
+   "speak_to": [
+    "O-lan",
+    "Wang Lung"
+   ],
+   "text": "Mother, we will all take care of each other."
+  },
+  {
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan",
+    "the eldest son"
+   ],
+   "text": "O-lan, I promise you that our son will be well taken care of."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "I know that you will try, Wang Lung. But it is not just about trying. It is about being."
+  },
+  {
+   "speaker": "the eldest son",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "Mother, I love you. Don't worry."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "I am at peace, Wang Lung. And that is all that matters."
+  },
+  {
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan",
+    "the eldest son"
+   ],
+   "text": "I will take care of our son, O-lan. I promise."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "I know that you will, Wang Lung. And that is all that I can ask for."
+  }
+ ],
+ "termination": "single_call",
+ "attempts": 1,
+ "call_stats": {
+  "calls": 1,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "meta": {
+  "text_id": "good_earth",
+  "model": "llama3.1:8b",
+  "mode": "third_person",
+  "seed": 1,
+  "condition": "single_prompt",
+  "max_turns": 20,
+  "temperature": 0.7,
+  "memory_k": null,
+  "policy": null,
+  "enforce": false
+ },
+ "opening": [
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan told Wang Lung that there was another thing she had to attend to before she could die."
+  },
+  {
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "Wang Lung insisted that O-lan should not speak of dying and that it would please him if she did not."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan replied that she had to die, for she felt it in her vitals waiting, but she would not die before her eldest son came home and before he wedded this good maid who was her daughter-in-law, and well she served O-lan, holding the hot water basin steadily and knowing when to bathe O-lan's face when she sweated in pain. Now O-lan wanted her son to come home, because she had to die, and she wanted him to wed this maid first, so that she might die easily, knowing that her grandson was stirred into life and a great-grandson for the old one."
+  },
+  {
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "Wang Lung told O-lan that she looked twice as well as they had said and years away from death."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan declared that she would see Wang Lung wedded and then she must die."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan instructed Wang Lung to sit there and drink the wine and eat the rice of his marriage, for she would see it all and this would be his bed of marriage since she was soon to be finished with it and carried away."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan asked if everyone had wine, if the sweet rice dish in the middle of the feast was very hot, if they had put full measure of lard and sugar into it, and if the eight fruits were present."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan told Wang Lung that she was now content and that this thing in her may do as it would. She instructed her son to look to his father and his grandfather, and her daughter to look to her husband and his father and his grandfather and the poor fool in the court, there she was. And she told Wang Lung that he had no duty to any other."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan said that, even if she was ugly, she had borne a son; although she was but a slave, there was a son in her house."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan insisted that no one else could feed Wang Lung's son and care for him as she did. She told Wang Lung that beauty would not bear a man sons."
+  }
+ ],
+ "characters": [
+  "O-lan",
+  "Wang Lung",
+  "the eldest son",
+  "the maid"
+ ],
+ "seconds": 47.7
+}

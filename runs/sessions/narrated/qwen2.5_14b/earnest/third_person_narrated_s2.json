@@ -1,0 +1,470 @@
+{
+ "turns": [
+  {
+   "turn": 1,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell must inquire if Jack has a chequebook to his name and if so, whether it has a large enough balance to support a wife and a house in Belgrave Square.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I must inquire, Mr. Worthing, if you have a chequebook to your name and if so, whether it has a large enough balance to support a wife and a house in Belgrave Square."
+  },
+  {
+   "turn": 2,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack had a chequebook, he assured Lady Bracknell, and he could assure her that his finances were sufficient to support a wife and a home in Belgrave Square. He was earnest in his intentions towards Miss Gwendolen.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I have a chequebook, Lady Bracknell, and I can assure you that my finances are sufficient to support a wife and a home in Belgrave Square. I am earnest in my intentions towards Miss Gwendolen."
+  },
+  {
+   "turn": 3,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell expressed her pleasure at hearing that, Mr. Worthing. However, she must also inquire as to his connections. It was hardly fair to the poor girl to offer her his hand in marriage without first ensuring that his background was entirely respectable.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I am pleased to hear that, Mr. Worthing. However, I must also inquire as to your connections. It is hardly fair to the poor girl to offer her your hand in marriage without first ensuring that your background is entirely respectable."
+  },
+  {
+   "turn": 4,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack could assure Lady Bracknell that his background was entirely respectable, though perhaps unconventional. He was eager to provide Miss Gwendolen with a life of comfort and respectability, and he believed his circumstances were sufficient to do so.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I can assure you, Lady Bracknell, that my background is entirely respectable, though perhaps unconventional. I am eager to provide Miss Gwendolen with a life of comfort and respectability, and I believe my circumstances are sufficient to do so."
+  },
+  {
+   "turn": 5,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell understood Jack's assurances but also reminded him that in her circles, one's background was everything. One must know one's ancestors, she told Jack, before counting one's chickens. Had he any family to speak of?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I understand your assurances, Mr. Worthing, but I must also remind you that in my circles, one's background is everything. One must know one's ancestors, Mr. Worthing, before counting one's chickens. Have you any family to speak of?"
+  },
+  {
+   "turn": 6,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack understood, Lady Bracknell. His background may have been unconventional, but he could assure her that his family, while not of noble birth, was respectable and well-regarded in the community. He believed his circumstances were sufficient to ensure Miss Gwendolen's happiness and comfort.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I understand, Lady Bracknell. My background may be unconventional, but I can assure you that my family, while not of noble birth, is respectable and well-regarded in the community. I believe my circumstances are sufficient to ensure Miss Gwendolen's happiness and comfort."
+  },
+  {
+   "turn": 7,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell must say that Mr. Worthing's assurances are not quite sufficient. In her circles, one's lineage is paramount. Can she provide the names of his ancestors? Furthermore, what are his parents' occupations?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I must say, Mr. Worthing, that your assurances are not quite sufficient. In my circles, one's lineage is paramount. Can you provide me with the names of your ancestors? Furthermore, what are your parents' occupations?"
+  },
+  {
+   "turn": 8,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack understood Lady Bracknell's concern. His parents were not of noble birth, but they were respectable members of the community. His father was a successful businessman, and his mother was a lady of good standing. He hoped this provided some assurance regarding his family's respectability.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I understand your concern, Lady Bracknell. My parents were not of noble birth, but they were respectable members of the community. My father was a successful businessman, and my mother was a lady of good standing. I hope this provides some assurance regarding my family's respectability."
+  },
+  {
+   "turn": 9,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell appreciated Mr. Worthing's attempts to reassure her, but she must know more concrete details. His father's occupation was of interest, as well as his social standing before his passing. Could she provide these specifics?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Mr. Worthing, while I appreciate your attempts to reassure me, I must know more concrete details. Your father's occupation is of interest, as well as his social standing before his passing. Can you provide these specifics?"
+  },
+  {
+   "turn": 10,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack understood, Lady Bracknell. His father was a successful businessman who had a significant impact on the community. He was not in a position to provide the names of his ancestors, but he could assure her that his family had always been respectable. He believed his circumstances and social standing were now such that they would ensure Miss Gwendolen's happiness and comfort.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I understand, Lady Bracknell. My father was a successful businessman who had a significant impact on the community. I am not in a position to provide the names of my ancestors, but I can assure you that my family has always been respectable. I believe my circumstances and social standing are now such that they would ensure Miss Gwendolen's happiness and comfort."
+  },
+  {
+   "turn": 11,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell was not at all convinced, she told Jack. His father's occupation, while respectable, did not quite align with the expectations of her social circle. She required more substantial evidence of his family's standing before she could consider him a suitable match for her daughter.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I am not at all convinced, Mr. Worthing. Your father's occupation, while respectable, does not quite align with the expectations of my social circle. I require more substantial evidence of your family's standing before I can consider you a suitable match for my daughter."
+  },
+  {
+   "turn": 12,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack understood, Lady Bracknell. He would do his best to provide any additional information or proof that she required. He was deeply interested in securing her approval and in ensuring Miss Gwendolen's future happiness.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I understand, Lady Bracknell. I will do my best to provide any additional information or proof that you require. I am deeply interested in securing your approval and in ensuring Miss Gwendolen's future happiness."
+  },
+  {
+   "turn": 13,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell was not entirely convinced, she told Jack. His father's occupation, while respectable, did not quite align with the expectations of her social circle. She required more substantial evidence of his family's standing before she could consider him a suitable match for her daughter.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I am not entirely convinced, Mr. Worthing. Your father's occupation, while respectable, does not quite align with the expectations of my social circle. I require more substantial evidence of your family's standing before I can consider you a suitable match for my daughter."
+  },
+  {
+   "turn": 14,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack will, Lady Bracknell. He shall provide any information she requires to the best of his ability. He is deeply devoted to Miss Gwendolen and wishes to ensure her happiness and well-being.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I will, Lady Bracknell. I shall provide any information you require to the best of my ability. I am deeply devoted to Miss Gwendolen and wish to ensure her happiness and well-being."
+  },
+  {
+   "turn": 15,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell shall require a detailed genealogy and a list of all his father's business dealings, Mr. Worthing. It is imperative that she is fully satisfied with his background before she can give her consent.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I shall require a detailed genealogy and a list of all your father's business dealings, Mr. Worthing. It is imperative that I am fully satisfied with your background before I can give my consent."
+  },
+  {
+   "turn": 16,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack will, Lady Bracknell. Jack will prepare the genealogy and the list of his father's business dealings immediately to ensure her satisfaction.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I will, Lady Bracknell. I will prepare the genealogy and the list of my father's business dealings immediately to ensure your satisfaction."
+  },
+  {
+   "turn": 17,
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Gwendolen must remind Lady Bracknell that her happiness is at stake here. Mr. Worthing is a gentleman of the highest character and she is engaged to him.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Mother, I must remind you that my happiness is at stake here. Mr. Worthing is a gentleman of the highest character and I am engaged to him."
+  },
+  {
+   "turn": 18,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack",
+    "Gwendolen"
+   ],
+   "text": "Lady Bracknell trusted that Mr. Worthing would provide the necessary information with dispatch. Gwendolen's happiness was indeed a matter of great importance, but it must be balanced with prudence and due diligence.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I trust that Mr. Worthing will provide the necessary information with dispatch. Gwendolen's happiness is indeed a matter of great importance, but it must be balanced with prudence and due diligence."
+  },
+  {
+   "turn": 19,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell",
+    "Gwendolen"
+   ],
+   "text": "Jack shall ensure that the information is prepared as swiftly as possible, Lady Bracknell. He understands the importance of Gwendolen's happiness and will do everything in his power to meet her requirements.",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I shall ensure that the information is prepared as swiftly as possible, Lady Bracknell. I understand the importance of Gwendolen's happiness and will do everything in my power to meet your requirements."
+  },
+  {
+   "turn": 20,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell shall await his submission, Mr. Worthing, with the utmost interest. However, she must stress that any deficiency in his documentation will be viewed most unfavorably.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I shall await your submission, Mr. Worthing, with the utmost interest. However, I must stress that any deficiency in your documentation will be viewed most unfavorably."
+  }
+ ],
+ "termination": "max_turns",
+ "attempts": 20,
+ "call_stats": {
+  "calls": 41,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "meta": {
+  "text_id": "earnest",
+  "model": "qwen2.5:14b",
+  "mode": "third_person_narrated",
+  "seed": 2,
+  "condition": "narrated",
+  "max_turns": 20,
+  "temperature": 0.7,
+  "memory_k": 5,
+  "policy": "addressee",
+  "enforce": true
+ },
+ "opening": [
+  {
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Gwendolen told Lady Bracknell that she was engaged to Mr. Worthing, mamma."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Gwendolen"
+   ],
+   "text": "Lady Bracknell told Gwendolen that she was not engaged to anyone and that when she did become engaged, she or her father would inform her of the fact."
+  },
+  {
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Gwendolen told Lady Bracknell, 'Mamma!'"
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Gwendolen"
+   ],
+   "text": "Lady Bracknell told Gwendolen to go to the carriage."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Gwendolen"
+   ],
+   "text": "Lady Bracknell told Gwendolen to get into the carriage."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell told Jack to take a seat."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack told Lady Bracknell that he preferred standing."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell told Jack that she felt bound to inform him that he was not down on her list of eligible young men."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack told Lady Bracknell that he must admit he smoked."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell told Jack that she was glad to hear it and that a man should always have an occupation of some kind."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack told Lady Bracknell that he was twenty-nine."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell asked Jack if he knew everything or nothing."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack told Lady Bracknell that he knew nothing."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell told Jack that she was pleased to hear it and that she did not approve of anything that tampers with natural ignorance."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack told Lady Bracknell that his income was between seven and eight thousand a year."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell asked Jack if his income was in land or in investments."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack told Lady Bracknell that his income was in investments."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell told Jack that it was satisfactory."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack told Lady Bracknell that he had a country house with some land attached to it, about fifteen hundred acres."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell told Jack that a country house was satisfactory and asked how many bedrooms it had."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack told Lady Bracknell that he owned a house in Belgrave Square, but it was let by the year to Lady Bloxham."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell told Jack that she did not know Lady Bloxham."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack told Lady Bracknell that Lady Bloxham went about very little and was a lady considerably advanced in years."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell told Jack that nowadays that was no guarantee of respectability of character and asked what number in Belgrave Square."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack told Lady Bracknell that the number was 149."
+  }
+ ],
+ "characters": [
+  "Lady Bracknell",
+  "Jack",
+  "Gwendolen"
+ ],
+ "seconds": 171.1
+}

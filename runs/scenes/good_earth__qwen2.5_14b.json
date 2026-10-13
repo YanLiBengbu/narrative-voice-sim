@@ -1,0 +1,271 @@
+{
+ "dialogue": [
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "[GE-OMITTED:1:aa]"
+  },
+  {
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "[GE-OMITTED:3:aa]"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "Die I must, [GE-OMITTED:5:aa] [GE-OMITTED:6:aa] and well she serves me, [GE-OMITTED:7:aa] [GE-OMITTED:8:aa] because I must die, [GE-OMITTED:9:aa] [GE-OMITTED:10:aa] [GE-OMITTED:11:aa]"
+  },
+  {
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "[GE-OMITTED:14:aa]"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "[GE-OMITTED:15:aa]"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "[GE-OMITTED:21:aa] [GE-OMITTED:22:aa]"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "And has everyone wine? [GE-OMITTED:35:aa]"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "the eldest son"
+   ],
+   "text": "[GE-OMITTED:40:aa] My son, [GE-OMITTED:41:aa] and my daughter, [GE-OMITTED:42:aa] there is she. [GE-OMITTED:43:aa]"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "[GE-OMITTED:52:aa] [GE-OMITTED:53:aa]"
+  }
+ ],
+ "dialogue_raw": [
+  {
+   "speaker": "she",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "[GE-OMITTED:1:aa]"
+  },
+  {
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "she"
+   ],
+   "text": "[GE-OMITTED:3:aa]"
+  },
+  {
+   "speaker": "she",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "Die I must, [GE-OMITTED:5:aa] [GE-OMITTED:6:aa] and well she serves me, [GE-OMITTED:7:aa] [GE-OMITTED:8:aa] because I must die, [GE-OMITTED:9:aa] [GE-OMITTED:10:aa] [GE-OMITTED:11:aa]"
+  },
+  {
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "she"
+   ],
+   "text": "[GE-OMITTED:14:aa]"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "[GE-OMITTED:15:aa]"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "the two young persons"
+   ],
+   "text": "[GE-OMITTED:21:aa] [GE-OMITTED:22:aa]"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "And has everyone wine? [GE-OMITTED:35:aa]"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "her son",
+    "her daughter"
+   ],
+   "text": "[GE-OMITTED:40:aa] My son, [GE-OMITTED:41:aa] and my daughter, [GE-OMITTED:42:aa] there is she. [GE-OMITTED:43:aa]"
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Lotus"
+   ],
+   "text": "[GE-OMITTED:52:aa] [GE-OMITTED:53:aa]"
+  }
+ ],
+ "characters": {
+  "O-lan": {
+   "name": "O-lan",
+   "gender": "female",
+   "personality": "resolute, caring, and deeply concerned about her family's future",
+   "emotional_baseline": 0.5,
+   "speech_style": "direct and often poignant, with a sense of urgency",
+   "description": "O-lan is a strong-willed woman who is terminally ill and wishes to see her eldest son married before she dies. She is deeply devoted to her family and concerned about their well-being after her passing.",
+   "relationships": {
+    "Wang Lung": "husband",
+    "the eldest son": "son",
+    "the maid": "daughter-in-law"
+   }
+  },
+  "Wang Lung": {
+   "name": "Wang Lung",
+   "gender": "male",
+   "personality": "devoted, anxious, and protective",
+   "emotional_baseline": 0.3,
+   "speech_style": "reassuring and sometimes overly optimistic",
+   "description": "Wang Lung is a devoted husband who is deeply concerned about his wife's health and wishes to comfort her. He is also protective of his family and tries to maintain a positive outlook despite the difficult situation.",
+   "relationships": {
+    "O-lan": "wife",
+    "the eldest son": "son",
+    "the maid": "daughter-in-law"
+   }
+  },
+  "the eldest son": {
+   "name": "the eldest son",
+   "gender": "male",
+   "personality": "nervous, respectful, and devoted to his mother",
+   "emotional_baseline": 0.2,
+   "speech_style": "hesitant and polite",
+   "description": "The eldest son is a young man who is deeply devoted to his mother and is nervous about her condition. He is respectful and tries to be cheerful despite his worries.",
+   "relationships": {
+    "O-lan": "mother",
+    "the maid": "wife",
+    "Wang Lung": "father"
+   }
+  },
+  "the maid": {
+   "name": "the maid",
+   "gender": "female",
+   "personality": "dutiful, kind, and attentive",
+   "emotional_baseline": 0.4,
+   "speech_style": "quiet and respectful",
+   "description": "The maid is a young woman who is kind and attentive to O-lan, serving her diligently and showing great respect. She is also the new wife of the eldest son.",
+   "relationships": {
+    "O-lan": "mother-in-law",
+    "the eldest son": "husband",
+    "Wang Lung": "father-in-law"
+   }
+  }
+ },
+ "context": "O-lan, a terminally ill woman, is concerned about her family's future and wishes to see her eldest son married before she dies. Wang Lung, her husband, is trying to comfort her and ensure her last wishes are fulfilled. The eldest son and his new wife are present to support O-lan.",
+ "cast_mapping": {
+  "raw_utterances": 9,
+  "kept": 9,
+  "dropped_unmapped": 0,
+  "raw_labels": [
+   "O-lan",
+   "Wang Lung",
+   "she"
+  ]
+ },
+ "opening_third": [
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan told Wang Lung that there was another thing before she could die."
+  },
+  {
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "Wang Lung told O-lan that she could not speak of dying and please him."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan told Wang Lung that she must die, for she felt it in her vitals waiting, but she would not die before her eldest son came home and before he wed the good maid who was her daughter-in-law, and well she served her, holding the hot water basin steadily and knowing when to bathe her face when she sweated in pain. Now she wanted her son to come home, because she must die, and she wanted him to wed this maid first, so that she could die easily, knowing her grandson was stirred into life and a great grandson for the old one."
+  },
+  {
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "Wang Lung told O-lan that she looked twice as well as they said and years away from death."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan told Wang Lung that she would see him wed and then she must die."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan told Wang Lung to sit here and drink the wine and eat the rice of his marriage, for she would see it all and this would be his bed of marriage since she was soon to be finished with it and carried away."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan asked Wang Lung if everyone had wine and if the sweet rice dish in the middle of the feast was very hot and if they had put full measure of lard and sugar into it and the eight fruits."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "the eldest son"
+   ],
+   "text": "O-lan told her eldest son that she was now content and that he should look to his father and grandfather for guidance. She also instructed her daughter to observe her husband and his ancestors, pointing out the foolish woman in the court as an example of what not to do. O-lan insisted that her children had no duty to anyone else beyond these teachings."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan asked Wang Lung how that one could feed him and care for him as she did. Beauty would not bear a man sons!"
+  }
+ ],
+ "director_stats": {
+  "calls": 4,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "init_seed": 0
+}

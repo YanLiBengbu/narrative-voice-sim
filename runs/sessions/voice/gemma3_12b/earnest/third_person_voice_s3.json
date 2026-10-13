@@ -1,0 +1,462 @@
+{
+ "turns": [
+  {
+   "turn": 1,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Fourteen-nine, she inquired, noting that it was a most unremarkable number, really. One expected a gentleman of substance to reside in a house with a more…distinguished address, wouldn’t one? She pressed, Mr. Worthing, to know if he possessed a lineage.",
+   "compliant_first": false,
+   "regenerated": false,
+   "director_rewrite": true,
+   "residual_violation": false
+  },
+  {
+   "turn": 2,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "He felt a slight blush creep up his neck, and attempted to meet Lady Bracknell’s gaze with what he hoped was an air of nonchalant confidence. A lineage, he stammered, well, he had been told his parents were… were of good stock, though the particulars were a little… hazy, to be perfectly frank.",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 3,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell regarded him with a critical eye. A hazy lineage, she declared, was scarcely a lineage at all! One really must know something, she insisted, about one’s progenitors. It was a matter of the most vital importance; it was, in fact, the very basis of a respectable existence.",
+   "compliant_first": false,
+   "regenerated": false,
+   "director_rewrite": true,
+   "residual_violation": false
+  },
+  {
+   "turn": 4,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "He felt a rather dreadful sinking feeling, and attempted a light chuckle, hoping to deflect the severity of her words. Surely, he ventured, a gentleman could still be respectable without a perfectly clear record of his ancestry, couldn’t he? It seemed rather unfair to demand such… such specific details, really.",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 5,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Surely, Mr. Worthing, he observed with a distinctly raised eyebrow, one does not simply *venture*! To suggest that respectability can be divorced from a demonstrable pedigree is to misunderstand the very foundations upon which civilized society is built. It is, frankly, a most unsettling proposition.",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 6,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "He really hadn't anticipated such a… thorough investigation, did he? Surely, he stammered, there were other qualities one might consider – character, perhaps, or… or a gentleman's integrity? It seemed rather a narrow view to focus solely on lineage, really.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 7,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Mr. Worthing, he remarked with a glacial tone, seemed to believe that character and integrity might somehow compensate for a deficiency in one’s ancestry! One might as well suggest that a radish could masquerade as a rose! It is a most distressing lack of perception, really.",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 8,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "He felt his cheeks flush slightly, and attempted a more confident tone, though it wavered a bit. Surely, he suggested, a gentleman’s actions spoke volumes, didn’t they? It seemed… it seemed rather presumptuous to dismiss a man based solely on what he *didn’t* know about his family.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 9,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell observed that Mr. Worthing’s insistence that actions speak volumes was, of course, a sentiment often trotted out by those attempting to conceal a regrettable lack of provenance. She expressed a hope that Mr. Worthing did not genuinely believe that a hastily performed good deed could erase the blemishes of an unsuitable birth!",
+   "compliant_first": false,
+   "regenerated": false,
+   "director_rewrite": true,
+   "residual_violation": false
+  },
+  {
+   "turn": 10,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "He really hadn't meant to imply anything untoward, he assured Lady Bracknell, his voice a touch higher than usual. Surely, he stammered, the importance of a man’s present conduct outweighed the… the vagaries of his origins? It seemed rather unfair to judge someone entirely on the basis of… well, of things beyond their control, didn't it?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 11,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack",
+    "Gwendolen"
+   ],
+   "text": "Lady Bracknell observed, with a delicate sniff, that Mr. Worthing’s insistence on the importance of present conduct was, naturally, a sentiment often embraced by those attempting to distract from a lamentable absence of suitable antecedents! One trusts, she continued, that Mr. Worthing does not harbor the misguided notion that good intentions, however earnestly expressed, can somehow transmute base origins into something… respectable.",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 12,
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Gwendolen felt compelled to observe, with a delicate lift of her chin, that one really did find Mr. Worthing’s persistence rather charming, didn’t one? It was simply delightful, she thought, how he insisted on trying to convince Lady Bracknell of his… virtues, even when faced with such… *pointed* questioning. Surely, appearances *could* be deceiving, and a man's heart was what truly mattered, wasn’t it?",
+   "compliant_first": false,
+   "regenerated": false,
+   "director_rewrite": true,
+   "residual_violation": false
+  },
+  {
+   "turn": 13,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Gwendolen",
+    "Jack"
+   ],
+   "text": "Lady Bracknell regarded Miss Fairfax’s observation with a distinctly dubious air. It appeared, she remarked, that Miss Fairfax’s youthful enthusiasm was clouding her judgement, as charm, while undeniably agreeable, could scarcely compensate for a demonstrable lack of lineage! One trusts that Miss Fairfax is not encouraging Mr. Worthing's… delusions.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 14,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell",
+    "Gwendolen"
+   ],
+   "text": "He truly wished to be understood, Jack insisted, his cheeks flushing a little. It wasn't a matter of denying one's past, heavens no, but surely a gentleman could be judged by his actions and intentions, and not… and not by some family tree he hadn't even had the pleasure of… of examining!",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 15,
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Gwendolen expressed that, really, one did get rather tired of these endless genealogical investigations.",
+   "compliant_first": false,
+   "regenerated": false,
+   "director_rewrite": true,
+   "residual_violation": false
+  },
+  {
+   "turn": 16,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Gwendolen",
+    "Jack"
+   ],
+   "text": "Lady Bracknell observed that Miss Fairfax's weariness with genealogical investigations was, predictably, a reflection of a certain… levity of spirit! It appeared that a young lady’s appreciation for the nuances of heredity was, alas, often inversely proportional to her understanding of the social order – a lamentable, though not entirely unexpected, phenomenon.",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 17,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell",
+    "Gwendolen"
+   ],
+   "text": "He couldn't help but stammer a little, explaining that, of course, he entirely respected the importance of family, truly he did, but that a gentleman’s character surely wasn’t solely defined by… by the names on a piece of paper! One hoped, at least, that a little consideration might be given to… to present conduct?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 18,
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Gwendolen insisted, with a touch of exasperation, that one simply *could not* go on with this. It was, she declared, dreadfully tedious, and Mr. Worthing was quite obviously a gentleman of the most impeccable… well, potential!",
+   "compliant_first": false,
+   "regenerated": false,
+   "director_rewrite": true,
+   "residual_violation": false
+  },
+  {
+   "turn": 19,
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack",
+    "Gwendolen"
+   ],
+   "text": "Lady Bracknell felt compelled to remark, with a distinctly raised eyebrow, that Miss Fairfax’s repeated assertions of boredom and Mr. Worthing’s rather insistent appeals to ‘present conduct’ were, frankly, the very hallmarks of a mind insufficiently disciplined to appreciate the gravity of social obligations. It would appear, she observed, that a certain amount of… *patience*… was required even to begin to understand the complexities of lineage.",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 20,
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell",
+    "Gwendolen"
+   ],
+   "text": "He really did try to appear calm, Jack did, but a slight tremor entered his voice as he added that surely, even if one’s… background wasn’t entirely… complete, a gentleman's intentions were paramount? One could only strive to be worthy, couldn’t one?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  }
+ ],
+ "termination": "max_turns",
+ "attempts": 20,
+ "call_stats": {
+  "calls": 39,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "meta": {
+  "text_id": "earnest",
+  "model": "gemma3:12b",
+  "mode": "third_person_voice",
+  "seed": 3,
+  "condition": "voice",
+  "max_turns": 20,
+  "temperature": 0.7,
+  "memory_k": 5,
+  "policy": "addressee",
+  "enforce": true
+ },
+ "opening": [
+  {
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Gwendolen informed Lady Bracknell that she was engaged to Mr. Worthing."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Gwendolen"
+   ],
+   "text": "Lady Bracknell remarked that Gwendolen was not engaged to anyone and explained that an engagement should come as a surprise, pleasant or unpleasant, and that she or Gwendolen’s father would inform her of the fact. She added that it was hardly a matter for her to arrange for herself and then announced that she had a few questions to put to Mr. Worthing, instructing Gwendolen to wait for her below in the carriage."
+  },
+  {
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Gwendolen protested to Lady Bracknell."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Gwendolen"
+   ],
+   "text": "Lady Bracknell instructed Gwendolen to go to the carriage."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Gwendolen"
+   ],
+   "text": "Lady Bracknell repeated her instruction for Gwendolen to go to the carriage."
+  },
+  {
+   "speaker": "Gwendolen",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Gwendolen acknowledged Lady Bracknell’s instruction."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell invited Jack to take a seat."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack thanked Lady Bracknell but stated that he preferred standing."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell explained that she felt bound to tell Jack that he was not listed among the eligible young men, though she shared the same list as the Duchess of Bolton. She added that she was ready to enter his name if his answers were what a mother required and then inquired whether he smoked."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack admitted that he smoked."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell expressed her pleasure, stating that a man should always have an occupation and that there were too many idle men in London. She then asked him how old he was."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack replied that he was twenty-nine years old."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell commented that it was a very good age to be married and stated that she believed a man who desired to get married should know either everything or nothing, asking him which he knew."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack responded that he knew nothing, Lady Bracknell."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell expressed her pleasure, stating that she did not approve of anything that tampered with natural ignorance and that ignorance was like a delicate exotic fruit. She continued by criticizing modern education and suggesting that it would be dangerous to the upper classes. Finally, she asked about his income."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack stated that his income was between seven and eight thousand a year."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell inquired whether the income was in land or investments."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack clarified that it was chiefly in investments."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell observed that land had ceased to be either a profit or a pleasure and that it only provided position. She then asked about a country house."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack explained that he had a country house with fifteen hundred acres attached, but that he did not depend on it for his income, adding that the poachers seemed to be the only ones benefiting from it."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell inquired about the number of bedrooms in the country house and then asked if he had a town house."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack stated that he owned a house in Belgrave Square, but it was let by the year to Lady Bloxham, adding that he could get it back at six months’ notice."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell expressed that she did not know Lady Bloxham."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack explained that Lady Bloxham did not go about very much and that she was considerably advanced in years."
+  },
+  {
+   "speaker": "Lady Bracknell",
+   "speak_to": [
+    "Jack"
+   ],
+   "text": "Lady Bracknell remarked that age was no guarantee of respectability of character and asked for the number of the house in Belgrave Square."
+  },
+  {
+   "speaker": "Jack",
+   "speak_to": [
+    "Lady Bracknell"
+   ],
+   "text": "Jack replied that the number was 149."
+  }
+ ],
+ "characters": [
+  "Lady Bracknell",
+  "Jack",
+  "Gwendolen"
+ ],
+ "seconds": 277.9
+}

@@ -1,0 +1,324 @@
+{
+ "turns": [
+  {
+   "turn": 1,
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "Wang Lung nodded slowly, attempting a reassuring smile for his wife, though a tremor ran through his hand as he raised the cup of wine she indicated. He hoped she understood that everyone was being looked after, that the feast was prepared just as she wished, and that the lard and sugar were plentiful. It was… a great deal to manage, and he just wanted her to be at peace.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 2,
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung",
+    "the eldest son"
+   ],
+   "text": "She observed the maid, carefully assessing the young woman’s demeanor, and then remarked to Wang Lung that a woman’s worth was not measured in comeliness, but in the strength of her hands and the diligence of her spirit. It was imperative that the eldest son remember this, and treat her with the respect due to one who would bear the burden of the family’s future.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 3,
+   "speaker": "the eldest son",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "He offered a brief nod toward his mother, attempting a reassuring tone. It was important that she felt secure, he indicated, that everything would proceed as she wished. The family’s stability was paramount.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 4,
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung",
+    "the eldest son"
+   ],
+   "text": "She instructed Wang Lung to ensure the eldest son understood the gravity of his responsibility, and that the maid, despite her… modest origins, be treated with a deference befitting a mother of his children. A lineage is not built on fleeting beauty, but on enduring strength; let him not forget this.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 5,
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "the eldest son",
+    "O-lan"
+   ],
+   "text": "Wang Lung mumbled a response, hoping to convey his agreement with his wife’s words, and he nodded towards his son, adding that he would, of course, see to it that everything was as she wished. It was… important, he believed, to uphold tradition and respect, and he would do his best to guide his son, though the weight of such responsibility felt heavy on his shoulders. He offered a small, hesitant smile, hoping it appeared reassuring.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 6,
+   "speaker": "the eldest son",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "He acknowledged his mother’s words with a slight inclination of his head, stating that he understood the importance of treating the maid with respect and consideration. It was a matter of ensuring the family’s continued prosperity, he added, hoping it would satisfy her. He avoided her gaze, feeling a pressure he couldn’t quite name.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 7,
+   "speaker": "O-lan",
+   "speak_to": [
+    "the eldest son",
+    "Wang Lung"
+   ],
+   "text": "She regarded her eldest son with a measured gaze, then indicated to Wang Lung that the young woman’s lineage, however humble, was now intertwined with their own. It would be a grave error to permit her to feel anything less than secure in her position, for the fruit of her womb would determine the future of this house; let him ensure she understands this, implicitly and explicitly.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 8,
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "the eldest son",
+    "O-lan"
+   ],
+   "text": "Wang Lung expressed his agreement, adding that, of course, the young woman would be treated with the respect due to any member of the family, and that he would speak with her himself to ensure she understood her position. He hoped his words were comforting, though he felt a blush rise to his cheeks at the prospect of directly addressing her; such matters felt best left to the eldest son, truly.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 9,
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "She observed Wang Lung’s discomfort, a familiar pattern, and remarked that his hesitations were a weakness that would not serve him well when faced with the inevitable hardships of life. It is not enough to *say* one will provide security; one must *ensure* it, with unwavering resolve, lest the foundations crumble.",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 10,
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "Wang Lung nodded slowly, attempting a more firm expression, and assured his wife that he understood her meaning. He would, of course, see to her wishes regarding the young woman, and strive to embody that unwavering resolve she spoke of. It was… a difficult thing, he admitted, but he would try his very best.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 11,
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "She regarded her husband with a knowing look, noting the strain in his posture and the inadequacy of his reassurances. It was a familiar failing; he sought to placate, rather than to *lead*. The future demanded more than pleasantries, it demanded strength, and she doubted he possessed enough to see the family through the coming years.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 12,
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan",
+    "the eldest son"
+   ],
+   "text": "Wang Lung cleared his throat, attempting to meet his wife’s gaze but finding it difficult to hold. He assured her that he understood the importance of ensuring the young woman’s comfort and security, repeating that he would do his best to convey this to her, though he admitted, with a slight tremor in his voice, that perhaps his eldest son was better suited to the task. It was simply… a matter of ensuring things were handled properly, he felt.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 13,
+   "speaker": "the eldest son",
+   "speak_to": [
+    "O-lan",
+    "Wang Lung"
+   ],
+   "text": "He offered a brief nod to his father, acknowledging the sentiment. It would be done, he assured O-lan, and he would speak with the maid directly to ensure she understood. He hoped that would be sufficient.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 14,
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "Wang Lung, feeling a surge of helpless discomfort, spoke softly to his wife, attempting to sound confident. He reassured her that his eldest son was a good man, capable and dutiful, and that he would certainly listen to his father's instructions regarding the young woman’s wellbeing. Surely, he said, such a matter was best left to someone with a head for these things.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 15,
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "She observed her son’s brief nod, a flicker of something unreadable in his eyes, and remarked to Wang Lung that such assurances were easily given, but their worth would be measured by their execution. It was not enough to *say* she would be comfortable; it was necessary to *ensure* it, and that required a diligence her son seemed to lack, a failing she would have to compensate for, even in her weakened state.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 16,
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan",
+    "the eldest son",
+    "the maid"
+   ],
+   "text": "Wang Lung gestured vaguely towards his son, hoping to deflect further scrutiny of his own capabilities, and murmured that of course, his son would see to everything, as he always did. It was a good thing to have a strong son, he thought, a son who could handle these… delicate matters. Surely, with the young man’s attention, the maid would want for nothing.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 17,
+   "speaker": "the eldest son",
+   "speak_to": [
+    "the maid"
+   ],
+   "text": "He acknowledged his mother's words with a slight inclination of his head, then turned his attention to the maid. He assured her that his father’s wishes would be observed, and he would do what was necessary to ensure her wellbeing.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  }
+ ],
+ "termination": "silence",
+ "attempts": 23,
+ "call_stats": {
+  "calls": 24,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "meta": {
+  "text_id": "good_earth",
+  "model": "gemma3:12b",
+  "mode": "third_person",
+  "seed": 2,
+  "condition": "full",
+  "max_turns": 20,
+  "temperature": 0.7,
+  "memory_k": 5,
+  "policy": "addressee",
+  "enforce": true
+ },
+ "opening": [
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan informed Wang Lung that there was another thing before she could die."
+  },
+  {
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "Wang Lung rebuked O-lan, stating that she could not speak of dying and please him."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan explained to Wang Lung that she must die, as she felt it in her vitals, but would not die before her eldest son returned home and before he married the maid who was her daughter-in-law, and that she wanted him to ensure the maid served her well, holding the hot water basin steadily and knowing when to bathe her face when she sweated in pain. She added that she wanted her son to come home and for him to marry the maid first, so that she may die easily, knowing his grandson was stirred into life and a great grandson for the old one."
+  },
+  {
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "Wang Lung observed that O-lan looked twice as well as they said and years away from death."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan assured Wang Lung that she would see him wed and then she must die."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan remarked that the maid would be well, yet."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan instructed Wang Lung to sit and drink the wine and eat the rice of his marriage, as she wished to witness it all, and that it would be his bed of marriage since she was soon to be finished with it and carried away."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan inquired whether everyone had wine and if the sweet rice dish in the middle of the feast was very hot, and if they had put a full measure of lard and sugar into it and the eight fruits."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan declared that she was content and that the thing in her may do as it will. She then instructed her son to look to his father and grandfather, and her daughter to look to her husband, his father, his grandfather, and the poor fool in the court, adding that she had no duty to any other."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan conceded that even if she was ugly, she had borne a son, and that although she was but a slave, there was a son in her house."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan questioned how that one could feed him and care for him as she did, asserting that beauty would not bear a man sons."
+  }
+ ],
+ "characters": [
+  "O-lan",
+  "Wang Lung",
+  "the eldest son",
+  "the maid"
+ ],
+ "seconds": 187.2
+}

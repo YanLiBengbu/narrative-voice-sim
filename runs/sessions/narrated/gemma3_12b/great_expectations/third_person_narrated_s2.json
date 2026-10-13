@@ -1,0 +1,418 @@
+{
+ "turns": [
+  {
+   "turn": 1,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip assured Miss Havisham that he would endeavour to do so. He repeated his commitment, adding that he would call for Estella at the door, as she had instructed.",
+   "compliant_first": false,
+   "regenerated": false,
+   "director_rewrite": true,
+   "residual_violation": false,
+   "speech": "I… I shall endeavour to do so, Miss Havisham. I... I will call for Estella at the door, as you’ve… as you’ve bid me."
+  },
+  {
+   "turn": 2,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "A door, she said. Yes, a door…it separated, did it not? Call her, child. Call her, and let him see if her presence could… alleviate… this persistent stillness.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "A door, you say? Yes, a door…it separates, does it not? Call her, child. Call her, and let me see if her presence can… alleviate… this persistent stillness."
+  },
+  {
+   "turn": 3,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "He insisted, Miss Havisham, that he would. He did believe he understood; a door, he saw, and he was to call for Estella. He would endeavour to do so with the utmost respect, and he hoped that she might appear.",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I… I shall, Miss Havisham. I do believe I understand; a door, you see, and… and I am to call for Estella. I shall endeavour to do so with the utmost… respect, and… and hope that she… that she might appear."
+  },
+  {
+   "turn": 4,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Respect, he heard her say, a commendable sentiment, child. But respect was… brittle, she explained, it shattered so easily, like a dropped vase, leaving only shards and the echo of what *was*.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Respect, you say? A commendable sentiment, child. But respect is… brittle, you see. It shatters so easily, like a dropped vase, leaving only shards and the echo of what *was*."
+  },
+  {
+   "turn": 5,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "He hoped he understood correctly, Miss Havisham. A door… and Estella… he would, of course, strive to pronounce her name with the proper… the proper regard, and he would call out, as she had instructed.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I… I do hope I understand correctly, Miss Havisham. A door… and Estella… I shall, of course, strive to pronounce her name with the proper… the proper regard, and I shall… I shall call out, as you’ve instructed."
+  },
+  {
+   "turn": 6,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Proper regard… yes, a delicate thing, proper regard. He wondered if one truly *earned* regard, child? No, it was given, bestowed… and then, so often, it was… withdrawn. Call her, Pip. He insisted that Pip call her now.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Proper regard… yes, a delicate thing, proper regard. But does one truly *earn* regard, child? No, it is given, bestowed… and then, so often, it is… withdrawn. Call her, Pip. Call her now."
+  },
+  {
+   "turn": 7,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "He told Mary that he believed he understood. It was, he said, a rather imposing door, she saw, and he wouldn't wish to cause any disturbance. Perhaps, if it was permissible, he might just clear his throat, and then attempt the calling.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I… I do believe I understand, Miss Havisham. It is… a rather imposing door, you see, and I wouldn't wish to… to cause any… disturbance. Perhaps, if it is permissible, I might just… clear my throat, and then… and then attempt the calling?"
+  },
+  {
+   "turn": 8,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "A disturbance? It was all that ever remained, child. The smallest sound, the slightest tremor…it echoed, she explained, in the stillness. Call her, Pip. Call her now, and let them see if any echoes remained within her.",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "A disturbance? A disturbance is all that ever remains, child. The smallest sound, the slightest tremor...it echoes, you see, in the stillness. Call her, Pip. Call her now, and let us see if any echoes remain within *me*."
+  },
+  {
+   "turn": 9,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "He did beg Mary’s pardon. It was just… the silence, he explained, it seemed to amplify everything. He would endeavour to call, but he feared his voice might not be quite sufficient to break through it all.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I… I do beg your pardon, Miss Havisham. It’s just… the silence, you see, it seems to… to amplify everything. I shall endeavour to call, but I fear my voice might… might not be quite sufficient to break through it all."
+  },
+  {
+   "turn": 10,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Sufficient? he asked Pip, his voice a fragile thing. A whisper was sufficient to shatter a world, was it not? Call her, Pip. There was no need to hesitate. It was time.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Sufficient? My dear boy, a whisper is sufficient to shatter a world, is it not? Call her, Pip. Do not hesitate. It is time."
+  },
+  {
+   "turn": 11,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "He perceived, she thought, that Miss Havisham wished him to address her. It was merely that the magnitude of the occasion, and the profound stillness, they did rather inhibit him, she saw. He would endeavour, with all due respect, to comply.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I… I do perceive, Miss Havisham, that you wish me to… to address you. It is merely that the… the magnitude of the occasion, and the… the profound stillness, they do rather… inhibit me, you see. I shall endeavour, with all due respect, to comply."
+  },
+  {
+   "turn": 12,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham inquired whether he endeavoured. She conceded that he did, but then questioned if he *felt*, Pip, if he felt the weight of years pressing down, the dust of shattered dreams clinging to her very soul. She suggested that he call her, Pip, so that they might observe if his endeavours could penetrate the veil.",
+   "compliant_first": false,
+   "regenerated": false,
+   "director_rewrite": true,
+   "residual_violation": false,
+   "speech": "Endeavour? Yes, he endeavours. But does he *feel*, Pip? Does he feel the weight of years pressing down, the dust of shattered dreams clinging to my very soul? Call her, Pip. Let us see if his endeavours can penetrate the veil."
+  },
+  {
+   "turn": 13,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "He told Mary that he did endeavour, she knew. It was not that he did not wish to, she saw, but… to feel the weight, as she described it, was a rather formidable prospect for one so young. He would attempt, with the utmost diligence, to… to imagine such a thing.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I… I do endeavour, Miss Havisham. It is not that I do not wish to, you see, but… to feel the weight, as you describe it, is a rather… a formidable prospect for one so young. I shall attempt, with the utmost diligence, to… to imagine such a thing."
+  },
+  {
+   "turn": 14,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Imagine, Pip, he asked. A formidable prospect, indeed. But did one truly *imagine* grief, dear boy? No. One *lived* it. He insisted Pip call him, and see if youthful imagination could conjure even a sliver of his despair.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Imagine, Pip, you say? A formidable prospect, indeed. But does one truly *imagine* grief, dear boy? No. One *lives* it. Call me, Pip. Call me, and see if your youthful imagination can conjure even a sliver of my despair."
+  },
+  {
+   "turn": 15,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "He attempted to picture it, Miss Havisham. It was… difficult, he saw. To conceive of such a… a vastness of sorrow, encompassing so many years… but he was trying, truly he was.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I… I do attempt to picture it, Miss Havisham. It is… difficult, you see. To conceive of such a… a vastness of sorrow, encompassing so many years… but I am trying, truly I am."
+  },
+  {
+   "turn": 16,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Difficult, was it? Difficult to picture what she had lived, Pip? It was, she supposed, as attempting to grasp the wind, to hold the echoes of laughter that no longer graced these halls. Try again, dear boy, she urged, and let her see if his youthful mind could conjure even a shadow of her… her stillness.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Difficult, is it? Difficult to picture what I have *lived*, Pip? It is, I suppose, as attempting to grasp the wind, to hold the echoes of laughter that no longer grace these halls. Try again, dear boy, and let me see if your youthful mind can conjure even a shadow of my… my stillness."
+  },
+  {
+   "turn": 17,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "He told Mary that he was attempting, truly attempting. It was just… it was rather overwhelming, she saw. To try and summon such a feeling, when one’s own experiences were, well, so very different.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I… I am attempting, Miss Havisham, truly. It is just… it is rather overwhelming, you see. To try and… to summon such a feeling, when one’s own experiences are, well, so very different."
+  },
+  {
+   "turn": 18,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Overwhelming, she asked. Miss Havisham considered this. A fleeting sensation, a summer shower, that’s what overwhelming was. What she endured… what she *had* endured… was a perpetual twilight, a stillness that suffocated. She wanted Pip to comprehend the weight of a promise broken, a future shattered.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Overwhelming, you say? My dear Pip, overwhelming is a fleeting sensation, a summer shower. What I endure… what I *have* endured… is a perpetual twilight, a stillness that suffocates. Tell me, Pip, do you comprehend the weight of a promise broken, a future shattered?"
+  },
+  {
+   "turn": 19,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "He told Mary that he truly did try. But it wasn’t as if he’d ever… well, he’d never known anyone to… to *break* a promise in such a way, or… or to have a future shattered, she saw. It was a most… a most distressing thing to contemplate.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I… I do try, Miss Havisham, truly I do. But it’s not as if I’ve ever… well, I’ve never known anyone to… to *break* a promise in such a way, or… or to have a future shattered, you see. It’s a most… a most distressing thing to contemplate."
+  },
+  {
+   "turn": 20,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Distressing, she said. Yes, distressing it was, dear boy, but distress was merely a ripple on the surface of a sea of despair. He had broken her heart, Pip, shattered it, and left her adrift, forever bound to this… this monument to a lie. She asked him to try to imagine the shattering, the utter *absence* of hope… to try to imagine that, and then tell her if it was merely distressing.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Distressing, you say? Yes, distressing it is, dear boy, but distress is merely a ripple on the surface of a sea of despair. He broke my heart, Pip, shattered it, and left me adrift, forever bound to this… this monument to a lie. Try to imagine, Pip, the shattering, the utter *absence* of hope… try to imagine that, and then tell me if it is merely distressing."
+  }
+ ],
+ "termination": "max_turns",
+ "attempts": 20,
+ "call_stats": {
+  "calls": 46,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "meta": {
+  "text_id": "great_expectations",
+  "model": "gemma3:12b",
+  "mode": "third_person_narrated",
+  "seed": 2,
+  "condition": "narrated",
+  "max_turns": 20,
+  "temperature": 0.7,
+  "memory_k": 5,
+  "policy": "addressee",
+  "enforce": true
+ },
+ "opening": [
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham inquired who it was."
+  },
+  {
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip informed her that he was Pip, ma’am."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham repeated his name, questioning if he was Pip."
+  },
+  {
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip explained that he was Mr. Pumblechook’s boy, and had come to play."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham instructed him to approach, requesting that he allow her to examine him closely."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham asked if he was unafraid of a woman who had never seen the sun since his birth."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham inquired what she touched there."
+  },
+  {
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip confirmed that he knew, ma’am."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham pressed him to identify what she touched."
+  },
+  {
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip responded that it was her heart."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham declared it broken."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham stated that she was tired and desired diversion, having finished with men and women, and urged him to play."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham confessed to having occasional strange thoughts, expressing a desire to witness some play, and repeated her encouragement to play."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham questioned whether he was sullen and obstinate."
+  },
+  {
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip assured her that he was very sorry for her and regretted being unable to play at that moment, explaining that any complaint would lead to trouble with his sister, and that the unfamiliar and fine, yet melancholy, surroundings prevented him from doing so."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham mused that it was new to him, old to her, strange to him, familiar to her, and melancholy to both of them, and instructed him to call Estella."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham repeated her instruction to call Estella."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham indicated that he was capable of doing so, instructing him to call Estella at the door."
+  }
+ ],
+ "characters": [
+  "Miss Havisham",
+  "Pip"
+ ],
+ "seconds": 244.9
+}

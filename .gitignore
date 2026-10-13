@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+runs_smoke/
+results_smoke/
+*.tmp
+pipeline.log

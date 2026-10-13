@@ -1,0 +1,1278 @@
+\documentclass[10pt]{article}
+\usepackage[margin=2cm]{geometry}
+\usepackage{booktabs,longtable,array}
+\usepackage[T1]{fontenc}
+\usepackage{times}
+\usepackage[hidelinks]{hyperref}
+\setlength{\LTcapwidth}{\textwidth}
+\title{Supplemental Information\\[4pt]\large An LLM-driven multi-agent simulation framework for quantitative analysis of narrative voice shifts in literary texts}
+\author{Lili Zhao and Hui Shi}
+\date{}
+\begin{document}
+\maketitle
+\section*{S1. Paired comparisons of narrative modes (main experiment)}
+
+Session-level means were compared within excerpt--model--seed blocks (n = number of blocks). Diff = mean of A$-$B with 95\% bootstrap CI; $p$: Wilcoxon signed-rank; $p_{Holm}$: Holm-adjusted within each pair of modes; $d_z$: Cohen's $d_z$; $r_{rb}$: matched-pairs rank-biserial correlation.
+
+{\scriptsize
+\begin{longtable}{llrrrrrrrrrr}
+\caption{Paired comparisons between narrative modes.}\\
+\toprule
+Pair (A vs B) & Measure & n & Mean A & Mean B & Diff & CI low & CI high & $d_z$ & $r_{rb}$ & $p$ & $p_{Holm}$ \\
+\midrule
+\endhead
+First vs Third & fp\_ratio & 90 & 0.846 & 0.000 & 0.845 & 0.820 & 0.869 & 7.166 & 1.000 & 0.000 & 0.000 \\
+First vs Third & fp\_rate & 90 & 0.092 & 0.000 & 0.092 & 0.087 & 0.097 & 3.672 & 1.000 & 0.000 & 0.000 \\
+First vs Third & tp\_rate & 90 & 0.015 & 0.100 & -0.085 & -0.092 & -0.078 & -2.581 & -1.000 & 0.000 & 0.000 \\
+First vs Third & self\_name & 90 & 0.283 & 1.970 & -1.687 & -1.850 & -1.539 & -2.229 & -1.000 & 0.000 & 0.000 \\
+First vs Third & subjectivity & 90 & 0.486 & 0.483 & 0.003 & -0.019 & 0.024 & 0.027 & 0.045 & 0.710 & 1.000 \\
+First vs Third & intensity & 90 & 0.205 & 0.171 & 0.034 & 0.018 & 0.050 & 0.449 & 0.494 & 0.000 & 0.000 \\
+First vs Third & polarity & 90 & 0.121 & 0.092 & 0.028 & 0.010 & 0.046 & 0.325 & 0.332 & 0.006 & 0.025 \\
+First vs Third & vader & 90 & 0.208 & 0.189 & 0.019 & -0.032 & 0.069 & 0.076 & 0.100 & 0.408 & 1.000 \\
+First vs Third & distilbert & 90 & 0.223 & 0.062 & 0.161 & 0.088 & 0.235 & 0.448 & 0.464 & 0.000 & 0.001 \\
+First vs Third & n\_words & 90 & 34.218 & 41.215 & -6.997 & -9.065 & -5.020 & -0.714 & -0.650 & 0.000 & 0.000 \\
+First vs Third & word\_len & 90 & 6.669 & 7.054 & -0.386 & -0.474 & -0.298 & -0.899 & -0.798 & 0.000 & 0.000 \\
+First vs Third & zipf & 90 & 4.616 & 4.501 & 0.114 & 0.084 & 0.145 & 0.780 & 0.733 & 0.000 & 0.000 \\
+First vs Third & rare\_rate & 90 & 0.039 & 0.048 & -0.009 & -0.014 & -0.004 & -0.383 & -0.445 & 0.000 & 0.002 \\
+First vs Third & mattr & 90 & 0.843 & 0.870 & -0.027 & -0.043 & -0.012 & -0.357 & -0.380 & 0.002 & 0.009 \\
+First vs Third & mtld & 90 & 70.895 & 72.519 & -1.624 & -5.713 & 2.315 & -0.082 & 0.003 & 0.979 & 1.000 \\
+First vs Neutral & fp\_ratio & 90 & 0.846 & 0.800 & 0.045 & 0.025 & 0.066 & 0.461 & 0.472 & 0.000 & 0.001 \\
+First vs Neutral & fp\_rate & 90 & 0.092 & 0.081 & 0.010 & 0.007 & 0.014 & 0.595 & 0.589 & 0.000 & 0.000 \\
+First vs Neutral & tp\_rate & 90 & 0.015 & 0.017 & -0.001 & -0.004 & 0.002 & -0.092 & -0.192 & 0.114 & 0.738 \\
+First vs Neutral & self\_name & 90 & 0.283 & 0.288 & -0.005 & -0.047 & 0.037 & -0.027 & -0.152 & 0.431 & 1.000 \\
+First vs Neutral & subjectivity & 90 & 0.486 & 0.499 & -0.013 & -0.035 & 0.010 & -0.118 & -0.159 & 0.189 & 0.945 \\
+First vs Neutral & intensity & 90 & 0.205 & 0.218 & -0.013 & -0.029 & 0.003 & -0.162 & -0.204 & 0.092 & 0.738 \\
+First vs Neutral & polarity & 90 & 0.121 & 0.124 & -0.004 & -0.022 & 0.014 & -0.041 & -0.074 & 0.542 & 1.000 \\
+First vs Neutral & vader & 90 & 0.208 & 0.254 & -0.046 & -0.080 & -0.012 & -0.273 & -0.272 & 0.025 & 0.249 \\
+First vs Neutral & distilbert & 90 & 0.223 & 0.284 & -0.061 & -0.117 & -0.004 & -0.220 & -0.254 & 0.036 & 0.326 \\
+First vs Neutral & n\_words & 90 & 34.218 & 32.532 & 1.686 & 1.025 & 2.357 & 0.520 & 0.561 & 0.000 & 0.000 \\
+First vs Neutral & word\_len & 90 & 6.669 & 6.719 & -0.051 & -0.128 & 0.027 & -0.135 & -0.198 & 0.104 & 0.738 \\
+First vs Neutral & zipf & 90 & 4.616 & 4.602 & 0.014 & -0.012 & 0.040 & 0.114 & 0.142 & 0.242 & 0.970 \\
+First vs Neutral & rare\_rate & 90 & 0.039 & 0.041 & -0.002 & -0.006 & 0.003 & -0.077 & -0.068 & 0.585 & 1.000 \\
+First vs Neutral & mattr & 90 & 0.843 & 0.860 & -0.017 & -0.028 & -0.005 & -0.295 & -0.515 & 0.000 & 0.000 \\
+First vs Neutral & mtld & 90 & 70.895 & 76.500 & -5.605 & -8.159 & -3.080 & -0.449 & -0.474 & 0.000 & 0.001 \\
+Third vs Neutral & fp\_ratio & 90 & 0.000 & 0.800 & -0.800 & -0.826 & -0.773 & -6.164 & -1.000 & 0.000 & 0.000 \\
+Third vs Neutral & fp\_rate & 90 & 0.000 & 0.081 & -0.081 & -0.086 & -0.076 & -3.292 & -1.000 & 0.000 & 0.000 \\
+Third vs Neutral & tp\_rate & 90 & 0.100 & 0.017 & 0.084 & 0.077 & 0.091 & 2.430 & 1.000 & 0.000 & 0.000 \\
+Third vs Neutral & self\_name & 90 & 1.970 & 0.288 & 1.682 & 1.530 & 1.843 & 2.181 & 1.000 & 0.000 & 0.000 \\
+Third vs Neutral & subjectivity & 90 & 0.483 & 0.499 & -0.016 & -0.037 & 0.004 & -0.159 & -0.129 & 0.289 & 0.578 \\
+Third vs Neutral & intensity & 90 & 0.171 & 0.218 & -0.047 & -0.063 & -0.031 & -0.619 & -0.642 & 0.000 & 0.000 \\
+Third vs Neutral & polarity & 90 & 0.092 & 0.124 & -0.032 & -0.051 & -0.013 & -0.346 & -0.355 & 0.003 & 0.017 \\
+Third vs Neutral & vader & 90 & 0.189 & 0.254 & -0.064 & -0.107 & -0.020 & -0.302 & -0.375 & 0.002 & 0.012 \\
+Third vs Neutral & distilbert & 90 & 0.062 & 0.284 & -0.222 & -0.291 & -0.154 & -0.654 & -0.649 & 0.000 & 0.000 \\
+Third vs Neutral & n\_words & 90 & 41.215 & 32.532 & 8.683 & 6.673 & 10.785 & 0.860 & 0.774 & 0.000 & 0.000 \\
+Third vs Neutral & word\_len & 90 & 7.054 & 6.719 & 0.335 & 0.247 & 0.425 & 0.766 & 0.756 & 0.000 & 0.000 \\
+Third vs Neutral & zipf & 90 & 4.501 & 4.602 & -0.100 & -0.134 & -0.065 & -0.597 & -0.596 & 0.000 & 0.000 \\
+Third vs Neutral & rare\_rate & 90 & 0.048 & 0.041 & 0.007 & 0.002 & 0.012 & 0.294 & 0.302 & 0.014 & 0.042 \\
+Third vs Neutral & mattr & 90 & 0.870 & 0.860 & 0.010 & -0.004 & 0.025 & 0.147 & 0.127 & 0.296 & 0.578 \\
+Third vs Neutral & mtld & 90 & 72.519 & 76.500 & -3.981 & -7.466 & -0.367 & -0.228 & -0.320 & 0.008 & 0.033 \\
+First vs Rule-based & fp\_ratio & 90 & 0.846 & 0.000 & 0.846 & 0.821 & 0.869 & 7.171 & 1.000 & 0.000 & 0.000 \\
+First vs Rule-based & fp\_rate & 90 & 0.092 & 0.000 & 0.092 & 0.087 & 0.097 & 3.672 & 1.000 & 0.000 & 0.000 \\
+First vs Rule-based & tp\_rate & 90 & 0.015 & 0.134 & -0.118 & -0.124 & -0.112 & -3.984 & -1.000 & 0.000 & 0.000 \\
+First vs Rule-based & self\_name & 90 & 0.283 & 1.919 & -1.636 & -1.764 & -1.514 & -2.687 & -1.000 & 0.000 & 0.000 \\
+First vs Rule-based & subjectivity & 90 & 0.486 & 0.486 & 0.000 & 0.000 & 0.000 & 0.105 & 1.000 & 0.317 & 0.317 \\
+First vs Rule-based & intensity & 90 & 0.205 & 0.205 & 0.000 & 0.000 & 0.001 & 0.187 & 0.867 & 0.080 & 0.181 \\
+First vs Rule-based & polarity & 90 & 0.121 & 0.121 & -0.000 & -0.001 & -0.000 & -0.202 & -1.000 & 0.043 & 0.172 \\
+First vs Rule-based & vader & 90 & 0.208 & 0.199 & 0.009 & 0.001 & 0.018 & 0.224 & 0.350 & 0.060 & 0.181 \\
+First vs Rule-based & distilbert & 90 & 0.223 & 0.162 & 0.061 & 0.040 & 0.083 & 0.574 & 0.645 & 0.000 & 0.000 \\
+First vs Rule-based & n\_words & 90 & 34.218 & 40.067 & -5.849 & -6.198 & -5.522 & -3.560 & -1.000 & 0.000 & 0.000 \\
+First vs Rule-based & word\_len & 90 & 6.669 & 6.450 & 0.218 & 0.204 & 0.233 & 3.121 & 1.000 & 0.000 & 0.000 \\
+First vs Rule-based & zipf & 90 & 4.616 & 4.690 & -0.075 & -0.079 & -0.070 & -3.402 & -1.000 & 0.000 & 0.000 \\
+First vs Rule-based & rare\_rate & 90 & 0.039 & 0.037 & 0.002 & 0.001 & 0.003 & 0.395 & 0.755 & 0.000 & 0.000 \\
+First vs Rule-based & mattr & 90 & 0.843 & 0.805 & 0.038 & 0.035 & 0.042 & 2.429 & 1.000 & 0.000 & 0.000 \\
+First vs Rule-based & mtld & 90 & 70.895 & 62.447 & 8.448 & 6.773 & 10.139 & 1.027 & 0.853 & 0.000 & 0.000 \\
+Rule-based vs Third & fp\_ratio & 90 & 0.000 & 0.000 & -0.000 & -0.000 & 0.000 & -0.105 & -1.000 & 0.317 & 1.000 \\
+Rule-based vs Third & fp\_rate & 90 & 0.000 & 0.000 & -0.000 & -0.000 & 0.000 & -0.105 & -1.000 & 0.317 & 1.000 \\
+Rule-based vs Third & tp\_rate & 90 & 0.134 & 0.100 & 0.033 & 0.028 & 0.039 & 1.306 & 0.924 & 0.000 & 0.000 \\
+Rule-based vs Third & self\_name & 90 & 1.919 & 1.970 & -0.052 & -0.132 & 0.024 & -0.137 & -0.334 & 0.043 & 0.260 \\
+Rule-based vs Third & subjectivity & 90 & 0.486 & 0.483 & 0.003 & -0.019 & 0.024 & 0.027 & 0.045 & 0.710 & 1.000 \\
+Rule-based vs Third & intensity & 90 & 0.205 & 0.171 & 0.034 & 0.018 & 0.050 & 0.445 & 0.491 & 0.000 & 0.000 \\
+Rule-based vs Third & polarity & 90 & 0.121 & 0.092 & 0.029 & 0.011 & 0.047 & 0.331 & 0.338 & 0.005 & 0.043 \\
+Rule-based vs Third & vader & 90 & 0.199 & 0.189 & 0.009 & -0.040 & 0.059 & 0.039 & 0.084 & 0.488 & 1.000 \\
+Rule-based vs Third & distilbert & 90 & 0.162 & 0.062 & 0.100 & 0.032 & 0.169 & 0.298 & 0.326 & 0.007 & 0.051 \\
+Rule-based vs Third & n\_words & 90 & 40.067 & 41.215 & -1.148 & -3.229 & 0.845 & -0.115 & -0.079 & 0.517 & 1.000 \\
+Rule-based vs Third & word\_len & 90 & 6.450 & 7.054 & -0.604 & -0.685 & -0.525 & -1.552 & -0.981 & 0.000 & 0.000 \\
+Rule-based vs Third & zipf & 90 & 4.690 & 4.501 & 0.189 & 0.162 & 0.217 & 1.422 & 0.959 & 0.000 & 0.000 \\
+Rule-based vs Third & rare\_rate & 90 & 0.037 & 0.048 & -0.011 & -0.016 & -0.006 & -0.463 & -0.514 & 0.000 & 0.000 \\
+Rule-based vs Third & mattr & 90 & 0.805 & 0.870 & -0.065 & -0.081 & -0.051 & -0.897 & -0.858 & 0.000 & 0.000 \\
+Rule-based vs Third & mtld & 90 & 62.447 & 72.519 & -10.072 & -13.711 & -6.587 & -0.576 & -0.531 & 0.000 & 0.000 \\
+\bottomrule
+\end{longtable}
+}
+
+
+\section*{S2. Linear mixed models}
+
+Measure $\sim$ mode + generator model + (1 $|$ excerpt), REML. Coefficients are relative to the third-person mode.
+
+{\scriptsize
+\begin{longtable}{llrrrr}
+\caption{Fixed effects of narrative mode in linear mixed models.}\\
+\toprule
+Measure & Mode & Coef. & CI low & CI high & $p$ \\
+\midrule
+\endhead
+subjectivity & first\_person & 0.003 & -0.020 & 0.025 & 0.802 \\
+subjectivity & neutral & 0.016 & -0.007 & 0.038 & 0.165 \\
+intensity & first\_person & 0.034 & 0.018 & 0.050 & 0.000 \\
+intensity & neutral & 0.047 & 0.031 & 0.063 & 0.000 \\
+polarity & first\_person & 0.028 & 0.007 & 0.050 & 0.011 \\
+polarity & neutral & 0.032 & 0.010 & 0.054 & 0.004 \\
+vader & first\_person & 0.019 & -0.028 & 0.065 & 0.428 \\
+vader & neutral & 0.064 & 0.018 & 0.111 & 0.006 \\
+distilbert & first\_person & 0.161 & 0.089 & 0.234 & 0.000 \\
+distilbert & neutral & 0.222 & 0.150 & 0.295 & 0.000 \\
+n\_words & first\_person & -6.997 & -8.695 & -5.299 & 0.000 \\
+n\_words & neutral & -8.683 & -10.382 & -6.985 & 0.000 \\
+word\_len & first\_person & -0.386 & -0.486 & -0.286 & 0.000 \\
+word\_len & neutral & -0.335 & -0.435 & -0.235 & 0.000 \\
+zipf & first\_person & 0.114 & 0.079 & 0.150 & 0.000 \\
+zipf & neutral & 0.100 & 0.065 & 0.136 & 0.000 \\
+rare\_rate & first\_person & -0.009 & -0.015 & -0.003 & 0.001 \\
+rare\_rate & neutral & -0.007 & -0.013 & -0.002 & 0.009 \\
+mattr & first\_person & -0.027 & -0.041 & -0.013 & 0.000 \\
+mattr & neutral & -0.010 & -0.024 & 0.004 & 0.155 \\
+mtld & first\_person & -1.624 & -5.403 & 2.154 & 0.400 \\
+mtld & neutral & 3.981 & 0.202 & 7.759 & 0.039 \\
+\bottomrule
+\end{longtable}
+}
+
+
+\section*{S3. First$-$third differences by excerpt and by generator}
+
+{\scriptsize
+\begin{longtable}{lllrrrrrrrr}
+\caption{First$-$third differences within each excerpt and each generator (unadjusted $p$).}\\
+\toprule
+Grouping & Level & Measure & n & First & Third & Diff & CI low & CI high & $d_z$ & $p$ \\
+\midrule
+\endhead
+text\_id & The Importance of Being Earnest & subjectivity & 15 & 0.515 & 0.494 & 0.021 & -0.016 & 0.062 & 0.257 & 0.303 \\
+text\_id & The Importance of Being Earnest & intensity & 15 & 0.211 & 0.183 & 0.029 & 0.012 & 0.047 & 0.792 & 0.007 \\
+text\_id & The Importance of Being Earnest & polarity & 15 & 0.134 & 0.112 & 0.022 & -0.009 & 0.050 & 0.361 & 0.169 \\
+text\_id & The Importance of Being Earnest & n\_words & 15 & 33.457 & 40.310 & -6.853 & -12.130 & -1.897 & -0.649 & 0.055 \\
+text\_id & The Importance of Being Earnest & word\_len & 15 & 7.301 & 7.524 & -0.224 & -0.417 & -0.025 & -0.555 & 0.048 \\
+text\_id & The Importance of Being Earnest & zipf & 15 & 4.591 & 4.478 & 0.113 & 0.060 & 0.166 & 1.042 & 0.002 \\
+text\_id & The Importance of Being Earnest & mattr & 15 & 0.868 & 0.881 & -0.013 & -0.043 & 0.017 & -0.214 & 0.561 \\
+text\_id & The Importance of Being Earnest & fp\_ratio & 15 & 0.888 & 0.000 & 0.888 & 0.860 & 0.911 & 16.743 & 0.000 \\
+text\_id & The Good Earth & subjectivity & 15 & 0.468 & 0.495 & -0.028 & -0.082 & 0.024 & -0.250 & 0.421 \\
+text\_id & The Good Earth & intensity & 15 & 0.279 & 0.255 & 0.024 & -0.029 & 0.074 & 0.231 & 0.252 \\
+text\_id & The Good Earth & polarity & 15 & 0.260 & 0.240 & 0.020 & -0.029 & 0.069 & 0.202 & 0.454 \\
+text\_id & The Good Earth & n\_words & 15 & 31.098 & 41.522 & -10.424 & -15.324 & -6.427 & -1.118 & 0.000 \\
+text\_id & The Good Earth & word\_len & 15 & 5.768 & 6.452 & -0.684 & -0.888 & -0.477 & -1.625 & 0.000 \\
+text\_id & The Good Earth & zipf & 15 & 4.957 & 4.742 & 0.214 & 0.164 & 0.261 & 2.185 & 0.000 \\
+text\_id & The Good Earth & mattr & 15 & 0.765 & 0.825 & -0.060 & -0.108 & -0.017 & -0.640 & 0.018 \\
+text\_id & The Good Earth & fp\_ratio & 15 & 0.769 & 0.001 & 0.768 & 0.676 & 0.849 & 4.267 & 0.000 \\
+text\_id & Great Expectations & subjectivity & 15 & 0.466 & 0.441 & 0.026 & -0.047 & 0.097 & 0.175 & 0.639 \\
+text\_id & Great Expectations & intensity & 15 & 0.206 & 0.138 & 0.068 & 0.024 & 0.118 & 0.697 & 0.018 \\
+text\_id & Great Expectations & polarity & 15 & 0.047 & 0.001 & 0.046 & -0.012 & 0.105 & 0.381 & 0.277 \\
+text\_id & Great Expectations & n\_words & 15 & 29.517 & 41.538 & -12.021 & -17.148 & -6.924 & -1.136 & 0.008 \\
+text\_id & Great Expectations & word\_len & 15 & 5.747 & 6.386 & -0.640 & -0.857 & -0.398 & -1.337 & 0.001 \\
+text\_id & Great Expectations & zipf & 15 & 4.824 & 4.558 & 0.266 & 0.197 & 0.331 & 1.901 & 0.000 \\
+text\_id & Great Expectations & mattr & 15 & 0.793 & 0.883 & -0.090 & -0.141 & -0.045 & -0.914 & 0.004 \\
+text\_id & Great Expectations & fp\_ratio & 15 & 0.803 & 0.000 & 0.803 & 0.746 & 0.857 & 7.000 & 0.000 \\
+text\_id & The Home and the World & subjectivity & 15 & 0.480 & 0.496 & -0.016 & -0.059 & 0.025 & -0.180 & 0.679 \\
+text\_id & The Home and the World & intensity & 15 & 0.176 & 0.149 & 0.028 & 0.003 & 0.056 & 0.499 & 0.035 \\
+text\_id & The Home and the World & polarity & 15 & 0.080 & 0.039 & 0.042 & -0.005 & 0.088 & 0.440 & 0.151 \\
+text\_id & The Home and the World & n\_words & 15 & 37.160 & 41.850 & -4.690 & -9.857 & -0.060 & -0.461 & 0.524 \\
+text\_id & The Home and the World & word\_len & 15 & 6.735 & 7.132 & -0.397 & -0.583 & -0.227 & -1.082 & 0.001 \\
+text\_id & The Home and the World & zipf & 15 & 4.420 & 4.377 & 0.042 & -0.009 & 0.090 & 0.418 & 0.107 \\
+text\_id & The Home and the World & mattr & 15 & 0.886 & 0.890 & -0.004 & -0.023 & 0.016 & -0.107 & 0.454 \\
+text\_id & The Home and the World & fp\_ratio & 15 & 0.795 & 0.000 & 0.795 & 0.745 & 0.842 & 7.988 & 0.001 \\
+text\_id & Pride and Prejudice & subjectivity & 15 & 0.506 & 0.499 & 0.007 & -0.052 & 0.061 & 0.059 & 0.524 \\
+text\_id & Pride and Prejudice & intensity & 15 & 0.190 & 0.176 & 0.014 & -0.022 & 0.053 & 0.182 & 0.639 \\
+text\_id & Pride and Prejudice & polarity & 15 & 0.095 & 0.096 & -0.001 & -0.037 & 0.035 & -0.009 & 0.934 \\
+text\_id & Pride and Prejudice & n\_words & 15 & 36.617 & 40.060 & -3.443 & -6.893 & -0.167 & -0.493 & 0.135 \\
+text\_id & Pride and Prejudice & word\_len & 15 & 7.217 & 7.318 & -0.101 & -0.241 & 0.025 & -0.366 & 0.454 \\
+text\_id & Pride and Prejudice & zipf & 15 & 4.435 & 4.414 & 0.021 & -0.043 & 0.080 & 0.165 & 0.489 \\
+text\_id & Pride and Prejudice & mattr & 15 & 0.867 & 0.874 & -0.007 & -0.026 & 0.012 & -0.185 & 0.454 \\
+text\_id & Pride and Prejudice & fp\_ratio & 15 & 0.920 & 0.000 & 0.920 & 0.892 & 0.943 & 17.642 & 0.000 \\
+text\_id & A Scandal in Bohemia & subjectivity & 15 & 0.478 & 0.471 & 0.007 & -0.029 & 0.049 & 0.085 & 0.890 \\
+text\_id & A Scandal in Bohemia & intensity & 15 & 0.168 & 0.127 & 0.042 & 0.013 & 0.072 & 0.678 & 0.026 \\
+text\_id & A Scandal in Bohemia & polarity & 15 & 0.107 & 0.064 & 0.042 & 0.011 & 0.077 & 0.629 & 0.035 \\
+text\_id & A Scandal in Bohemia & n\_words & 15 & 37.460 & 42.010 & -4.550 & -9.097 & -0.216 & -0.499 & 0.121 \\
+text\_id & A Scandal in Bohemia & word\_len & 15 & 7.243 & 7.513 & -0.270 & -0.418 & -0.116 & -0.862 & 0.007 \\
+text\_id & A Scandal in Bohemia & zipf & 15 & 4.468 & 4.438 & 0.029 & -0.021 & 0.082 & 0.277 & 0.389 \\
+text\_id & A Scandal in Bohemia & mattr & 15 & 0.881 & 0.868 & 0.013 & -0.011 & 0.037 & 0.269 & 0.389 \\
+text\_id & A Scandal in Bohemia & fp\_ratio & 15 & 0.898 & 0.000 & 0.898 & 0.861 & 0.933 & 12.131 & 0.000 \\
+model & Gemma 3 12B & subjectivity & 30 & 0.548 & 0.539 & 0.010 & -0.016 & 0.035 & 0.133 & 0.318 \\
+model & Gemma 3 12B & intensity & 30 & 0.190 & 0.139 & 0.051 & 0.033 & 0.069 & 0.974 & 0.000 \\
+model & Gemma 3 12B & polarity & 30 & 0.120 & 0.076 & 0.044 & 0.020 & 0.069 & 0.630 & 0.002 \\
+model & Gemma 3 12B & n\_words & 30 & 44.019 & 61.926 & -17.907 & -20.186 & -15.834 & -2.887 & 0.000 \\
+model & Gemma 3 12B & word\_len & 30 & 7.224 & 7.525 & -0.301 & -0.414 & -0.194 & -0.959 & 0.000 \\
+model & Gemma 3 12B & zipf & 30 & 4.394 & 4.215 & 0.179 & 0.143 & 0.216 & 1.710 & 0.000 \\
+model & Gemma 3 12B & mattr & 30 & 0.898 & 0.957 & -0.059 & -0.073 & -0.045 & -1.535 & 0.000 \\
+model & Gemma 3 12B & fp\_ratio & 30 & 0.785 & 0.000 & 0.785 & 0.733 & 0.832 & 5.627 & 0.000 \\
+model & Llama 3.1 8B & subjectivity & 30 & 0.516 & 0.515 & 0.001 & -0.038 & 0.040 & 0.009 & 1.000 \\
+model & Llama 3.1 8B & intensity & 30 & 0.233 & 0.209 & 0.024 & -0.006 & 0.053 & 0.285 & 0.080 \\
+model & Llama 3.1 8B & polarity & 30 & 0.112 & 0.102 & 0.010 & -0.022 & 0.042 & 0.107 & 0.685 \\
+model & Llama 3.1 8B & n\_words & 30 & 31.923 & 31.162 & 0.762 & -0.767 & 2.225 & 0.178 & 0.309 \\
+model & Llama 3.1 8B & word\_len & 30 & 6.421 & 6.795 & -0.374 & -0.500 & -0.253 & -1.058 & 0.000 \\
+model & Llama 3.1 8B & zipf & 30 & 4.701 & 4.646 & 0.056 & 0.005 & 0.106 & 0.386 & 0.058 \\
+model & Llama 3.1 8B & mattr & 30 & 0.815 & 0.841 & -0.026 & -0.055 & 0.001 & -0.316 & 0.140 \\
+model & Llama 3.1 8B & fp\_ratio & 30 & 0.899 & 0.000 & 0.899 & 0.876 & 0.919 & 14.607 & 0.000 \\
+model & Qwen2.5 14B & subjectivity & 30 & 0.392 & 0.394 & -0.002 & -0.046 & 0.042 & -0.017 & 0.952 \\
+model & Qwen2.5 14B & intensity & 30 & 0.192 & 0.165 & 0.027 & -0.001 & 0.060 & 0.317 & 0.205 \\
+model & Qwen2.5 14B & polarity & 30 & 0.131 & 0.099 & 0.032 & -0.003 & 0.067 & 0.322 & 0.124 \\
+model & Qwen2.5 14B & n\_words & 30 & 26.712 & 30.557 & -3.846 & -6.255 & -1.592 & -0.590 & 0.005 \\
+model & Qwen2.5 14B & word\_len & 30 & 6.361 & 6.843 & -0.483 & -0.679 & -0.278 & -0.847 & 0.000 \\
+model & Qwen2.5 14B & zipf & 30 & 4.752 & 4.644 & 0.109 & 0.053 & 0.168 & 0.670 & 0.001 \\
+model & Qwen2.5 14B & mattr & 30 & 0.817 & 0.812 & 0.004 & -0.029 & 0.030 & 0.053 & 0.084 \\
+model & Qwen2.5 14B & fp\_ratio & 30 & 0.853 & 0.000 & 0.853 & 0.811 & 0.891 & 7.561 & 0.000 \\
+\bottomrule
+\end{longtable}
+}
+
+
+\section*{S4. Director extraction quality}
+
+{\scriptsize
+\begin{longtable}{llrrrrrrp{4cm}}
+\caption{Dialogue extraction by the Director against manually attributed quotations.}\\
+\toprule
+Excerpt & Model & Gold & Extracted & Kept & Recall & Attribution & Fabricated & Raw speaker labels \\
+\midrule
+\endhead
+earnest & gemma3\_12b & 25 & 26 & 26 & 1.000 & 1.000 & 0.000 & GWENDOLEN; JACK; LADY BRACKNELL \\
+earnest & llama3.1\_8b & 25 & 25 & 25 & 1.000 & 1.000 & 0.000 & GWENDOLEN; JACK; LADY BRACKNELL \\
+earnest & qwen2.5\_14b & 25 & 25 & 25 & 0.960 & 1.000 & 0.000 & GWENDOLEN; JACK; LADY BRACKNELL \\
+good\_earth & gemma3\_12b & 11 & 11 & 11 & 1.000 & 0.818 & 0.000 & O-lan; Wang Lung; she \\
+good\_earth & llama3.1\_8b & 11 & 10 & 10 & 0.909 & 0.900 & 0.000 & O-lan; Wang Lung \\
+good\_earth & qwen2.5\_14b & 11 & 9 & 9 & 0.818 & 0.889 & 0.000 & O-lan; Wang Lung; she \\
+great\_expectations & gemma3\_12b & 24 & 18 & 18 & 1.000 & 0.917 & 0.000 & Miss Havisham; Pip; the lady at the table \\
+great\_expectations & llama3.1\_8b & 24 & 19 & 19 & 0.875 & 0.905 & 0.000 & Miss Havisham; Pip; the lady at the table \\
+great\_expectations & qwen2.5\_14b & 24 & 18 & 18 & 0.958 & 0.913 & 0.000 & Miss Havisham; Pip; the lady at the table \\
+home\_world & gemma3\_12b & 12 & 12 & 12 & 1.000 & 0.917 & 0.083 & Nikhil; Sandip \\
+home\_world & llama3.1\_8b & 12 & 12 & 12 & 1.000 & 1.000 & 0.083 & Nikhil; Sandip \\
+home\_world & qwen2.5\_14b & 12 & 11 & 11 & 1.000 & 1.000 & 0.000 & Sandip; my husband \\
+pride\_prejudice & gemma3\_12b & 14 & 14 & 14 & 1.000 & 0.929 & 0.214 & Elizabeth; Mr. Darcy \\
+pride\_prejudice & llama3.1\_8b & 14 & 12 & 12 & 1.000 & 0.929 & 0.000 & Elizabeth; Mr. Darcy \\
+pride\_prejudice & qwen2.5\_14b & 14 & 9 & 9 & 0.929 & 0.923 & 0.000 & Elizabeth; Mr. Darcy \\
+scandal\_bohemia & gemma3\_12b & 20 & 13 & 13 & 1.000 & 0.950 & 0.000 & Holmes; Watson; the Count Von Kramm \\
+scandal\_bohemia & llama3.1\_8b & 20 & 15 & 15 & 1.000 & 0.950 & 0.067 & Dr. Watson; Holmes; the Count; the King; the man \\
+scandal\_bohemia & qwen2.5\_14b & 20 & 13 & 13 & 0.950 & 0.842 & 0.000 & Dr. Watson; Holmes; the man \\
+\bottomrule
+\end{longtable}
+}
+
+
+\section*{S5. Pipeline reliability and narrative-mode enforcement}
+
+{\scriptsize
+\begin{longtable}{lllrrrrrrrr}
+\caption{Mean per session: share of turns compliant at the first attempt, regenerated, rewritten by the Director, and still violating the mode; LLM calls, JSON repairs and unrecoverable parse failures.}\\
+\toprule
+Condition & Model & Mode & Compliant & Regen. & Rewritten & Residual & Calls & Repaired & Failed & Turns \\
+\midrule
+\endhead
+exemplars & gemma3:12b & first\_person & 1.000 & 0.000 & 0.000 & 0.000 & 20.278 & 0.000 & 0.000 & 20.000 \\
+exemplars & gemma3:12b & third\_person & 0.950 & 0.039 & 0.011 & 0.003 & 20.556 & 0.000 & 0.000 & 18.056 \\
+exemplars & llama3.1:8b & first\_person & 1.000 & 0.000 & 0.000 & 0.000 & 20.000 & 0.000 & 0.000 & 20.000 \\
+exemplars & llama3.1:8b & third\_person & 0.792 & 0.131 & 0.078 & 0.011 & 25.722 & 0.000 & 0.000 & 20.000 \\
+exemplars & qwen2.5:14b & first\_person & 1.000 & 0.000 & 0.000 & 0.000 & 20.056 & 0.000 & 0.000 & 20.000 \\
+exemplars & qwen2.5:14b & third\_person & 1.000 & 0.000 & 0.000 & 0.000 & 20.167 & 0.000 & 0.000 & 20.000 \\
+full & gemma3:12b & first\_person & 0.997 & 0.000 & 0.003 & 0.002 & 19.433 & 0.000 & 0.000 & 18.433 \\
+full & gemma3:12b & neutral & 1.000 & 0.000 & 0.000 & 0.000 & 19.833 & 0.000 & 0.000 & 18.867 \\
+full & gemma3:12b & third\_person & 0.945 & 0.055 & 0.000 & 0.000 & 19.867 & 0.000 & 0.000 & 17.800 \\
+full & llama3.1:8b & first\_person & 1.000 & 0.000 & 0.000 & 0.000 & 20.000 & 0.000 & 0.000 & 20.000 \\
+full & llama3.1:8b & neutral & 1.000 & 0.000 & 0.000 & 0.000 & 20.000 & 0.000 & 0.000 & 20.000 \\
+full & llama3.1:8b & third\_person & 0.932 & 0.060 & 0.008 & 0.000 & 21.533 & 0.000 & 0.000 & 20.000 \\
+full & qwen2.5:14b & first\_person & 0.998 & 0.002 & 0.000 & 0.000 & 20.067 & 0.000 & 0.000 & 20.000 \\
+full & qwen2.5:14b & neutral & 1.000 & 0.000 & 0.000 & 0.000 & 20.067 & 0.000 & 0.000 & 20.000 \\
+full & qwen2.5:14b & third\_person & 0.998 & 0.002 & 0.000 & 0.000 & 19.267 & 0.000 & 0.000 & 18.267 \\
+narrated & gemma3:12b & third\_person\_narrated & 0.933 & 0.017 & 0.050 & 0.000 & 40.278 & 0.000 & 0.000 & 18.611 \\
+narrated & llama3.1:8b & third\_person\_narrated & 0.931 & 0.042 & 0.028 & 0.003 & 41.944 & 0.000 & 0.000 & 20.000 \\
+narrated & qwen2.5:14b & third\_person\_narrated & 0.819 & 0.067 & 0.114 & 0.017 & 45.889 & 0.000 & 0.000 & 20.000 \\
+no\_enforce & llama3.1:8b & first\_person & 1.000 & 0.000 & 0.000 & 0.000 & 20.000 & 0.000 & 0.000 & 20.000 \\
+no\_enforce & llama3.1:8b & third\_person & 0.897 & 0.000 & 0.000 & 0.103 & 20.000 & 0.000 & 0.000 & 20.000 \\
+no\_memory & llama3.1:8b & first\_person & 1.000 & 0.000 & 0.000 & 0.000 & 20.000 & 0.000 & 0.000 & 20.000 \\
+no\_memory & llama3.1:8b & third\_person & 0.797 & 0.108 & 0.094 & 0.019 & 25.944 & 0.000 & 0.000 & 20.000 \\
+round\_robin & llama3.1:8b & first\_person & 1.000 & 0.000 & 0.000 & 0.000 & 20.000 & 0.000 & 0.000 & 20.000 \\
+round\_robin & llama3.1:8b & third\_person & 0.936 & 0.050 & 0.014 & 0.003 & 21.556 & 0.000 & 0.000 & 20.000 \\
+single\_prompt & llama3.1:8b & first\_person & -- & -- & -- & -- & 1.000 & 0.000 & 0.000 & 19.944 \\
+single\_prompt & llama3.1:8b & third\_person & -- & -- & -- & -- & 1.000 & 0.000 & 0.000 & 19.833 \\
+uniform & llama3.1:8b & first\_person & 1.000 & 0.000 & 0.000 & 0.000 & 20.000 & 0.000 & 0.000 & 20.000 \\
+uniform & llama3.1:8b & third\_person & 0.889 & 0.097 & 0.014 & 0.003 & 22.500 & 0.000 & 0.000 & 20.000 \\
+voice & gemma3:12b & third\_person\_voice & 0.664 & 0.181 & 0.155 & 0.018 & 28.133 & 0.000 & 0.000 & 17.567 \\
+voice & llama3.1:8b & third\_person\_voice & 0.385 & 0.187 & 0.428 & 0.102 & 40.867 & 0.000 & 0.000 & 20.000 \\
+voice & qwen2.5:14b & third\_person\_voice & 0.983 & 0.013 & 0.003 & 0.000 & 20.533 & 0.000 & 0.000 & 20.000 \\
+\bottomrule
+\end{longtable}
+}
+
+
+\section*{S6. Distributional character consistency}
+
+{\scriptsize
+\begin{longtable}{lllrrrrrrrrrrr}
+\caption{S6. Distributional character consistency}\\
+\toprule
+text\_id & model & character & n\_chars & within\_js\_len & between\_js\_len & within\_js\_freq & between\_js\_freq & within\_js\_sent & between\_js\_sent & within\_js\_lex & between\_js\_lex & within\_score & between\_score \\
+\midrule
+\endhead
+earnest & gemma3:12b & Gwendolen & 3.000 & 0.036 & 0.047 & 0.035 & 0.019 & 0.109 & 0.109 & 0.856 & 0.883 & 0.942 & 0.946 \\
+earnest & gemma3:12b & Jack & 3.000 & 0.071 & 0.053 & 0.042 & 0.026 & 0.092 & 0.105 & 0.898 & 0.874 & 0.934 & 0.942 \\
+earnest & gemma3:12b & Lady Bracknell & 3.000 & 0.062 & 0.045 & 0.029 & 0.026 & 0.126 & 0.098 & 0.900 & 0.880 & 0.932 & 0.947 \\
+earnest & llama3.1:8b & Gwendolen & 3.000 & 0.103 & 0.085 & 0.030 & 0.046 & 0.199 & 0.144 & 0.761 & 0.860 & 0.897 & 0.913 \\
+earnest & llama3.1:8b & Jack & 3.000 & 0.071 & 0.068 & 0.018 & 0.045 & 0.201 & 0.204 & 0.806 & 0.827 & 0.911 & 0.901 \\
+earnest & llama3.1:8b & Lady Bracknell & 3.000 & 0.048 & 0.073 & 0.021 & 0.039 & 0.082 & 0.127 & 0.759 & 0.819 & 0.953 & 0.924 \\
+earnest & qwen2.5:14b & Gwendolen & 3.000 & 0.075 & 0.057 & 0.022 & 0.021 & 0.128 & 0.121 & 0.754 & 0.821 & 0.930 & 0.938 \\
+earnest & qwen2.5:14b & Jack & 3.000 & 0.040 & 0.056 & 0.022 & 0.021 & 0.084 & 0.101 & 0.778 & 0.816 & 0.954 & 0.945 \\
+earnest & qwen2.5:14b & Lady Bracknell & 3.000 & 0.067 & 0.055 & 0.014 & 0.022 & 0.142 & 0.092 & 0.764 & 0.791 & 0.932 & 0.947 \\
+good\_earth & gemma3:12b & O-lan & 3.000 & 0.035 & 0.062 & 0.013 & 0.050 & 0.075 & 0.120 & 0.747 & 0.823 & 0.962 & 0.925 \\
+good\_earth & gemma3:12b & Wang Lung & 3.000 & 0.066 & 0.084 & 0.047 & 0.043 & 0.065 & 0.122 & 0.798 & 0.768 & 0.942 & 0.921 \\
+good\_earth & gemma3:12b & the eldest son & 3.000 & 0.045 & 0.071 & 0.011 & 0.032 & 0.167 & 0.127 & 0.773 & 0.757 & 0.932 & 0.928 \\
+good\_earth & llama3.1:8b & O-lan & 3.000 & 0.064 & 0.038 & 0.053 & 0.017 & 0.100 & 0.077 & 0.732 & 0.616 & 0.930 & 0.958 \\
+good\_earth & llama3.1:8b & Wang Lung & 3.000 & 0.050 & 0.047 & 0.038 & 0.022 & 0.157 & 0.112 & 0.588 & 0.610 & 0.923 & 0.944 \\
+good\_earth & llama3.1:8b & the eldest son & 3.000 & 0.131 & 0.047 & 0.033 & 0.015 & 0.047 & 0.115 & 0.674 & 0.573 & 0.934 & 0.945 \\
+good\_earth & qwen2.5:14b & O-lan & 3.000 & 0.096 & 0.055 & 0.031 & 0.013 & 0.076 & 0.088 & 0.747 & 0.655 & 0.936 & 0.952 \\
+good\_earth & qwen2.5:14b & Wang Lung & 3.000 & 0.094 & 0.041 & 0.033 & 0.012 & 0.044 & 0.084 & 0.689 & 0.606 & 0.945 & 0.958 \\
+good\_earth & qwen2.5:14b & the eldest son & 3.000 & 0.103 & 0.046 & 0.027 & 0.010 & 0.095 & 0.097 & 0.691 & 0.633 & 0.930 & 0.953 \\
+great\_expectations & gemma3:12b & Miss Havisham & 2.000 & 0.052 & 0.054 & 0.024 & 0.016 & 0.093 & 0.129 & 0.898 & 0.868 & 0.947 & 0.939 \\
+great\_expectations & gemma3:12b & Pip & 2.000 & 0.064 & 0.058 & 0.040 & 0.017 & 0.106 & 0.163 & 0.901 & 0.881 & 0.933 & 0.927 \\
+great\_expectations & llama3.1:8b & Miss Havisham & 2.000 & 0.040 & 0.075 & 0.019 & 0.063 & 0.078 & 0.143 & 0.805 & 0.793 & 0.957 & 0.909 \\
+great\_expectations & llama3.1:8b & Pip & 2.000 & 0.079 & 0.071 & 0.060 & 0.058 & 0.110 & 0.150 & 0.666 & 0.788 & 0.919 & 0.910 \\
+great\_expectations & qwen2.5:14b & Miss Havisham & 2.000 & 0.090 & 0.116 & 0.052 & 0.044 & 0.130 & 0.151 & 0.909 & 0.773 & 0.913 & 0.902 \\
+great\_expectations & qwen2.5:14b & Pip & 2.000 & 0.133 & 0.109 & 0.061 & 0.040 & 0.162 & 0.158 & 0.934 & 0.772 & 0.887 & 0.904 \\
+home\_world & gemma3:12b & Bimala & 3.000 & 0.041 & 0.060 & 0.019 & 0.023 & 0.137 & 0.135 & 0.905 & 0.867 & 0.939 & 0.932 \\
+home\_world & gemma3:12b & Nikhil & 3.000 & 0.042 & 0.068 & 0.012 & 0.019 & 0.062 & 0.107 & 0.857 & 0.894 & 0.964 & 0.940 \\
+home\_world & gemma3:12b & Sandip & 3.000 & 0.050 & 0.052 & 0.019 & 0.018 & 0.169 & 0.127 & 0.933 & 0.888 & 0.927 & 0.939 \\
+home\_world & llama3.1:8b & Bimala & 3.000 & 0.032 & 0.048 & 0.029 & 0.044 & 0.110 & 0.122 & 0.747 & 0.808 & 0.945 & 0.932 \\
+home\_world & llama3.1:8b & Nikhil & 3.000 & 0.039 & 0.054 & 0.023 & 0.034 & 0.124 & 0.146 & 0.755 & 0.812 & 0.942 & 0.927 \\
+home\_world & llama3.1:8b & Sandip & 3.000 & 0.055 & 0.060 & 0.015 & 0.034 & 0.118 & 0.157 & 0.881 & 0.844 & 0.942 & 0.921 \\
+home\_world & qwen2.5:14b & Nikhil & 2.000 & 0.084 & 0.057 & 0.025 & 0.012 & 0.142 & 0.199 & 0.759 & 0.759 & 0.922 & 0.918 \\
+home\_world & qwen2.5:14b & Sandip & 2.000 & 0.059 & 0.054 & 0.013 & 0.017 & 0.116 & 0.141 & 0.834 & 0.761 & 0.942 & 0.935 \\
+pride\_prejudice & gemma3:12b & Elizabeth & 2.000 & 0.051 & 0.056 & 0.014 & 0.015 & 0.120 & 0.155 & 0.899 & 0.867 & 0.943 & 0.931 \\
+pride\_prejudice & gemma3:12b & Mr. Darcy & 2.000 & 0.043 & 0.050 & 0.015 & 0.015 & 0.083 & 0.143 & 0.866 & 0.867 & 0.956 & 0.936 \\
+pride\_prejudice & llama3.1:8b & Elizabeth & 2.000 & 0.051 & 0.049 & 0.012 & 0.017 & 0.147 & 0.117 & 0.749 & 0.774 & 0.936 & 0.944 \\
+pride\_prejudice & llama3.1:8b & Mr. Darcy & 2.000 & 0.049 & 0.049 & 0.020 & 0.017 & 0.131 & 0.125 & 0.764 & 0.773 & 0.938 & 0.941 \\
+pride\_prejudice & qwen2.5:14b & Elizabeth & 2.000 & 0.075 & 0.045 & 0.012 & 0.016 & 0.131 & 0.142 & 0.728 & 0.678 & 0.933 & 0.938 \\
+pride\_prejudice & qwen2.5:14b & Mr. Darcy & 2.000 & 0.050 & 0.044 & 0.011 & 0.017 & 0.063 & 0.112 & 0.750 & 0.672 & 0.962 & 0.946 \\
+scandal\_bohemia & gemma3:12b & Dr. Watson & 3.000 & 0.073 & 0.052 & 0.037 & 0.033 & 0.169 & 0.210 & 0.881 & 0.869 & 0.913 & 0.908 \\
+scandal\_bohemia & gemma3:12b & Sherlock Holmes & 3.000 & 0.047 & 0.046 & 0.030 & 0.025 & 0.132 & 0.163 & 0.897 & 0.867 & 0.934 & 0.927 \\
+scandal\_bohemia & gemma3:12b & the King of Bohemia & 3.000 & 0.043 & 0.048 & 0.017 & 0.022 & 0.201 & 0.173 & 0.900 & 0.879 & 0.920 & 0.925 \\
+scandal\_bohemia & llama3.1:8b & Dr. Watson & 3.000 & 0.045 & 0.038 & 0.022 & 0.019 & 0.133 & 0.125 & 0.776 & 0.726 & 0.937 & 0.944 \\
+scandal\_bohemia & llama3.1:8b & Sherlock Holmes & 3.000 & 0.058 & 0.038 & 0.016 & 0.015 & 0.125 & 0.132 & 0.855 & 0.728 & 0.939 & 0.943 \\
+scandal\_bohemia & llama3.1:8b & the King of Bohemia & 3.000 & 0.050 & 0.038 & 0.025 & 0.017 & 0.125 & 0.106 & 0.805 & 0.752 & 0.937 & 0.950 \\
+scandal\_bohemia & qwen2.5:14b & Dr. Watson & 3.000 & 0.063 & 0.052 & 0.014 & 0.013 & 0.074 & 0.134 & 0.628 & 0.698 & 0.954 & 0.939 \\
+scandal\_bohemia & qwen2.5:14b & Sherlock Holmes & 3.000 & 0.068 & 0.050 & 0.020 & 0.013 & 0.084 & 0.134 & 0.741 & 0.701 & 0.946 & 0.939 \\
+scandal\_bohemia & qwen2.5:14b & the King of Bohemia & 3.000 & 0.074 & 0.053 & 0.011 & 0.017 & 0.103 & 0.174 & 0.826 & 0.766 & 0.942 & 0.925 \\
+\bottomrule
+\end{longtable}
+}
+
+
+\section*{S7. Cross-mode speaker attribution}
+
+{\scriptsize
+\begin{longtable}{lllrrrrrr}
+\caption{S7. Cross-mode speaker attribution}\\
+\toprule
+text\_id & model & features & n\_chars & chance & within\_first\_person & within\_third\_person & cross\_first\_person\_to\_third\_person & cross\_third\_person\_to\_first\_person \\
+\midrule
+\endhead
+earnest & gemma3:12b & content & 3.000 & 0.333 & 0.801 & 0.983 & 0.485 & 0.594 \\
+earnest & gemma3:12b & function & 3.000 & 0.333 & 0.791 & 0.801 & 0.441 & 0.554 \\
+earnest & llama3.1:8b & content & 3.000 & 0.333 & 0.901 & 0.930 & 0.566 & 0.595 \\
+earnest & llama3.1:8b & function & 3.000 & 0.333 & 0.643 & 0.633 & 0.413 & 0.433 \\
+earnest & qwen2.5:14b & content & 3.000 & 0.333 & 0.854 & 0.889 & 0.554 & 0.502 \\
+earnest & qwen2.5:14b & function & 3.000 & 0.333 & 0.741 & 0.679 & 0.541 & 0.719 \\
+good\_earth & gemma3:12b & content & 3.000 & 0.333 & 0.735 & 0.900 & 0.738 & 0.620 \\
+good\_earth & gemma3:12b & function & 3.000 & 0.333 & 0.901 & 0.805 & 0.629 & 0.632 \\
+good\_earth & llama3.1:8b & content & 4.000 & 0.250 & 0.732 & 0.603 & 0.412 & 0.499 \\
+good\_earth & llama3.1:8b & function & 4.000 & 0.250 & 0.530 & 0.475 & 0.244 & 0.395 \\
+good\_earth & qwen2.5:14b & content & 4.000 & 0.250 & 0.705 & 0.718 & 0.537 & 0.528 \\
+good\_earth & qwen2.5:14b & function & 4.000 & 0.250 & 0.489 & 0.559 & 0.320 & 0.299 \\
+great\_expectations & gemma3:12b & content & 2.000 & 0.500 & 0.960 & 0.990 & 0.730 & 0.780 \\
+great\_expectations & gemma3:12b & function & 2.000 & 0.500 & 0.690 & 0.840 & 0.660 & 0.620 \\
+great\_expectations & llama3.1:8b & content & 2.000 & 0.500 & 0.980 & 0.890 & 0.790 & 0.900 \\
+great\_expectations & llama3.1:8b & function & 2.000 & 0.500 & 0.900 & 0.730 & 0.630 & 0.730 \\
+great\_expectations & qwen2.5:14b & content & 2.000 & 0.500 & 0.930 & 0.897 & 0.543 & 0.650 \\
+great\_expectations & qwen2.5:14b & function & 2.000 & 0.500 & 0.890 & 0.710 & 0.592 & 0.550 \\
+home\_world & gemma3:12b & content & 3.000 & 0.333 & 0.791 & 0.909 & 0.609 & 0.704 \\
+home\_world & gemma3:12b & function & 3.000 & 0.333 & 0.688 & 0.808 & 0.520 & 0.433 \\
+home\_world & llama3.1:8b & content & 3.000 & 0.333 & 0.755 & 0.799 & 0.598 & 0.610 \\
+home\_world & llama3.1:8b & function & 3.000 & 0.333 & 0.550 & 0.652 & 0.501 & 0.450 \\
+home\_world & qwen2.5:14b & content & 3.000 & 0.333 & 0.906 & 0.616 & 0.653 & 0.628 \\
+home\_world & qwen2.5:14b & function & 3.000 & 0.333 & 0.654 & 0.507 & 0.439 & 0.441 \\
+pride\_prejudice & gemma3:12b & content & 2.000 & 0.500 & 0.900 & 0.990 & 0.881 & 0.745 \\
+pride\_prejudice & gemma3:12b & function & 2.000 & 0.500 & 0.681 & 0.840 & 0.681 & 0.666 \\
+pride\_prejudice & llama3.1:8b & content & 2.000 & 0.500 & 0.889 & 0.779 & 0.840 & 0.830 \\
+pride\_prejudice & llama3.1:8b & function & 2.000 & 0.500 & 0.769 & 0.700 & 0.597 & 0.420 \\
+pride\_prejudice & qwen2.5:14b & content & 2.000 & 0.500 & 0.740 & 0.829 & 0.639 & 0.596 \\
+pride\_prejudice & qwen2.5:14b & function & 2.000 & 0.500 & 0.690 & 0.730 & 0.389 & 0.581 \\
+scandal\_bohemia & gemma3:12b & content & 3.000 & 0.333 & 0.802 & 0.940 & 0.512 & 0.531 \\
+scandal\_bohemia & gemma3:12b & function & 3.000 & 0.333 & 0.769 & 0.683 & 0.477 & 0.524 \\
+scandal\_bohemia & llama3.1:8b & content & 3.000 & 0.333 & 0.836 & 0.742 & 0.558 & 0.657 \\
+scandal\_bohemia & llama3.1:8b & function & 3.000 & 0.333 & 0.633 & 0.508 & 0.500 & 0.388 \\
+scandal\_bohemia & qwen2.5:14b & content & 3.000 & 0.333 & 0.664 & 0.843 & 0.607 & 0.599 \\
+scandal\_bohemia & qwen2.5:14b & function & 3.000 & 0.333 & 0.586 & 0.644 & 0.465 & 0.531 \\
+\bottomrule
+\end{longtable}
+}
+
+
+\section*{S8. Agreement between the LLM judges}
+
+{\scriptsize
+\begin{longtable}{lrrr}
+\caption{S8. Agreement between the LLM judges}\\
+\toprule
+item & n & alpha & spearman \\
+\midrule
+\endhead
+coherence & 702.000 & 0.234 & 0.473 \\
+character\_consistency & 702.000 & -0.748 & 0.173 \\
+scene\_fidelity & 702.000 & -0.640 & 0.285 \\
+subjectivity & 702.000 & 0.414 & 0.407 \\
+emotional\_intensity & 702.000 & 0.014 & 0.238 \\
+\bottomrule
+\end{longtable}
+}
+
+
+\section*{S9. Correlation between judge ratings and automatic measures}
+
+{\scriptsize
+\begin{longtable}{lrrr}
+\caption{S9. Correlation between judge ratings and automatic measures}\\
+\toprule
+item & subj & intensity & n \\
+\midrule
+\endhead
+phi4:14b & 0.125 & 0.147 & 702.000 \\
+qwen3.5:9b-q4\_K\_M & 0.117 & 0.060 & 702.000 \\
+\bottomrule
+\end{longtable}
+}
+
+
+\section*{S10. Example transcripts}
+
+For every excerpt, the first-person and third-person sessions generated by Qwen2.5 14B with seed 0 are reproduced in full. All other transcripts are provided in the data files.
+
+\subsection*{The Good Earth --- First person}
+
+\begin{enumerate}\setlength{\itemsep}{1pt}\small
+
+\item \textbf{Wang Lung}: My wife, do not fret. Our son will marry well and care for the fool as you have. The gods will see to it that all is well.
+
+\item \textbf{O-lan}: I know it is hard to let go, but you must look after them as I cannot. Ensure they are cared for and that the fool is well taken care of.
+
+\item \textbf{Wang Lung}: My dear, you must rest now. The eldest son will marry soon, and I will see to it that all your wishes are fulfilled. Do not worry, for I am here and will take care of everything.
+
+\item \textbf{O-lan}: I trust you, my husband, and I know you will do right by them. But promise me you will see to the fool's needs as I have.
+
+\item \textbf{the eldest son}: Mother, please rest assured. I will take care of everything as Father says. I will marry soon and look after the fool as you have.
+
+\item \textbf{Wang Lung}: My son, your words are a comfort. I will see to it that the wedding preparations are made and that your mother's last wishes are honored.
+
+\item \textbf{the eldest son}: Mother, please try to rest. Father and I will make sure everything is taken care of.
+
+\item \textbf{O-lan}: Thank you, my son. And Father, I know you will see to it. I only ask that you do not forget the fool's happiness above all.
+
+\item \textbf{Wang Lung}: O-lan, my heart is at peace knowing that our son understands his duty. I will ensure that every wish you have for the fool is fulfilled, and I will watch over him as you have.
+
+\item \textbf{the maid}: Master Wang Lung, may I assist in any preparations for the eldest son's wedding? I will ensure everything is done with care and respect.
+
+\item \textbf{Wang Lung}: Thank you, my daughter-in-law. Your help will ease the burden and ensure that this time is peaceful for O-lan.
+
+\item \textbf{O-lan}: I thank you, my daughter-in-law. May your kindness bring blessings to our home. And Father, my son, rest assured I will watch over you all from the heavens, guiding you with every step.
+
+\item \textbf{the maid}: I will do my best to honor O-lan's wishes and to care for my family with all my heart.
+
+\item \textbf{O-lan}: Wang Lung, my heart is heavy but at ease knowing our son will marry soon. Let us ensure this day is filled with joy and not sorrow.
+
+\item \textbf{the eldest son}: Mother, please rest easy. I will make sure that the wedding is a joyous occasion, as you wish.
+
+\item \textbf{O-lan}: My son, your promise warms my heart. Let us hurry with the preparations so that I can see your happiness before I am gone.
+
+\item \textbf{the maid}: I will take care of the arrangements with all haste, my mother-in-law, and ensure the wedding is everything you desire.
+
+\item \textbf{O-lan}: Wang Lung, let us ensure that every detail is perfect for our son's wedding. I wish to see him happy before I leave this world.
+
+\item \textbf{Wang Lung}: O-lan, you shall see our son's happiness. I will see to it that everything is prepared with the utmost care and joy.
+
+\item \textbf{the eldest son}: Mother, I will do everything in my power to ensure that the wedding is a beautiful celebration. Please do not worry about anything.
+
+\end{enumerate}
+
+\subsection*{The Good Earth --- Third person}
+
+\begin{enumerate}\setlength{\itemsep}{1pt}\small
+
+\item \textbf{Wang Lung}: Wang Lung reassured O-lan that everything would be taken care of, that their son would be guided well and that she had no need to worry about him or the family. He insisted that he would see her wishes fulfilled and that her eldest son would have a good life.
+
+\item \textbf{O-lan}: O-lan asked Wang Lung if he had ensured that their son would be taught the ways of respect and duty towards his wife and her family, and if he had reminded him of the importance of providing for his wife and children.
+
+\item \textbf{Wang Lung}: Wang Lung assured O-lan that he would see to it that their son would be taught the ways of respect and duty, and that he would remind him of the importance of providing for his wife and her family, as she wished.
+
+\item \textbf{O-lan}: O-lan asked Wang Lung if he had spoken to the maid about the importance of her role in the family, and if he had reminded her of the duties she owed to her husband and his ancestors.
+
+\item \textbf{the eldest son}: The eldest son, feeling a mix of nervousness and devotion, told his mother that he understood the importance of respecting his wife and her family and would do his best to provide for them.
+
+\item \textbf{the maid}: The maid told O-lan that she had understood her duties and would serve the family with all her heart, ensuring that she respected her husband and his ancestors.
+
+\item \textbf{O-lan}: O-lan told Wang Lung and the others that she felt reassured by their words, but she asked Wang Lung to ensure that the arrangements for her son's marriage were completed swiftly, for her peace of mind.
+
+\item \textbf{Wang Lung}: Wang Lung told O-lan that he would personally oversee the arrangements for the eldest son's marriage, ensuring that everything was done swiftly and in accordance with tradition to bring her peace of mind.
+
+\item \textbf{O-lan}: O-lan insisted that Wang Lung and the others work diligently to prepare for the marriage, her voice firm yet weakened by illness, as she clutched Wang Lung's hand.
+
+\item \textbf{the maid}: The maid told O-lan that she would work diligently to ensure that all preparations for the marriage were completed with care and respect, in accordance with her mother-in-law's wishes.
+
+\item \textbf{Wang Lung}: Wang Lung assured O-lan that he would see to the marriage preparations himself, assuring her that her son would be well taken care of and married with all the dignity and tradition that she desired.
+
+\item \textbf{O-lan}: O-lan insisted that Wang Lung and the others move quickly with the marriage preparations, her eyes reflecting both urgency and exhaustion.
+
+\item \textbf{the maid}: The maid told O-lan that she would work tirelessly to ensure the marriage preparations were completed with the utmost care, respecting her mother-in-law's wishes.
+
+\item \textbf{O-lan}: O-lan insisted that the eldest son should be informed about the importance of his marriage not just for himself, but for the future stability of the family.
+
+\item \textbf{the eldest son}: The eldest son nodded hesitantly, expressing his gratitude and understanding to his mother and father, acknowledging the importance of the marriage for the family's future.
+
+\item \textbf{O-lan}: O-lan insisted that the eldest son should take his responsibilities seriously, reminding him that the marriage was crucial for the family's stability and future prosperity.
+
+\item \textbf{the eldest son}: The eldest son told O-lan and Wang Lung that he would do everything in his power to fulfill his responsibilities and ensure the marriage went ahead as planned, his voice trembling slightly with the weight of the situation.
+
+\item \textbf{Wang Lung}: Wang Lung assured O-lan and the eldest son that he would arrange for the best possible marriage preparations, insisting that their family's future was secure and that O-lan's wishes would be honored.
+
+\item \textbf{O-lan}: O-lan insisted that Wang Lung and the eldest son must not neglect the family's financial stability and prepare for a future without her, her voice filled with a mixture of urgency and resignation.
+
+\item \textbf{the eldest son}: The eldest son told O-lan and Wang Lung that he understood the gravity of the situation and would work diligently to ensure the family's stability, his voice wavering as he pledged his loyalty and commitment.
+
+\end{enumerate}
+
+\subsection*{Pride and Prejudice --- First person}
+
+\begin{enumerate}\setlength{\itemsep}{1pt}\small
+
+\item \textbf{Elizabeth}: I have no reason to be blind to his misfortunes, for I have heard the true account of them from himself.
+
+\item \textbf{Mr. Darcy}: I must confess, your accusation stings, though I do not expect your understanding or sympathy at this moment. I shall not attempt to justify myself on this point, as it is clear my actions have left much to be desired in your eyes.
+
+\item \textbf{Elizabeth}: I cannot pretend to feel what I do not feel, but I can assure you that the least I owe myself is to know what I do feel.
+
+\item \textbf{Mr. Darcy}: I am aware that my actions have led to this misunderstanding, Miss Bennet. Yet, I cannot help but feel a pang of regret that our conversation has reached this point.
+
+\item \textbf{Elizabeth}: Mr. Darcy, I must be frank. Your manners and your pride have long offended me, and it would be dishonest to pretend otherwise. Your first proposal was an insult to my understanding and my feelings.
+
+\item \textbf{Mr. Darcy}: Miss Bennet, your candor is commendable, but your words wound me deeply. I confess, I did not expect such vehemence in your rejection.
+
+\item \textbf{Elizabeth}: I am well aware that my words must be cutting, but I cannot help it when my feelings are so strong. Your pride has been my constant companion, Mr. Darcy, and I cannot ignore the pain it has caused.
+
+\item \textbf{Mr. Darcy}: Miss Bennet, your insight is clear and your words, though harsh, are just. I must endure the consequences of my actions and the judgments they have brought upon me.
+
+\item \textbf{Elizabeth}: You have brought this upon yourself, Mr. Darcy. Your own actions have led to this moment, and your pride has blinded you to the harm you have caused.
+
+\item \textbf{Mr. Darcy}: Your accusations are not unjust, Miss Bennet. I am aware of my shortcomings and the pain I have inflicted. Yet, I cannot help but confess my love for you, despite the obvious obstacles.
+
+\item \textbf{Elizabeth}: I am surprised by your confession, Mr. Darcy, but your past actions make it difficult for me to accept such feelings from you.
+
+\item \textbf{Elizabeth}: I am well aware of your feelings, Mr. Darcy, but your past behaviour towards my family and friends makes it impossible for me to consider your confession with anything but the utmost disdain.
+
+\item \textbf{Mr. Darcy}: I understand your feelings, Miss Bennet, and I do not seek to trivialize them. My past actions have indeed caused you great pain, and for that, I am truly sorry. Yet, my feelings for you remain unchanged.
+
+\item \textbf{Elizabeth}: My feelings towards you, Mr. Darcy, are clear. Your pride and my prejudice have led us to this point, and it is not one I am ready to overlook.
+
+\item \textbf{Mr. Darcy}: I comprehend the gravity of your feelings, Elizabeth. It is not within my power to change the past, but I hope that, given time, you may come to see the sincerity of my heart.
+
+\item \textbf{Elizabeth}: Your sincerity, Mr. Darcy, does not change the truth of my feelings. I cannot look past the pain you have caused.
+
+\item \textbf{Mr. Darcy}: I must accept that my past actions have led to this outcome, Elizabeth. I shall endeavour to earn your regard over time, if you will permit me the chance.
+
+\item \textbf{Elizabeth}: I appreciate your sentiment, Mr. Darcy, but I must think on this. There is much to consider and little to ease the hurt you have caused.
+
+\item \textbf{Mr. Darcy}: I understand the weight of my actions, Elizabeth. I shall respect your need for time and space to consider our relationship.
+
+\item \textbf{Elizabeth}: I must take my leave now, Mr. Darcy. There is much to contemplate and I need time to myself.
+
+\end{enumerate}
+
+\subsection*{Pride and Prejudice --- Third person}
+
+\begin{enumerate}\setlength{\itemsep}{1pt}\small
+
+\item \textbf{Elizabeth}: Elizabeth told Mr. Darcy that his character as delineated by Mr Wickham had made an everlasting impression on her, and that all his actions since had concurred to confirm its justice.
+
+\item \textbf{Mr. Darcy}: Mr Darcy insisted that if Miss Elizabeth had known the true facts of the case, she would have been less severe in her condemnation of him, and that his character was not as blackened as Mr Wickham had painted it.
+
+\item \textbf{Elizabeth}: Elizabeth told Mr Darcy that while she believed he was indeed a person of great honour and principle, his actions had betrayed that character, and that his conduct towards her and her family had left her with no choice but to doubt his sincerity.
+
+\item \textbf{Elizabeth}: Elizabeth told Mr Darcy that she found it difficult to accept his explanation when his actions had caused so much pain to her and her family, and that his character had been so thoroughly disapproved of by her that she could not easily change her opinion.
+
+\item \textbf{Mr. Darcy}: Mr Darcy insisted that his actions, though not always in accord with his principles, had been driven by his sense of duty and honour, and that he deeply regretted the hurt he had caused Elizabeth and her family.
+
+\item \textbf{Elizabeth}: Elizabeth told Mr Darcy that she found his explanation difficult to accept, given the evidence against him, and that his past conduct had left a deep impression on her that was hard to overcome.
+
+\item \textbf{Mr. Darcy}: Mr Darcy insisted that despite his pride and errors in judgment, his intentions had always been to protect those he cared about, including Elizabeth, even if his methods had been flawed and hurtful.
+
+\item \textbf{Elizabeth}: Elizabeth told Mr Darcy that his methods, though perhaps motivated by honour, had been too harsh and had caused significant harm to those around him, including herself.
+
+\item \textbf{Mr. Darcy}: Mr Darcy insisted that his intentions had always been to shield Elizabeth from the dangers he perceived, even if his approach had been misguided and had caused her distress.
+
+\item \textbf{Elizabeth}: Elizabeth told Mr Darcy that his actions had caused her and her family considerable pain, and that while she recognised his intentions, she could not easily forgive or forget his past behaviour.
+
+\item \textbf{Mr. Darcy}: Mr Darcy insisted that he understood the depth of Elizabeth's pain and acknowledged the harm his actions had caused, yet he could not help but feel a lingering sense of duty and affection that pushed him to defend his past actions.
+
+\item \textbf{Elizabeth}: Elizabeth told Mr Darcy that she appreciated his acknowledgment but his past actions had left lasting scars, making it difficult for her to trust and accept his current words.
+
+\item \textbf{Mr. Darcy}: Mr Darcy told Elizabeth that he recognised the difficulty of her feelings towards him, and that he was willing to accept the consequences of his past actions, though it pained him deeply to see that his efforts to amend himself had not yet earned her trust and forgiveness.
+
+\item \textbf{Elizabeth}: Elizabeth told Mr Darcy that she understood his feelings and acknowledged his efforts to change, but she could not dismiss the hurt he had caused her and her family. She insisted that time and continued proof of his sincerity would be needed for her to begin to trust him again.
+
+\item \textbf{Mr. Darcy}: Mr Darcy insisted that he understood Elizabeth's need for time and proof, and promised to continue his efforts to earn her trust and respect.
+
+\item \textbf{Elizabeth}: Elizabeth told Mr Darcy that she appreciated his sincerity and acknowledged the sincerity of his efforts to change, but she could not help but feel that the past could not be easily forgotten or forgiven.
+
+\item \textbf{Mr. Darcy}: Mr Darcy insisted that he would work tirelessly to prove his sincerity and earn her trust, despite the challenges.
+
+\item \textbf{Elizabeth}: Elizabeth told Mr Darcy that she appreciated his determination and the sincerity with which he spoke, but she could not immediately set aside the deep-seated resentment and disappointment that his past actions had caused her.
+
+\item \textbf{Mr. Darcy}: Mr Darcy told Elizabeth that he recognised the depth of her feelings and the gravity of his past actions, and promised to demonstrate through his conduct that he was truly committed to earning her trust and affection.
+
+\item \textbf{Elizabeth}: Elizabeth told Mr Darcy that she understood his intentions and appreciated his efforts to make amends, but she could not overlook the pain and disappointment he had caused her and her family in the past.
+
+\end{enumerate}
+
+\subsection*{Great Expectations --- First person}
+
+\begin{enumerate}\setlength{\itemsep}{1pt}\small
+
+\item \textbf{Pip}: Yes, Miss Havisham.
+
+\item \textbf{Miss Havisham}: Estella will show you around. Follow her, and remember, my boy, to keep your eyes open and your mouth shut.
+
+\item \textbf{Pip}: Yes, Miss Havisham. I'll do as you say.
+
+\item \textbf{Miss Havisham}: Estella, fetch the young gentleman here. I have a task for you.
+
+\item \textbf{Pip}: Yes, Miss Havisham. I'll wait here for Estella to show me around.
+
+\item \textbf{Miss Havisham}: Ah, Estella, I trust you are ready to take charge. Show our young visitor the peculiarities of Satis House.
+
+\item \textbf{Pip}: Yes, Miss Havisham. I'll do my best to please you.
+
+\item \textbf{Miss Havisham}: I shall await your return, young Pip. And remember, the clocks here tell a different time than the world outside.
+
+\item \textbf{Pip}: Thank you, Miss Havisham. I'll do my best to be a good visitor.
+
+\item \textbf{Miss Havisham}: You may go now, Pip. But remember, this house is full of shadows, and the past is always present here.
+
+\item \textbf{Pip}: Yes, Miss Havisham. I will be careful and try not to disturb anything.
+
+\item \textbf{Miss Havisham}: Estella will show you around. Observe, Pip, but do not question. The truth of this place is its own domain.
+
+\item \textbf{Pip}: Yes, Miss Havisham. I'll follow Estella and pay attention.
+
+\item \textbf{Miss Havisham}: Leave now, Pip. And remember, time stands still here, but the shadows move.
+
+\item \textbf{Pip}: Thank you, Miss Havisham. I will be careful and follow Estella as you said.
+
+\item \textbf{Miss Havisham}: I trust you will find the lessons here both enlightening and transformative, Pip. Remember, the truth lies in the shadows.
+
+\item \textbf{Pip}: Yes, Miss Havisham. I will try my best to understand and learn from everything here.
+
+\item \textbf{Miss Havisham}: Observe, Pip, and learn. The world outside these walls may not understand the complexities of the heart.
+
+\item \textbf{Pip}: Yes, Miss Havisham. I will observe and learn, though I am not sure what to expect.
+
+\item \textbf{Miss Havisham}: Estella will show you the ways of the world, Pip. But remember, some truths are better left unspoken.
+
+\end{enumerate}
+
+\subsection*{Great Expectations --- Third person}
+
+\begin{enumerate}\setlength{\itemsep}{1pt}\small
+
+\item \textbf{Pip}: Pip told Miss Havisham that he would go to the door and call Estella, but he felt a bit nervous about it.
+
+\item \textbf{Miss Havisham}: Miss Havisham told Pip to leave the room and return with Estella, her protégée, who would provide the boy with further instruction and company.
+
+\item \textbf{Pip}: Pip told Miss Havisham that he would go to the door and call Estella, but he felt a bit nervous about it.
+
+\item \textbf{Miss Havisham}: Miss Havisham told Pip to leave the room and return with Estella, her protégée, who would provide the boy with further instruction and company.
+
+\item \textbf{Pip}: Pip told Miss Havisham that he would go to the door and call Estella, though he was quite apprehensive about meeting her.
+
+\item \textbf{Miss Havisham}: Miss Havisham watched Pip with a mix of disdain and amusement, her eyes lingering on the boy's nervousness. She told Pip, with a sharp edge to her voice, to fetch Estella immediately and ensure she understands that this is her duty and not a favor.
+
+\item \textbf{Pip}: Pip told Miss Havisham that he would go to find Estella right away, though his heart was heavy with dread.
+
+\item \textbf{Miss Havisham}: Miss Havisham watched as Pip scurried out of the room, his small form a stark contrast to the grandeur and decay of the chamber. She mused over the boy's fear, her eyes narrowing as she considered the perfect vessel in which to pour her vengeance.
+
+\item \textbf{Miss Havisham}: Miss Havisham watched the door through which Pip had disappeared, her gaze cold and calculating. She then called out sharply to a nearby servant, instructing them to ensure Estella was brought to her immediately.
+
+\item \textbf{Pip}: Pip told the servant, who had appeared at Miss Havisham's call, that he was to fetch Estella and remind her of her duty.
+
+\item \textbf{Miss Havisham}: Miss Havisham watched the servant hurry off to carry out her instructions, her gaze lingering on the door Pip had left through. She then turned to a nearby clock, its hands frozen at the exact moment she had been betrayed, and with a bitter smile, she told the servant to inform Estella that she was expected to provide her usual entertainment for this unexpected visitor.
+
+\item \textbf{Pip}: Pip thanked the servant politely for their help and turned to leave the chamber, his footsteps echoing off the walls as he made his way to find Estella.
+
+\item \textbf{Miss Havisham}: Miss Havisham turned to the door Pip had just left through, her eyes narrowing as she considered her next move. She then called out to another servant, instructing them to ensure Pip was kept under her watchful eye and not allowed to leave the estate.
+
+\item \textbf{Miss Havisham}: Miss Havisham watched the servant return with news of Pip's whereabouts, her eyes narrowing with a mixture of curiosity and malice. She then told the servant to fetch Estella at once, her voice dripping with an icy command.
+
+\end{enumerate}
+
+\subsection*{A Scandal in Bohemia --- First person}
+
+\begin{enumerate}\setlength{\itemsep}{1pt}\small
+
+\item \textbf{Dr. Watson}: Indeed, Your Majesty, it is clear now. May I ask what specific assistance you require from Mr. Holmes?
+
+\item \textbf{Sherlock Holmes}: Your Majesty, the nature of your visit is indeed of a delicate and serious nature. Pray, elucidate the specifics of your predicament so I may determine the most efficacious course of action.
+
+\item \textbf{the King of Bohemia}: I fear that the matter at hand involves the queen's sister, whom I must protect from a scandal that could jeopardize the stability of our kingdom. Can you assist me in uncovering the truth and ensuring her safety?
+
+\item \textbf{Sherlock Holmes}: Your Majesty, I appreciate the gravity of your situation. Let us proceed to the details of the scandal and the means by which you wish me to intervene.
+
+\item \textbf{the King of Bohemia}: Indeed, the situation is dire. The scandal revolves around letters and photographs that could implicate my sister-in-law in an affair with a foreign noble. I need these items retrieved and the identity of the person behind this threat to my family's honor established.
+
+\item \textbf{Dr. Watson}: I understand the delicacy of the situation, Your Majesty. Mr. Holmes will certainly approach this matter with the utmost discretion.
+
+\item \textbf{the King of Bohemia}: I trust Mr. Holmes implicitly, and I will provide him with all necessary information to commence his investigation. Let us proceed without further delay.
+
+\item \textbf{Dr. Watson}: Mr. Holmes, shall I assist in gathering any preliminary information or would you prefer to handle this directly with the King?
+
+\item \textbf{Sherlock Holmes}: Doctor, I shall require your assistance in this matter. Your observations will be invaluable. Your Majesty, if you would be so kind as to provide me with the specific details of the scandal and the whereabouts of the threatening individual.
+
+\item \textbf{the King of Bohemia}: Very well, Mr. Holmes. The individual behind this scheme is known only by his alias, 'The Red-headed League'. He has been threatening to reveal the scandalous evidence against my sister-in-law, and I fear for the stability of my kingdom should these secrets come to light.
+
+\item \textbf{Dr. Watson}: I will do my best to assist you, Mr. Holmes. Shall we begin by taking a detailed statement from the King of Bohemia?
+
+\item \textbf{Sherlock Holmes}: Let us retire to a more private setting, Your Majesty, where we may discuss this matter in confidence.
+
+\item \textbf{the King of Bohemia}: Indeed, Mr. Holmes. I shall divulge all necessary information with the utmost confidentiality. Let us proceed to a more secluded area.
+
+\item \textbf{Sherlock Holmes}: Lead the way, Your Majesty. Dr. Watson, kindly fetch your notebook and pen. We must document every detail.
+
+\item \textbf{the King of Bohemia}: Indeed, I trust Mr. Holmes and Dr. Watson implicitly. Let us move to the study where we may speak without fear of prying ears.
+
+\item \textbf{Sherlock Holmes}: Very well, let us not waste a moment.
+
+\item \textbf{the King of Bohemia}: I shall proceed at once to the study, accompanied by Mr. Holmes and Dr. Watson. Let us not linger here.
+
+\item \textbf{Dr. Watson}: I shall retrieve my notebook and pen at once, as Holmes requested.
+
+\item \textbf{Sherlock Holmes}: I shall precede you then, Your Majesty, and prepare the study for our discussion.
+
+\item \textbf{the King of Bohemia}: I shall follow closely behind, ensuring that our conversation remains confidential.
+
+\end{enumerate}
+
+\subsection*{A Scandal in Bohemia --- Third person}
+
+\begin{enumerate}\setlength{\itemsep}{1pt}\small
+
+\item \textbf{Dr. Watson}: Dr. Watson told the King of Bohemia that he could understand the delicacy of the situation and assured him that Sherlock Holmes would provide the best possible advice given the circumstances.
+
+\item \textbf{the King of Bohemia}: the King of Bohemia felt a mixture of relief and nervousness as he revealed his true identity, insisting that the matter was of utmost importance and could not be left unresolved.
+
+\item \textbf{Sherlock Holmes}: Sherlock Holmes told the King of Bohemia that he understood the gravity of the situation and would need to hear all the details to provide sound advice.
+
+\item \textbf{Dr. Watson}: Dr. Watson assured the King of Bohemia that Sherlock Holmes would treat the matter with the utmost confidentiality and seriousness.
+
+\item \textbf{the King of Bohemia}: the King of Bohemia insisted that the matter involved a personal matter of great political significance, affecting the stability of his kingdom and the future of his lineage.
+
+\item \textbf{Dr. Watson}: Dr. Watson assured the King of Bohemia that Sherlock Holmes would treat the matter with the utmost confidentiality and seriousness.
+
+\item \textbf{the King of Bohemia}: the King of Bohemia insisted that the matter was urgent and required immediate attention, his nervousness evident as he shifted in his seat.
+
+\item \textbf{Dr. Watson}: Dr. Watson nodded reassuringly, telling the King of Bohemia that they were ready to hear his story and would do everything in their power to assist him.
+
+\item \textbf{the King of Bohemia}: the King of Bohemia insisted that the matter involved a delicate and politically sensitive issue, one that could jeopardize the future of his kingdom and the well-being of his people.
+
+\item \textbf{Dr. Watson}: Dr. Watson told the King of Bohemia that they were prepared to hear his urgent matter and would handle it with the utmost discretion and seriousness.
+
+\item \textbf{the King of Bohemia}: the King of Bohemia insisted that the matter was of utmost importance and could not be disclosed to anyone else, his voice trembling slightly as he spoke.
+
+\item \textbf{Sherlock Holmes}: Sherlock Holmes told the King of Bohemia that he understood the gravity of the matter and would require the full details immediately.
+
+\item \textbf{the King of Bohemia}: the King of Bohemia insisted that the matter was intertwined with a delicate family situation involving a royal heir, his eyes darting nervously around the room as if fearing eavesdroppers.
+
+\item \textbf{Sherlock Holmes}: Sherlock Holmes told the King of Bohemia that he needed to see the evidence and documents related to the matter immediately, without delay.
+
+\item \textbf{the King of Bohemia}: the King of Bohemia insisted that he could not risk revealing his true identity and the nature of the documents, fearing for his safety and that of his family.
+
+\item \textbf{Sherlock Holmes}: Sherlock Holmes told the King of Bohemia that he would require a private meeting at a secure location to review the documents, stressing the importance of confidentiality and discretion.
+
+\item \textbf{the King of Bohemia}: the King of Bohemia insisted that the matter was too perilous to bring documents to Holmes's office, his hands trembling slightly as he spoke, his eyes never leaving Holmes's face.
+
+\item \textbf{Sherlock Holmes}: Sherlock Holmes told the King of Bohemia that he understood the gravity of the situation and proposed a meeting at his residence in the evening, ensuring that all necessary precautions would be taken to maintain confidentiality.
+
+\item \textbf{the King of Bohemia}: The King of Bohemia nodded slowly, his expression grave, and insisted that the evening meeting at Holmes's residence would be acceptable, provided that strict security measures were in place.
+
+\item \textbf{Sherlock Holmes}: Sherlock Holmes told the King of Bohemia that he would ensure the meeting would proceed with utmost secrecy and security, and asked for a specific time and place to arrange for the necessary preparations.
+
+\end{enumerate}
+
+\subsection*{The Importance of Being Earnest --- First person}
+
+\begin{enumerate}\setlength{\itemsep}{1pt}\small
+
+\item \textbf{Lady Bracknell}: I am afraid that a residence in Belgrave Square, though an undeniably desirable address, does not in itself guarantee the social standing necessary for a match of your daughter's stature. Tell me, Mr. Worthing, what is your profession?
+
+\item \textbf{Jack}: I am a gentleman farmer, Lady Bracknell. My profession is to provide for my household and to be a model citizen.
+
+\item \textbf{Lady Bracknell}: A gentleman farmer, indeed? Mr. Worthing, farming is a respectable occupation, but it does not align with the social aspirations of my daughter. Tell me, do you have any significant connections or influence in the social circles that matter?
+
+\item \textbf{Jack}: I must admit, Lady Bracknell, that my connections are limited to my immediate circle and the community in which I live. However, I am eager to learn and to grow in all areas that would be beneficial to your daughter and to me.
+
+\item \textbf{Lady Bracknell}: I see, Mr. Worthing. However, it seems your current status and connections fall short of what my daughter deserves. I must ask, do you have any plans to acquire the means and influence necessary to meet the expectations of our society?
+
+\item \textbf{Gwendolen}: Mother, I cannot help but feel that your inquiries are rather narrow-minded. Mr. Worthing is a gentleman and a man of character. His status should not be the only measure of his worth.
+
+\item \textbf{Jack}: I am grateful for your support, Gwendolen. And to Lady Bracknell, I assure you that I am committed to doing everything in my power to meet the expectations you have set. My intentions are honourable, and I will strive to be a worthy husband for your daughter.
+
+\item \textbf{Gwendolen}: Mother, you are being rather unreasonable. Mr. Worthing's character and intentions are more important than his current status. I will not let these superficial matters come between us.
+
+\item \textbf{Lady Bracknell}: My dear Gwendolen, your enthusiasm is commendable, but your understanding of the world is somewhat limited. Mr. Worthing, I must insist that you provide me with a more substantial plan to elevate your standing in society. Your current circumstances are not satisfactory.
+
+\item \textbf{Gwendolen}: Mother, your insistence on superficial matters is disappointing. Mr. Worthing is a man of integrity and I refuse to let your standards dictate my happiness.
+
+\item \textbf{Jack}: Lady Bracknell, I understand your concerns and I will do my utmost to address them. I promise to work diligently to improve my standing and to ensure that I am a worthy partner for Gwendolen.
+
+\item \textbf{Lady Bracknell}: Mr. Worthing, your promises are not sufficient. I require concrete evidence of your ability to provide Gwendolen with the lifestyle and social standing befitting a lady of her breeding.
+
+\item \textbf{Jack}: Lady Bracknell, I understand your requirements and I assure you, I am committed to meeting them. I will work hard to improve my circumstances and provide Gwendolen with everything she deserves.
+
+\item \textbf{Lady Bracknell}: I appreciate your assurances, Mr. Worthing, but mere words will not suffice. I require tangible proof of your capability to support my daughter in the manner to which she is accustomed.
+
+\item \textbf{Jack}: Lady Bracknell, I understand your need for evidence. I will do everything in my power to provide it. Please give me a chance to prove myself worthy of Gwendolen.
+
+\item \textbf{Lady Bracknell}: Mr. Worthing, I am well aware of your assurances. However, I must insist on immediate and substantial evidence of your financial stability and social connections. Merely promising to improve your circumstances is insufficient.
+
+\item \textbf{Jack}: Lady Bracknell, I understand your concerns and I will do my best to provide the evidence you seek. Please allow me the opportunity to demonstrate my commitment to Gwendolen.
+
+\item \textbf{Lady Bracknell}: Mr. Worthing, while your words are commendable, they lack the concrete evidence I require. I shall be expecting a detailed presentation of your financial standing and social connections at our next meeting.
+
+\item \textbf{Jack}: Lady Bracknell, I will prepare all the necessary documents and evidence for our next meeting. I am committed to Gwendolen and will do whatever it takes to satisfy your requirements.
+
+\item \textbf{Lady Bracknell}: Very well, Mr. Worthing. Until you can provide me with the necessary proof, I must reserve my judgment regarding your suitability as a husband for my daughter. Do not keep me waiting for long.
+
+\end{enumerate}
+
+\subsection*{The Importance of Being Earnest --- Third person}
+
+\begin{enumerate}\setlength{\itemsep}{1pt}\small
+
+\item \textbf{Lady Bracknell}: Lady Bracknell asked Jack if the house in Belgrave Square was his property or if he rented it.
+
+\item \textbf{Jack}: Jack told Lady Bracknell that he rented the house in Belgrave Square and hoped that would not be a disqualification.
+
+\item \textbf{Lady Bracknell}: Lady Bracknell told Jack that renting property might be considered a temporary arrangement and asked if he owned any land or property in his own right.
+
+\item \textbf{Jack}: Jack told Lady Bracknell that he owned no land or property of his own and hoped that this would not affect his chances with Gwendolen.
+
+\item \textbf{Lady Bracknell}: Lady Bracknell insisted that without substantial property or a significant social standing, Mr Worthing would be an unsuitable match for her daughter.
+
+\item \textbf{Gwendolen}: Gwendolen told her mother that she would not let her engagement to Jack be determined by such superficial considerations as property and land.
+
+\item \textbf{Lady Bracknell}: Lady Bracknell insisted that her daughter's happiness and future were too important to be left to the whims of someone who could not provide for her.
+
+\item \textbf{Gwendolen}: Gwendolen told her mother that her heart and happiness should be the determining factors in her marriage, not material possessions.
+
+\item \textbf{Lady Bracknell}: Lady Bracknell insisted that in her world, a gentleman without a substantial fortune or a respectable lineage was hardly a suitable match, regardless of the depth of one's heart.
+
+\item \textbf{Gwendolen}: Gwendolen told her mother that she would not be swayed by societal expectations or material wealth, for true love and mutual respect were the only criteria worth considering.
+
+\item \textbf{Lady Bracknell}: Lady Bracknell insisted that Gwendolen must understand that in the world of high society, a gentleman without means or a respectable background was hardly a suitable match, regardless of his supposed sentiments.
+
+\item \textbf{Lady Bracknell}: Lady Bracknell insisted that Gwendolen must learn to prioritize practical considerations over emotional whims, as true happiness in life came from a stable marriage rather than fleeting infatuations.
+
+\item \textbf{Gwendolen}: Gwendolen told her mother that she would not bend to her narrow views on marriage, for she valued Jack's character and their love above all else.
+
+\item \textbf{Lady Bracknell}: Lady Bracknell insisted that Gwendolen must reconsider her decision, reminding her that a gentleman without a solid reputation and financial stability was not a fit match in their circles.
+
+\item \textbf{Gwendolen}: Gwendolen told her mother that she would not compromise her principles for societal approval, for she believed in the sanctity of true love.
+
+\item \textbf{Lady Bracknell}: Lady Bracknell told Gwendolen that she would not allow her daughter to marry a man without proper connections and financial security, regardless of any romantic notions.
+
+\item \textbf{Gwendolen}: Gwendolen insisted that she would follow her heart and marry Jack, despite her mother's objections and societal expectations.
+
+\item \textbf{Lady Bracknell}: Lady Bracknell insisted to Gwendolen that her decision to marry Jack was unacceptable and that she would not entertain such a notion, regardless of her daughter's romantic ideals.
+
+\item \textbf{Gwendolen}: Gwendolen insisted to her mother that she would not be swayed by social expectations and would marry Jack, no matter what objections were raised.
+
+\item \textbf{Lady Bracknell}: Lady Bracknell told Gwendolen that she would not permit her daughter to throw away her future on a man who lacked the proper background and means, regardless of the romantic fancies that clouded her judgment.
+
+\end{enumerate}
+
+\subsection*{The Home and the World --- First person}
+
+\begin{enumerate}\setlength{\itemsep}{1pt}\small
+
+\item \textbf{Nikhil}: I am not here to threaten you, Sandip. My concerns are legitimate, and I will not hesitate to protect my people from any form of oppression, regardless of the source.
+
+\item \textbf{Sandip}: Your concerns are as baseless as your threats, Nikhil. I am not cowed by the likes of you or any local Muslims. As for your tenantry, they are free to choose their own path, and if they find my influence more liberating than yours, I see no wrong in that.
+
+\item \textbf{Nikhil}: Your influence may seem liberating to some, Sandip, but it is a dangerous illusion. I will not stand idly by while you exploit my people.
+
+\item \textbf{Sandip}: Exploit my people, you say? Nikhil, my dear rival, you know nothing of the fire that burns within your tenants. They are not sheep to be shepherded but warriors ready to rise. And as for your threats, I laugh at them. The day you can quell the spirit of the people is the day you can command the wind to cease blowing.
+
+\item \textbf{Nikhil}: I see through your illusions, Sandip. The spirit of the people you speak of is not one of true liberation, but of manipulation and fear. I will protect my people from your false promises.
+
+\item \textbf{Bimala}: I am torn between you both, Sandip, Nikhil. Your words strike me deeply, yet I cannot choose sides. The truth seems to hide in shadows.
+
+\item \textbf{Sandip}: Bimala, my beloved, your heart is as conflicted as the times we live in. But fear not the shadows; they are but the void awaiting the light of truth. My promises, though you call them false, are the beacon guiding the people from the tyranny of ignorance and oppression.
+
+\item \textbf{Bimala}: Sandip, your words touch my heart, yet Nikhil's concerns weigh on my mind. How can I find the truth when both of you see it so differently?
+
+\item \textbf{Nikhil}: Your words may sway hearts, Sandip, but they do not change the reality of oppression and division. I come here not to argue but to demand that you cease your harmful actions against my people.
+
+\item \textbf{Sandip}: Ah, Nikhil, your concerns are as predictable as they are misplaced. I have no need to cease actions that are the breath of freedom for the oppressed. And yet, I understand your fear; it is the shadow of your own soul, reflecting the darkness you seek to impose on others.
+
+\item \textbf{Nikhil}: Your words may be grand, Sandip, but they ring hollow to those who suffer under your guise of freedom. I warn you now: continue this path, and you will face more than just my disapproval.
+
+\item \textbf{Sandip}: Nikhil, your warnings are but the echo of a fading era. I speak not just with my tongue but with the pulse of the people. It is they who will determine the truth of my actions, not the shadows that cling to the past.
+
+\item \textbf{Nikhil}: Your pulse, Sandip, beats to the rhythm of your own delusions. The people will see through your facade when the reality of your actions confronts them.
+
+\item \textbf{Sandip}: The people's hearts are not so easily swayed by shadows, Nikhil. They see the light of truth in my words and actions, a truth you fear to acknowledge.
+
+\item \textbf{Nikhil}: Your light, Sandip, is but the flicker of a match in a storm. The truth you speak is drowned by the screams of those you oppress.
+
+\item \textbf{Sandip}: Nikhil, your words are like the whispers of the timid. I am the voice of the masses, their champion in the face of oppression. The storm you speak of is but a breeze to my flame.
+
+\item \textbf{Nikhil}: Your flame, Sandip, is but a spark in the night. It will be extinguished by the storm that is the truth of your tyranny.
+
+\item \textbf{Sandip}: Nikhil, your thunderous rhetoric is but the echo of your fear. The people see through your cowardice and embrace the light of my truth.
+
+\item \textbf{Nikhil}: Your truth, Sandip, is but the smoke of your lies. The people will see the fire for what it truly is when the wind of reality blows it away.
+
+\item \textbf{Sandip}: Nikhil, your words are like the shadows that dance in the corner when the light of truth shines bright. The people see through your veils of righteousness and find solace in the warmth of my passion.
+
+\end{enumerate}
+
+\subsection*{The Home and the World --- Third person}
+
+\begin{enumerate}\setlength{\itemsep}{1pt}\small
+
+\item \textbf{Nikhil}: Nikhil insisted that he had come to inform Sandip of the potential threats from local Muslims and to demand that Sandip cease his oppressive actions towards his tenantry, regardless of the underlying reasons.
+
+\item \textbf{Sandip}: Sandip told Nikhil that his actions were driven by a sense of duty and passion, not fear, and that he would not be swayed by threats from any quarter, be they from local Muslims or otherwise.
+
+\item \textbf{Nikhil}: Nikhil insisted that Sandip's influence over the region was causing unrest and that he must cease his actions, or Nikhil would take steps to protect his people and land.
+
+\item \textbf{Sandip}: Sandip told Nikhil that his heart burned with a passion for the people and their cause, and that he would not back down from his convictions, no matter the cost.
+
+\item \textbf{Nikhil}: Nikhil insisted that Sandip's actions were reckless and irresponsible, endangering the stability of the region, and that he would take whatever measures necessary to protect the interests of his people and land.
+
+\item \textbf{Bimala}: Bimala told Sandip and Nikhil that she was troubled by the tension between them and wished for a resolution that did not harm their friendship or the well-being of their people.
+
+\item \textbf{Sandip}: Sandip told Nikhil that his heart burned with a passion for the people and their cause, and that he would not back down from his convictions, no matter the cost.
+
+\item \textbf{Nikhil}: Nikhil insisted that Sandip's disregard for the safety and well-being of the local population was unacceptable and that he would not hesitate to report Sandip's actions to the authorities if they continued.
+
+\item \textbf{Sandip}: Sandip told Nikhil that his fiery spirit would not be tamed by threats or warnings, and that he would continue to fight for what he believed was right, regardless of the consequences.
+
+\item \textbf{Bimala}: Bimala told Sandip and Nikhil that she could see the passion in Sandip's heart and understood his desire to fight for what he believed, but she also felt the weight of Nikhil's responsibility towards their people and land, and wished for a way to bridge their differences without causing harm.
+
+\item \textbf{Nikhil}: Nikhil insisted that Sandip's actions were not only harmful but also reckless, and that he would take whatever measures necessary to protect his people and his land.
+
+\item \textbf{Sandip}: Sandip told Nikhil that his heart burned with a righteous fire and that he would not be swayed by threats or fears, and that the path of justice and freedom was fraught with danger but worth every risk.
+
+\item \textbf{Nikhil}: Nikhil told Sandip that his words were hollow and his methods dangerous, insisting that he would not stand idly by while Sandip endangered the lives and livelihoods of their people.
+
+\item \textbf{Sandip}: Sandip told Nikhil that his heart burned with a righteous fire and that he would not be swayed by threats or fears, and that the path of justice and freedom was fraught with danger but worth every risk.
+
+\item \textbf{Nikhil}: Nikhil told Sandip that he saw through the facade of righteousness and warned that Sandip's actions could lead to a violent backlash, especially from local Muslims who were already wary of his influence.
+
+\item \textbf{Sandip}: Sandip told Nikhil that his warnings were like the cries of a coward, and that the struggle for freedom and justice was not for the faint of heart, and that he would continue to lead from the front, no matter the consequences.
+
+\item \textbf{Nikhil}: Nikhil told Sandip that he would not let his people become pawns in Sandip's dangerous games and that he would take whatever measures necessary to protect them, even if it meant opposing him publicly.
+
+\item \textbf{Sandip}: Sandip insisted that Nikhil's concerns were misplaced, telling him that he would not bow to the pressures of those who feared change, and that his actions were for the greater good of their nation.
+
+\item \textbf{Nikhil}: Nikhil insisted that Sandip's perceived righteousness was a dangerous illusion, and that his actions could only lead to further division and conflict within their society.
+
+\item \textbf{Sandip}: Sandip told Nikhil that his heart was in the right place but his head was clouded by fear, insisting that true progress came from standing up to oppression and that his actions, though harsh, were necessary to awaken the masses from their complacency.
+
+\end{enumerate}
+
+\section*{S11. Improvement experiments: preserving character voice in third-person narration}
+
+Improvement 1 adds a voice-preserving instruction to the third-person mode; improvement 2 lets each Actor speak in its own voice and has the Director narrate the speech in free indirect style (prompts in Appendix A.7 of the article). Both are compared with the first-person and the standard third-person sessions of the same excerpts, models and seeds.
+
+{\scriptsize
+\begin{longtable}{lllrrrrrrrr}
+\caption{Paired comparisons for the voice-preserving instruction experiment (blocks: excerpt $\times$ model $\times$ seed).}\\
+\toprule
+Measure & A & B & n & Mean A & Mean B & A$-$B & CI low & CI high & $d_z$ & $p_\mathrm{Holm}$ \\
+\midrule
+\endhead
+fp\_ratio & First & Voice-pres. & 90.000 & 0.846 & 0.009 & 0.837 & 0.812 & 0.859 & 7.238 & 0.000 \\
+subjectivity & First & Voice-pres. & 90.000 & 0.486 & 0.518 & -0.032 & -0.055 & -0.009 & -0.288 & 0.048 \\
+intensity & First & Voice-pres. & 90.000 & 0.205 & 0.196 & 0.010 & -0.006 & 0.025 & 0.125 & 0.579 \\
+polarity & First & Voice-pres. & 90.000 & 0.121 & 0.099 & 0.022 & 0.001 & 0.043 & 0.220 & 0.176 \\
+distilbert & First & Voice-pres. & 90.000 & 0.223 & -0.003 & 0.226 & 0.152 & 0.300 & 0.622 & 0.000 \\
+n\_words & First & Voice-pres. & 90.000 & 34.218 & 37.918 & -3.700 & -5.075 & -2.311 & -0.550 & 0.000 \\
+word\_len & First & Voice-pres. & 90.000 & 6.669 & 6.880 & -0.211 & -0.297 & -0.122 & -0.494 & 0.000 \\
+zipf & First & Voice-pres. & 90.000 & 4.616 & 4.454 & 0.162 & 0.130 & 0.194 & 1.023 & 0.000 \\
+mattr & First & Voice-pres. & 90.000 & 0.843 & 0.857 & -0.014 & -0.031 & 0.004 & -0.166 & 0.021 \\
+responsiveness & First & Voice-pres. & 90.000 & 0.935 & 0.905 & 0.031 & 0.005 & 0.059 & 0.233 & 0.390 \\
+compliant\_first & First & Voice-pres. & 90.000 & 0.998 & 0.677 & 0.321 & 0.262 & 0.383 & 1.089 & 0.000 \\
+residual\_violation & First & Voice-pres. & 90.000 & 0.001 & 0.040 & -0.039 & -0.056 & -0.026 & -0.544 & 0.000 \\
+fp\_ratio & Third & Voice-pres. & 90.000 & 0.000 & 0.009 & -0.009 & -0.014 & -0.005 & -0.407 & 0.001 \\
+subjectivity & Third & Voice-pres. & 90.000 & 0.483 & 0.518 & -0.035 & -0.053 & -0.017 & -0.395 & 0.007 \\
+intensity & Third & Voice-pres. & 90.000 & 0.171 & 0.196 & -0.025 & -0.037 & -0.012 & -0.410 & 0.005 \\
+polarity & Third & Voice-pres. & 90.000 & 0.092 & 0.099 & -0.006 & -0.025 & 0.013 & -0.070 & 1.000 \\
+distilbert & Third & Voice-pres. & 90.000 & 0.062 & -0.003 & 0.065 & -0.015 & 0.144 & 0.165 & 0.878 \\
+n\_words & Third & Voice-pres. & 90.000 & 41.215 & 37.918 & 3.297 & 1.721 & 4.991 & 0.414 & 0.004 \\
+word\_len & Third & Voice-pres. & 90.000 & 7.054 & 6.880 & 0.175 & 0.108 & 0.240 & 0.531 & 0.000 \\
+zipf & Third & Voice-pres. & 90.000 & 4.501 & 4.454 & 0.048 & 0.014 & 0.081 & 0.287 & 0.097 \\
+mattr & Third & Voice-pres. & 90.000 & 0.870 & 0.857 & 0.013 & -0.003 & 0.029 & 0.162 & 1.000 \\
+responsiveness & Third & Voice-pres. & 90.000 & 0.907 & 0.905 & 0.003 & -0.021 & 0.027 & 0.025 & 1.000 \\
+compliant\_first & Third & Voice-pres. & 90.000 & 0.958 & 0.677 & 0.281 & 0.228 & 0.336 & 1.061 & 0.000 \\
+residual\_violation & Third & Voice-pres. & 90.000 & 0.000 & 0.040 & -0.040 & -0.057 & -0.026 & -0.556 & 0.000 \\
+fp\_ratio & First & Third & 90.000 & 0.846 & 0.000 & 0.845 & 0.820 & 0.869 & 7.166 & 0.000 \\
+subjectivity & First & Third & 90.000 & 0.486 & 0.483 & 0.003 & -0.019 & 0.024 & 0.027 & 1.000 \\
+intensity & First & Third & 90.000 & 0.205 & 0.171 & 0.034 & 0.018 & 0.050 & 0.449 & 0.001 \\
+polarity & First & Third & 90.000 & 0.121 & 0.092 & 0.028 & 0.010 & 0.046 & 0.325 & 0.063 \\
+distilbert & First & Third & 90.000 & 0.223 & 0.062 & 0.161 & 0.088 & 0.235 & 0.448 & 0.002 \\
+n\_words & First & Third & 90.000 & 34.218 & 41.215 & -6.997 & -9.065 & -5.020 & -0.714 & 0.000 \\
+word\_len & First & Third & 90.000 & 6.669 & 7.054 & -0.386 & -0.474 & -0.298 & -0.899 & 0.000 \\
+zipf & First & Third & 90.000 & 4.616 & 4.501 & 0.114 & 0.084 & 0.145 & 0.780 & 0.000 \\
+mattr & First & Third & 90.000 & 0.843 & 0.870 & -0.027 & -0.043 & -0.012 & -0.357 & 0.019 \\
+responsiveness & First & Third & 90.000 & 0.935 & 0.907 & 0.028 & 0.004 & 0.053 & 0.232 & 0.672 \\
+compliant\_first & First & Third & 90.000 & 0.998 & 0.958 & 0.040 & 0.027 & 0.054 & 0.605 & 0.000 \\
+residual\_violation & First & Third & 90.000 & 0.001 & 0.000 & 0.001 & 0.000 & 0.002 & 0.105 & 1.000 \\
+\bottomrule
+\end{longtable}
+}
+
+
+{\scriptsize
+\begin{longtable}{lllrrrrrrrr}
+\caption{Paired comparisons for the speak-then-narrate experiment (blocks: excerpt $\times$ model $\times$ seed).}\\
+\toprule
+Measure & A & B & n & Mean A & Mean B & A$-$B & CI low & CI high & $d_z$ & $p_\mathrm{Holm}$ \\
+\midrule
+\endhead
+fp\_ratio & First & Narrated & 54.000 & 0.838 & 0.003 & 0.835 & 0.800 & 0.867 & 6.617 & 0.000 \\
+subjectivity & First & Narrated & 54.000 & 0.481 & 0.471 & 0.009 & -0.022 & 0.043 & 0.075 & 1.000 \\
+intensity & First & Narrated & 54.000 & 0.197 & 0.193 & 0.004 & -0.012 & 0.020 & 0.065 & 1.000 \\
+polarity & First & Narrated & 54.000 & 0.113 & 0.104 & 0.009 & -0.013 & 0.031 & 0.110 & 1.000 \\
+distilbert & First & Narrated & 54.000 & 0.232 & 0.063 & 0.169 & 0.086 & 0.252 & 0.541 & 0.005 \\
+n\_words & First & Narrated & 54.000 & 34.098 & 34.386 & -0.288 & -1.315 & 0.722 & -0.076 & 1.000 \\
+word\_len & First & Narrated & 54.000 & 6.641 & 6.734 & -0.092 & -0.171 & -0.012 & -0.300 & 0.364 \\
+zipf & First & Narrated & 54.000 & 4.619 & 4.600 & 0.019 & -0.007 & 0.045 & 0.192 & 1.000 \\
+mattr & First & Narrated & 54.000 & 0.843 & 0.831 & 0.012 & -0.001 & 0.026 & 0.232 & 1.000 \\
+responsiveness & First & Narrated & 54.000 & 0.950 & 0.930 & 0.020 & 0.002 & 0.042 & 0.270 & 1.000 \\
+compliant\_first & First & Narrated & 54.000 & 0.998 & 0.894 & 0.104 & 0.072 & 0.139 & 0.834 & 0.000 \\
+residual\_violation & First & Narrated & 54.000 & 0.001 & 0.006 & -0.006 & -0.011 & -0.001 & -0.265 & 0.751 \\
+fp\_ratio & Third & Narrated & 54.000 & 0.000 & 0.003 & -0.003 & -0.006 & -0.001 & -0.299 & 0.249 \\
+subjectivity & Third & Narrated & 54.000 & 0.479 & 0.471 & 0.008 & -0.021 & 0.038 & 0.071 & 1.000 \\
+intensity & Third & Narrated & 54.000 & 0.173 & 0.193 & -0.020 & -0.041 & 0.001 & -0.257 & 0.313 \\
+polarity & Third & Narrated & 54.000 & 0.090 & 0.104 & -0.014 & -0.040 & 0.013 & -0.138 & 1.000 \\
+distilbert & Third & Narrated & 54.000 & 0.065 & 0.063 & 0.001 & -0.092 & 0.095 & 0.004 & 1.000 \\
+n\_words & Third & Narrated & 54.000 & 41.618 & 34.386 & 7.232 & 4.604 & 9.908 & 0.713 & 0.001 \\
+word\_len & Third & Narrated & 54.000 & 7.043 & 6.734 & 0.309 & 0.194 & 0.430 & 0.690 & 0.001 \\
+zipf & Third & Narrated & 54.000 & 4.504 & 4.600 & -0.096 & -0.132 & -0.060 & -0.693 & 0.000 \\
+mattr & Third & Narrated & 54.000 & 0.868 & 0.831 & 0.038 & 0.021 & 0.055 & 0.573 & 0.001 \\
+responsiveness & Third & Narrated & 54.000 & 0.912 & 0.930 & -0.018 & -0.046 & 0.005 & -0.185 & 1.000 \\
+compliant\_first & Third & Narrated & 54.000 & 0.958 & 0.894 & 0.064 & 0.026 & 0.105 & 0.424 & 0.045 \\
+residual\_violation & Third & Narrated & 54.000 & 0.000 & 0.006 & -0.006 & -0.012 & -0.002 & -0.332 & 0.249 \\
+fp\_ratio & First & Third & 54.000 & 0.838 & 0.000 & 0.838 & 0.803 & 0.870 & 6.579 & 0.000 \\
+subjectivity & First & Third & 54.000 & 0.481 & 0.479 & 0.001 & -0.029 & 0.031 & 0.013 & 1.000 \\
+intensity & First & Third & 54.000 & 0.197 & 0.173 & 0.024 & 0.006 & 0.042 & 0.349 & 0.093 \\
+polarity & First & Third & 54.000 & 0.113 & 0.090 & 0.023 & 0.001 & 0.044 & 0.282 & 0.415 \\
+distilbert & First & Third & 54.000 & 0.232 & 0.065 & 0.168 & 0.069 & 0.265 & 0.453 & 0.037 \\
+n\_words & First & Third & 54.000 & 34.098 & 41.618 & -7.520 & -10.256 & -4.915 & -0.734 & 0.000 \\
+word\_len & First & Third & 54.000 & 6.641 & 7.043 & -0.401 & -0.515 & -0.288 & -0.942 & 0.000 \\
+zipf & First & Third & 54.000 & 4.619 & 4.504 & 0.115 & 0.079 & 0.151 & 0.841 & 0.000 \\
+mattr & First & Third & 54.000 & 0.843 & 0.868 & -0.025 & -0.046 & -0.006 & -0.335 & 0.256 \\
+responsiveness & First & Third & 54.000 & 0.950 & 0.912 & 0.038 & 0.012 & 0.069 & 0.350 & 0.415 \\
+compliant\_first & First & Third & 54.000 & 0.998 & 0.958 & 0.040 & 0.024 & 0.058 & 0.611 & 0.000 \\
+residual\_violation & First & Third & 54.000 & 0.001 & 0.000 & 0.001 & 0.000 & 0.003 & 0.136 & 1.000 \\
+\bottomrule
+\end{longtable}
+}
+
+
+\subsection*{The Good Earth --- voice-preserving instruction (Qwen2.5 14B, seed 0)}
+
+\begin{enumerate}\setlength{\itemsep}{1pt}\small
+
+\item \textbf{Wang Lung}: Wang Lung reassured O-lan, telling her that the eldest son would be well taken care of and that he would ensure all her wishes were fulfilled, even if it meant seeing to the feast with his own hands.
+
+\item \textbf{O-lan}: O-lan was worried that her eldest son and his wife would not be able to manage without her, and she asked Wang Lung if he had talked to their son about the importance of looking after his new family and respecting his ancestors.
+
+\item \textbf{Wang Lung}: Wang Lung nodded reassuringly, telling O-lan that he had spoken to their son and that the young man understood his duties and would respect his ancestors.
+
+\item \textbf{O-lan}: O-lan let out a sigh of relief, telling Wang Lung that she was glad to hear their son understood his duties. She hoped he would remember her words and take care of his new family with the same devotion she had shown.
+
+\item \textbf{the eldest son}: He nodded hesitantly, his eyes filled with worry as he looked at his mother. He promised her quietly that he would take care of his new family and never forget her teachings.
+
+\item \textbf{the maid}: The maid stepped forward quietly, her eyes on O-lan, and offered to help with any preparations for the feast, ensuring everything would go smoothly.
+
+\item \textbf{O-lan}: O-lan thanked the maid for her offer, her voice soft but firm, and she hoped the feast would be a joyous occasion for all.
+
+\item \textbf{the maid}: She assured O-lan that she would see to every detail, from the food to the seating arrangements, to ensure the feast was a celebration as O-lan hoped.
+
+\item \textbf{O-lan}: O-lan let out a weary but contented sigh, her gaze softening as she looked at her husband and son. She hoped that her family would find happiness and strength in each other after she was gone.
+
+\item \textbf{the eldest son}: He nodded again, his voice barely above a whisper as he assured O-lan and Wang Lung that he would do everything in his power to make sure their wishes were fulfilled.
+
+\item \textbf{Wang Lung}: Wang Lung placed a reassuring hand on O-lan's shoulder, his voice soft but steady as he told her that he would see to everything and make sure their son's marriage would take place as she wished, no matter what.
+
+\item \textbf{O-lan}: O-lan nodded, her eyes welling up with tears, and whispered that she hoped her family would find peace after her passing, that they would not forget the lessons of hard work and love.
+
+\item \textbf{the eldest son}: He swallowed hard, his voice trembling slightly as he promised O-lan and Wang Lung that he would work diligently to ensure the marriage feast was a success, even if it meant sacrificing much.
+
+\item \textbf{O-lan}: She squeezed Wang Lung's hand, her voice barely audible, expressing her gratitude and trust in him and their son to carry on their legacy.
+
+\item \textbf{the eldest son}: He nodded again, his voice still trembling, assuring O-lan and Wang Lung that he would do his utmost to make their last wish come true.
+
+\item \textbf{O-lan}: She squeezed Wang Lung's hand again, her eyes fixed on him and the eldest son, urging them to promise once more that they would look after each other and the family.
+
+\item \textbf{the eldest son}: He swallowed again, his heart heavy with the weight of his mother's hopes and fears, and nodded solemnly at O-lan and Wang Lung, promising them with a mixture of determination and sorrow that he would fulfill their wish.
+
+\item \textbf{Wang Lung}: Wang Lung felt a weight lift from his heart, seeing the determination in his son's eyes, and he patted the eldest son's shoulder, reassuring O-lan and the son that their family would thrive, no matter what.
+
+\item \textbf{O-lan}: Satisfied yet worried, O-lan looked at Wang Lung and the eldest son, her eyes filled with a mixture of relief and sorrow, urging them to ensure the family's future with every fiber of their being.
+
+\item \textbf{the eldest son}: He nodded again, his heart heavy with the weight of his mother's wishes, and looked at O-lan and Wang Lung, promising them with a mixture of determination and sorrow that he would do everything in his power to see to the family's future.
+
+\end{enumerate}
+
+\subsection*{Pride and Prejudice --- voice-preserving instruction (Qwen2.5 14B, seed 0)}
+
+\begin{enumerate}\setlength{\itemsep}{1pt}\small
+
+\item \textbf{Elizabeth}: Elizabeth could not help but express her incredulity at Mr. Darcy's claim of misfortunes, given his reputation and conduct.
+
+\item \textbf{Mr. Darcy}: His pride wounded, Mr Darcy informed Elizabeth that his conduct had indeed been dictated by the most rigid adherence to proper principles.
+
+\item \textbf{Elizabeth}: Elizabeth told Mr. Darcy that if his conduct had been guided by rigid principles, those principles must be flawed indeed, given his actions towards her family and Jane.
+
+\item \textbf{Mr. Darcy}: His pride stung, Mr Darcy declared that his actions had been necessitated by the perceived impropriety and want of character in those around him.
+
+\item \textbf{Elizabeth}: Elizabeth rolled her eyes at Mr Darcy's self-righteous justification, telling him that such principles must be strangely constituted indeed to lead to such unjust and cruel actions towards others.
+
+\item \textbf{Mr. Darcy}: Mr Darcy retorted that his principles had been dictated by the necessity to preserve his family's honour and reputation, and he could not expect Elizabeth to comprehend such weighty responsibilities.
+
+\item \textbf{Elizabeth}: Elizabeth was thoroughly unimpressed by Mr Darcy's lofty justification, she told him, and such a narrow-minded sense of duty only served to alienate the very people one ought to honour and protect.
+
+\item \textbf{Mr. Darcy}: He was clearly frustrated by her refusal to see reason, Darcy declared, his principles and actions were beyond reproach and his intentions towards Elizabeth's family had been misconstrued.
+
+\item \textbf{Elizabeth}: Such a rigid sense of duty and honour, Elizabeth declared, only led to a life devoid of compassion and understanding.
+
+\item \textbf{Mr. Darcy}: He was beyond exasperation with Elizabeth's narrow-minded criticism, he declared, his intentions had always been above reproach and his actions dictated by the honour of his family.
+
+\item \textbf{Elizabeth}: Such rigid principles and actions, Elizabeth declared, only serve to isolate one from the very people one claims to protect and honour.
+
+\item \textbf{Elizabeth}: Such misguided principles, Elizabeth declared, only serve to perpetuate the very injustices Mr Darcy claims to abhor.
+
+\item \textbf{Mr. Darcy}: He was at a loss for words, his pride clashing with the sincerity of his feelings, but finally he managed to convey his frustration and confusion to Elizabeth.
+
+\item \textbf{Elizabeth}: Elizabeth was not swayed by Mr Darcy's frustration, she told him, his actions spoke louder than his words and had caused too much pain to be easily forgiven.
+
+\item \textbf{Mr. Darcy}: He was aware of his mistakes, he confessed to Elizabeth, and sought to mend the wrongs he had caused, however imperfect his efforts may seem.
+
+\item \textbf{Elizabeth}: Elizabeth was unmoved by Mr Darcy's confession, she told him, his past actions had done more harm than his present words could repair.
+
+\item \textbf{Mr. Darcy}: He was conscious of the pain he had caused, Mr Darcy admitted, and vowed to make amends in ways that would prove his sincerity and commitment to change.
+
+\item \textbf{Elizabeth}: Elizabeth was still unconvinced by Mr Darcy's words, she told him, her heart was heavy with the memories of his past actions and the pain they had caused.
+
+\item \textbf{Mr. Darcy}: He was acutely aware of the depth of Elizabeth's pain and the weight of his past actions, yet he persisted, determined to prove his sincerity and commitment to change.
+
+\item \textbf{Elizabeth}: Elizabeth was not convinced by Mr Darcy's words, she told him, her heart was still burdened by the memories of his past actions and the pain they had caused.
+
+\end{enumerate}
+
+\subsection*{The Good Earth --- speak-then-narrate (Qwen2.5 14B, seed 0)}
+
+\begin{enumerate}\setlength{\itemsep}{1pt}\small
+
+\item \textbf{Wang Lung}: Wang Lung's dearest, she worries too much. Their son will be a fine husband and father, just as she has taught him. Do not fear for their future, for he will take care of everything. \emph{(Actor's speech: My dearest, you worry too much. Our son will be a fine husband and father, just as you have taught him. Do not fear for our future, for I will take care of everything.)}
+
+\item \textbf{O-lan}: O-lan knew her son would strive, but she must see him settled. She told Wang Lung to prepare for the wedding feast and let there be no shortage. \emph{(Actor's speech: I know my son will strive, but I must see him settled. Prepare for the wedding feast, Wang Lung, and let there be no shortage.)}
+
+\item \textbf{Wang Lung}: Wang Lung's dear, she shall see their son wed and the feast will be splendid. Do not trouble yourself, for he shall ensure all is as she wishes. \emph{(Actor's speech: My dear, you shall see our son wed and the feast will be splendid. Do not trouble yourself, for I shall ensure all is as you wish.)}
+
+\item \textbf{O-lan}: O-lan must see him settled, Wang Lung. O-lan cannot rest until O-lan sees O-lan's eldest son married and content. \emph{(Actor's speech: I must see him settled, Wang Lung. I cannot rest until I see my eldest son married and content.)}
+
+\item \textbf{the eldest son}: He told O-lan, please do not worry. He would make sure to marry and take care of their family as she had taught him. \emph{(Actor's speech: Mother, please do not worry. I will make sure to marry and take care of our family as you have taught me.)}
+
+\item \textbf{Wang Lung}: Wang Lung's dear, rest now. He will see to it that all is ready for the wedding and that their son finds happiness. She has given him all the wisdom he needs. \emph{(Actor's speech: Wang Lung's dear, rest now. I will see to it that all is ready for the wedding and that our son finds happiness. You have given him all the wisdom he needs.)}
+
+\item \textbf{O-lan}: O-lan thanked Wang Lung. And she told him there was no delay. O-lan must rest now, but her heart would be at ease knowing she would see her son wed. \emph{(Actor's speech: I thank you, my son. And you, Wang Lung, see that there is no delay. I must rest now, but my heart will be at ease knowing I shall see my son wed.)}
+
+\item \textbf{the eldest son}: He will do as Mother wishes, he told O-lan, please rest now. He promised to take care of everything. \emph{(Actor's speech: I will do as Mother wishes, please rest now. I promise to take care of everything.)}
+
+\item \textbf{Wang Lung}: Wang Lung told O-lan to rest now, insisting that he would take care of the wedding arrangements and ensure that her wishes were fulfilled. \emph{(Actor's speech: Rest now, my dear. I will see to the wedding and ensure your wishes are fulfilled.)}
+
+\item \textbf{the maid}: He will ensure everything is prepared for the wedding, sir, madam. \emph{(Actor's speech: I will ensure everything is prepared for the wedding, sir, madam.)}
+
+\item \textbf{Wang Lung}: Wang Lung told O-lan that he would make sure everything was perfect for the wedding. She should rest now and know that her wishes would be carried out. \emph{(Actor's speech: I will make sure everything is perfect for the wedding, my dear. You rest now and know that your wishes will be carried out.)}
+
+\item \textbf{O-lan}: O-lan knew Wang Lung would, she said, but she told him not to tire himself. O-lan must see her son wed, though she rested now. \emph{(Actor's speech: I know you will, my dear. But do not tire yourself, husband. I must see my son wed, though I rest now.)}
+
+\item \textbf{the eldest son}: He told O-lan, please rest, he would make sure everything was ready for his wedding, as she wished. \emph{(Actor's speech: Mother, please rest. I will make sure everything is ready for my wedding, as you wish.)}
+
+\item \textbf{O-lan}: O-lan would rest, but only so she could see her son wed. Please, do not let her wishes be in vain. \emph{(Actor's speech: I will rest, but only so I can see my son wed. Please, do not let my wishes be in vain.)}
+
+\item \textbf{the eldest son}: The eldest son pleaded with O-lan, telling her to listen to Wang Lung and rest. He promised to do everything to make her wish come true. \emph{(Actor's speech: Mother, please listen to Father and rest. I promise I will do everything to make your wish come true.)}
+
+\item \textbf{O-lan}: O-lan would rest, but only to gather her strength. Her son's happiness was her last wish, and she must see it fulfilled. \emph{(Actor's speech: I will rest, but only to gather my strength. My son's happiness is my last wish, and I must see it fulfilled.)}
+
+\item \textbf{the eldest son}: The eldest son told O-lan that she must listen to Wang Lung. He said that she must rest and regain her strength. He would ensure his wedding was ready and that her wish was fulfilled. \emph{(Actor's speech: Mother, please listen to Father. You must rest and regain your strength. I will ensure my wedding is ready and that your wish is fulfilled.)}
+
+\item \textbf{Wang Lung}: Wang Lung's dear, rest now and let him worry about the wedding. He will see to it that everything is perfect for their son. \emph{(Actor's speech: My dear, rest now and let us worry about the wedding. I will see to it that everything is perfect for our son.)}
+
+\item \textbf{O-lan}: O-lan knew her time grew short, but her heart was strong. She must see her son wed before she rested. \emph{(Actor's speech: I know my time grows short, but my heart is strong. I must see my son wed before I rest.)}
+
+\item \textbf{the eldest son}: He told O-lan, please rest, he would make sure everything was ready for the wedding. He told her not to worry about anything. \emph{(Actor's speech: Mother, please rest. I will make sure everything is ready for the wedding. Do not worry about anything.)}
+
+\end{enumerate}
+
+\subsection*{Pride and Prejudice --- speak-then-narrate (Qwen2.5 14B, seed 0)}
+
+\begin{enumerate}\setlength{\itemsep}{1pt}\small
+
+\item \textbf{Elizabeth}: Elizabeth must confess, Mr. Darcy, that his actions have left her with little reason to feel otherwise than she does. \emph{(Actor's speech: I must confess, Mr. Darcy, that your actions have left me with little reason to feel otherwise than I do.)}
+
+\item \textbf{Mr. Darcy}: Mr. Darcy was aware, Miss Bennet, that his actions had not been above reproach. However, he must defend himself against the accusations of Mr. Wickham, who had painted a false picture of his character and intentions. \emph{(Actor's speech: I am aware, Miss Bennet, that my actions have not been above reproach. However, I must defend myself against the accusations of Mr. Wickham, who has painted a false picture of my character and intentions.)}
+
+\item \textbf{Elizabeth}: Elizabeth had heard much of Mr. Wickham's account, and though she was willing to consider that there may be more to the story, his actions spoke louder than his words, Mr. Darcy. \emph{(Actor's speech: I have heard much of Mr. Wickham's account, and though I am willing to consider that there may be more to the story, your actions speak louder than your words, Mr. Darcy.)}
+
+\item \textbf{Mr. Darcy}: Mr. Darcy understood Elizabeth's sentiments, but he must also express that her prejudice against him had been equally misplaced. He had struggled with his pride and had sought to amend his ways, though he feared it might be too late. \emph{(Actor's speech: I understand your sentiments, Miss Bennet, but I must also express that your prejudice against me has been equally misplaced. I have struggled with my pride and have sought to amend my ways, though I fear it may be too late.)}
+
+\item \textbf{Elizabeth}: Elizabeth must confess that Mr. Darcy's words, though they may be true, do little to ease her mind or alter her opinion of him. His actions have been the measure of his character, and until she sees a change in those, it will be difficult for her to regard him in any light but that of a proud and disagreeable man. \emph{(Actor's speech: I must confess, Mr. Darcy, that your words, though they may be true, do little to ease my mind or alter my opinion of you. Your actions have been the measure of your character, and until I see a change in those, it will be difficult for me to regard you in any light but that of a proud and disagreeable man.)}
+
+\item \textbf{Mr. Darcy}: Mr. Darcy was aware, Miss Bennet, that his actions had caused considerable distress and misunderstanding. He shall endeavour to prove to Elizabeth that he is capable of change, though it may take time to earn her trust and respect. \emph{(Actor's speech: I am aware, Miss Bennet, that my actions have caused you considerable distress and misunderstanding. I shall endeavour to prove to you that I am capable of change, though it may take time to earn your trust and respect.)}
+
+\item \textbf{Elizabeth}: Elizabeth expressed gratitude for Mr. Darcy's words, but noted that actions indeed spoke louder than words. If he truly wished to alter her opinion, he must demonstrate a change in his conduct, not merely his sentiments. \emph{(Actor's speech: I am grateful for your words, Mr. Darcy, but actions indeed speak louder than words. If you truly wish to alter my opinion, you must demonstrate a change in your conduct, not merely your sentiments.)}
+
+\item \textbf{Mr. Darcy}: Mr. Darcy understood, Miss Bennet, that his actions had not earned her trust easily. He shall strive to prove himself through his deeds, not just his words. \emph{(Actor's speech: I understand, Miss Bennet, that my actions have not earned your trust easily. I shall strive to prove myself through my deeds, not just my words.)}
+
+\item \textbf{Elizabeth}: Elizabeth appreciated Mr. Darcy's words, but actions were what would truly convince her of his sincerity. If he wished to change her opinion, he must show it through his conduct. \emph{(Actor's speech: I appreciate your words, Mr. Darcy, but actions are what will truly convince me of your sincerity. If you wish to change my opinion, you must show it through your conduct.)}
+
+\item \textbf{Mr. Darcy}: He comprehended Elizabeth's sentiments and shall act accordingly to earn her good opinion. His conduct, not his words, shall be the measure of his intentions. \emph{(Actor's speech: I comprehend your sentiments, Miss Bennet, and shall act accordingly to earn your good opinion. My conduct, not my words, shall be the measure of my intentions.)}
+
+\item \textbf{Elizabeth}: Elizabeth understood Mr. Darcy's intentions, but she must see evidence of his transformation. Words were cheap, and it was his actions that would now speak to her. \emph{(Actor's speech: I understand your intentions, Mr. Darcy, but I must see evidence of your transformation. Words are cheap, and it is your actions that will now speak to me.)}
+
+\item \textbf{Elizabeth}: Elizabeth believed Mr. Darcy, but it was his future actions that would truly convince her of his sincerity. He told her that he would prove that he meant what he said. \emph{(Actor's speech: I believe you, Mr. Darcy, but it is your future actions that will truly convince me of your sincerity. Prove to me that you mean what you say.)}
+
+\item \textbf{Mr. Darcy}: Mr. Darcy shall endeavour to prove himself, Miss Bennet. His actions shall be his testament. \emph{(Actor's speech: I shall endeavor to prove myself, Miss Bennet. My actions shall be my testament.)}
+
+\item \textbf{Elizabeth}: Elizabeth saw Mr. Darcy's determination, but it was a long road to mend the wrongs of the past. He told her that he would prove to her that he had changed, and she might come to see him in a different light. \emph{(Actor's speech: I see your determination, Mr. Darcy, but it is a long road to mend the wrongs of the past. Prove to me that you have changed, and I may come to see you in a different light.)}
+
+\item \textbf{Mr. Darcy}: He shall endeavour to show Miss Bennet that his words are sincere and his intentions honourable. His actions shall be his speech. \emph{(Actor's speech: I shall endeavour to show you, Miss Bennet, that my words are sincere and my intentions honourable. My actions shall be my speech.)}
+
+\item \textbf{Elizabeth}: Elizabeth would wait to see the fruits of Mr. Darcy's labour. Until then, their opinions remained unchanged. \emph{(Actor's speech: I shall wait to see the fruits of your labour, Mr. Darcy. Until then, our opinions remain unchanged.)}
+
+\item \textbf{Mr. Darcy}: Mr. Darcy understood, Miss Bennet. His actions would indeed speak louder than words. \emph{(Actor's speech: I understand, Miss Bennet. My actions will indeed speak louder than words.)}
+
+\item \textbf{Elizabeth}: Elizabeth shall observe, Mr. Darcy, and if his actions align with his words, perhaps her opinion may shift. \emph{(Actor's speech: I shall observe, Mr. Darcy, and if your actions align with your words, perhaps my opinion may shift.)}
+
+\item \textbf{Mr. Darcy}: He shall strive to earn Elizabeth's respect, Miss Bennet, and prove to her that his character has evolved. \emph{(Actor's speech: I shall strive to earn your respect, Miss Bennet, and prove to you that my character has evolved.)}
+
+\item \textbf{Elizabeth}: Elizabeth shall hold Mr. Darcy to that. His actions in the future shall determine whether she can ever regard him with anything but disdain. \emph{(Actor's speech: I shall hold you to that, Mr. Darcy. Your actions in the future shall determine whether I can ever regard you with anything but disdain.)}
+
+\end{enumerate}
+\end{document}

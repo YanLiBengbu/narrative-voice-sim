@@ -1,0 +1,398 @@
+{
+ "turns": [
+  {
+   "turn": 1,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "I… I shall, ma'am. Though, I confess, I haven’t the slightest notion where she might be, or even… or even if she’s… well, if she’s about, ma'am. It’s all so… so very bewildering.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 2,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Bewildering, you say? Yes, bewildering… everything is bewildering now, isn’t it? A maze of shadows and… and forgotten promises. Go then, child, and summon this Estella; let us see if *she* finds it bewildering, too.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 3,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Indeed, ma'am. I… I shall endeavour to locate Miss Estella with all due haste, though the… the house is rather extensive, and… and I wouldn't wish to intrude upon her, should she be occupied, you see. Forgive me, ma'am, if my search takes a little while.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 4,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Haste, you say? Haste is a luxury I have long ceased to possess, child. But *you*… you possess it still. Go, then, and let haste be your guide, for it is all that remains of… of something lost.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 5,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "I… I understand, ma’am. It is… it is a most agreeable instruction, to be guided by haste, though I confess, I am not entirely certain which direction I ought to take, ma’am. The corridors… they seem to twist and turn in a most… a most perplexing fashion, and I wouldn't wish to… to become lost, you see.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 6,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Lost, are you? A most fitting predicament, child. It seems all are lost here, in one way or another… and finding one's way back… ah, that is a pursuit for the truly desperate, isn't it?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 7,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "I… I do hope I shall not cause undue trouble, ma’am, in my attempts to find Miss Estella. Perhaps, if you were to offer a… a slight indication, ma’am, of the general direction, it might… it might prevent me from wandering too far astray, and… and ensure a more expeditious return, you see.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 8,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Expeditious? Return? My dear boy, time holds no meaning within these walls, not since *she* did not return. Go, child, and seek Estella, but do not expect to find a swift resolution to anything, for resolution… resolution is a phantom, a cruel jest played upon the heart.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 9,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Indeed, ma’am. A phantom, you say? It is… it is a rather sobering thought, though I confess, I am not entirely certain I comprehend the full… the full weight of its implications. I shall endeavor to be mindful of this… this lack of resolution, ma’am, as I seek Miss Estella.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 10,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Implications, child? You speak of implications as if they were tangible things, objects one might hold in one’s hand. But implications, like shadows, shift and lengthen, obscuring the truth… the truth of what *was*, what *might have been*, and what… what can never be again.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 11,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Forgive me, ma’am, if I appear to grasp at such… such elusive concepts. It is merely that I find myself… quite overwhelmed by the… the atmosphere of this place. I trust, ma’am, that Miss Estella is… is well?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 12,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Well? Is she well? Does it matter, Pip, does it *truly* matter if she is well, when everything… everything is adrift, decaying, like the very flowers that still cling to their stems, withered and… and yearning for a spring that will never come?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 13,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "It is… a most unsettling observation, ma’am, regarding the flowers. One cannot help but feel a certain… a certain melancholy, witnessing such a decline. I do hope, with the utmost respect, that Miss Estella is not unduly affected by such… such pervasive sadness.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 14,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Affected, you ask? My dear boy, sadness is the air she breathes, the very fabric of her being! It is a legacy, Pip, a… a burden I have bestowed, inadvertently, perhaps, but bestowed nonetheless. And tell me, Pip, do you feel it too, this… this chill?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 15,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Oh, ma’am, a chill, certainly—though I confess, it is difficult to discern whether it is the chill of the air or… or something else entirely. I endeavor, ma’am, to remain optimistic, and to believe that even in the most… the most faded of gardens, a single bloom might yet surprise us.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 16,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "A single bloom, you say? A fragile hope, Pip, clinging to the ruin! But hope… hope is a cruel jest, a phantom promise whispered to a heart that has known only betrayal. It is a bloom that withers at the touch, a… a cruel mockery of what *might* have been.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 17,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Indeed, ma’am, your words carry a profound… a profound weight, and I scarcely dare to contradict them, for who am I to speak of betrayal, or of hope’s fickleness? Still, I find myself, with the greatest humility, hoping—perhaps foolishly—that even a cruel jest might, in its own peculiar way, provide a small measure of… of comfort.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 18,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Comfort, you suggest, Pip? A small measure of comfort… as if a single drop of water could quench a burning pyre! It is a sweet notion, my dear boy, but you mistake the nature of my affliction, you truly do. It is not a thirst to be slaked, but a wound that festers, a… a never-ending winter.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 19,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Forgive me, ma'am, if I appear to trespass upon your… your thoughts with such trivial notions. It is merely that, observing your… your profound sadness, I find myself instinctively seeking some small, perhaps illusory, counterpoint—a… a lessening, however slight, of the… the overwhelming presence of it all.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 20,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "A lessening, you say? A lessening of *it*? My dear Pip, you speak of a shadow attempting to diminish the sun. It is a charming sentiment, my boy, a child’s belief in a power they do not possess; a power I, alas, have lost.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  }
+ ],
+ "termination": "max_turns",
+ "attempts": 20,
+ "call_stats": {
+  "calls": 20,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "meta": {
+  "text_id": "great_expectations",
+  "model": "gemma3:12b",
+  "mode": "neutral",
+  "seed": 0,
+  "condition": "full",
+  "max_turns": 20,
+  "temperature": 0.7,
+  "memory_k": 5,
+  "policy": "addressee",
+  "enforce": true
+ },
+ "opening": [
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Who is it?"
+  },
+  {
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip, ma’am."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Pip?"
+  },
+  {
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Mr. Pumblechook’s boy, ma’am. Come—to play."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Come nearer; let me look at you. Come close."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Look at me. You are not afraid of a woman who has never seen the sun since you were born?"
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Do you know what I touch here?"
+  },
+  {
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Yes, ma’am."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "What do I touch?"
+  },
+  {
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Your heart."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Broken!"
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "I am tired. I want diversion, and I have done with men and women. Play."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "I sometimes have sick fancies, and I have a sick fancy that I want to see some play. There, there! play, play, play!"
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Are you sullen and obstinate?"
+  },
+  {
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "No, ma’am, I am very sorry for you, and very sorry I can’t play just now. If you complain of me I shall get into trouble with my sister, so I would do it if I could; but it’s so new here, and so strange, and so fine,—and melancholy—."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "So new to him, so old to me; so strange to him, so familiar to me; so melancholy to both of us! Call Estella."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Call Estella."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "You can do that. Call Estella. At the door."
+  }
+ ],
+ "characters": [
+  "Miss Havisham",
+  "Pip"
+ ],
+ "seconds": 217.7
+}

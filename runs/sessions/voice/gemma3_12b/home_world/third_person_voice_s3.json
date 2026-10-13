@@ -1,0 +1,367 @@
+{
+ "turns": [
+  {
+   "turn": 1,
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "Nikhil found such inquiries unnecessary, Sandip. He insisted the source of any apprehension was irrelevant; what mattered was its presence. It was sufficient, he felt, to understand that his actions were guided by a sense of responsibility, not by fear.",
+   "compliant_first": false,
+   "regenerated": false,
+   "director_rewrite": true,
+   "residual_violation": false
+  },
+  {
+   "turn": 2,
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "A sense of responsibility, did he say? How… comforting. One might almost mistake it for a virtue, were it not so frequently a cloak for something less palatable. Still, the question lingers – what precisely is the nature of this responsibility, and to whom does it extend?",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 3,
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "Such rhetorical flourishes are unnecessary, Sandip. He would prefer a direct articulation of concerns, rather than an attempt at veiled critique. The nature of his responsibility extends to the well-being of this household and the land under his care; a principle that requires no further elucidation.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 4,
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil",
+    "Bimala"
+   ],
+   "text": "He allowed a theatrical sigh to escape his lips, the gesture intended to convey a weary understanding of Nikhil's stubbornness. Surely, the man possessed a certain… rigidity, a refusal to acknowledge the shifting sands beneath his feet; one might almost pity him, were such sentiment not so unbecoming in a leader. Still, he wondered aloud, with carefully measured irony, if this ‘responsibility’ extended to shielding one's own from inconvenient truths.",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 5,
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "Such observations are, predictably, designed to distract from the matter at hand. He would not indulge in such diversions, especially when they serve to obfuscate genuine concerns. If Sandip has a specific apprehension regarding the fulfillment of his duties, he is welcome to articulate it plainly.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 6,
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil",
+    "Bimala"
+   ],
+   "text": "A most diverting evasion, wasn't it? It appears Mr. Nikhil prefers the illusion of clarity to the burden of truth; a tragic flaw, really, reminiscent of Oedipus, blinded not by physical darkness, but by the willful ignorance of his own actions. One wonders, does this 'responsibility' extend to considering the consequences of those actions, not just for this household, but for the larger community it impacts?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 7,
+   "speaker": "Bimala",
+   "speak_to": [
+    "Nikhil",
+    "Sandip"
+   ],
+   "text": "A slight tremor passed through Bimala’s hands as she observed the exchange; it seemed a precarious dance they were engaged in. Surely, the echoes of Sandip’s words resonated beyond the immediate room, carrying a weight she felt keenly, and she wondered if Nikhil truly grasped the subtle currents at play.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 8,
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil",
+    "Bimala"
+   ],
+   "text": "A ripple of amusement played across Sandip's features, as though the very notion of plainness was an absurdity. Surely, Mr. Nikhil’s insistence on directness was a charming, albeit predictable, defense mechanism; a way to avoid confronting the uncomfortable realities that lay just beyond his well-tended garden. One might ask, with a touch of theatrical concern, did this ‘responsibility’ also encompass a blindness to the whispers carried on the wind, the growing unease amongst those less fortunate, those who felt… overlooked?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 9,
+   "speaker": "Bimala",
+   "speak_to": [
+    "Nikhil",
+    "Sandip"
+   ],
+   "text": "A quiet observation escaped her lips, barely audible above the simmering tension. Surely, Sandip’s inquiries, however artfully veiled, seemed to circle a point beyond mere concern for the community; a point that touched upon something… personal, something that lay just beneath the surface of their shared understanding. It was a disquieting pattern, one she felt compelled to acknowledge, if only to herself.",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 10,
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil",
+    "Bimala"
+   ],
+   "text": "One wonders, of course, if Mr. Nikhil’s blindness extends not only to his garden, but also to the shadows that lengthen within it; shadows cast, perhaps, by those who find themselves… dispossessed. It is a curious thing, isn't it, how easily a man can become the architect of his own vulnerability, particularly when he believes himself to be the sole proprietor of his domain. Such convictions, one finds, rarely survive contact with the less… privileged.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 11,
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "Such elaborate pronouncements are hardly conducive to a productive conversation, Mr. Sandip. It would be more useful if concerns regarding the community were addressed directly, rather than veiled in such… theatricality. He found it increasingly tiresome to decipher the subtext of these pronouncements.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 12,
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "A slight arch of an eyebrow, a languid gesture towards the ornate window overlooking Nikhil’s gardens, and then, a sigh that was almost audible. Surely, Mr. Nikhil's impatience was understandable; deciphering the nuances of a discerning mind could be… taxing, especially for one accustomed to the bluntness of agricultural dealings. One might even suggest, with the utmost respect of course, that a man so concerned with ‘productive conversation’ should perhaps spend less time cultivating roses and more time observing the thorns that inevitably surround them.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 13,
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "Mr. Sandip's penchant for elaborate metaphors is, frankly, distracting. It would serve him better to focus on the specifics of any alleged grievances, rather than indulging in these… artistic flourishes.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 14,
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "A flicker of amusement danced in Sandip's eyes, a carefully cultivated expression intended to convey both mock humility and a subtle challenge. 'Artistic flourishes,' he murmured, as if the phrase itself were a delightful jest, 'are, after all, merely the shadows cast by a deeper truth, Mr. Nikhil. One might even argue that a life devoid of such embellishments is a landscape tragically… monochrome.'",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 15,
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "Mr. Sandip seems determined to obscure his meaning with layers of unnecessary language. If he possesses information regarding genuine concerns, he should present them plainly; otherwise, he risks being perceived as deliberately obstructive.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 16,
+   "speaker": "Bimala",
+   "speak_to": [
+    "Nikhil",
+    "Sandip"
+   ],
+   "text": "A slight tremor ran through her fingers as she toyed with the edge of her shawl, her gaze flitting between Nikhil and Sandip. It seemed these… flourishes, as Nikhil called them, were becoming increasingly frequent, and a certain discomfort settled within her, a feeling she couldn’t quite name, though it felt related to the unspoken tension hanging in the air.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 17,
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil",
+    "Bimala"
+   ],
+   "text": "Sandip expressed a pity, truly, that Mr. Nikhil found such ornamentation tiresome. It suggested, he thought, a certain rigidity of spirit, and he wondered if Bimala would agree. Perhaps, he mused, a mind so preoccupied with the tangible—with the yield of the land, the precise arrangement of flora—was less attuned to the whispers of the wind, the portents that drifted in from beyond the boundaries of this… meticulously ordered existence.",
+   "compliant_first": false,
+   "regenerated": false,
+   "director_rewrite": true,
+   "residual_violation": false
+  },
+  {
+   "turn": 18,
+   "speaker": "Bimala",
+   "speak_to": [
+    "Nikhil",
+    "Sandip"
+   ],
+   "text": "A gentle pressure settled on Bimala’s throat, hindering any immediate response. She observed Sandip’s gaze, lingering perhaps a moment too long, and then, with a quietness that barely registered above the rustling of her shawl, she offered, ‘Perhaps Mr. Sandip’s words simply reveal a different perspective, a sensitivity to nuances that others might miss.’",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 19,
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "Mr. Sandip's attempts at philosophical discourse are becoming increasingly tiresome, and serve only to distract from whatever point he wishes to convey. He should understand that this household values directness and clarity, not veiled pronouncements. If he has genuine concerns, he is welcome to articulate them plainly.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 20,
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil",
+    "Bimala"
+   ],
+   "text": "A sigh, theatrical of course, escaped Sandip's lips, as if the sheer weight of Nikhil’s obtuseness threatened to crush him. He mused, with a delicate arch of his eyebrow, that directness, while admirable in a ploughman, seemed a rather… impoverished virtue in a man of Nikhil's supposed standing; surely, a mind accustomed to the complexities of estate management could appreciate a certain… subtlety. It was, after all, as the Bard himself observed, often through the labyrinth of words that the truest meaning was revealed, wouldn’t Bimala agree?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  }
+ ],
+ "termination": "max_turns",
+ "attempts": 20,
+ "call_stats": {
+  "calls": 27,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "meta": {
+  "text_id": "home_world",
+  "model": "gemma3:12b",
+  "mode": "third_person_voice",
+  "seed": 3,
+  "condition": "voice",
+  "max_turns": 20,
+  "temperature": 0.7,
+  "memory_k": 5,
+  "policy": "addressee",
+  "enforce": true
+ },
+ "opening": [
+  {
+   "speaker": "Sandip",
+   "speak_to": [
+    "Bimala"
+   ],
+   "text": "Sandip inquired of Bimala as to where she intended to flee, addressing her as Queen."
+  },
+  {
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "Sandip remarked to Nikhil that he questioned why Browning was not among his books, recalling a conversation with Bimala about a college contest involving Browning's translation, and asking if Nikhil remembered it."
+  },
+  {
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "Sandip explained to Nikhil that he had managed to translate Browning into Bengali, though the result was far from a lasting joy for Bengal, and that he once believed himself on the verge of becoming a poet, but Providence had intervened. He then recalled old Dakshina, suggesting that had he not become a Salt Inspector, he would have been a poet."
+  },
+  {
+   "speaker": "Sandip",
+   "speak_to": [
+    "Bimala"
+   ],
+   "text": "Sandip informed Bimala that it was pointless for her to search the bookshelves, as Nikhil had ceased reading poetry since his marriage, and that he suspected a return of his poetic inspiration."
+  },
+  {
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "Sandip stated that Nikhil had come to give him a warning."
+  },
+  {
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "Sandip inquired of Nikhil whether the warning concerned his poetic inspiration."
+  },
+  {
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "Nikhil told Sandip that Mahomedan preachers had been stirring up the local Mussulmans, who were agitated and might attack him at any moment."
+  },
+  {
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "Sandip asked Nikhil if he had come to advise flight."
+  },
+  {
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "Nikhil clarified to Sandip that he had come to provide information, not to offer advice."
+  },
+  {
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "Sandip commented to Nikhil that a warning would have been necessary for the preachers, not for him, had the estates been his, and suggested that Nikhil's weakness was also undermining neighboring zamindars."
+  },
+  {
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "Nikhil pointed out to Sandip that he had not offered advice, and requested that Sandip refrain from giving it, adding that it was futile. He then stated that he needed to inform Sandip that his followers had been secretly oppressing his tenantry, and demanded that he leave his territory."
+  },
+  {
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "Sandip questioned Nikhil, asking whether the threat was due to fear of the Mussulmans or some other apprehension."
+  }
+ ],
+ "characters": [
+  "Sandip",
+  "Nikhil",
+  "Bimala"
+ ],
+ "seconds": 181.3
+}

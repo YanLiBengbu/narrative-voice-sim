@@ -1,0 +1,273 @@
+{
+ "turns": [
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan told Wang Lung to calm down and not worry, that she would be fine, just a little tired."
+  },
+  {
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan",
+    "the eldest son",
+    "the maid"
+   ],
+   "text": "Wang Lung scolded O-lan for speaking like that, that she was not fine, that she was ill."
+  },
+  {
+   "speaker": "the eldest son",
+   "speak_to": [
+    "O-lan",
+    "Wang Lung",
+    "the maid"
+   ],
+   "text": "The eldest son reassured his mother, saying that she would get better, that he would take care of her."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung",
+    "the eldest son",
+    "the maid"
+   ],
+   "text": "O-lan looked at her son and smiled weakly, then back at Wang Lung, who was still scolding her."
+  },
+  {
+   "speaker": "the maid",
+   "speak_to": [
+    "O-lan",
+    "Wang Lung",
+    "the eldest son"
+   ],
+   "text": "The maid respectfully asked O-lan if she needed anything, if she needed someone to bring her water or sit with her."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung",
+    "the eldest son",
+    "the maid"
+   ],
+   "text": "O-lan shook her head, too weak to speak, and Wang Lung sat down beside her, taking her hand."
+  },
+  {
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan",
+    "the eldest son",
+    "the maid"
+   ],
+   "text": "Wang Lung whispered to O-lan, asking her if she wanted to eat something, if there was anything she needed."
+  },
+  {
+   "speaker": "the eldest son",
+   "speak_to": [
+    "O-lan",
+    "Wang Lung",
+    "the maid"
+   ],
+   "text": "The eldest son brought his mother a bowl of soup, but O-lan just looked at it, unable to eat."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung",
+    "the eldest son",
+    "the maid"
+   ],
+   "text": "O-lan looked up at Wang Lung, her eyes pleading with him, but he just held her hand."
+  },
+  {
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan",
+    "the eldest son",
+    "the maid"
+   ],
+   "text": "Wang Lung told O-lan that he would take care of her, that everything would be alright."
+  },
+  {
+   "speaker": "the maid",
+   "speak_to": [
+    "O-lan",
+    "Wang Lung",
+    "the eldest son"
+   ],
+   "text": "The maid quietly slipped out of the room, not wanting to disturb O-lan."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung",
+    "the eldest son"
+   ],
+   "text": "O-lan looked at her son, then back at Wang Lung, and smiled weakly."
+  },
+  {
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan",
+    "the eldest son"
+   ],
+   "text": "Wang Lung squeezed O-lan's hand, trying to reassure her."
+  },
+  {
+   "speaker": "the eldest son",
+   "speak_to": [
+    "O-lan",
+    "Wang Lung"
+   ],
+   "text": "The eldest son sat down beside his mother, putting a hand on her shoulder."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung",
+    "the eldest son"
+   ],
+   "text": "O-lan looked at her son, then back at Wang Lung, and spoke in a weak voice."
+  },
+  {
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan",
+    "the eldest son"
+   ],
+   "text": "Wang Lung leaned in close, trying to hear what O-lan was saying."
+  },
+  {
+   "speaker": "the eldest son",
+   "speak_to": [
+    "O-lan",
+    "Wang Lung"
+   ],
+   "text": "The eldest son leaned in close, trying to hear what O-lan was saying."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung",
+    "the eldest son"
+   ],
+   "text": "O-lan spoke of her hopes for her son's future, of his marriage and children."
+  },
+  {
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan",
+    "the eldest son"
+   ],
+   "text": "Wang Lung listened, his face solemn, as O-lan spoke of her hopes for their son."
+  },
+  {
+   "speaker": "the eldest son",
+   "speak_to": [
+    "O-lan",
+    "Wang Lung"
+   ],
+   "text": "The eldest son nodded, taking it all in, as O-lan spoke of her hopes for their family."
+  }
+ ],
+ "termination": "single_call",
+ "attempts": 1,
+ "call_stats": {
+  "calls": 1,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "meta": {
+  "text_id": "good_earth",
+  "model": "llama3.1:8b",
+  "mode": "third_person",
+  "seed": 2,
+  "condition": "single_prompt",
+  "max_turns": 20,
+  "temperature": 0.7,
+  "memory_k": null,
+  "policy": null,
+  "enforce": false
+ },
+ "opening": [
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan told Wang Lung that there was another thing she had to attend to before she could die."
+  },
+  {
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "Wang Lung insisted that O-lan should not speak of dying and that it would please him if she did not."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan replied that she had to die, for she felt it in her vitals waiting, but she would not die before her eldest son came home and before he wedded this good maid who was her daughter-in-law, and well she served O-lan, holding the hot water basin steadily and knowing when to bathe O-lan's face when she sweated in pain. Now O-lan wanted her son to come home, because she had to die, and she wanted him to wed this maid first, so that she might die easily, knowing that her grandson was stirred into life and a great-grandson for the old one."
+  },
+  {
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "Wang Lung told O-lan that she looked twice as well as they had said and years away from death."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan declared that she would see Wang Lung wedded and then she must die."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan instructed Wang Lung to sit there and drink the wine and eat the rice of his marriage, for she would see it all and this would be his bed of marriage since she was soon to be finished with it and carried away."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan asked if everyone had wine, if the sweet rice dish in the middle of the feast was very hot, if they had put full measure of lard and sugar into it, and if the eight fruits were present."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan told Wang Lung that she was now content and that this thing in her may do as it would. She instructed her son to look to his father and his grandfather, and her daughter to look to her husband and his father and his grandfather and the poor fool in the court, there she was. And she told Wang Lung that he had no duty to any other."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan said that, even if she was ugly, she had borne a son; although she was but a slave, there was a son in her house."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan insisted that no one else could feed Wang Lung's son and care for him as she did. She told Wang Lung that beauty would not bear a man sons."
+  }
+ ],
+ "characters": [
+  "O-lan",
+  "Wang Lung",
+  "the eldest son",
+  "the maid"
+ ],
+ "seconds": 49.4
+}

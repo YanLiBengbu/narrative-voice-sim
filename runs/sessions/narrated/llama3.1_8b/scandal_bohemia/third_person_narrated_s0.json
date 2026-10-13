@@ -1,0 +1,416 @@
+{
+ "turns": [
+  {
+   "turn": 1,
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "Dr. Watson must say, the gravity of the situation was quite clear, and he inquired as to the nature of the scandal that they were endeavouring to prevent.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I must say, Your Highness, that the gravity of the situation is quite clear. May I inquire as to the nature of the scandal that we are endeavoring to prevent?"
+  },
+  {
+   "turn": 2,
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "He feared that he may be placing himself in a most precarious position by entrusting them with this confidence, gentlemen.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I fear that I may be placing myself in a most... precarious position by entrusting you with this confidence, gentlemen."
+  },
+  {
+   "turn": 3,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "King of Bohemia"
+   ],
+   "text": "Sherlock Holmes observed that the King of Bohemia had been very cautious in his words, and he prayed to be told, what was the nature of this confidence he sought to entrust to him.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I observe that you have been very cautious in your words, Count Von Kramm. Pray tell, what is the nature of this confidence you seek to entrust to me?"
+  },
+  {
+   "turn": 4,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "King of Bohemia"
+   ],
+   "text": "He perceived that the King of Bohemia was a man of great power and influence, and yet he seemed hesitant to share the details of his case with him. Pray, tell him, what was it that he hoped to achieve by seeking his assistance in this matter?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I perceive that you are a man of great power and influence, King of Bohemia, and yet you seem hesitant to share the details of your case with me. Pray, tell me, what is it that you hope to achieve by seeking my assistance in this matter?"
+  },
+  {
+   "turn": 5,
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "Gentlemen, he must confess that he finds himself in a most... precarious situation. His family's reputation, nay, the very stability of Europe, hangs in the balance, and he fears that he may be the catalyst for a catastrophe.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Gentlemen, I must confess that I find myself in a most... precarious situation. My family's reputation, nay, the very stability of Europe, hangs in the balance, and I fear that I may be the catalyst for a catastrophe."
+  },
+  {
+   "turn": 6,
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "King of Bohemia"
+   ],
+   "text": "Dr. Watson must say, King of Bohemia, that the gravity of his situation is indeed alarming. May Dr. Watson inquire, what specific information does he believe is at the heart of this scandal, and how does he think it might impact European affairs?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I must say, Your Highness, that the gravity of your situation is indeed alarming. May I inquire, what specific information do you believe is at the heart of this scandal, and how do you think it might impact European affairs?"
+  },
+  {
+   "turn": 7,
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "Sherlock Holmes",
+    "King of Bohemia"
+   ],
+   "text": "Dr. Watson must confess, King of Bohemia, that he found his situation increasingly intriguing. Might he request a brief explanation of the nature of the scandal, and how he believed it may affect the European balance of power?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I must confess, Your Majesty, that I find your situation increasingly intriguing. Might I request a brief explanation of the nature of the scandal, and how you believe it may affect the European balance of power?"
+  },
+  {
+   "turn": 8,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "King of Bohemia"
+   ],
+   "text": "Sherlock Holmes asked, his eyes narrowing slightly, if the King of Bohemia did not mind his impertinence, what was the nature of this scandal, as he had called it, that threatened his family's reputation and the stability of Europe.",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Pray, tell me, King of Bohemia, if you do not mind my impertinence, what is the nature of this... scandal, as you have called it, that threatens your family's reputation and the stability of Europe?"
+  },
+  {
+   "turn": 9,
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "The King of Bohemia was not at liberty to disclose the specifics of the scandal just yet, but he could assure them that it was a matter of the utmost gravity and sensitivity, one that could have far-reaching consequences for the entire continent.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Ah, gentlemen, I must confess that I am not at liberty to disclose the specifics of the scandal just yet, but I can assure you that it is a matter of the utmost gravity and sensitivity, one that could have far-reaching consequences for the entire continent."
+  },
+  {
+   "turn": 10,
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "King of Bohemia"
+   ],
+   "text": "Dr. Watson must insist that the King of Bohemia understand their position, they could not be party to any action that might compromise his family's reputation without a clearer understanding of the circumstances.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "King of Bohemia, I must insist that you understand our position. We cannot be party to any action that might compromise your family's reputation without a clearer understanding of the circumstances."
+  },
+  {
+   "turn": 11,
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "He implored them, gentlemen, to understand that he was not merely concerned with his family's reputation, but with the very stability of Europe. His situation was... complicated, and he feared that if it became public, the consequences would be catastrophic.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I implore you, gentlemen, to understand that I am not merely concerned with my family's reputation, but with the very stability of Europe. My situation is... complicated, and I fear that if it becomes public, the consequences will be catastrophic."
+  },
+  {
+   "turn": 12,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "King of Bohemia"
+   ],
+   "text": "Sherlock Holmes was not to be swayed by vague threats of catastrophe, the King of Bohemia, and he demanded a specific account of the scandal's details, for it was only upon a foundation of facts that they could hope to construct a coherent plan.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I shall not be swayed by vague threats of catastrophe, Your Majesty. I demand a specific account of the scandal's details, for it is only upon a foundation of facts that we can hope to construct a coherent plan."
+  },
+  {
+   "turn": 13,
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "The King of Bohemia feared that if he were to reveal more, he would be risking not only his family's reputation, but also his own life, for he was not who they thought he was.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I fear that if I were to reveal more, I would be risking not only my family's reputation, but also my own life, for I am... not who you think I am."
+  },
+  {
+   "turn": 14,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "Sherlock Holmes's eyes narrowed slightly as he leaned forward, his voice taking on a tone of quiet intensity. He told the King of Bohemia that he was not to be intimidated by veiled threats, that he had seen through such tactics before, and that his curiosity was now piqued.",
+   "compliant_first": false,
+   "regenerated": false,
+   "director_rewrite": true,
+   "residual_violation": false,
+   "speech": "Come now, Your Highness, do not try to intimidate me with veiled threats. I have seen through such tactics before, and I assure you, my curiosity is now piqued."
+  },
+  {
+   "turn": 15,
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "The King of Bohemia begged of them, gentlemen, do not press him for more information at this time. He feared that he had already said too much, and that his very presence there may be putting them both in a precarious position.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I beg of you, gentlemen, do not press me for more information at this time. I fear that I have already said too much, and that my very presence here may be putting you both in a precarious position."
+  },
+  {
+   "turn": 16,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "King of Bohemia"
+   ],
+   "text": "Sherlock Holmes warned the King of Bohemia that he would uncover the truth, with or without his cooperation. His secrecy only served to pique his interest and sharpen his faculties.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I warn you, King of Bohemia, that I shall uncover the truth, with or without your cooperation. Your secrecy only serves to pique my interest and sharpen my faculties."
+  },
+  {
+   "turn": 17,
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "He begged of them, gentlemen, he must think of his family's future, and the fate of his kingdom.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I beg of you, gentlemen, I must think of my family's future, and the fate of my kingdom"
+  },
+  {
+   "turn": 18,
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "Sherlock Holmes",
+    "the King of Bohemia"
+   ],
+   "text": "Dr. Watson was as intrigued as Mr. Holmes by the circumstances the King of Bohemia had described, and he would like to ask, if he may, what exactly was the nature of this threat that he had mentioned.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I must admit, Your Highness, I am as intrigued as Mr. Holmes by the circumstances you've described, and I would like to ask, if I may, what exactly is the nature of this threat that you've mentioned?"
+  },
+  {
+   "turn": 19,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "King of Bohemia",
+    "Dr. Watson"
+   ],
+   "text": "Sherlock Holmes must confess, the King of Bohemia's tale had all the hallmarks of a complex conspiracy, but he suspected there was more to it than met the eye. He proposed that they take a short walk outside to clear their minds and continue the conversation in a more...unencumbered environment.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I must confess, King of Bohemia, that your tale has all the hallmarks of a complex conspiracy, but I suspect there is more to it than meets the eye. I propose that we take a short walk outside to clear our minds and continue this conversation in a more...unencumbered environment."
+  },
+  {
+   "turn": 20,
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "King of Bohemia",
+    "Sherlock Holmes"
+   ],
+   "text": "Dr. Watson was finding it increasingly difficult to understand the nature of this threat without further clarification, he told the King of Bohemia, and he might suggest that they press for more information, and that the King reveal to them the specific circumstances surrounding this potential danger to his kingdom.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I must say, Your Majesty, that I am finding it increasingly difficult to understand the nature of this threat without further clarification. Might I suggest that we press for more information, and that you reveal to us the specific circumstances surrounding this potential danger to your kingdom?"
+  }
+ ],
+ "termination": "max_turns",
+ "attempts": 20,
+ "call_stats": {
+  "calls": 43,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "meta": {
+  "text_id": "scandal_bohemia",
+  "model": "llama3.1:8b",
+  "mode": "third_person_narrated",
+  "seed": 0,
+  "condition": "narrated",
+  "max_turns": 20,
+  "temperature": 0.7,
+  "memory_k": 5,
+  "policy": "addressee",
+  "enforce": true
+ },
+ "opening": [
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "the King of Bohemia asked Sherlock Holmes and Dr. Watson if they had received his note"
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "the King of Bohemia told Sherlock Holmes and Dr. Watson that he had informed them that he would call"
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "Sherlock Holmes invited the King of Bohemia to take a seat and introduced Dr. Watson as his friend and colleague"
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes"
+   ],
+   "text": "the King of Bohemia told Sherlock Holmes that he might address him as the Count Von Kramm, a Bohemian nobleman"
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "the King of Bohemia explained to Sherlock Holmes that he understood that Dr. Watson was a man of honour and discretion, whom he might trust with a matter of the utmost importance"
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "Sherlock Holmes told the King of Bohemia that Dr. Watson was indeed a man of honour and discretion, and that he might say anything to him that he would say to Sherlock Holmes"
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "the King of Bohemia asked Sherlock Holmes and Dr. Watson to bind themselves to absolute secrecy for two years, as the matter was of such weight that it might have an influence upon European history"
+  },
+  {
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "Sherlock Holmes promised the King of Bohemia that he would keep the matter secret"
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "Dr. Watson also promised the King of Bohemia that he would keep the matter secret"
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "the King of Bohemia excused the mask he was wearing, explaining that the person who employed him wished to remain unknown"
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "Sherlock Holmes told the King of Bohemia that he was aware of the true identity of the person who employed him"
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "the King of Bohemia explained to Sherlock Holmes and Dr. Watson that the matter was of great delicacy, and that every precaution had to be taken to prevent a scandal that might compromise the House of Ormstein"
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "Sherlock Holmes told the King of Bohemia that he was also aware of the involvement of the House of Ormstein"
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "the King of Bohemia observed that Sherlock Holmes seemed to be a very different person from the one he had been led to expect"
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "Sherlock Holmes asked the King of Bohemia to state his case, so that he could advise him more effectively"
+  }
+ ],
+ "characters": [
+  "Sherlock Holmes",
+  "Dr. Watson",
+  "the King of Bohemia"
+ ],
+ "seconds": 98.9
+}

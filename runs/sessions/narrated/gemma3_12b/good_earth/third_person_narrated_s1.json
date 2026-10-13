@@ -1,0 +1,374 @@
+{
+ "turns": [
+  {
+   "turn": 1,
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "the eldest son"
+   ],
+   "text": "It was true, he told the eldest son, that he was right to look to his father and grandfather. They would do their best, they always had. He… he would try to remember how his mother did things, but it would not be the same, no, it could not be.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "It is true, my son, you are right to look to your father and grandfather. We will do our best, we always have. I… I will try to remember how your mother did things, but it will not be the same, no, it cannot be."
+  },
+  {
+   "turn": 2,
+   "speaker": "the eldest son",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "He would do his best, Father. They all would. She… she taught them well.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I will do my best, Father. We all will. She… she taught us well."
+  },
+  {
+   "turn": 3,
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "the eldest son"
+   ],
+   "text": "Yes, son, he would do his best. His mother… she had been a strong woman, a very strong woman. He would endeavor to guide him, as she had guided him, but… it was a heavy burden, this responsibility.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Yes, son, you will do your best. Your mother… she was a strong woman, a very strong woman. I will endeavor to guide you, as she guided me, but… it is a heavy burden, this responsibility."
+  },
+  {
+   "turn": 4,
+   "speaker": "the eldest son",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "He understood, Father. They would strive to uphold her memory and her teachings. Everything would be alright.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I understand, Father. We will strive to uphold her memory and her teachings. Everything will be alright."
+  },
+  {
+   "turn": 5,
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "the eldest son"
+   ],
+   "text": "It was a good thing the son said, that he would strive to uphold her memory. They all wanted that, didn't they? He… he would do what he could, though he was a simple man, and such matters were… complicated. It was all for the family, though, and that is what mattered most.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "It is a good thing you say, son, that you will strive to uphold her memory. We all want that, don't we? I… I will do what I can, though I am a simple man, and such matters are… complicated. It is all for the family, though, and that is what matters most."
+  },
+  {
+   "turn": 6,
+   "speaker": "the eldest son",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "He assured O-lan that he would, and they all would. Everything would proceed as she wished.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I will, Mother. We all will. Everything will proceed as you wish."
+  },
+  {
+   "turn": 7,
+   "speaker": "O-lan",
+   "speak_to": [
+    "the eldest son",
+    "Wang Lung"
+   ],
+   "text": "He told Wang Lung not to mistake her weakness for absence of purpose. The maid, she possessed a certain… practicality. He ensured she understood that the continuation of this line was not a matter of sentiment, but of obligation.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Do not mistake my weakness for absence of purpose. The maid, she possesses a certain… practicality. Ensure she understands that the continuation of this line is not a matter of sentiment, but of obligation."
+  },
+  {
+   "turn": 8,
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "the eldest son"
+   ],
+   "text": "It was good, he told the eldest son, that he understood these things. His mother worried so, even now. He would, of course, see to it that the maid was treated with the respect she deserved, and that all was as she wished it to be.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "It's… it's good, son, that you understand these things. Your mother… she worries so, even now. I will, of course, see to it that the maid is treated with the respect she deserves, and that all is as she wishes it to be."
+  },
+  {
+   "turn": 9,
+   "speaker": "the eldest son",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "He believed she found comfort in knowing her wishes would be followed. They would ensure everything proceeded as she desired, Mother.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I believe she finds comfort in knowing her wishes will be followed. We will ensure everything proceeds as she desires, Mother."
+  },
+  {
+   "turn": 10,
+   "speaker": "O-lan",
+   "speak_to": [
+    "the eldest son",
+    "Wang Lung"
+   ],
+   "text": "Respect was a fragile thing, easily broken. He told Wang Lung that she needed to ensure the maid understood her duty was not merely to bear children, but to raise them with the strength and understanding required to hold onto what they had built. His legacy demanded no less.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Respect is a fragile thing, easily broken. Ensure the maid understands that her duty is not merely to bear children, but to raise them with the strength and understanding required to hold onto what we have built. My legacy demands no less."
+  },
+  {
+   "turn": 11,
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan",
+    "the eldest son"
+   ],
+   "text": "Yes, yes, of course, he understood, Mother. It was a great responsibility, this legacy of theirs, and he would see to it that the maid… that she knew what was expected of her. They all would, son, they all would do their best.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Yes, yes, of course, I understand, Mother. It is a great responsibility, this legacy of ours, and I will see to it that the maid… that she knows what is expected of her. We all will, son, we all will do our best."
+  },
+  {
+   "turn": 12,
+   "speaker": "the eldest son",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "He would, Mother. He would ensure she understood. It was… important.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I will, Mother. I will ensure she understands. It is… important."
+  },
+  {
+   "turn": 13,
+   "speaker": "O-lan",
+   "speak_to": [
+    "the eldest son"
+   ],
+   "text": "It was not enough for her to understand, he told the eldest son. He must ensure she did. A woman’s worth was not solely measured in the sons she brought forth, but in the wisdom with which she guided them, lest they squander all that he had wrought.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "It is not enough for *her* to understand, son. You must *ensure* she does. A woman’s worth is not solely measured in the sons she brings forth, but in the wisdom with which she guides them, lest they squander all that I have wrought."
+  },
+  {
+   "turn": 14,
+   "speaker": "the eldest son",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "He would remind her, Mother. It was… his duty to see that she understood the weight of it all.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I will remind her, Mother. It is… my duty to see that she understands the weight of it all."
+  },
+  {
+   "turn": 15,
+   "speaker": "O-lan",
+   "speak_to": [
+    "the eldest son"
+   ],
+   "text": "It was not enough for him to merely remind her, he told the eldest son. He had seen men forget their promises with a swiftness that chilled him to the bone; he needed to ensure she understood the consequences of failure, for the sake of his line. His strength faded, but his vision remained clear: a single misstep could undo generations of striving.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "It is not enough for *him* to merely remind her, my son. I have seen men forget their promises with a swiftness that chills me to the bone; ensure she *understands* the consequences of failure, for the sake of my line. My strength fades, but my vision remains clear: a single misstep can undo generations of striving."
+  },
+  {
+   "turn": 16,
+   "speaker": "the eldest son",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "The eldest son reassured O-lan, stating his commitment to ensuring she understood the significance of the matter. He emphasized that it was his responsibility to see that she grasped the importance of these things.",
+   "compliant_first": false,
+   "regenerated": false,
+   "director_rewrite": true,
+   "residual_violation": false,
+   "speech": "I… I will, Mother. I will make certain she understands the importance of these things. It is my responsibility."
+  },
+  {
+   "turn": 17,
+   "speaker": "O-lan",
+   "speak_to": [
+    "the eldest son"
+   ],
+   "text": "He told the eldest son that assurances were… expected. But words were wind; it was action that secured a legacy. He cautioned him to see that she understood that his actions must reflect his pronouncements, or all of this – all that his father and she had built – would crumble to dust.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Your assurances are… expected, my son. But words are wind; it is action that secures a legacy. See that she understands that *your* actions must reflect your pronouncements, or all of this – all that your father and I have built – will crumble to dust."
+  },
+  {
+   "turn": 18,
+   "speaker": "the eldest son",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "He would do his best, she heard him say, understanding the… the importance of ensuring she comprehends everything she’d said.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I will do my best, Mother. I understand the… the importance of ensuring she comprehends everything you’ve said."
+  },
+  {
+   "turn": 19,
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "the eldest son"
+   ],
+   "text": "It was good, he told the eldest son, that he felt such responsibility. He trusted he would guide her well, and she would listen to his counsel, and everything would be as it should be… a family was a family, and they must all do their part to keep it strong.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "It is good, my son, that you feel such responsibility. I trust you will guide her well, and she will listen to your counsel, and everything will be as it should be… a family is a family, and we must all do our part to keep it strong."
+  },
+  {
+   "turn": 20,
+   "speaker": "the eldest son",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "He understood, she said, addressing O-lan. He would ensure everything was… handled appropriately. It would all be well.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I understand, Mother. I will ensure everything is… handled appropriately. It will all be well."
+  }
+ ],
+ "termination": "max_turns",
+ "attempts": 22,
+ "call_stats": {
+  "calls": 44,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "meta": {
+  "text_id": "good_earth",
+  "model": "gemma3:12b",
+  "mode": "third_person_narrated",
+  "seed": 1,
+  "condition": "narrated",
+  "max_turns": 20,
+  "temperature": 0.7,
+  "memory_k": 5,
+  "policy": "addressee",
+  "enforce": true
+ },
+ "opening": [
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan informed Wang Lung that there was another thing before she could die."
+  },
+  {
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "Wang Lung rebuked O-lan, stating that she could not speak of dying and please him."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan explained to Wang Lung that she must die, as she felt it in her vitals, but would not die before her eldest son returned home and before he married the maid who was her daughter-in-law, and that she wanted him to ensure the maid served her well, holding the hot water basin steadily and knowing when to bathe her face when she sweated in pain. She added that she wanted her son to come home and for him to marry the maid first, so that she may die easily, knowing his grandson was stirred into life and a great grandson for the old one."
+  },
+  {
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "Wang Lung observed that O-lan looked twice as well as they said and years away from death."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan assured Wang Lung that she would see him wed and then she must die."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan remarked that the maid would be well, yet."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan instructed Wang Lung to sit and drink the wine and eat the rice of his marriage, as she wished to witness it all, and that it would be his bed of marriage since she was soon to be finished with it and carried away."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan inquired whether everyone had wine and if the sweet rice dish in the middle of the feast was very hot, and if they had put a full measure of lard and sugar into it and the eight fruits."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan declared that she was content and that the thing in her may do as it will. She then instructed her son to look to his father and grandfather, and her daughter to look to her husband, his father, his grandfather, and the poor fool in the court, adding that she had no duty to any other."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan conceded that even if she was ugly, she had borne a son, and that although she was but a slave, there was a son in her house."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan questioned how that one could feed him and care for him as she did, asserting that beauty would not bear a man sons."
+  }
+ ],
+ "characters": [
+  "O-lan",
+  "Wang Lung",
+  "the eldest son",
+  "the maid"
+ ],
+ "seconds": 229.3
+}

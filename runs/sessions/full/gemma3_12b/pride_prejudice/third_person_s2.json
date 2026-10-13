@@ -1,0 +1,370 @@
+{
+ "turns": [
+  {
+   "turn": 1,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth’s eyes flashed with a mixture of indignation and disbelief as she challenged him, inquiring if he truly expected her to accept such a flimsy defense of his actions, dismissing Mr. Wickham’s plight with such callous disregard.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 2,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy regarded Miss Bennet with a palpable frustration, his jaw tightening almost imperceptibly. He insisted that her perception of his character, so readily influenced by the false narratives of a man as demonstrably unscrupulous as Mr. Wickham, was a profound injustice, and one he was compelled to address with the utmost candor.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 3,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth arched a brow, her voice laced with sardonic amusement. She inquired whether his 'utmost candor' involved a sudden and unsolicited character assassination of a gentleman she had previously considered amiable, or simply a continuation of his tiresome attempts to manipulate her feelings with accusations and justifications?",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 4,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy’s countenance darkened, a flush rising on his cheeks that belied his attempts at composure. He stated, with a degree of suppressed agitation, that her assessment of his actions was predicated upon a willful ignorance of the circumstances, and that her flippant inquiries served only to obfuscate the gravity of the situation he felt compelled to explain. It was, he insisted, a duty he owed not only to himself, but to the principles of fairness and truth.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 5,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth regarded him with a cool disdain, her lips curving into a wry smile. She inquired, with a pointed emphasis, whether this 'duty' to fairness and truth extended to acknowledging the considerable distress his actions had caused, or was it merely another pretext for attempting to justify the indefensible?,",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 6,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy’s jaw tightened further, his gaze unwavering as he addressed Miss Bennet. He suggested that her persistent mockery of his attempts at explanation indicated a deliberate intention to misunderstand, and that such a posture rendered any further discourse unproductive, though he remained, despite her provocations, determined to see the matter of truth addressed.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 7,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth allowed her smile to widen slightly, a gesture that did little to soften the sharpness in her eyes. She asked, her voice laced with a calculated innocence, whether his unwavering determination to see 'truth addressed' included a willingness to confront the inconvenient truths regarding his own conduct and the pain it had inflicted?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 8,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy regarded Miss Bennet with a measured gaze, his voice low but firm as he insisted that her continued insistence on focusing solely on perceived failings demonstrated a profound lack of comprehension regarding the complexities of the situation. He felt compelled to reiterate that his actions, however misguided they may have appeared, were consistently motivated by a desire for propriety and the betterment of those involved, even if that intention was presently obscured by her…misinterpretations.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 9,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth arched a brow, her gaze lingering on Mr. Darcy’s strained expression. She inquired, with a touch of ironic amusement, whether this professed desire for propriety and betterment extended to interfering in the lives of others, or was it merely a convenient justification for indulging in one’s own self-importance?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 10,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy’s countenance flushed, and he drew himself up, striving to maintain a semblance of composure despite the palpable barbs of her inquiry. He stated, with a measured tone, that while he acknowledged the potential for misinterpretation, it was scarcely his responsibility to anticipate and account for every facet of a recipient’s predisposition to fault-finding, particularly when such predisposition demonstrably coloured their perception of his actions.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 11,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth let out a short, humorless laugh, her eyes fixed on Mr. Darcy’s reddening face. She suggested that if he truly wished to absolve himself of responsibility, he might consider examining the rather remarkable talent for fault-finding that appears to be a family trait, rather than attributing it solely to the failings of others.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 12,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy regarded Miss Bennet with a barely suppressed frustration, his jaw tightening as he responded that her observations regarding familial traits were an unwarranted and, frankly, impertinent distraction from the matter at hand; the matter of his…regret for past behaviour and his present, sincere affections.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 13,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth raised an eyebrow, her lips curling into a sardonic smile. She inquired, her voice laced with a deliberate coolness, whether this sudden outpouring of regret and affection was truly as sincere as he claimed, or merely another elaborate attempt to deflect criticism and justify past transgressions?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 14,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy’s expression darkened further, a visible tremor betraying the restraint he attempted to maintain. He insisted, his voice carrying a sharper edge than before, that to question the sincerity of his sentiments was a profound insult, born of a prejudice so entrenched it rendered any honest communication utterly impossible, and that, frankly, it was a line of inquiry he would not endure further.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 15,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth’s gaze remained fixed upon him, unwavering despite the visible strain in his features. She inquired, with a voice dripping with irony, whether his threatened curtailment of conversation was now to extend to any discussion of his own character, or would he continue to demand unquestioning acceptance of his pronouncements?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 16,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy, his face flushed a shade darker than before, declared that her persistent need to dissect his words and motivations demonstrated a regrettable lack of faith, a failing he found increasingly difficult to overlook. He conceded that perhaps his attempts at explanation had been misconstrued, but insisted that her relentless scrutiny served only to reinforce the chasm between them, a chasm he was, frankly, beginning to question whether it could ever be bridged.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 17,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth allowed her gaze to drift momentarily to the window, a subtle gesture betraying a flicker of something akin to exasperation. She then turned back to Mr. Darcy, her voice laced with a carefully controlled disdain, and suggested that if a 'chasm' truly existed, it was not of her creation, but rather a consequence of his own actions and pronouncements. She added, with a pointed emphasis, that it was a rather convenient argument to deploy when faced with unwelcome scrutiny.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 18,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy, visibly struggling to maintain composure, stated that her accusations, however cleverly phrased, were entirely without merit and served only to further demonstrate a regrettable predisposition to misinterpret his intentions. He insisted that while he acknowledged his past shortcomings, her continued insistence on dwelling upon them was not conducive to any productive discourse, and, indeed, bordered on a deliberate provocation. He paused, taking a deep breath, and added that he would not permit himself to be subjected to such relentless, and frankly unfair, interrogation.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 19,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth raised an eyebrow, a sardonic smile playing on her lips as she regarded Mr. Darcy’s theatrical display of wounded dignity. She inquired, with a tone of amused disbelief, whether he truly expected her to accept such pronouncements without question, or did he imagine that a woman of even modest intelligence would passively endure a catalogue of perceived slights without offering some form of reasoned response?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 20,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy, his jaw tightening almost imperceptibly, responded that her amusement was misplaced and demonstrated a distressing lack of seriousness regarding the gravity of the matter at hand. He insisted that he had endeavoured to explain himself with the utmost candour, and that to suggest he expected unquestioning acceptance was a gross misrepresentation of his intentions, a notion he found both insulting and tiresome. He fixed his gaze upon the floor, briefly, before returning it to her, a flicker of frustration betraying his carefully constructed composure.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  }
+ ],
+ "termination": "max_turns",
+ "attempts": 20,
+ "call_stats": {
+  "calls": 21,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "meta": {
+  "text_id": "pride_prejudice",
+  "model": "gemma3:12b",
+  "mode": "third_person",
+  "seed": 2,
+  "condition": "full",
+  "max_turns": 20,
+  "temperature": 0.7,
+  "memory_k": 5,
+  "policy": "addressee",
+  "enforce": true
+ },
+ "opening": [
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy confessed that he had struggled in vain, and that his feelings would not be repressed, adding that she must allow him to express how ardently he admired and loved her."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth responded to him with cold civility."
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy elaborated on his sense of her inferiority and the family obstacles that had always opposed inclination, noting that he expressed these thoughts with a warmth that seemed to wound her, but was unlikely to recommend his suit."
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy concluded by stating that he hoped his attachment, despite his efforts to conquer it, would now be rewarded by her acceptance of his hand."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth explained that it was the established mode in such cases to express a sense of obligation for sentiments avowed, however unequally they may be returned, and that if she could feel gratitude, she would thank him. However, she stated that she had never desired his good opinion, and that he had certainly bestowed it unwillingly, and that she was sorry to have occasioned pain, though it had been done unconsciously and would be of short duration. She added that the feelings that prevented the acknowledgment of his regard would have little difficulty in overcoming them after this explanation."
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy inquired why he was to be honored with such a reply, and suggested that it was of small importance."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth questioned why he chose to tell her that he liked her against his will, against his reason, and even against his character, and asked if that was some excuse for incivility. She then mentioned that she had other provocations."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth asserted that she had every reason to think ill of him, and that no motive could excuse the unjust and ungenerous part he had acted, challenging him to deny his role in ruining her sister's happiness."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth demanded to know if he could deny that he had done it."
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy admitted that he had done everything in his power to separate his friend from her sister, and that he rejoiced in his success, adding that he had been kinder to his friend than to himself."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth pointed out that her dislike was not merely based on this affair, but on the recital she had received from Mr. Wickham months ago, and challenged him to defend himself or impose upon others."
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy observed that she took an eager interest in Mr. Wickham’s concerns."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth asked who that knew his misfortunes could help feeling an interest in him."
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy dismissed her comment with a contemptuous remark about Mr. Wickham’s misfortunes."
+  }
+ ],
+ "characters": [
+  "Elizabeth",
+  "Mr. Darcy"
+ ],
+ "seconds": 245.1
+}

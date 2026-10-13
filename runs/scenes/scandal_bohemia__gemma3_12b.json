@@ -1,0 +1,361 @@
+{
+ "dialogue": [
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "You had my note? I told you that I would call."
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "Dr. Watson",
+    "the King of Bohemia"
+   ],
+   "text": "Pray take a seat. This is my friend and colleague, Dr. Watson, who is occasionally good enough to help me in my cases. Whom have I the honour to address?"
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "You may address me as the Count Von Kramm, a Bohemian nobleman. I understand that this gentleman, your friend, is a man of honour and discretion, whom I may trust with a matter of the most extreme importance. If not, I should much prefer to communicate with you alone."
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "Dr. Watson",
+    "the King of Bohemia"
+   ],
+   "text": "It is both, or none. You may say before this gentleman anything which you may say to me."
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "Then I must begin by binding you both to absolute secrecy for two years; at the end of that time the matter will be of no importance. At present it is not too much to say that it is of such weight it may have an influence upon European history."
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "I promise."
+  },
+  {
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "And I."
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "You will excuse this mask. The august person who employs me wishes his agent to be unknown to you, and I may confess at once that the title by which I have just called myself is not exactly my own."
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "I was aware of it."
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "The circumstances are of great delicacy, and every precaution has to be taken to quench what might grow to be an immense scandal and seriously compromise one of the reigning families of Europe. To speak plainly, the matter implicates the great House of Ormstein, hereditary kings of Bohemia."
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "I was also aware of that."
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "If your Majesty would condescend to state your case, I should be better able to advise you."
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "You are right. I am the King. Why should I attempt to conceal it?"
+  }
+ ],
+ "dialogue_raw": [
+  {
+   "speaker": "the Count Von Kramm",
+   "speak_to": [
+    "Holmes",
+    "Watson"
+   ],
+   "text": "You had my note? I told you that I would call."
+  },
+  {
+   "speaker": "Holmes",
+   "speak_to": [
+    "Holmes",
+    "Watson",
+    "the Count Von Kramm"
+   ],
+   "text": "Pray take a seat. This is my friend and colleague, Dr. Watson, who is occasionally good enough to help me in my cases. Whom have I the honour to address?"
+  },
+  {
+   "speaker": "the Count Von Kramm",
+   "speak_to": [
+    "Holmes",
+    "Watson"
+   ],
+   "text": "You may address me as the Count Von Kramm, a Bohemian nobleman. I understand that this gentleman, your friend, is a man of honour and discretion, whom I may trust with a matter of the most extreme importance. If not, I should much prefer to communicate with you alone."
+  },
+  {
+   "speaker": "Holmes",
+   "speak_to": [
+    "Watson",
+    "the Count Von Kramm"
+   ],
+   "text": "It is both, or none. You may say before this gentleman anything which you may say to me."
+  },
+  {
+   "speaker": "the Count Von Kramm",
+   "speak_to": [
+    "Holmes",
+    "Watson"
+   ],
+   "text": "Then I must begin by binding you both to absolute secrecy for two years; at the end of that time the matter will be of no importance. At present it is not too much to say that it is of such weight it may have an influence upon European history."
+  },
+  {
+   "speaker": "Holmes",
+   "speak_to": [
+    "the Count Von Kramm"
+   ],
+   "text": "I promise."
+  },
+  {
+   "speaker": "Watson",
+   "speak_to": [
+    "the Count Von Kramm"
+   ],
+   "text": "And I."
+  },
+  {
+   "speaker": "the Count Von Kramm",
+   "speak_to": [
+    "Holmes",
+    "Watson"
+   ],
+   "text": "You will excuse this mask. The august person who employs me wishes his agent to be unknown to you, and I may confess at once that the title by which I have just called myself is not exactly my own."
+  },
+  {
+   "speaker": "Holmes",
+   "speak_to": [
+    "the Count Von Kramm"
+   ],
+   "text": "I was aware of it."
+  },
+  {
+   "speaker": "the Count Von Kramm",
+   "speak_to": [
+    "Holmes",
+    "Watson"
+   ],
+   "text": "The circumstances are of great delicacy, and every precaution has to be taken to quench what might grow to be an immense scandal and seriously compromise one of the reigning families of Europe. To speak plainly, the matter implicates the great House of Ormstein, hereditary kings of Bohemia."
+  },
+  {
+   "speaker": "Holmes",
+   "speak_to": [
+    "the Count Von Kramm"
+   ],
+   "text": "I was also aware of that."
+  },
+  {
+   "speaker": "Holmes",
+   "speak_to": [
+    "the Count Von Kramm"
+   ],
+   "text": "If your Majesty would condescend to state your case, I should be better able to advise you."
+  },
+  {
+   "speaker": "the Count Von Kramm",
+   "speak_to": [
+    "Holmes",
+    "Watson"
+   ],
+   "text": "You are right. I am the King. Why should I attempt to conceal it?"
+  }
+ ],
+ "characters": {
+  "Sherlock Holmes": {
+   "name": "Sherlock Holmes",
+   "gender": "male",
+   "personality": "Analytical, observant, detached, intellectually superior, slightly arrogant, pragmatic.",
+   "emotional_baseline": 0.2,
+   "speech_style": "Formal, precise, dry, occasionally sarcastic, direct.",
+   "description": "A brilliant detective known for his deductive reasoning and keen observation skills. He is tall and lean, with a sharp, intelligent gaze.",
+   "relationships": {
+    "Dr. Watson": "Colleague and friend, often amused by Watson's reactions."
+   }
+  },
+  "Dr. Watson": {
+   "name": "Dr. Watson",
+   "gender": "male",
+   "personality": "Loyal, dependable, practical, somewhat naive, easily impressed, a good narrator.",
+   "emotional_baseline": 0.5,
+   "speech_style": "Straightforward, clear, occasionally expressive, a touch formal.",
+   "description": "A former military doctor and Holmes's loyal companion. He serves as the narrator of the story and provides a more relatable perspective.",
+   "relationships": {
+    "Sherlock Holmes": "Friend and colleague, admires Holmes's intellect but sometimes finds him perplexing."
+   }
+  },
+  "the King of Bohemia": {
+   "name": "the King of Bohemia",
+   "gender": "male",
+   "personality": "Dramatic, anxious, regal, desperate, initially deceptive, ultimately revealing.",
+   "emotional_baseline": -0.6,
+   "speech_style": "Formal, elaborate, agitated, prone to exaggeration, initially guarded.",
+   "description": "The King of Bohemia, a man of considerable stature and opulent dress, attempting to conceal his identity and desperate to resolve a delicate political scandal.",
+   "relationships": {
+    "Sherlock Holmes": "Client, initially wary and attempting to manipulate, ultimately reveals his true identity.",
+    "Dr. Watson": "Initially treats as a secondary party, then acknowledges his presence."
+   }
+  }
+ },
+ "context": "The King of Bohemia, attempting to conceal his identity, seeks the help of Sherlock Holmes to resolve a potentially scandalous situation involving a compromising photograph. He arrives at Holmes's residence accompanied by Dr. Watson, creating an atmosphere of intrigue and secrecy.",
+ "cast_mapping": {
+  "raw_utterances": 13,
+  "kept": 13,
+  "dropped_unmapped": 0,
+  "raw_labels": [
+   "Holmes",
+   "Watson",
+   "the Count Von Kramm"
+  ]
+ },
+ "opening_third": [
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "The King of Bohemia inquired whether they had received his note, adding that he had informed them he would call."
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "Dr. Watson",
+    "the King of Bohemia"
+   ],
+   "text": "Sherlock Holmes requested that the King take a seat and introduced him to Dr. Watson, his friend and colleague, who occasionally assisted him in his cases, and then asked whom he had the honour to address."
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "The King of Bohemia stated that he should be addressed as the Count Von Kramm, a Bohemian nobleman, and expressed his hope that Dr. Watson was a man of honour and discretion, someone he could trust with a matter of extreme importance, otherwise he would prefer to speak with Sherlock Holmes alone."
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "Dr. Watson",
+    "the King of Bohemia"
+   ],
+   "text": "Sherlock Holmes assured them that both were suitable, or neither, and that the King could speak freely before Dr. Watson as he would with him."
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "The King of Bohemia explained that he needed them both to bind to absolute secrecy for two years, after which the matter would be unimportant, and that currently it was of such weight it could influence European history."
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "Sherlock Holmes promised."
+  },
+  {
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "Dr. Watson concurred."
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "The King of Bohemia apologized for the mask, explaining that the person who employed him wished his agent to remain unknown, and he confessed that the title he had used was not his own."
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "Sherlock Holmes revealed that he had been aware of this."
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "The King of Bohemia emphasized that the circumstances were delicate and required precautions to prevent a scandal that could compromise the House of Ormstein, hereditary kings of Bohemia."
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "Sherlock Holmes confirmed that he too was aware of that."
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "Sherlock Holmes suggested that if the King would state his case, he would be better able to advise him."
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "The King of Bohemia acknowledged that he was right and then asked why he had attempted to conceal his identity, stating that he was, in fact, the King."
+  }
+ ],
+ "director_stats": {
+  "calls": 3,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "init_seed": 0
+}

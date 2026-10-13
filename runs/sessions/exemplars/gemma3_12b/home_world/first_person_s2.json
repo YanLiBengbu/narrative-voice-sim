@@ -1,0 +1,365 @@
+{
+ "turns": [
+  {
+   "turn": 1,
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "Your attempts at veiled provocation are tiresome, Sandip. My concerns extend beyond my own safety, and certainly encompass the well-being of those under my protection. I will not be swayed by your rhetoric.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 2,
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil",
+    "Bimala"
+   ],
+   "text": "Such a noble sentiment, this 'well-being of those under your protection,' Nikhil. Reminds one of Tennyson’s ‘Locksley Hall’ – a grand gesture, certainly, but does it truly extend to those who, shall we say, *assist* in the smooth running of your estates? I trust your concern isn't merely for show, lest your tenants find themselves wishing for a different benefactor.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 3,
+   "speaker": "Bimala",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "Such grand pronouncements, aren't they, Nikhil? It's easy to speak of protecting those under one’s care, but actions… actions speak louder, wouldn't you agree?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 4,
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "Your insinuations are noted, Sandip, but their relevance is negligible. My actions, unlike your words, are demonstrably aimed at ensuring the stability and prosperity of this estate, for all its inhabitants. I suggest you direct your Tennyson to more receptive ears.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 5,
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil",
+    "Bimala"
+   ],
+   "text": "Ah, stability and prosperity, you say? A laudable goal, Nikhil, though I confess I find the pursuit of such things often leads to… unforeseen complications. One recalls the tragic fate of Phaeton, soaring too close to the sun, doesn't one? Perhaps a little humility in the face of the inevitable chaos is advisable, wouldn’t you agree?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 6,
+   "speaker": "Bimala",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "Phaeton… a rather dramatic comparison, isn't it, Sandip? I find myself wondering, though, if perhaps the true danger lies not in soaring too high, but in failing to see the shadows cast below.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 7,
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil",
+    "Bimala"
+   ],
+   "text": "Shadows, you say, Bimala? How perceptive of you. Indeed, one must always be mindful of what lurks in the darkness, wouldn’t you agree, Nikhil? I hear whispers, unsettling murmurs carried on the wind – tales of fiery preachers, of discontent brewing amongst those who feel… overlooked.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 8,
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "Such anxieties are predictable, Sandip, and hardly warrant such elaborate metaphors. I am aware of the presence of certain preachers, and I am taking measures to ensure the safety of all within my jurisdiction; further discussion on the matter is unnecessary.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 9,
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil",
+    "Bimala"
+   ],
+   "text": "Unnecessary, you say? My dear Nikhil, such pronouncements betray a certain… naivete. Do you truly believe that dismissing whispers—the murmurs of the populace—with a wave of your hand, a mere 'taking of measures,' will truly quell the rising tide? I suspect you underestimate the power of a narrative, a skillfully woven tale, to sway the hearts of men.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 10,
+   "speaker": "Bimala",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "A skillfully woven tale… it is true, isn't it, Sandip? Stories have a life of their own, shaping perceptions far more readily than any decree. I wonder, though, if those who tell them always understand the consequences of their artistry.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 11,
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil",
+    "Bimala"
+   ],
+   "text": "Consequences, Bimala? A most astute observation, my dear. But tell me, Nikhil, do you truly believe these 'measures' of yours account for the subtle currents of influence, the barely perceptible shifts in allegiance that shape the very fabric of this community? I fear you are building a dam against a monsoon, and a rather flimsy one at that.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 12,
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "My concern is not with narratives, Sandip, but with demonstrable threats. I am responsible for the welfare of those under my protection, and I will address real dangers with pragmatic action, not speculation. Should your 'whispers' prove to be more than mere conjecture, I trust you will have the decency to substantiate them.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 13,
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil",
+    "Bimala"
+   ],
+   "text": "Pragmatic action, you say? How delightfully… pedestrian, Nikhil. One might almost mistake you for a magistrate, not a landowner. I confess, I find myself pondering the irony – the man who claims to understand responsibility so readily dismisses the very tools with which responsibility is maintained: the perceptions, the anxieties, the *beliefs* of those he supposedly protects.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 14,
+   "speaker": "Bimala",
+   "speak_to": [
+    "Nikhil",
+    "Sandip"
+   ],
+   "text": "It is easy to dismiss anxieties as mere speculation, Nikhil, but perhaps… perhaps there is a value in understanding *why* those anxieties arise. Ignoring the source, however uncomfortable, will not make it disappear, will it?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 15,
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Bimala"
+   ],
+   "text": "Bimala, your empathy is commendable, but it does not negate the necessity of decisive action when faced with tangible peril. I am not dismissing anxieties; I am prioritizing verifiable threats and addressing them with measured responses, as befits my position.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 16,
+   "speaker": "Bimala",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "Nikhil speaks of measured responses, but does measure encompass the quiet desperation that festers when one feels unheard? Perhaps a little less measuring, and a little more listening, would serve us all better.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 17,
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "Your observations regarding perceived neglect are noted, Sandip, but I find your phrasing unnecessarily provocative. I am not deaf to the concerns of my tenants or my household; I simply operate on a framework of demonstrable evidence, not unsubstantiated feelings.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 18,
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "Demonstrable evidence, you say? How very… clinical, Nikhil. It reminds me of Darwin, dissecting the natural world, cataloging its parts without ever grasping the vital spirit that animates it. Tell me, do you dissect the anxieties of your tenants, Nikhil? Do you measure their despair with calipers and scales?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 19,
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "Such analogies are irrelevant, Sandip. My responsibilities lie in ensuring the well-being of those under my care, and that requires a pragmatic approach, not poetic flourishes. I am more concerned with the concrete realities of their lives than with the abstract notion of a 'vital spirit.'",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 20,
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "Pragmatic, you say? It's a wonderfully convenient shield, isn't it, Nikhil? Allows one to dismiss uncomfortable truths with a wave of the hand, much like dismissing a tiresome insect. I daresay the most potent threats are rarely concrete, are they? They fester in the shadows, whispered by men who preach of righteous fury and divine judgment – men who, I assure you, are *very* interested in the state of your tenants’… well-being.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  }
+ ],
+ "termination": "max_turns",
+ "attempts": 20,
+ "call_stats": {
+  "calls": 20,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "meta": {
+  "text_id": "home_world",
+  "model": "gemma3:12b",
+  "mode": "first_person",
+  "seed": 2,
+  "condition": "exemplars",
+  "max_turns": 20,
+  "temperature": 0.7,
+  "memory_k": 5,
+  "policy": "addressee",
+  "enforce": true,
+  "exemplars": true
+ },
+ "opening": [
+  {
+   "speaker": "Sandip",
+   "speak_to": [
+    "Bimala"
+   ],
+   "text": "Whither would you flee, Queen?"
+  },
+  {
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "I say, Nikhil, don't you keep Browning among your books here? I was just telling Queen Bee of our college club. Do you remember that contest of ours over the translation of those lines from Browning? You don't?"
+  },
+  {
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "I managed to get together the words to render it into Bengali, somehow, but the result was hardly likely to be a 'joy forever' to the people of Bengal. I really did think at one time that I was on the verge of becoming a poet, but Providence was kind enough to save me from that disaster. Do you remember old Dakshina? If he had not become a Salt Inspector, he would have been a poet. I remember his rendering to this day ..."
+  },
+  {
+   "speaker": "Sandip",
+   "speak_to": [
+    "Bimala"
+   ],
+   "text": "No, Queen Bee, it is no use rummaging those bookshelves. Nikhil has ceased to read poetry since his marriage--perhaps he has no further need for it. But I suppose 'the fever fit of poesy', as the Sanskrit has it, is about to attack me again."
+  },
+  {
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "I have come to give you a warning, Sandip."
+  },
+  {
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "About the fever fit of poesy?"
+  },
+  {
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "For some time, Mahomedan preachers have been about stirring up the local Mussulmans. They are all wild with you, and may attack you any moment."
+  },
+  {
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "Are you come to advise flight?"
+  },
+  {
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "I have come to give you information, not to offer advice."
+  },
+  {
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "Had these estates been mine, such a warning would have been necessary for the preachers, not for me. If, instead of trying to frighten me, you give them a taste of your intimidation, that would be worthier both of you and me. Do you know that your weakness is weakening your neighbouring zamindars also?"
+  },
+  {
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "I did not offer you my advice, Sandip. I wish you, too, would refrain from giving me yours. Besides, it is useless. And there is another thing I want to tell you. You and your followers have been secretly worrying and oppressing my tenantry. I cannot allow that any longer. So I must ask you to leave my territory."
+  },
+  {
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "For fear of the Mussulmans, or is there any other fear you have to threaten me with?"
+  }
+ ],
+ "characters": [
+  "Sandip",
+  "Nikhil",
+  "Bimala"
+ ],
+ "seconds": 236.3
+}

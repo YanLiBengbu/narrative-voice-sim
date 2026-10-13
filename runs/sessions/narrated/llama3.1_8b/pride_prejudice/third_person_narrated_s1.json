@@ -1,0 +1,376 @@
+{
+ "turns": [
+  {
+   "turn": 1,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth would not have him try to turn her sympathy for Mr. Wickham into a reason to think she might accept his love, and his own behavior, not Wickham's, was the reason she rejected him.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I will not have you try to turn my sympathy for Mr. Wickham into a reason to think I might accept your love, Mr. Darcy. Your own behavior, not his, is the reason I reject you."
+  },
+  {
+   "turn": 2,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy had expected a more rational response from one who claimed to possess a certain level of discernment, but he supposed he would have to be content with this impulsive rejection.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I must confess, I had expected a more rational response from one who claims to possess a certain level of discernment, but I suppose I shall have to be content with this impulsive rejection."
+  },
+  {
+   "turn": 3,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth's voice rose in indignation as she accused him of hypocrisy, her words spilling out in a rush: How dare he lecture her on rationality, when he himself had consistently shown himself to be arrogant and dismissive of others' feelings?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "How dare you lecture me on rationality, when you yourself have consistently shown yourself to be arrogant and dismissive of others' feelings?"
+  },
+  {
+   "turn": 4,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "He must confess, he was not surprised by her impetuous nature, but he did find it rather distressing to be thus rejected. Her accusations, while unbecoming, were also unfounded.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I must confess, I am not surprised by your impetuous nature, Miss Elizabeth, but I do find it rather... distressing to be thus rejected. Your accusations, while unbecoming, are also unfounded."
+  },
+  {
+   "turn": 5,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth had always been quick to speak her mind, and now she was not holding back. How could he claim her nature was impulsive, when he himself had shown such a lack of self-awareness? He had repeatedly demonstrated a capacity for arrogance and a disregard for the feelings of those around him.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "How can you claim my nature is impulsive, when you yourself have shown such a lack of self-awareness? You have repeatedly demonstrated a capacity for arrogance and a disregard for the feelings of those around you."
+  },
+  {
+   "turn": 6,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "He must say, he finds it quite astonishing that she would stoop to such petty insults, considering the great depth of intelligence and refinement that she possesses.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I must say, I find it quite astonishing that you would stoop to such petty insults, Miss Elizabeth, considering the great depth of intelligence and refinement that you possess."
+  },
+  {
+   "turn": 7,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "How can he speak of refinement, when he has so consistently shown himself to be cold, proud, and dismissive of those he deems beneath him?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "How can you speak of refinement, when you have so consistently shown yourself to be cold, proud, and dismissive of those you deem beneath you?"
+  },
+  {
+   "turn": 8,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy must insist, Elizabeth, that she was not in a position to criticize him on the subject of refinement, considering the less-than-exalted company she had chosen to keep.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I must insist, Miss Bennet, that you are not in a position to criticize me on the subject of refinement, considering the...less-than-exalted company you have chosen to keep."
+  },
+  {
+   "turn": 9,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth was not 'choosing' to keep company, she was associating with those who shared her values and her disdain for the likes of Mr. Darcy.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I am not 'choosing' to keep company, I am associating with those who share my values and my disdain for the likes of you."
+  },
+  {
+   "turn": 10,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy was perplexed by her continued refusal, despite his clear declaration of affection. Her rejection only served to reinforce his initial impression of her, that she was a woman of limited understanding and experience.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I must confess, I am perplexed by your continued refusal, despite my clear declaration of affection. Your rejection only serves to reinforce my initial impression of you, that you are a woman of limited understanding and experience."
+  },
+  {
+   "turn": 11,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth was astonished that he would think her so easily swayed by empty words of affection, after all that had transpired between them.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I am astonished, Mr. Darcy, that you would think me so easily swayed by empty words of affection, after all that has transpired between us."
+  },
+  {
+   "turn": 12,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy must confess, that Elizabeth's continued obstinacy only served to confirm his initial impression of her - that she was a woman of strong prejudices, but weak understanding.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I must confess, Elizabeth, that your continued obstinacy only serves to confirm my initial impression of you - that you are a woman of strong prejudices, but weak understanding."
+  },
+  {
+   "turn": 13,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth was not weak in understanding, and she was certainly not swayed by his empty professions of affection.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I am not weak in understanding, Mr. Darcy, and I am certainly not swayed by your empty professions of affection."
+  },
+  {
+   "turn": 14,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy insisted that Elizabeth was being unfair to him, his actions, though misguided at times, having been driven by a desire to protect and provide for those he cared about.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I must insist, Elizabeth, that you are being unfair to me. My actions, though misguided at times, have been driven by a desire to protect and provide for those I care about."
+  },
+  {
+   "turn": 15,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "How dare he imply that she was being unfair to him, when it was he who had consistently shown a lack of understanding and respect for her feelings and boundaries?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "How dare you imply that I am being unfair to you, when it is you who has consistently shown a lack of understanding and respect for my feelings and boundaries?"
+  },
+  {
+   "turn": 16,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "He daresay, Elizabeth, she was as obstinate as ever, refusing to see the sincerity of his intentions.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I daresay, Elizabeth, you are as obstinate as ever, refusing to see the sincerity of my intentions."
+  },
+  {
+   "turn": 17,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth was incredulous, she thought, that he could possibly believe her refusal to accept his proposal was a sign of obstinacy, when it was he who had consistently shown a disregard for her feelings and opinions.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "How can you possibly believe that my refusal to accept your proposal is a sign of obstinacy, when it is you who has consistently shown a disregard for my feelings and opinions?"
+  },
+  {
+   "turn": 18,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "He told Elizabeth that it was quite clear she was not in a state of mind to listen to reason. He would not trouble her further with his declarations, but he must insist that she reconsider her refusal, for he was convinced that their union would be a most advantageous one for both of them.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "It is quite clear that you are not in a state of mind to listen to reason, Elizabeth. I shall not trouble you further with my declarations, but I must insist that you reconsider your refusal, for I am convinced that our union would be a most advantageous one for both of us."
+  },
+  {
+   "turn": 19,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth would not reconsider her refusal, because his idea of an advantageous union was not one that she would ever entertain.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I will not reconsider my refusal, Mr. Darcy, because your idea of an advantageous union is not one that I would ever entertain."
+  },
+  {
+   "turn": 20,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy must confess, Elizabeth, that he found it quite vexing to be thus refused by one who had so often been at pains to criticize and censure him.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I must confess, Elizabeth, that I find it quite vexing to be thus refused by one who has so often been at pains to criticize and censure me."
+  }
+ ],
+ "termination": "max_turns",
+ "attempts": 20,
+ "call_stats": {
+  "calls": 40,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "meta": {
+  "text_id": "pride_prejudice",
+  "model": "llama3.1:8b",
+  "mode": "third_person_narrated",
+  "seed": 1,
+  "condition": "narrated",
+  "max_turns": 20,
+  "temperature": 0.7,
+  "memory_k": 5,
+  "policy": "addressee",
+  "enforce": true
+ },
+ "opening": [
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy told Elizabeth that he had struggled in vain, that his feelings would not be repressed, and that he ardently admired and loved her."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth replied to Mr. Darcy that it was the established mode to express a sense of obligation for the sentiments avowed, however unequally they may be returned, and that she could not feel gratitude towards him."
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy remarked to Elizabeth that she had given him no reason to expect a favourable reply, and that he had no great interest in her opinion."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth asked Mr. Darcy why he had chosen to tell her that he liked her against his will, against his reason, and even against his character, and whether this was some excuse for incivility."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth told Mr. Darcy that she had every reason to think ill of him, and that no motive could excuse the unjust and ungenerous part he had acted in separating her sister from his friend."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth asked Mr. Darcy if he could deny that he had been the principal means of dividing her sister from his friend."
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy told Elizabeth that he had no wish to deny that he had done everything in his power to separate his friend from her sister, and that he rejoiced in his success."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth told Mr. Darcy that his character had been unfolded in the recital she received from Mr. Wickham, and that she had never desired his good opinion."
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy observed to Elizabeth that she took an eager interest in Mr. Wickham's concerns."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth replied to Mr. Darcy that anyone who knew Mr. Wickham's misfortunes could not help feeling an interest in him."
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy exclaimed to Elizabeth that Mr. Wickham's misfortunes were indeed great."
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy confirmed to Elizabeth that Mr. Wickham's misfortunes had been great indeed."
+  }
+ ],
+ "characters": [
+  "Elizabeth",
+  "Mr. Darcy"
+ ],
+ "seconds": 85.1
+}

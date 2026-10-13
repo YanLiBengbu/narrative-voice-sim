@@ -1,0 +1,355 @@
+{
+ "turns": [
+  {
+   "turn": 1,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth must confess, Mr. Darcy, that his actions have left her with little reason to feel otherwise than she does.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I must confess, Mr. Darcy, that your actions have left me with little reason to feel otherwise than I do."
+  },
+  {
+   "turn": 2,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy was aware, Miss Bennet, that his actions had not been above reproach. However, he must defend himself against the accusations of Mr. Wickham, who had painted a false picture of his character and intentions.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I am aware, Miss Bennet, that my actions have not been above reproach. However, I must defend myself against the accusations of Mr. Wickham, who has painted a false picture of my character and intentions."
+  },
+  {
+   "turn": 3,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth had heard much of Mr. Wickham's account, and though she was willing to consider that there may be more to the story, his actions spoke louder than his words, Mr. Darcy.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I have heard much of Mr. Wickham's account, and though I am willing to consider that there may be more to the story, your actions speak louder than your words, Mr. Darcy."
+  },
+  {
+   "turn": 4,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy understood Elizabeth's sentiments, but he must also express that her prejudice against him had been equally misplaced. He had struggled with his pride and had sought to amend his ways, though he feared it might be too late.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I understand your sentiments, Miss Bennet, but I must also express that your prejudice against me has been equally misplaced. I have struggled with my pride and have sought to amend my ways, though I fear it may be too late."
+  },
+  {
+   "turn": 5,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth must confess that Mr. Darcy’s words, though they may be true, do little to ease her mind or alter her opinion of him. His actions have been the measure of his character, and until she sees a change in those, it will be difficult for her to regard him in any light but that of a proud and disagreeable man.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I must confess, Mr. Darcy, that your words, though they may be true, do little to ease my mind or alter my opinion of you. Your actions have been the measure of your character, and until I see a change in those, it will be difficult for me to regard you in any light but that of a proud and disagreeable man."
+  },
+  {
+   "turn": 6,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy was aware, Miss Bennet, that his actions had caused considerable distress and misunderstanding. He shall endeavour to prove to Elizabeth that he is capable of change, though it may take time to earn her trust and respect.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I am aware, Miss Bennet, that my actions have caused you considerable distress and misunderstanding. I shall endeavour to prove to you that I am capable of change, though it may take time to earn your trust and respect."
+  },
+  {
+   "turn": 7,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth expressed gratitude for Mr. Darcy’s words, but noted that actions indeed spoke louder than words. If he truly wished to alter her opinion, he must demonstrate a change in his conduct, not merely his sentiments.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I am grateful for your words, Mr. Darcy, but actions indeed speak louder than words. If you truly wish to alter my opinion, you must demonstrate a change in your conduct, not merely your sentiments."
+  },
+  {
+   "turn": 8,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy understood, Miss Bennet, that his actions had not earned her trust easily. He shall strive to prove himself through his deeds, not just his words.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I understand, Miss Bennet, that my actions have not earned your trust easily. I shall strive to prove myself through my deeds, not just my words."
+  },
+  {
+   "turn": 9,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth appreciated Mr. Darcy’s words, but actions were what would truly convince her of his sincerity. If he wished to change her opinion, he must show it through his conduct.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I appreciate your words, Mr. Darcy, but actions are what will truly convince me of your sincerity. If you wish to change my opinion, you must show it through your conduct."
+  },
+  {
+   "turn": 10,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "He comprehended Elizabeth's sentiments and shall act accordingly to earn her good opinion. His conduct, not his words, shall be the measure of his intentions.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I comprehend your sentiments, Miss Bennet, and shall act accordingly to earn your good opinion. My conduct, not my words, shall be the measure of my intentions."
+  },
+  {
+   "turn": 11,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth understood Mr. Darcy’s intentions, but she must see evidence of his transformation. Words were cheap, and it was his actions that would now speak to her.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I understand your intentions, Mr. Darcy, but I must see evidence of your transformation. Words are cheap, and it is your actions that will now speak to me."
+  },
+  {
+   "turn": 12,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth believed Mr. Darcy, but it was his future actions that would truly convince her of his sincerity. He told her that he would prove that he meant what he said.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I believe you, Mr. Darcy, but it is your future actions that will truly convince me of your sincerity. Prove to me that you mean what you say."
+  },
+  {
+   "turn": 13,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy shall endeavour to prove himself, Miss Bennet. His actions shall be his testament.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I shall endeavor to prove myself, Miss Bennet. My actions shall be my testament."
+  },
+  {
+   "turn": 14,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth saw Mr. Darcy’s determination, but it was a long road to mend the wrongs of the past. He told her that he would prove to her that he had changed, and she might come to see him in a different light.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I see your determination, Mr. Darcy, but it is a long road to mend the wrongs of the past. Prove to me that you have changed, and I may come to see you in a different light."
+  },
+  {
+   "turn": 15,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "He shall endeavour to show Miss Bennet that his words are sincere and his intentions honourable. His actions shall be his speech.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I shall endeavour to show you, Miss Bennet, that my words are sincere and my intentions honourable. My actions shall be my speech."
+  },
+  {
+   "turn": 16,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth would wait to see the fruits of Mr. Darcy's labour. Until then, their opinions remained unchanged.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I shall wait to see the fruits of your labour, Mr. Darcy. Until then, our opinions remain unchanged."
+  },
+  {
+   "turn": 17,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy understood, Miss Bennet. His actions would indeed speak louder than words.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I understand, Miss Bennet. My actions will indeed speak louder than words."
+  },
+  {
+   "turn": 18,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth shall observe, Mr. Darcy, and if his actions align with his words, perhaps her opinion may shift.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I shall observe, Mr. Darcy, and if your actions align with your words, perhaps my opinion may shift."
+  },
+  {
+   "turn": 19,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "He shall strive to earn Elizabeth's respect, Miss Bennet, and prove to her that his character has evolved.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I shall strive to earn your respect, Miss Bennet, and prove to you that my character has evolved."
+  },
+  {
+   "turn": 20,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth shall hold Mr. Darcy to that. His actions in the future shall determine whether she can ever regard him with anything but disdain.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I shall hold you to that, Mr. Darcy. Your actions in the future shall determine whether I can ever regard you with anything but disdain."
+  }
+ ],
+ "termination": "max_turns",
+ "attempts": 20,
+ "call_stats": {
+  "calls": 40,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "meta": {
+  "text_id": "pride_prejudice",
+  "model": "qwen2.5:14b",
+  "mode": "third_person_narrated",
+  "seed": 0,
+  "condition": "narrated",
+  "max_turns": 20,
+  "temperature": 0.7,
+  "memory_k": 5,
+  "policy": "addressee",
+  "enforce": true
+ },
+ "opening": [
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy told Elizabeth that he had struggled in vain and that it would not do. His feelings would not be repressed, and he must allow him to tell her how ardently he admired and loved her."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth replied to Mr. Darcy that in such cases, it was believed to be the established mode to express a sense of obligation for the sentiments avowed, however unequally they may be returned. It was natural that obligation should be felt, and if she could feel gratitude, she would now thank him. But she could not, for she had never desired his good opinion, and he had certainly bestowed it most unwillingly. She was sorry to have occasioned pain to anyone, but it had been most unconsciously done and she hoped it would be of short duration. The feelings which he told her had long prevented the acknowledgment of his regard could have little difficulty in overcoming it after this explanation."
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy told Elizabeth that this was all the reply which he was to have the honour of expecting. He might, perhaps, wish to be informed why, with so little endeavour at civility, he was thus rejected. But it was of small importance."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth told Mr. Darcy that she might as well ask why, with such a clear intention of offending and insulting her, he chose to tell her that he liked her against his will, against his reason, and even against his character. Was not this some excuse for incivility, if she was uncivil? But she had other provocations. He knew she had. Had not her own feelings decided against him, had they been indifferent, or even favourable, did he think that any consideration would tempt her to accept the man who had been the means of ruining, perhaps forever, the happiness of a most beloved sister?"
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth told Mr. Darcy that she had every reason in the world to think ill of him. No motive could excuse the unjust and ungenerous part he had acted there. He dared not, he could not deny that he had been the principal, if not the only means of dividing them from each other, of exposing one to the censure of the world for caprice and instability, the other to its derision for disappointed hopes, and involving them both in misery of the acutest kind."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth told Mr. Darcy that it was not merely this affair on which her dislike was founded. Long before it had taken place, her opinion of him was decided. His character was unfolded in the recital which she had received many months ago from Mr. Wickham. On this subject, what could he have to say? In what imaginary act of friendship could he here defend himself? Or under what misrepresentation could he here impose upon others?"
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy told Elizabeth that she took an eager interest in that gentleman’s concerns."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth replied to Mr. Darcy that who that knew what his misfortunes had been could help feeling an interest in him?"
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy told Elizabeth that his misfortunes had indeed been great indeed."
+  }
+ ],
+ "characters": [
+  "Elizabeth",
+  "Mr. Darcy"
+ ],
+ "seconds": 136.3
+}

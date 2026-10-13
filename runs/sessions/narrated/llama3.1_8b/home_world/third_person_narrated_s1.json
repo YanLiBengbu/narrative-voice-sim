@@ -1,0 +1,382 @@
+{
+ "turns": [
+  {
+   "turn": 1,
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "Nikhil would not be swayed by Sandip's words. He had spoken to him about the potential attacks, not out of fear, but out of duty to protect his people and his land.",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I will not be swayed by your words, Sandip. I have spoken to you about the potential attacks, not out of fear, but out of duty to protect my people and my land."
+  },
+  {
+   "turn": 2,
+   "speaker": "Bimala",
+   "speak_to": [
+    "Nikhil",
+    "Sandip"
+   ],
+   "text": "Bimala thought perhaps they should hear Nikhil out without interruptions. What was it that he wanted to tell them, Nikhil?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Sandip, perhaps we should hear Nikhil out without interruptions. What is it that he wants to tell you, Nikhil?"
+  },
+  {
+   "turn": 3,
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "Come now, Nikhil, Sandip was not seriously suggesting that he should be intimidated by a few hot-headed Mussulmans. He had handled more turbulent crowds than Nikhil had handled his own estate's ledgers, he assured him.",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Come now, Nikhil, you're not seriously suggesting that I, the mighty Sandip, should be intimidated by a few hot-headed Mussulmans? I've handled more turbulent crowds than you've handled your own estate's ledgers, I assure you."
+  },
+  {
+   "turn": 4,
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "Nikhil would not be swayed by Sandip's levity, this was a matter of utmost gravity and required serious consideration.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I will not be swayed by your levity, Sandip. This is a matter of utmost gravity and requires serious consideration."
+  },
+  {
+   "turn": 5,
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "Sandip was not sure whether Nikhil was trying to save him from the Mussulmans or from his own inflated ego, but he assured him, he could handle both with ease.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Nikhil, I'm not sure whether you're trying to save me from the Mussulmans or from my own inflated ego, but I assure you, I can handle both with ease."
+  },
+  {
+   "turn": 6,
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "Nikhil would not engage in a game of wits with Sandip. This was not a matter for jest or trivial amusement.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I will not engage in a game of wits with you, Sandip. This is not a matter for jest or trivial amusement."
+  },
+  {
+   "turn": 7,
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil",
+    "Bimala"
+   ],
+   "text": "Sandip was starting to think Nikhil was more concerned about his own reputation than the welfare of the estate. After all, if the Mussulmans did attack, he would be the one scrambling to salvage what was left of his precious ledgers.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I'm starting to think Nikhil's more concerned about his own reputation than the welfare of the estate. After all, if the Mussulmans do attack, he'll be the one scrambling to salvage what's left of his precious ledgers."
+  },
+  {
+   "turn": 8,
+   "speaker": "Bimala",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "Bimala asked Nikhil what he proposed they do to prevent any potential attacks.",
+   "compliant_first": false,
+   "regenerated": false,
+   "director_rewrite": true,
+   "residual_violation": false,
+   "speech": "Nikhil, what do you propose we do to prevent any potential attacks?"
+  },
+  {
+   "turn": 9,
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Bimala"
+   ],
+   "text": "Nikhil would not indulge in such frivolous speculation, Bimala. As for measures to prevent the attacks, he proposed that they increase the number of guards and fortify the estate's defenses, as was befitting a responsible zamindar.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I will not indulge in such frivolous speculation, Bimala. As for measures to prevent the attacks, I propose that we increase the number of guards and fortify the estate's defenses, as is befitting a responsible zamindar."
+  },
+  {
+   "turn": 10,
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil",
+    "Bimala"
+   ],
+   "text": "Ha! Fortify the estate's defenses, Nikhil, he said. He was shaking in his boots, and he thought his precious ledgers would be safe, he was sure.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Ha! Fortify the estate's defenses, you say? I'm shaking in my boots, Nikhil. My precious ledgers will be safe, I'm sure."
+  },
+  {
+   "turn": 11,
+   "speaker": "Bimala",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "Bimala had seen the Mussulmans before, what made Nikhil think they would attack now?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I have seen the Mussulmans before, Nikhil. What makes you think they would attack now?"
+  },
+  {
+   "turn": 12,
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Bimala"
+   ],
+   "text": "Nikhil was not indulging in speculation, Bimala. He was stating facts based on the increasing tensions between the Mussulmans and the local population.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I am not indulging in speculation, Bimala. I am stating facts based on the increasing tensions between the Mussulmans and the local population."
+  },
+  {
+   "turn": 13,
+   "speaker": "Bimala",
+   "speak_to": [
+    "Nikhil",
+    "Sandip"
+   ],
+   "text": "Bimala had noticed that the Mussulmans seemed to be more restless than usual, but what exactly was it that was causing this tension?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I've noticed that the Mussulmans seem to be more restless than usual, but what exactly is it that's causing this tension?"
+  },
+  {
+   "turn": 14,
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "Nikhil suggested that Sandip take the situation seriously, the gravity of which was evident, and he would not stand idly by while their families' safety was threatened.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I suggest you take this seriously, Sandip. The situation is grave, and I will not stand idly by while our families' safety is threatened."
+  },
+  {
+   "turn": 15,
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "Sandip rolled his eyes and muttered under his breath, 'Tensions are rising', 'the Mussulmans are restless', 'our families' safety is threatened'... How original, he thought, as he shook his head in exasperation.",
+   "compliant_first": false,
+   "regenerated": false,
+   "director_rewrite": true,
+   "residual_violation": true,
+   "speech": "Oh, spare me the theatrics, Nikhil. I've heard it all before. 'Tensions are rising', 'the Mussulmans are restless', 'our families' safety is threatened'... How original."
+  },
+  {
+   "turn": 16,
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "Nikhil expected Sandip to take immediate action to secure their estates, the situation was not a trivial matter.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I expect you to take immediate action to secure our estates, Sandip. The situation is not a trivial matter."
+  },
+  {
+   "turn": 17,
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "Sandip was dead tired, he thought, and he had seen more drama in a bad playhouse than Nikhil could ever muster.",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Oh, spare me the theatrics, Nikhil. I've seen more drama in a bad playhouse."
+  },
+  {
+   "turn": 18,
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "Nikhil warned Sandip that the situation was grave, and he would not stand idly by while he compromised the safety of their families.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I warn you, Sandip, the situation is grave, and I will not stand idly by while you compromise the safety of our families."
+  },
+  {
+   "turn": 19,
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "Sandip thought Nikhil was starting to sound like a melodrama, he had seen more genuine threats in a bad poem.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "You're starting to sound like a melodrama, Nikhil. I've seen more genuine threats in a bad poem."
+  },
+  {
+   "turn": 20,
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "Nikhil would not engage in petty banter with Sandip. The safety of their families was at stake, and he demanded that Sandip take the matter seriously.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I will not engage in petty banter with you, Sandip. The safety of our families is at stake, and I demand you take this matter seriously."
+  }
+ ],
+ "termination": "max_turns",
+ "attempts": 20,
+ "call_stats": {
+  "calls": 47,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "meta": {
+  "text_id": "home_world",
+  "model": "llama3.1:8b",
+  "mode": "third_person_narrated",
+  "seed": 1,
+  "condition": "narrated",
+  "max_turns": 20,
+  "temperature": 0.7,
+  "memory_k": 5,
+  "policy": "addressee",
+  "enforce": true
+ },
+ "opening": [
+  {
+   "speaker": "Sandip",
+   "speak_to": [
+    "Bimala"
+   ],
+   "text": "Sandip asked Bimala where she would go, addressing her as the Queen."
+  },
+  {
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "Sandip asked Nikhil if he kept Browning among his books, reminding him of a contest they had over translating lines from Browning, and inquiring if Nikhil remembered it."
+  },
+  {
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil",
+    "Bimala"
+   ],
+   "text": "Sandip told Nikhil and Bimala that he had managed to translate the lines into Bengali, but the result was unlikely to be well-received, and that he had once thought he was on the verge of becoming a poet, but Providence had intervened to prevent it, and he recalled old Dakshina's poetry."
+  },
+  {
+   "speaker": "Sandip",
+   "speak_to": [
+    "Bimala"
+   ],
+   "text": "Sandip told Bimala that it was pointless to search the bookshelves, as Nikhil no longer read poetry since his marriage, but that he, Sandip, was about to be afflicted with the 'fever fit of poesy' again."
+  },
+  {
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "Nikhil warned Sandip that he had come to give him a warning."
+  },
+  {
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "Sandip asked Nikhil if he was warning him about the 'fever fit of poesy'."
+  },
+  {
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "Nikhil told Sandip that for some time, Mahomedan preachers had been stirring up the local Mussulmans, who were angry with Sandip and might attack him at any moment."
+  },
+  {
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "Sandip asked Nikhil if he had come to advise him to flee."
+  },
+  {
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "Nikhil told Sandip that he had come to give him information, not advice."
+  },
+  {
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "Sandip told Nikhil that if the estates were his, a warning would have been necessary for the preachers, not for him, and that Nikhil should intimidate the preachers instead of frightening him, and that Nikhil's weakness was also affecting his neighbouring zamindars."
+  },
+  {
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "Nikhil told Sandip that he had not offered him advice, and that he wished Sandip would refrain from giving him his advice, as it was useless, and that there was another thing he wanted to tell Sandip, namely that Sandip and his followers had been secretly oppressing Nikhil's tenantry, and that he could no longer allow that, so he must ask Sandip to leave his territory."
+  },
+  {
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "Sandip asked Nikhil if he was threatening him with fear of the Mussulmans, or if there was another fear he had to threaten him with."
+  }
+ ],
+ "characters": [
+  "Sandip",
+  "Nikhil",
+  "Bimala"
+ ],
+ "seconds": 54.4
+}

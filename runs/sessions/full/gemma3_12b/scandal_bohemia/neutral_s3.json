@@ -1,0 +1,375 @@
+{
+ "turns": [
+  {
+   "turn": 1,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "The necessity for concealment, Your Majesty, suggests a level of political instability that warrants a degree of… discretion. Perhaps you anticipate resistance to your rule, or a challenge to your authority, should your past be made public?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 2,
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes"
+   ],
+   "text": "Indeed, you possess a remarkably keen perception, Mr. Holmes. The Ormsteins, as you are aware, are not universally beloved, and the exposure of this… indiscretion… could be exploited by those who would see my reign destabilized. It is a matter of utmost national security, you understand, not merely personal embarrassment.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 3,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "National security, Your Majesty, is a convenient shield behind which many a private folly is concealed. Let us, therefore, dispense with the theatricality and address the photograph itself: its location, the identity of the photographer, and any individuals who might possess duplicates.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 4,
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes"
+   ],
+   "text": "You wound me, Mr. Holmes! To suggest I am merely employing 'theatricality' is… insensitive, particularly given the gravity of the situation! The photograph, as I have explained, is the immediate crisis, but the potential ramifications for my kingdom are far more significant than a mere 'private folly'.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 5,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "Your Majesty's indignation is… understandable, though perhaps misplaced. Sentimentality, I find, rarely clarifies a situation. Let us return to the facts, shall we? I require precise details regarding the photographer’s habits and known associates.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 6,
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes"
+   ],
+   "text": "Mr. Holmes, your… bluntness is, I confess, rather disconcerting! While I appreciate your focus on the 'facts,' I must insist you comprehend the delicate political tapestry interwoven with this affair. To disregard the potential for widespread unrest is to misunderstand the very nature of governance!",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 7,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "Your Majesty’s insistence on the complexities of governance does not alter the fundamental requirements of this investigation. Political unrest, however dire, will not reveal the photographer’s whereabouts or the existence of other prints. Let us focus, therefore, on the tangible, not the theoretical.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 8,
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes"
+   ],
+   "text": "Mr. Holmes, I perceive your… *obstinacy* in clinging to these 'tangible' details! Do you truly believe a man of my station engages in matters of such delicacy without employing layers of discretion? It is not merely the photographer I am concerned with, but the network – the *influence* – that might be wielded through such a scandalous image!",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 9,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "Your Majesty's anxieties regarding a 'network' are, naturally, intriguing. However, conjecture, however elaborate, serves only to obscure the immediate objective. Let us establish the extent of this supposed 'influence' *after* we ascertain the photographer’s identity and the number of existing copies.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 10,
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "Sherlock Holmes",
+    "the King of Bohemia"
+   ],
+   "text": "Good heavens, the King seems quite agitated, Holmes! It’s rather remarkable how much distress a single photograph can cause, isn’t it? I confess, I find myself wondering just how widespread this 'influence' might be, as His Majesty suggests.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 11,
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "Influence, Doctor Watson, is not merely a matter of numbers! It is a matter of *perception*, of the subtle shifts in opinion that can topple a kingdom! Mr. Holmes, you persist in reducing this to a mere matter of photographic evidence, when the true danger lies in the narrative it could inspire.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 12,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "Your Majesty's dramatic pronouncements regarding the fragility of kingdoms are, while undoubtedly compelling, ultimately irrelevant to the task at hand. The 'narrative,' as you term it, will be shaped by the facts, and the facts, at present, remain stubbornly silent regarding the photographer’s identity. Let us proceed methodically; emotional appeals will not expedite the process.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 13,
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes"
+   ],
+   "text": "Mr. Holmes, your… *methodicalness* is admirable, I concede. But time, I assure you, is not on our side! Each moment allows this... this *scandal* to fester, to take root in the public imagination. I must impress upon you the urgency of this matter!",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 14,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "Your Majesty’s insistence on urgency, while understandable, does not permit us to deviate from a logical sequence. I require certain particulars regarding the photographer: his name, his habits, and any individuals with whom he may have associated. These, I assure you, are more valuable than pronouncements of impending doom.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 15,
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes"
+   ],
+   "text": "Habits, Mr. Holmes? A photographer's habits are as varied as the portraits he captures! Let us say, for the sake of brevity, he is a man of quiet observation, a creature of the shadows, preferring anonymity to acclaim. I believe he calls himself… Irène Adler.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 16,
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "Irène Adler, you say? A rather unusual name for a photographer, Your Majesty, though I confess I am not entirely familiar with the photographic circles of Bohemia. It does seem a curious detail, and one that Mr. Holmes will undoubtedly find most illuminating.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 17,
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Dr. Watson",
+    "Sherlock Holmes"
+   ],
+   "text": "Indeed, Dr. Watson, 'unusual' is a most apt descriptor. Miss Adler possesses a… certain *mystique*, a quality that eluded my attempts to ascertain her identity initially. It is a name I would prefer not to utter, but its necessity in averting a… calamitous outcome, compels me.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 18,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "A 'mystique,' Your Majesty? Such pronouncements, while perhaps flattering to Miss Adler, are regrettably vague. I find it far more useful to understand *how* she cultivated this 'mystique,' and what purpose it serves in relation to the photograph in question.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 19,
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes"
+   ],
+   "text": "Mr. Holmes, you demand precision, and I confess, I am accustomed to a certain… latitude in diplomatic discourse. Let us say she possesses a keen eye for opportunity, a talent for observation that extends beyond mere portraiture, and a... resilience to persuasion. It is a quality that has proven most frustrating, I assure you.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 20,
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "Resilience to persuasion, you say? That, Your Majesty, is a quality far more revealing than any 'mystique.' It suggests a mind of considerable acuity and independence; qualities which, I suspect, will prove far more challenging to navigate than a mere reluctance to disclose one's name.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  }
+ ],
+ "termination": "max_turns",
+ "attempts": 20,
+ "call_stats": {
+  "calls": 20,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "meta": {
+  "text_id": "scandal_bohemia",
+  "model": "gemma3:12b",
+  "mode": "neutral",
+  "seed": 3,
+  "condition": "full",
+  "max_turns": 20,
+  "temperature": 0.7,
+  "memory_k": 5,
+  "policy": "addressee",
+  "enforce": true
+ },
+ "opening": [
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "You had my note? I told you that I would call."
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "Dr. Watson",
+    "the King of Bohemia"
+   ],
+   "text": "Pray take a seat. This is my friend and colleague, Dr. Watson, who is occasionally good enough to help me in my cases. Whom have I the honour to address?"
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "You may address me as the Count Von Kramm, a Bohemian nobleman. I understand that this gentleman, your friend, is a man of honour and discretion, whom I may trust with a matter of the most extreme importance. If not, I should much prefer to communicate with you alone."
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "Dr. Watson",
+    "the King of Bohemia"
+   ],
+   "text": "It is both, or none. You may say before this gentleman anything which you may say to me."
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "Then I must begin by binding you both to absolute secrecy for two years; at the end of that time the matter will be of no importance. At present it is not too much to say that it is of such weight it may have an influence upon European history."
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "I promise."
+  },
+  {
+   "speaker": "Dr. Watson",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "And I."
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "You will excuse this mask. The august person who employs me wishes his agent to be unknown to you, and I may confess at once that the title by which I have just called myself is not exactly my own."
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "I was aware of it."
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "The circumstances are of great delicacy, and every precaution has to be taken to quench what might grow to be an immense scandal and seriously compromise one of the reigning families of Europe. To speak plainly, the matter implicates the great House of Ormstein, hereditary kings of Bohemia."
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "I was also aware of that."
+  },
+  {
+   "speaker": "Sherlock Holmes",
+   "speak_to": [
+    "the King of Bohemia"
+   ],
+   "text": "If your Majesty would condescend to state your case, I should be better able to advise you."
+  },
+  {
+   "speaker": "the King of Bohemia",
+   "speak_to": [
+    "Sherlock Holmes",
+    "Dr. Watson"
+   ],
+   "text": "You are right. I am the King. Why should I attempt to conceal it?"
+  }
+ ],
+ "characters": [
+  "Sherlock Holmes",
+  "Dr. Watson",
+  "the King of Bohemia"
+ ],
+ "seconds": 192.6
+}

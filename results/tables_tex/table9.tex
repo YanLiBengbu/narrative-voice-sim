@@ -1,0 +1,11 @@
+\begin{tabular}{lrrrrrrrr}
+\toprule
+Variant & Sessions & Compliant (1st) & Residual viol. & Cross-mode attribution & Speaker ID Phi-4 & Speaker ID Qwen3.5 & $|$FP$-$TP$|$ word length & $|$FP$-$TP$|$ intensity \\
+\midrule
+Voice exemplars (both modes) & 108 & 0.957 (0.978) & 0.002 (0.000) & 0.60 (0.60) & 0.86 (0.88) & 0.86 (0.89) & -- & -- \\
+Voice-preserving instruction & 90 & 0.677 (0.958) & 0.040 (0.000) & 0.67 (0.63) & 0.87 (0.88) & 0.89 (0.89) & 0.38 (0.46) & 0.054 (0.063) \\
+Speak-then-narrate & 54 & 0.894 (0.958) & 0.006 (0.000) & 0.73 (0.60) & 0.78 (0.88) & 0.81 (0.89) & 0.26 (0.47) & 0.044 (0.055) \\
+\bottomrule
+\end{tabular}
+\\[2pt]
+{\footnotesize Compliance and residual violations refer to third-person turns (exemplars: both modes). Cross-mode attribution: balanced accuracy of a content-word classifier trained on one mode and tested on the other (first person vs. the variant's third-person mode). Speaker ID: accuracy of the LLM judges on masked third-person turns (seeds 0--2). $|$FP$-$TP$|$: mean absolute first-minus-third difference per excerpt, model and seed (content-word length in characters; emotional intensity).}

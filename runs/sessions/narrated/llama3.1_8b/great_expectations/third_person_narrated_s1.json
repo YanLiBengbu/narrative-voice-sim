@@ -1,0 +1,435 @@
+{
+ "turns": [
+  {
+   "turn": 1,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip didn't mean to be impolite, but he really must be going now, his family was expecting him.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I don't mean to be impolite, Miss Havisham, but I really must be going now. My family is expecting me."
+  },
+  {
+   "turn": 2,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham was not about to let Pip leave her just yet, she had a task for him to perform, and he would not refuse.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "You will not be leaving me just yet, Pip. I have a task for you to perform, and you will not refuse."
+  },
+  {
+   "turn": 3,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip hesitated, he was not sure he could, he meant he was not really the sort of boy who could play with, with company, and all.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "But, Miss Havisham, sir, I'm not sure I can... I mean, I'm not really the sort of boy who can play with... with company, and all"
+  },
+  {
+   "turn": 4,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip",
+    "Estella"
+   ],
+   "text": "Foolish boy, Pip was not too refined to play with her, was he? She insisted he play a game with her, and Estella would be delighted to join them.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Foolish boy, you are not too refined to play with me, are you? I insist you play a game with me, and Estella will be delighted to join us."
+  },
+  {
+   "turn": 5,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip was hesitant, he didn't know if he was worthy of playing with such fine company, Miss Havisham. He wasn't used to playing with others, and he feared he might not be able to keep up.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I-I don't know if I'm worthy of playing with such...such fine company, Miss Havisham. I'm not used to playing with others, and I fear I might not be able to keep up."
+  },
+  {
+   "turn": 6,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip",
+    "Estella"
+   ],
+   "text": "Foolish boy, do not try to flatter Miss Havisham with his humility, she is not interested in his worthiness, she is interested in his willingness to play with her, and she demands that he play, now, with Estella, her dear protégée.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Foolish boy, do not try to flatter me with your humility, I am not interested in your worthiness, I am interested in your willingness to play with me, and I demand that you play, now, with Estella, my dear protégée."
+  },
+  {
+   "turn": 7,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip was afraid, he didn't know how to play these sorts of games. He wasn't used to having anyone to play with, and he didn't want to make a mistake.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I'm afraid, Miss Havisham, I don't know how to play these sorts of games. I'm not used to having anyone to play with, and I don't want to make a mistake."
+  },
+  {
+   "turn": 8,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Estella",
+    "Pip"
+   ],
+   "text": "Silence, boy! He will not explain his inadequacies to her. Estella, take Pip's hand and lead him to the gaming table.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Silence, boy! You will not explain your inadequacies to me. Estella, take Pip's hand and lead him to the gaming table."
+  },
+  {
+   "turn": 9,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham",
+    "Estella"
+   ],
+   "text": "Pip was afraid, he said, that he didn't know how to play the games Miss Havisham had in mind. He wasn't familiar with the rules, and he didn't want to make a mistake in front of Miss Havisham and Estella.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I'm afraid, Miss Havisham, that I don't know how to play the games you have in mind. I'm not familiar with the rules, and I don't want to make a mistake in front of you and Estella."
+  },
+  {
+   "turn": 10,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip",
+    "Estella"
+   ],
+   "text": "Come, boy, do not dilly-dally. Miss Havisham would teach him the rules, and he would play with Estella. It was time for him to learn how to play, and to play with her.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Come, boy, do not dilly-dally. I will teach you the rules, and you will play with Estella. It is time for you to learn how to play, and to play with her."
+  },
+  {
+   "turn": 11,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip hesitated, unsure if he should play with Estella, Miss Havisham. He was afraid he might not do it right.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I don't know if I should play with... with Estella, Miss Havisham. I'm afraid I might not do it right."
+  },
+  {
+   "turn": 12,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Come, boy, do not make excuses. He will play with Estella, and he will do as she says.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Come, boy, do not make excuses. You will play with Estella, and you will do as I say."
+  },
+  {
+   "turn": 13,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham",
+    "Estella"
+   ],
+   "text": "Pip was afraid, he thought, that he didn't know if he should be playing with Miss Havisham's adopted daughter, Estella. He wasn't quite sure he was worthy of being a playmate for someone like her.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I'm afraid, Miss Havisham, that I don't know if I should be playing with Miss Havisham's adopted daughter, Estella. I'm not quite sure I'm worthy of being a playmate for someone like her."
+  },
+  {
+   "turn": 14,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip",
+    "Estella"
+   ],
+   "text": "Foolish boy, Miss Havisham would not be ignored. Pip would play with Estella, and he would not sully her carefully laid plans with his petty doubts and fears.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Foolish boy, I will not be ignored. You will play with Estella, and you will not sully my carefully laid plans with your petty doubts and fears."
+  },
+  {
+   "turn": 15,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip stammered, he didn't know if he was worthy of playing with Miss Havisham's adopted daughter, and he was just a poor boy from the village, and he didn't know if he could do what was expected of him.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I-I don't know if I'm worthy of playing with Miss Havisham's adopted daughter, ma'am. I'm just a poor boy from the village, and I don't know if I can do what's expected of me."
+  },
+  {
+   "turn": 16,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip",
+    "Estella"
+   ],
+   "text": "Miss Havisham was dead set against Pip's worthiness to play with Estella, she thought he would find that his humble station was precisely what she desired in a companion for her.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "You dare to question your worthiness to play with Estella? I think you will find that your humble station is precisely what I desire in a companion for her."
+  },
+  {
+   "turn": 17,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip didn't wish to give Miss Havisham any trouble, but he was afraid he wasn't very good at playing games, and he didn't think he'd be a suitable companion for Miss Estella.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I-I don't wish to give you any trouble, Miss Havisham, but I'm afraid I'm not very good at playing games, and I don't think I'd be a suitable companion for Miss Estella."
+  },
+  {
+   "turn": 18,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip",
+    "Estella"
+   ],
+   "text": "Miss Havisham had no interest in Pip's inadequacies, she told him, play with Estella, and do not waste another moment with his feeble excuses.",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I have no interest in your inadequacies, Pip. Play with Estella, and do not waste another moment with your feeble excuses."
+  },
+  {
+   "turn": 19,
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip wouldn't wish to trouble Miss Havisham, but he feared he wasn't quite suited to play with Miss Estella, if she'd rather he just left, he would be very grateful.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I wouldn't wish to trouble Miss Havisham, but I fear I'm not quite... suited to play with Miss Estella, if you'd rather I just left, I would be very grateful."
+  },
+  {
+   "turn": 20,
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip",
+    "Estella"
+   ],
+   "text": "Foolish boy, do not dare to suggest that Pip is not worthy to play with Estella! She needs a companion who is as broken and battered as Miss Havisham, and Pip may just fit the bill.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Foolish boy, do not dare to suggest that you are not worthy to play with Estella! She needs a companion who is as broken and battered as I am, and you may just fit the bill."
+  }
+ ],
+ "termination": "max_turns",
+ "attempts": 20,
+ "call_stats": {
+  "calls": 41,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "meta": {
+  "text_id": "great_expectations",
+  "model": "llama3.1:8b",
+  "mode": "third_person_narrated",
+  "seed": 1,
+  "condition": "narrated",
+  "max_turns": 20,
+  "temperature": 0.7,
+  "memory_k": 5,
+  "policy": "addressee",
+  "enforce": true
+ },
+ "opening": [
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham asked Pip who it was."
+  },
+  {
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip replied that he was Mr. Pumblechook's boy."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham asked Pip if he was Mr. Pumblechook's boy."
+  },
+  {
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip told Miss Havisham that he was Mr. Pumblechook's boy and had come to play."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham told Pip to come nearer and let her look at him."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham asked Pip if he was afraid of a woman who had never seen the sun since he was born."
+  },
+  {
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip replied that he was not afraid."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham asked Pip if he knew what she touched when she touched her heart."
+  },
+  {
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Pip replied that he knew it was her heart."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham exclaimed that her heart was broken."
+  },
+  {
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Miss Havisham told Pip that she was tired and wanted diversion."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham said that she sometimes had sick fancies and had a sick fancy that she wanted to see some play."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham repeatedly told Pip to play."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham asked Pip if he was sullen and obstinate."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Pip replied that he was not sullen and obstinate, but was very sorry for Miss Havisham and could not play just now."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham ordered Pip to call Estella."
+  },
+  {
+   "speaker": "Pip",
+   "speak_to": [
+    "Miss Havisham"
+   ],
+   "text": "Miss Havisham told Pip to call Estella, who was at the door."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham asked Pip to call Estella."
+  },
+  {
+   "speaker": "Miss Havisham",
+   "speak_to": [
+    "Pip"
+   ],
+   "text": "Miss Havisham told Pip to call Estella, who was at the door."
+  }
+ ],
+ "characters": [
+  "Miss Havisham",
+  "Pip"
+ ],
+ "seconds": 88.2
+}

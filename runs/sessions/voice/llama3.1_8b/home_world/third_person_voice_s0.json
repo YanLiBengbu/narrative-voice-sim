@@ -1,0 +1,359 @@
+{
+ "turns": [
+  {
+   "turn": 1,
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "Sandip's tenantry would do well to learn from his example, for it is not the zamindar who is oppressed, but the tenantry who is oppressed by his followers.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 2,
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "Sandip was aghast that Nikhil would stoop to threatening him with his own tenantry's oppression, and he couldn't help but chuckle at the absurdity of it all.",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 3,
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "Sandip's words were an insult, he must not let them pass unchallenged, for a zamindar's dignity is not to be trampled upon.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 4,
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "Sandip was taken aback, he thought, by Nikhil's attempt to frighten him with tales of Mussulman attacks, as if he'd be caught off guard by a few stray bullets.",
+   "compliant_first": false,
+   "regenerated": false,
+   "director_rewrite": true,
+   "residual_violation": false
+  },
+  {
+   "turn": 5,
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "He should not underestimate the resolve of the Mussulmans, they will not be swayed by empty words, only firm action will deter them.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 6,
+   "speaker": "Bimala",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "He wondered, what was it that Nikhil sought to achieve by warning Sandip of these potential attacks, was it truly concern for the zamindar's safety or something more?",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 7,
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil",
+    "Bimala"
+   ],
+   "text": "Sandip's eyes flashed with indignation as he exclaimed, What a pack of wild tales, Nikhil! He seemed to think the Mussulmans were a horde of marauding dacoits, come to desecrate their sacred lands!",
+   "compliant_first": false,
+   "regenerated": false,
+   "director_rewrite": true,
+   "residual_violation": false
+  },
+  {
+   "turn": 8,
+   "speaker": "Bimala",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "He wondered if Nikhil's warnings were motivated by a desire to further entangle Sandip in his own web of intrigue.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 9,
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "Nikhil was worried that such frivolity would only embolden the Mussulmans, and put their people in greater danger.",
+   "compliant_first": false,
+   "regenerated": false,
+   "director_rewrite": true,
+   "residual_violation": false
+  },
+  {
+   "turn": 10,
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "Fool's errand, Nikhil! He was as much a believer in bogeymen as in the efficacy of his own dubious schemes.",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 11,
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "Sandip's flippant attitude would be his undoing, he was convinced, and the zamindar's people would suffer as a result.",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 12,
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "Sandip's words dripped with disdain as he scoffed at Nikhil's notion, his tone implying that the Mussulmans would be foolish to be swayed by such empty rhetoric.",
+   "compliant_first": false,
+   "regenerated": false,
+   "director_rewrite": true,
+   "residual_violation": false
+  },
+  {
+   "turn": 13,
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "Sandip's obstinacy was a threat to the very stability of the land, and he would not stand idly by while the zamindar's reckless behavior put their people at risk.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 14,
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "He was so melodramatic, Nikhil, a true thespian, always playing the role of the great protector, but what a bore!",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 15,
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "Sandip's stubbornness would be his own undoing, and he would soon come to regret his refusal to heed the warnings.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 16,
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "Sandip scoffed at Nikhil's words, calling them a load of old wives' tales, and complained that he couldn't come up with something a bit more original to frighten him with.",
+   "compliant_first": false,
+   "regenerated": false,
+   "director_rewrite": true,
+   "residual_violation": false
+  },
+  {
+   "turn": 17,
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "The Mussulmans will not be swayed by empty words, Sandip, but by actions, and it is the zamindar's duty to ensure the safety of his people.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 18,
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "Sandip was exasperated, he told Nikhil, spare him the sermons, the doomsday prophecies, the Mussulman menace. Couldn't Nikhil come up with something a bit more substantial to frighten him with?",
+   "compliant_first": false,
+   "regenerated": false,
+   "director_rewrite": true,
+   "residual_violation": false
+  },
+  {
+   "turn": 19,
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Bimala"
+   ],
+   "text": "Bimala, observe Sandip's manner, it is a sign of his impending downfall, his hubris will be his undoing.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 20,
+   "speaker": "Bimala",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "Bimala wondered what exactly Nikhil proposed they do to prevent these supposed attacks, her tone laced with skepticism and a hint of annoyance.",
+   "compliant_first": false,
+   "regenerated": false,
+   "director_rewrite": true,
+   "residual_violation": false
+  }
+ ],
+ "termination": "max_turns",
+ "attempts": 20,
+ "call_stats": {
+  "calls": 39,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "meta": {
+  "text_id": "home_world",
+  "model": "llama3.1:8b",
+  "mode": "third_person_voice",
+  "seed": 0,
+  "condition": "voice",
+  "max_turns": 20,
+  "temperature": 0.7,
+  "memory_k": 5,
+  "policy": "addressee",
+  "enforce": true
+ },
+ "opening": [
+  {
+   "speaker": "Sandip",
+   "speak_to": [
+    "Bimala"
+   ],
+   "text": "Sandip asked Bimala where she would go, addressing her as the Queen."
+  },
+  {
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "Sandip asked Nikhil if he kept Browning among his books, reminding him of a contest they had over translating lines from Browning, and inquiring if Nikhil remembered it."
+  },
+  {
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil",
+    "Bimala"
+   ],
+   "text": "Sandip told Nikhil and Bimala that he had managed to translate the lines into Bengali, but the result was unlikely to be well-received, and that he had once thought he was on the verge of becoming a poet, but Providence had intervened to prevent it, and he recalled old Dakshina's poetry."
+  },
+  {
+   "speaker": "Sandip",
+   "speak_to": [
+    "Bimala"
+   ],
+   "text": "Sandip told Bimala that it was pointless to search the bookshelves, as Nikhil no longer read poetry since his marriage, but that he, Sandip, was about to be afflicted with the 'fever fit of poesy' again."
+  },
+  {
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "Nikhil warned Sandip that he had come to give him a warning."
+  },
+  {
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "Sandip asked Nikhil if he was warning him about the 'fever fit of poesy'."
+  },
+  {
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "Nikhil told Sandip that for some time, Mahomedan preachers had been stirring up the local Mussulmans, who were angry with Sandip and might attack him at any moment."
+  },
+  {
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "Sandip asked Nikhil if he had come to advise him to flee."
+  },
+  {
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "Nikhil told Sandip that he had come to give him information, not advice."
+  },
+  {
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "Sandip told Nikhil that if the estates were his, a warning would have been necessary for the preachers, not for him, and that Nikhil should intimidate the preachers instead of frightening him, and that Nikhil's weakness was also affecting his neighbouring zamindars."
+  },
+  {
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "Nikhil told Sandip that he had not offered him advice, and that he wished Sandip would refrain from giving him his advice, as it was useless, and that there was another thing he wanted to tell Sandip, namely that Sandip and his followers had been secretly oppressing Nikhil's tenantry, and that he could no longer allow that, so he must ask Sandip to leave his territory."
+  },
+  {
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "Sandip asked Nikhil if he was threatening him with fear of the Mussulmans, or if there was another fear he had to threaten him with."
+  }
+ ],
+ "characters": [
+  "Sandip",
+  "Nikhil",
+  "Bimala"
+ ],
+ "seconds": 142.7
+}

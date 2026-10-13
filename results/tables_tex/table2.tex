@@ -1,0 +1,20 @@
+\begin{tabular}{ll}
+\toprule
+Parameter & Value \\
+\midrule
+Generator LLMs & llama3.1:8b, qwen2.5:14b, gemma3:12b (Ollama 0.40.3, Q4_K_M) \\
+Judge LLMs & phi4:14b, qwen3.5:9b-q4_K_M (temperature 0) \\
+Narrative modes & first person, third person, neutral (no instruction) \\
+Maximum dialogue turns & 20 generated turns per session \\
+Generation temperature & 0.7 (Director extraction and rewriting: 0) \\
+Maximum tokens per response & 1000 (extraction and single-prompt baseline: 3000-4000) \\
+Context window & 8192 tokens \\
+Memory window k & 5 turns (ablation: 1) \\
+Speaker selection & addressee-aware softmax, alpha = 2.0, beta = 1.5, gamma = 1.0, tau = 0.7 (ablations: uniform, round robin) \\
+Random seeds & 0-4 (main experiment); 0-2 (ablations and extension) \\
+JSON retry budget & 3 attempts per call; mode enforcement: 1 regeneration + Director rewrite \\
+Sentiment analysis & DistilBERT (SST-2), TextBlob, VADER \\
+Subjectivity analysis & TextBlob \\
+Pronoun and lexical analysis & spaCy en_core_web_sm, wordfreq Zipf frequencies \\
+\bottomrule
+\end{tabular}

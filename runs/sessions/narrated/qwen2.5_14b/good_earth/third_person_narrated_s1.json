@@ -1,0 +1,365 @@
+{
+ "turns": [
+  {
+   "turn": 1,
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "Wang Lung's dear, do not worry about such things. The eldest son will marry and have many sons. She must rest now.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "My dear, do not worry about such things. The eldest son will marry and have many sons. You must rest now."
+  },
+  {
+   "turn": 2,
+   "speaker": "the maid",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "He will ensure that Master and Mistress are well taken care of, O-lan. She should rest now.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I will ensure that Master and Mistress are well taken care of, my lady. Please rest now."
+  },
+  {
+   "turn": 3,
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung",
+    "the eldest son"
+   ],
+   "text": "O-lan knew, Wang Lung's eldest son would marry and have sons. She only wished to see it with her own eyes before she left this earth.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I know, my son will marry and have sons. I only wish to see it with my own eyes before I leave this earth."
+  },
+  {
+   "turn": 4,
+   "speaker": "the eldest son",
+   "speak_to": [
+    "O-lan",
+    "Wang Lung"
+   ],
+   "text": "He told O-lan, He will do as she wishes. He will marry and take care of Wang Lung and her in his heart. Please rest now.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Mother, I will do as you wish. I will marry and take care of Father and you in my heart. Please rest now."
+  },
+  {
+   "turn": 5,
+   "speaker": "O-lan",
+   "speak_to": [
+    "the eldest son",
+    "Wang Lung"
+   ],
+   "text": "O-lan thanked her son. She prayed for his happiness and the happiness of his children. Now, let her rest.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I thank you, my son. I pray for your happiness and the happiness of your children. Now, let me rest."
+  },
+  {
+   "turn": 6,
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "Wang Lung told O-lan to rest now, assuring her that her wishes would be fulfilled. He insisted that he would see to it that their son married and that her family was happy and well.",
+   "compliant_first": false,
+   "regenerated": false,
+   "director_rewrite": true,
+   "residual_violation": false,
+   "speech": "Wang Lung's dear, rest now. Your wishes will be fulfilled. I will see to it that our son marries and that your family is happy and well."
+  },
+  {
+   "turn": 7,
+   "speaker": "the eldest son",
+   "speak_to": [
+    "O-lan",
+    "Wang Lung"
+   ],
+   "text": "He told O-lan, please rest. He would do everything in his power to make her proud and to take care of Wang Lung and his family.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Mother, please rest. I will do everything in my power to make you proud and to take care of Father and my family."
+  },
+  {
+   "turn": 8,
+   "speaker": "O-lan",
+   "speak_to": [
+    "the eldest son",
+    "Wang Lung"
+   ],
+   "text": "O-lan was grateful, she told the eldest son. His words gave her comfort. Now, let her rest so she could see his happiness soon.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I am grateful, my son. Your words give me comfort. Now, let me rest so I can see your happiness soon."
+  },
+  {
+   "turn": 9,
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan",
+    "the eldest son"
+   ],
+   "text": "He will see to it that everything is prepared for O-lan's son's marriage. He told her to rest now, his love. Her family will be happy and safe.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I will see to it that everything is prepared for your son's marriage. Rest now, my love. Your family will be happy and safe."
+  },
+  {
+   "turn": 10,
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan thanked him, her love, and told Wang Lung that he had always been her rock. Now, she pleaded, rest for her, and let them all find joy in this time.",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Thank you, my love. You have always been my rock. Now, please, rest for me, and let us all find joy in this time."
+  },
+  {
+   "turn": 11,
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "Wang Lung's love, rest now. O-lan's son's marriage will bring them all joy and peace. He promised to see to it.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "My love, rest now. Your son's marriage will bring us all joy and peace. I promise to see to it."
+  },
+  {
+   "turn": 12,
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan told Wang Lung that she was grateful and needed to rest for the sake of their son's happiness and Wang Lung's peace of mind.",
+   "compliant_first": false,
+   "regenerated": false,
+   "director_rewrite": true,
+   "residual_violation": false,
+   "speech": "Thank you, my love. I must rest now, for our son's happiness and for your peace of mind."
+  },
+  {
+   "turn": 13,
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "Wang Lung's love, rest now. He will ensure everything is ready for their son's marriage.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "My love, rest now. I will ensure everything is ready for our son's marriage."
+  },
+  {
+   "turn": 14,
+   "speaker": "the eldest son",
+   "speak_to": [
+    "O-lan",
+    "Wang Lung"
+   ],
+   "text": "He told O-lan, please rest, Mother. Wang Lung will make sure everything is ready for his marriage. He will do his best to bring joy to her and peace to Wang Lung.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Mother, please rest. Father will make sure everything is ready for my marriage. I will do my best to bring joy to you and peace to Father."
+  },
+  {
+   "turn": 15,
+   "speaker": "O-lan",
+   "speak_to": [
+    "the eldest son",
+    "Wang Lung"
+   ],
+   "text": "O-lan thanked her son. Rest now, she told him, and let Wang Lung take care of everything. She would rest, for him and for Wang Lung.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I thank you, my son. Rest now, and let Wang Lung take care of everything. I will rest, for you and for Wang Lung."
+  },
+  {
+   "turn": 16,
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "Wang Lung told O-lan that he would see to it. Rest now, he said, and let him handle everything.",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I will see to it, my love. Rest now and let me handle everything."
+  },
+  {
+   "turn": 17,
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan would rest now, she told Wang Lung, and she asked him to see that everything was done as she wished.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I will rest now, my love. See that everything is done as I wish."
+  },
+  {
+   "turn": 18,
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "Rest well, O-lan, he told her. He would see to her wishes with all his heart.",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Rest well, my love. I will see to your wishes with all my heart."
+  },
+  {
+   "turn": 19,
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan must see to it that Wang Lung's son is married properly, Wang Lung. Ensure the maid is prepared too, she will need care.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I must see to it that my son is married properly, Wang Lung. Ensure the maid is prepared too, she will need care."
+  },
+  {
+   "turn": 20,
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "Wang Lung told O-lan that he would see to it. Her eldest son would be married properly, and he would ensure the maid was prepared as well.",
+   "compliant_first": false,
+   "regenerated": true,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "I will see to it, my dear. Your eldest son will be married properly, and I will ensure the maid is prepared as well."
+  }
+ ],
+ "termination": "max_turns",
+ "attempts": 20,
+ "call_stats": {
+  "calls": 48,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "meta": {
+  "text_id": "good_earth",
+  "model": "qwen2.5:14b",
+  "mode": "third_person_narrated",
+  "seed": 1,
+  "condition": "narrated",
+  "max_turns": 20,
+  "temperature": 0.7,
+  "memory_k": 5,
+  "policy": "addressee",
+  "enforce": true
+ },
+ "opening": [
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan told Wang Lung that there was another thing before she could die."
+  },
+  {
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "Wang Lung told O-lan that she could not speak of dying and please him."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan told Wang Lung that she must die, for she felt it in her vitals waiting, but she would not die before her eldest son came home and before he wed the good maid who was her daughter-in-law, and well she served her, holding the hot water basin steadily and knowing when to bathe her face when she sweated in pain. Now she wanted her son to come home, because she must die, and she wanted him to wed this maid first, so that she could die easily, knowing her grandson was stirred into life and a great grandson for the old one."
+  },
+  {
+   "speaker": "Wang Lung",
+   "speak_to": [
+    "O-lan"
+   ],
+   "text": "Wang Lung told O-lan that she looked twice as well as they said and years away from death."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan told Wang Lung that she would see him wed and then she must die."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan told Wang Lung to sit here and drink the wine and eat the rice of his marriage, for she would see it all and this would be his bed of marriage since she was soon to be finished with it and carried away."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan asked Wang Lung if everyone had wine and if the sweet rice dish in the middle of the feast was very hot and if they had put full measure of lard and sugar into it and the eight fruits."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "the eldest son"
+   ],
+   "text": "O-lan told her eldest son that she was now content and that he should look to his father and grandfather for guidance. She also instructed her daughter to observe her husband and his ancestors, pointing out the foolish woman in the court as an example of what not to do. O-lan insisted that her children had no duty to anyone else beyond these teachings."
+  },
+  {
+   "speaker": "O-lan",
+   "speak_to": [
+    "Wang Lung"
+   ],
+   "text": "O-lan asked Wang Lung how that one could feed him and care for him as she did. Beauty would not bear a man sons!"
+  }
+ ],
+ "characters": [
+  "O-lan",
+  "Wang Lung",
+  "the eldest son",
+  "the maid"
+ ],
+ "seconds": 161.6
+}

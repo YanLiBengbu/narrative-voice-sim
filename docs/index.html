@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Narrative Voice Simulation</title>
+<meta name="description" content="Project page of 'An LLM-driven multi-agent simulation framework for quantitative analysis of narrative voice shifts in literary texts' (Zhao and Shi).">
+<style>
+:root {
+  --bg: #fcfcfb; --surface: #ffffff; --ink: #1d1f22; --muted: #5b6168; --line: #e3e5e8;
+  --accent: #0b5cad; --accent-ink: #ffffff; --chip: #eef3fa; --code: #f4f5f7;
+  --first: #0072B2; --third: #D55E00; --neutral: #009E73;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #121416; --surface: #1a1d20; --ink: #e8eaed; --muted: #a3a9b0; --line: #2c3035;
+    --accent: #6aa8ff; --accent-ink: #0d1117; --chip: #1f2a38; --code: #20242a;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #121416; --surface: #1a1d20; --ink: #e8eaed; --muted: #a3a9b0; --line: #2c3035;
+  --accent: #6aa8ff; --accent-ink: #0d1117; --chip: #1f2a38; --code: #20242a;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--ink);
+  font: 16px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
+main { max-width: 960px; margin: 0 auto; padding: 0 16px 64px; }
+header { text-align: center; padding: 48px 0 24px; }
+h1 { font-size: clamp(1.5rem, 3.2vw, 2.2rem); line-height: 1.25; margin: 0 0 16px; }
+h2 { font-size: 1.35rem; margin: 40px 0 12px; padding-bottom: 6px; border-bottom: 1px solid var(--line); }
+h3 { font-size: 1.05rem; margin: 24px 0 8px; }
+.authors { font-size: 1.05rem; } .affil { color: var(--muted); font-size: .92rem; margin-top: 4px; }
+.venue { margin-top: 10px; color: var(--muted); font-size: .92rem; }
+.buttons { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 20px; }
+.btn { display: inline-block; padding: 9px 18px; border-radius: 999px; background: var(--accent); color: var(--accent-ink);
+  text-decoration: none; font-weight: 600; font-size: .95rem; }
+.btn.secondary { background: var(--chip); color: var(--ink); border: 1px solid var(--line); }
+.tldr { background: var(--surface); border: 1px solid var(--line); border-left: 4px solid var(--accent); border-radius: 8px; padding: 14px 18px; }
+figure { margin: 18px 0; background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 12px; }
+figure img { width: 100%; height: auto; display: block; background: #fff; border-radius: 4px; }
+figcaption { color: var(--muted); font-size: .9rem; margin-top: 8px; }
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; }
+.stat { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 14px; }
+.stat .v { font-size: 1.6rem; font-weight: 700; } .stat .l { color: var(--muted); font-size: .88rem; }
+table { width: 100%; border-collapse: collapse; font-size: .92rem; background: var(--surface); }
+th, td { padding: 7px 10px; border-bottom: 1px solid var(--line); text-align: left; vertical-align: top; }
+th { font-weight: 600; }
+.scroll { overflow-x: auto; border: 1px solid var(--line); border-radius: 8px; }
+pre { background: var(--code); border: 1px solid var(--line); border-radius: 8px; padding: 12px; overflow-x: auto; font-size: .85rem; }
+code { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+.mode-first { color: var(--first); font-weight: 600; } .mode-third { color: var(--third); font-weight: 600; }
+.dialogue { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+@media (max-width: 720px) { .dialogue { grid-template-columns: 1fr; } }
+.dialogue div { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 12px; font-size: .92rem; }
+footer { color: var(--muted); font-size: .85rem; text-align: center; margin-top: 48px; }
+.theme-toggle { position: fixed; top: 12px; right: 12px; background: var(--chip); color: var(--ink); border: 1px solid var(--line);
+  border-radius: 999px; padding: 6px 12px; cursor: pointer; font-size: .85rem; }
+</style>
+</head>
+<body>
+<button class="theme-toggle" id="themeToggle" type="button" aria-label="Toggle colour theme">Theme</button>
+<main>
+<header>
+  <h1>An LLM-driven multi-agent simulation framework for quantitative analysis of narrative voice shifts in literary texts</h1>
+  <div class="authors">Lili Zhao<sup>1</sup> and Hui Shi<sup>2</sup></div>
+  <div class="affil"><sup>1</sup>Department of Foreign Languages, Bengbu University, Bengbu, China &middot; <sup>2</sup>Music College, Shanghai Normal University, Shanghai, China</div>
+  <div class="venue">PeerJ Computer Science (manuscript CS-2026:04:138274, under review)</div>
+  <div class="buttons">
+    <a class="btn" href="paper.pdf">Paper (PDF)</a>
+    <a class="btn secondary" href="https://github.com/YanLiBengbu/narrative-voice-sim">Code</a>
+    <a class="btn secondary" href="https://github.com/YanLiBengbu/narrative-voice-sim/tree/main/runs">Generated dialogues</a>
+    <a class="btn secondary" href="https://github.com/YanLiBengbu/narrative-voice-sim/tree/main/results">Results &amp; tables</a>
+    <a class="btn secondary" href="#citation">Cite</a>
+  </div>
+</header>
+
+<p class="tldr"><strong>TL;DR.</strong> A Director Agent and role-playing Actor Agents re-stage literary scenes in first- or third-person voice under controlled, seeded conditions. Across six excerpts, three open-weight LLMs and five seeds, third-person narration shifts the vocabulary towards a more formal register and dampens affect, while lexicon-based subjectivity does not change and character identity is only partly preserved.</p>
+
+<h2>Abstract</h2>
+<p>Narratological accounts of first- and third-person narration rely mainly on interpretation and are difficult to test under controlled conditions. We present a large language model (LLM)-driven multi-agent simulation framework that makes narrative voice an experimental variable. A Director Agent extracts the characters and dialogue of a literary excerpt and enforces the mode in which every turn is rendered (first-person direct speech, third-person narration, or no instruction), while Actor Agents with a sliding-window memory generate the dialogue and a seeded, addressee-aware policy selects the next speaker. We evaluated the framework on six excerpts by six authors that differ in genre and narrative structure, with three open-weight LLMs and five random seeds (90 sessions per mode), using paired statistical tests, a no-instruction control, a rule-based transposition baseline, ablations of mode enforcement, memory and speaker selection, and two LLM judges. The framework controlled narrative voice reliably (0.0% residual mode violations). In our simulations, third-person narration used longer and less frequent content words than first-person speech (|d<sub>z</sub>| = 0.90) and was affectively more neutral (emotional intensity, |d<sub>z</sub>| = 0.45), effects that pronoun substitution does not explain, whereas lexicon-based subjectivity did not differ between the modes (|d<sub>z</sub>| = 0.03). A distributional consistency measure did not distinguish characters, but speaker attribution showed that character identity was partially preserved across modes (balanced accuracy 0.63 across modes vs. 0.84 within a mode; chance 0.38). Ablations showed that Director enforcement and actor memory improve compliance with the narrative mode, that addressee-aware speaker selection makes turns respond to the addressed character, and that a single prompt cannot control narrative voice turn by turn; the two LLM judges recognized the speakers of masked turns equally well in both modes but disagreed on perceived subjectivity. Of three attempts to preserve the characters' voice in third-person narration, a speak-then-narrate variant, in which the Director narrates the Actors' own speech in free indirect style, raised cross-mode attribution to 0.73 and removed most of the register shift, which indicates that the shift arises from narratorial paraphrase, although the LLM judges rated these sessions as less coherent. These results support the use of multi-agent LLM simulations as controllable instruments for computational narratology, and they show that effects observed in a single run on a single text do not necessarily generalize.</p>
+
+<h2>Framework</h2>
+<figure>
+  <img src="static/Fig1.png" alt="Architecture: a Director Agent extracts characters and dialogue from an excerpt, sets the narrative mode, and supervises Actor Agents; dialogue analyzers and a consistency analyzer evaluate the generated dialogue.">
+  <figcaption>A Director Agent extracts the cast and dialogue of a literary excerpt, writes role cards and enforces the narrative mode (first-person direct speech, third-person narration, or no instruction). Actor Agents with a sliding-window memory generate turns; a seeded, addressee-aware policy picks the next speaker.</figcaption>
+</figure>
+
+<h2>Experimental design</h2>
+<div class="grid">
+  <div class="stat"><div class="v">6</div><div class="l">excerpts by six authors (novel, short story, drama; 1813&ndash;1931)</div></div>
+  <div class="stat"><div class="v">3</div><div class="l">open-weight generators (Llama&nbsp;3.1&nbsp;8B, Qwen2.5&nbsp;14B, Gemma&nbsp;3&nbsp;12B)</div></div>
+  <div class="stat"><div class="v">702</div><div class="l">generated sessions (13,704 turns), all seeded and cached</div></div>
+  <div class="stat"><div class="v">2</div><div class="l">independent LLM judges (Phi-4 14B, Qwen3.5 9B)</div></div>
+</div>
+<div class="scroll" style="margin-top:12px">
+<table>
+<thead><tr><th>Excerpt</th><th>Author</th><th>Genre</th><th>Narrative structure</th></tr></thead>
+<tbody>
+<tr><td><em>The Good Earth</em> (ch. 26)</td><td>Pearl S. Buck, 1931</td><td>Realist family novel</td><td>Heterodiegetic third person</td></tr>
+<tr><td><em>Pride and Prejudice</em> (ch. 34)</td><td>Jane Austen, 1813</td><td>Novel of manners</td><td>Third person, free indirect discourse</td></tr>
+<tr><td><em>Great Expectations</em> (ch. 8)</td><td>Charles Dickens, 1861</td><td>Bildungsroman</td><td>Retrospective first person</td></tr>
+<tr><td><em>A Scandal in Bohemia</em></td><td>Arthur Conan Doyle, 1891</td><td>Detective story</td><td>First-person witness narrator</td></tr>
+<tr><td><em>The Importance of Being Earnest</em> (act I)</td><td>Oscar Wilde, 1895</td><td>Comic drama</td><td>No narrator</td></tr>
+<tr><td><em>The Home and the World</em> (ch. 10)</td><td>Rabindranath Tagore, 1916</td><td>Political novel</td><td>Alternating first-person narrators</td></tr>
+</tbody></table></div>
+
+<h2>Example</h2>
+<p>The same scene of <em>The Good Earth</em>, same model and seed, rendered in the two narrative modes (first turns):</p>
+<div class="dialogue">
+  <div><span class="mode-first">First person</span><p><strong>Wang Lung:</strong> My wife, do not fret. Our son will marry well and care for the fool as you have. The gods will see to it that all is well.</p><p><strong>O-lan:</strong> I know it is hard to let go, but you must look after them as I cannot. Ensure they are cared for and that the fool is well taken care of.</p><p><strong>Wang Lung:</strong> My dear, you must rest now. The eldest son will marry soon, and I will see to it that all your wishes are fulfilled. Do not worry, for I am here and will take care of everything.</p><p><strong>O-lan:</strong> I trust you, my husband, and I know you will do right by them. But promise me you will see to the fool&#x27;s needs as I have.</p><p><strong>the eldest son:</strong> Mother, please rest assured. I will take care of everything as Father says. I will marry soon and look after the fool as you have.</p></div>
+  <div><span class="mode-third">Third person</span><p><strong>Wang Lung:</strong> Wang Lung reassured O-lan that everything would be taken care of, that their son would be guided well and that she had no need to worry about him or the family. He insisted that he would see her wishes fulfilled and that her eldest son would have a good life.</p><p><strong>O-lan:</strong> O-lan asked Wang Lung if he had ensured that their son would be taught the ways of respect and duty towards his wife and her family, and if he had reminded him of the importance of providing for his wife and children.</p><p><strong>Wang Lung:</strong> Wang Lung assured O-lan that he would see to it that their son would be taught the ways of respect and duty, and that he would remind him of the importance of providing for his wife and her family, as she wished.</p><p><strong>O-lan:</strong> O-lan asked Wang Lung if he had spoken to the maid about the importance of her role in the family, and if he had reminded her of the duties she owed to her husband and his ancestors.</p><p><strong>the eldest son:</strong> The eldest son, feeling a mix of nervousness and devotion, told his mother that he understood the importance of respecting his wife and her family and would do his best to provide for them.</p></div>
+</div>
+
+<h2>Key results</h2>
+
+<div class="grid">
+  <div class="stat"><div class="v">95.8%</div><div class="l">third-person turns compliant at the first attempt (residual violations after Director enforcement: 0.0%)</div></div>
+  <div class="stat"><div class="v">|d<sub>z</sub>| = 0.90</div><div class="l">longer content words in third-person narration (not explained by pronoun substitution)</div></div>
+  <div class="stat"><div class="v">|d<sub>z</sub>| = 0.45</div><div class="l">lower emotional intensity in third-person narration; lexicon-based subjectivity unchanged (|d<sub>z</sub>| = 0.03)</div></div>
+  <div class="stat"><div class="v">0.63</div><div class="l">speaker-attribution accuracy across modes (within a mode 0.84, chance 0.38)</div></div>
+</div>
+<figure>
+  <img src="static/Fig3.png" alt="Standardized paired differences between narrative modes for each measure with 95% confidence intervals.">
+  <figcaption>Paired differences between modes (Cohen's d<sub>z</sub>, 95% bootstrap CI). Pronoun measures are manipulation checks; the rule-based transposition shows how much of a difference pronoun substitution alone would produce.</figcaption>
+</figure>
+<figure>
+  <img src="static/Fig4.png" alt="Heatmap of first-minus-third differences for every excerpt and model.">
+  <figcaption>First &minus; third differences for every excerpt &times; model cell (pooled-SD units; values printed in the cells).</figcaption>
+</figure>
+<figure>
+  <img src="static/Fig9.png" alt="Ablation results for memory, speaker selection, mode enforcement and a single-prompt baseline.">
+  <figcaption>Ablations of memory, speaker selection and mode enforcement, and a single-prompt baseline.</figcaption>
+</figure>
+
+<h2>Improving the preservation of character voice</h2>
+<p class="col">Three attempts to keep the characters' voice in third-person narration were compared with the standard third-person mode on the same excerpts, models and seeds (Table 9 of the paper). Voice exemplars in the role cards did not help, and a voice-preserving instruction helped only moderately while reducing compliance with the narrative mode. In the speak-then-narrate variant, each Actor speaks in its own voice and the Director narrates the speech in free indirect style: cross-mode speaker attribution rose from 0.60 to 0.73, and the difference in content-word length between first-person speech and third-person narration fell from 0.47 to 0.26 characters, although the LLM judges rated these sessions as less coherent. The more formal register of the standard third-person mode therefore arises from the narrator's paraphrase rather than from the grammatical person.</p>
+<p class="col">Speak-then-narrate on the scene from <em>The Good Earth</em> (Qwen2.5 14B, seed 0, first four turns):</p><div class="scroll"><table><thead><tr><th>Speaker</th><th>Actor's speech</th><th>Director's narration</th></tr></thead><tbody><tr><td>Wang Lung</td><td>My dearest, you worry too much. Our son will be a fine husband and father, just as you have taught him. Do not fear for our future, for I will take care of everything.</td><td>Wang Lung&#x27;s dearest, she worries too much. Their son will be a fine husband and father, just as she has taught him. Do not fear for their future, for he will take care of everything.</td></tr><tr><td>O-lan</td><td>I know my son will strive, but I must see him settled. Prepare for the wedding feast, Wang Lung, and let there be no shortage.</td><td>O-lan knew her son would strive, but she must see him settled. She told Wang Lung to prepare for the wedding feast and let there be no shortage.</td></tr><tr><td>Wang Lung</td><td>My dear, you shall see our son wed and the feast will be splendid. Do not trouble yourself, for I shall ensure all is as you wish.</td><td>Wang Lung&#x27;s dear, she shall see their son wed and the feast will be splendid. Do not trouble yourself, for he shall ensure all is as she wishes.</td></tr><tr><td>O-lan</td><td>I must see him settled, Wang Lung. I cannot rest until I see my eldest son married and content.</td><td>O-lan must see him settled, Wang Lung. O-lan cannot rest until O-lan sees O-lan&#x27;s eldest son married and content.</td></tr></tbody></table></div>
+
+<h2>Reproduce</h2>
+<pre><code>pip install -r requirements.txt
+python -m spacy download en_core_web_sm
+for m in llama3.1:8b qwen2.5:14b gemma3:12b phi4:14b qwen3.5:9b-q4_K_M; do ollama pull $m; done
+PY=python WORKERS=4 bash scripts/run_all.sh      # generation, judges, statistics
+python scripts/make_figures.py --res results</code></pre>
+<p>All raw LLM responses are cached, so the statistics can be recomputed without re-running the models: <code>python scripts/featurize.py &amp;&amp; python scripts/analyze.py</code>.</p>
+
+<h2 id="citation">Citation</h2>
+<pre><code>@article{zhao2026narrativevoice,
+  title   = {An LLM-driven multi-agent simulation framework for quantitative analysis
+             of narrative voice shifts in literary texts},
+  author  = {Zhao, Lili and Shi, Hui},
+  journal = {PeerJ Computer Science},
+  year    = {2026},
+  note    = {Manuscript CS-2026:04:138274, under review}
+}</code></pre>
+
+<footer>Code: MIT licence &middot; generated data: CC BY 4.0 &middot; five excerpts from Project Gutenberg; the copyrighted <em>The Good Earth</em> excerpt is not redistributed (placeholders and checksums; see the README).</footer>
+</main>
+<script>
+(function () {
+  var root = document.documentElement, key = "nvs-theme";
+  try { var saved = localStorage.getItem(key); if (saved) root.setAttribute("data-theme", saved); } catch (e) {}
+  document.getElementById("themeToggle").addEventListener("click", function () {
+    var dark = root.getAttribute("data-theme") === "dark" ||
+      (!root.getAttribute("data-theme") && window.matchMedia("(prefers-color-scheme: dark)").matches);
+    var next = dark ? "light" : "dark";
+    root.setAttribute("data-theme", next);
+    try { localStorage.setItem(key, next); } catch (e) {}
+  });
+})();
+</script>
+</body>
+</html>

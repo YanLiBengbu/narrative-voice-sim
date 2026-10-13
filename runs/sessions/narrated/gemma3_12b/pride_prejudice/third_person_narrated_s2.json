@@ -1,0 +1,390 @@
+{
+ "turns": [
+  {
+   "turn": 1,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "So, Mr. Darcy, he asked, did he deem her compassion a fault? Was it truly so reprehensible to feel *something* for a man who had suffered, even if that suffering was, as he implied, entirely of his own making?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "So, Mr. Darcy, you deem my compassion a fault? Is it truly so reprehensible to feel *something* for a man who has suffered, even if that suffering is, as you imply, entirely of his own making?"
+  },
+  {
+   "turn": 2,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "He told Elizabeth that she needed to be reminded, Miss Bennet, that compassion, untempered by judgment, was a dangerous indulgence. Mr. Wickham’s misfortunes were a consequence of his own deplorable character, and to champion him without acknowledging his failings served only to perpetuate his deceitful nature. He found it difficult to comprehend why she would so readily lend credence to such a man’s fabricated narratives.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Need I remind you, Miss Bennet, that compassion, untempered by judgment, is a dangerous indulgence? Mr. Wickham’s misfortunes are a consequence of his own deplorable character, and to champion him without acknowledging his failings serves only to perpetuate his deceitful nature. I find it difficult to comprehend why you would so readily lend credence to such a man’s fabricated narratives."
+  },
+  {
+   "turn": 3,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Deplorable character? Fabricated narratives? He presumed to lecture her on judgment, Mr. Darcy, when his own actions had been so consistently and demonstrably flawed. She found his sanctimonious tone rather tiresome, particularly when it was employed to justify his interference in the lives of others.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Deplorable character? Fabricated narratives? You presume to lecture *me* on judgment, Mr. Darcy, when your own actions have been so consistently and demonstrably flawed? I find your sanctimonious tone rather tiresome, particularly when it is employed to justify your interference in the lives of others."
+  },
+  {
+   "turn": 4,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Miss Bennet, her accusations were as unfounded as they were impertinent. He had acted, perhaps, with a degree of… firmness, but always with the intention of upholding what he perceived to be right and just, and to protect those under his care. It appeared his efforts were consistently misunderstood, and he found himself compelled to address the… *matter* at hand with a greater clarity, even if it proved unwelcome.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Miss Bennet, your accusations are as unfounded as they are impertinent. I have acted, perhaps, with a degree of… firmness, but always with the intention of upholding what I perceive to be right and just, and to protect those under my care. It appears my efforts are consistently misunderstood, and I find myself compelled to address the… *matter* at hand with a greater clarity, even if it proves unwelcome."
+  },
+  {
+   "turn": 5,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Upholding what he perceived to be right and just, did he say? How convenient, Mr. Darcy, that his own sense of righteousness conveniently aligned with his own interventions! She dared say, if she were to judge by his actions, 'protecting those under his care' translated rather neatly to 'meddling in their affairs' – a distinction she suspected he found quite agreeable.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Upholding what you *perceive* to be right and just, you say? How convenient, Mr. Darcy, that your own sense of righteousness conveniently aligns with your own interventions! I daresay, if I were to judge by your actions, 'protecting those under your care' translates rather neatly to 'meddling in their affairs' – a distinction, I suspect, you find quite agreeable."
+  },
+  {
+   "turn": 6,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Miss Bennet, he confessed, he found her persistent attempts at mockery… tiresome. It was exceedingly easy to cast aspersions, to dismiss actions one did not comprehend, but he assured her that his intentions, however imperfectly conveyed, were rooted in a desire for what he believed to be the betterment of all involved.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Miss Bennet, I confess, I find your persistent attempts at mockery… tiresome. It is exceedingly easy to cast aspersions, to dismiss actions one does not comprehend, but I assure you, my intentions, however imperfectly conveyed, are rooted in a desire for what I believe to be the betterment of all involved."
+  },
+  {
+   "turn": 7,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Betterment of all involved? How wonderfully vague! She dared to say, Mr. Darcy, that his definition of 'betterment' seemed remarkably selective, and conveniently ignored the distress his interventions had caused.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Betterment of all involved? How wonderfully vague! I daresay, Mr. Darcy, your definition of 'betterment' seems remarkably selective, and conveniently ignores the distress your interventions have caused."
+  },
+  {
+   "turn": 8,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Miss Bennet, he perceived that his attempts at explanation only served to further inflame her displeasure. He told her, then, to allow him to abandon the pretense of reasoned discourse and speak plainly: he was, undeniably, deeply in love with her.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Miss Bennet, I perceive that my attempts at explanation only serve to further inflame your…displeasure. Allow me, then, to abandon the pretense of reasoned discourse and speak plainly: I am, undeniably, deeply in love with you."
+  },
+  {
+   "turn": 9,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Love? Mr. Darcy, he found her wounded by such absurdity! It was difficult to credit that a man so consumed by pride and a misguided sense of propriety could possibly entertain such a notion, let alone declare it with such… theatricality.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Love? Mr. Darcy, you wound me with such absurdity! I find it difficult to credit that a man so consumed by pride and a misguided sense of propriety could possibly entertain such a notion, let alone declare it with such… theatricality."
+  },
+  {
+   "turn": 10,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Miss Bennet, he told her, her scorn was a most unwelcome, though not entirely unanticipated, response. Yet, he assured her, the depth of his regard for her transcended any perceived failings on his part, and it was a sentiment he could no longer suppress, regardless of the… discomfort it might cause.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Miss Bennet, your scorn is, I confess, a most unwelcome, though not entirely unanticipated, response. Yet, I assure you, the depth of my regard for you transcends any perceived failings on my part, and it is a sentiment I can no longer suppress, regardless of the… discomfort it may cause."
+  },
+  {
+   "turn": 11,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Transcend perceived failings? He found Mr. Darcy flattered himself greatly if he believed her scorn was merely a product of his 'failings.' It was a consequence of his actions, his interference, his arrogance – all of which she found profoundly objectionable, and which, she assured him, were not easily dismissed by declarations of… affection.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Transcend perceived failings? Mr. Darcy, you flatter yourself greatly if you believe my scorn is merely a product of your 'failings.' It is a consequence of your actions, your interference, your arrogance – all of which I find profoundly objectionable, and which, I assure you, are not easily dismissed by declarations of… affection."
+  },
+  {
+   "turn": 12,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Miss Bennet, he found her assessment unduly harsh. While he acknowledged that his actions had, at times, been misconstrued, to attribute them solely to arrogance was a simplification that ignored the genuine desire to protect those he held dear, and, yes, to improve their circumstances. Surely, she could perceive a degree of honorable intent even amidst what she deemed his failings?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Miss Bennet, I find your assessment… unduly harsh. While I acknowledge that my actions have, at times, been misconstrued, to attribute them solely to arrogance is a simplification that ignores the genuine desire to protect those I hold dear, and, yes, to improve their circumstances. Surely, you can perceive a degree of honorable intent even amidst what you deem my failings?"
+  },
+  {
+   "turn": 13,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Honorable intent? Mr. Darcy, he thought she was mistaken, quite mistaken, to confuse benevolence with intrusion! She was not so easily swayed by claims of good intentions when those intentions manifested as the disruption of lives and the presumption to dictate the affections of others.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Honorable intent? Mr. Darcy, you mistake benevolence for intrusion! I am not so easily swayed by claims of good intentions when those intentions manifest as the disruption of lives and the presumption to dictate the affections of others."
+  },
+  {
+   "turn": 14,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Miss Bennet, he confessed, he was perplexed by her continued insistence on interpreting his actions through a lens of malice and intrusion. It was a most unfortunate perspective, and one that, he must admit, deepened his… discouragement. Surely, a more charitable assessment was possible, particularly when considering the genuine affection that motivated him.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Miss Bennet, I confess I am perplexed by your continued insistence on interpreting my actions through a lens of malice and intrusion. It is a most unfortunate perspective, and one that, I must admit, deepens my… discouragement. Surely, a more charitable assessment is possible, particularly when considering the genuine affection that motivates me."
+  },
+  {
+   "turn": 15,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Discouragement, Mr. Darcy? She found his discouragement rather amusing, considering the lengths to which he’d gone to manipulate and control the lives of those around him! He wondered if he truly expected her to believe that his interference stemmed from anything other than a profound sense of self-importance.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Discouragement, Mr. Darcy? I find *your* discouragement rather amusing, considering the lengths to which you've gone to manipulate and control the lives of those around you! Do you truly expect me to believe that your interference stemmed from anything other than a profound sense of self-importance?"
+  },
+  {
+   "turn": 16,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Miss Bennet, he told Elizabeth, found her amusement at his discouragement particularly wounding. He assured her that the distress he felt was genuine, and it arose not from a desire for reciprocation, but from a profound disappointment that his attempts at explanation were met with such unwavering… antagonism.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Miss Bennet, I find your amusement at my discouragement particularly wounding. I assure you, the distress I feel is genuine, and it arises not from a desire for reciprocation, but from a profound disappointment that my attempts at explanation are met with such unwavering… antagonism."
+  },
+  {
+   "turn": 17,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Antagonism, Mr. Darcy? She assured him her feelings were entirely justified. It was not antagonism, but a simple refusal to be deceived by his elaborate justifications for meddling in the lives of others.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Antagonism, Mr. Darcy? I assure you, my feelings are entirely justified. It is not antagonism, but a simple refusal to be deceived by your elaborate justifications for meddling in the lives of others!"
+  },
+  {
+   "turn": 18,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Miss Bennet, he confessed, he found himself increasingly at a loss. She appeared determined to perceive malice where he offered only concern, and to interpret generosity as an imposition. He believed he was being most unfairly judged.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Miss Bennet, I confess, I find myself increasingly at a loss. You appear determined to perceive malice where I offer only concern, and to interpret generosity as an imposition. I believe I am being most unfairly judged."
+  },
+  {
+   "turn": 19,
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Unfairly judged? Really, Mr. Darcy? It seemed the only person being judged fairly here was Wickham, and he was the one attempting to rewrite history to suit his own narrative.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Unfairly judged? Really, Mr. Darcy? It seems the only person being judged fairly here is Wickham, and *you* are the one attempting to rewrite history to suit your own narrative."
+  },
+  {
+   "turn": 20,
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Miss Bennet, he found her comparisons to Mr. Wickham most tiresome. While his account of past events may possess a certain narrative appeal, it was demonstrably false, and to equate his actions, motivated by a desire to protect those under his care, with his self-serving falsehoods was an insult he shall not readily overlook.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false,
+   "speech": "Miss Bennet, I find your comparisons to Mr. Wickham… most tiresome. While his account of past events may possess a certain narrative appeal, it is demonstrably false, and to equate my actions, motivated by a desire to protect those under my care, with his self-serving falsehoods is an insult I shall not readily overlook."
+  }
+ ],
+ "termination": "max_turns",
+ "attempts": 20,
+ "call_stats": {
+  "calls": 40,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "meta": {
+  "text_id": "pride_prejudice",
+  "model": "gemma3:12b",
+  "mode": "third_person_narrated",
+  "seed": 2,
+  "condition": "narrated",
+  "max_turns": 20,
+  "temperature": 0.7,
+  "memory_k": 5,
+  "policy": "addressee",
+  "enforce": true
+ },
+ "opening": [
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy confessed that he had struggled in vain, and that his feelings would not be repressed, adding that she must allow him to express how ardently he admired and loved her."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth responded to him with cold civility."
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy elaborated on his sense of her inferiority and the family obstacles that had always opposed inclination, noting that he expressed these thoughts with a warmth that seemed to wound her, but was unlikely to recommend his suit."
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy concluded by stating that he hoped his attachment, despite his efforts to conquer it, would now be rewarded by her acceptance of his hand."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth explained that it was the established mode in such cases to express a sense of obligation for sentiments avowed, however unequally they may be returned, and that if she could feel gratitude, she would thank him. However, she stated that she had never desired his good opinion, and that he had certainly bestowed it unwillingly, and that she was sorry to have occasioned pain, though it had been done unconsciously and would be of short duration. She added that the feelings that prevented the acknowledgment of his regard would have little difficulty in overcoming them after this explanation."
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy inquired why he was to be honored with such a reply, and suggested that it was of small importance."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth questioned why he chose to tell her that he liked her against his will, against his reason, and even against his character, and asked if that was some excuse for incivility. She then mentioned that she had other provocations."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth asserted that she had every reason to think ill of him, and that no motive could excuse the unjust and ungenerous part he had acted, challenging him to deny his role in ruining her sister's happiness."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth demanded to know if he could deny that he had done it."
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy admitted that he had done everything in his power to separate his friend from her sister, and that he rejoiced in his success, adding that he had been kinder to his friend than to himself."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth pointed out that her dislike was not merely based on this affair, but on the recital she had received from Mr. Wickham months ago, and challenged him to defend himself or impose upon others."
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy observed that she took an eager interest in Mr. Wickham’s concerns."
+  },
+  {
+   "speaker": "Elizabeth",
+   "speak_to": [
+    "Mr. Darcy"
+   ],
+   "text": "Elizabeth asked who that knew his misfortunes could help feeling an interest in him."
+  },
+  {
+   "speaker": "Mr. Darcy",
+   "speak_to": [
+    "Elizabeth"
+   ],
+   "text": "Mr. Darcy dismissed her comment with a contemptuous remark about Mr. Wickham’s misfortunes."
+  }
+ ],
+ "characters": [
+  "Elizabeth",
+  "Mr. Darcy"
+ ],
+ "seconds": 210.1
+}

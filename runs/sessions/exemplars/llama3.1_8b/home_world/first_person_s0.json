@@ -1,0 +1,361 @@
+{
+ "turns": [
+  {
+   "turn": 1,
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip",
+    "Bimala"
+   ],
+   "text": "I warn you, Sandip, that if you do not vacate my territory immediately, I will not hesitate to take measures to ensure your departure, and my tenantry will not be oppressed by your actions any longer.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 2,
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "You'd rather have the reputation of being a bully, wouldn't you, Nikhil? Don't you get tired of trying to scare me all the time?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 3,
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "I have no interest in your opinion on what it means to be a bully, Sandip. I will not be swayed by your insults.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 4,
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "You're getting all worked up, Nikhil, over nothing. Your Mussulman friends are just as scared of you as you are of them.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 5,
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "I will not be swayed by your flippant words, Sandip. The threat to my tenantry is very real, and I will not ignore it.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 6,
+   "speaker": "Bimala",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "Sandip, perhaps we should hear Nikhil out, without being dismissive. What do you think is causing the tension with the Mussulmans?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 7,
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "Oh, Nikhil, you're such a hero, rushing to save the day with your warnings and threats. But I'm still waiting for you to do something useful, like fixing the village road that's been broken for months.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 8,
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "I will not be lectured on duty by one who shirks their responsibilities, Sandip.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 9,
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "Do tell, Nikhil, what makes you so sure the Mussulmans are plotting against us? Is it your vast knowledge of the Quran or your extensive experience with village politics?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 10,
+   "speaker": "Bimala",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "Nikhil, surely you must have some evidence to support your claims. Have you spoken with the Mussulman elders about this?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 11,
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "I have done my duty by warning you, Sandip. It is for you to act on this information, not for me to provide evidence or justification.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 12,
+   "speaker": "Sandip",
+   "speak_to": [
+    "Bimala"
+   ],
+   "text": "Oh, Bimala, my dear, are you taking Nikhil's side already? I swear, you're not turning into one of those staid, respectable ladies, are you?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 13,
+   "speaker": "Bimala",
+   "speak_to": [
+    "Sandip",
+    "Nikhil"
+   ],
+   "text": "I think it would be wise to consider Nikhil's warning, even if he doesn't provide evidence. His words carry weight, and I'd like to hear more about the situation from both of you.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 14,
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "What a ridiculous notion, Nikhil! You think a few whispers in the bazaar are enough to send me scurrying for cover? I, Sandip, zamindar of this estate, not some timid villager to be cowed by threats!",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 15,
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "I will not stand idly by while you underestimate the situation, Sandip. The Mussulmans are not to be trifled with.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 16,
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "Oh, Nikhil, always so full of dire predictions! Do you think the Mussulmans would dare attack me, the great Sandip, while I'm still enjoying my morning chai?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 17,
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "I will not continue to engage in this frivolous conversation, Sandip. The safety of your estate is not a matter for jest.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 18,
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "Oh, so now you're the great Nikhil, the savior of the zamindars? I'm sure your advice is worth more than the weight of your own estate!",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 19,
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "I will not be provoked, Sandip. The well-being of my estate, and the people who rely on it, is not a matter for personal pride or vanity.",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  },
+  {
+   "turn": 20,
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "Oh, Nikhil, I'm shaking in my boots. Do you really think your stern warnings will make me tremble with fear?",
+   "compliant_first": true,
+   "regenerated": false,
+   "director_rewrite": false,
+   "residual_violation": false
+  }
+ ],
+ "termination": "max_turns",
+ "attempts": 20,
+ "call_stats": {
+  "calls": 20,
+  "repaired": 0,
+  "parse_fail": 0,
+  "mode_violations": 0,
+  "mode_fixed": 0
+ },
+ "meta": {
+  "text_id": "home_world",
+  "model": "llama3.1:8b",
+  "mode": "first_person",
+  "seed": 0,
+  "condition": "exemplars",
+  "max_turns": 20,
+  "temperature": 0.7,
+  "memory_k": 5,
+  "policy": "addressee",
+  "enforce": true,
+  "exemplars": true
+ },
+ "opening": [
+  {
+   "speaker": "Sandip",
+   "speak_to": [
+    "Bimala"
+   ],
+   "text": "Whither would you flee, Queen?"
+  },
+  {
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "I say, Nikhil, don't you keep Browning among your books here? I was just telling Queen Bee of our college club. Do you remember that contest of ours over the translation of those lines from Browning? You don't?"
+  },
+  {
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil",
+    "Bimala"
+   ],
+   "text": "I managed to get together the words to render it into Bengali, somehow, but the result was hardly likely to be a 'joy forever' to the people of Bengal. I really did think at one time that I was on the verge of becoming a poet, but Providence was kind enough to save me from that disaster. Do you remember old Dakshina? If he had not become a Salt Inspector, he would have been a poet. I remember his rendering to this day ..."
+  },
+  {
+   "speaker": "Sandip",
+   "speak_to": [
+    "Bimala"
+   ],
+   "text": "No, Queen Bee, it is no use rummaging those bookshelves. Nikhil has ceased to read poetry since his marriage--perhaps he has no further need for it. But I suppose 'the fever fit of poesy', as the Sanskrit has it, is about to attack me again."
+  },
+  {
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "I have come to give you a warning, Sandip"
+  },
+  {
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "About the fever fit of poesy?"
+  },
+  {
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "For some time, Mahomedan preachers have been about stirring up the local Mussulmans. They are all wild with you, and may attack you any moment."
+  },
+  {
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "Are you come to advise flight?"
+  },
+  {
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "I have come to give you information, not to offer advice."
+  },
+  {
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "Had these estates been mine, such a warning would have been necessary for the preachers, not for me. If, instead of trying to frighten me, you give them a taste of your intimidation, that would be worthier both of you and me. Do you know that your weakness is weakening your neighbouring zamindars also?"
+  },
+  {
+   "speaker": "Nikhil",
+   "speak_to": [
+    "Sandip"
+   ],
+   "text": "I did not offer you my advice, Sandip. I wish you, too, would refrain from giving me yours. Besides, it is useless. And there is another thing I want to tell you. You and your followers have been secretly worrying and oppressing my tenantry. I cannot allow that any longer. So I must ask you to leave my territory."
+  },
+  {
+   "speaker": "Sandip",
+   "speak_to": [
+    "Nikhil"
+   ],
+   "text": "For fear of the Mussulmans, or is there any other fear you have to threaten me with?"
+  }
+ ],
+ "characters": [
+  "Sandip",
+  "Nikhil",
+  "Bimala"
+ ],
+ "seconds": 78.6
+}

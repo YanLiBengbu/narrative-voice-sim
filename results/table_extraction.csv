@@ -1,0 +1,19 @@
+text_id,model,gold_quotes,extracted_raw,kept,dropped_unmapped,quote_recall,attribution_acc,fabricated_rate,raw_labels
+earnest,gemma3_12b,25,26,26,0,1.0,1.0,0.0,GWENDOLEN; JACK; LADY BRACKNELL
+earnest,llama3.1_8b,25,25,25,0,1.0,1.0,0.0,GWENDOLEN; JACK; LADY BRACKNELL
+earnest,qwen2.5_14b,25,25,25,0,0.96,1.0,0.0,GWENDOLEN; JACK; LADY BRACKNELL
+good_earth,gemma3_12b,11,11,11,0,1.0,0.8181818181818182,0.0,O-lan; Wang Lung; she
+good_earth,llama3.1_8b,11,10,10,0,0.9090909090909091,0.9,0.0,O-lan; Wang Lung
+good_earth,qwen2.5_14b,11,9,9,0,0.8181818181818182,0.8888888888888888,0.0,O-lan; Wang Lung; she
+great_expectations,gemma3_12b,24,18,18,0,1.0,0.9166666666666666,0.0,Miss Havisham; Pip; the lady at the table
+great_expectations,llama3.1_8b,24,19,19,0,0.875,0.9047619047619048,0.0,Miss Havisham; Pip; the lady at the table
+great_expectations,qwen2.5_14b,24,18,18,0,0.9583333333333334,0.9130434782608695,0.0,Miss Havisham; Pip; the lady at the table
+home_world,gemma3_12b,12,12,12,0,1.0,0.9166666666666666,0.08333333333333333,Nikhil; Sandip
+home_world,llama3.1_8b,12,12,12,0,1.0,1.0,0.08333333333333333,Nikhil; Sandip
+home_world,qwen2.5_14b,12,11,11,0,1.0,1.0,0.0,Sandip; my husband
+pride_prejudice,gemma3_12b,14,14,14,0,1.0,0.9285714285714286,0.21428571428571427,Elizabeth; Mr. Darcy
+pride_prejudice,llama3.1_8b,14,12,12,0,1.0,0.9285714285714286,0.0,Elizabeth; Mr. Darcy
+pride_prejudice,qwen2.5_14b,14,9,9,0,0.9285714285714286,0.9230769230769231,0.0,Elizabeth; Mr. Darcy
+scandal_bohemia,gemma3_12b,20,13,13,0,1.0,0.95,0.0,Holmes; Watson; the Count Von Kramm
+scandal_bohemia,llama3.1_8b,20,15,15,0,1.0,0.95,0.06666666666666667,Dr. Watson; Holmes; the Count; the King; the man
+scandal_bohemia,qwen2.5_14b,20,13,13,0,0.95,0.8421052631578947,0.0,Dr. Watson; Holmes; the man
