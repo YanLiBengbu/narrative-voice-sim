@@ -39,7 +39,17 @@ def main():
         F[k] = S.get(k)
     he = os.path.join(R, "human_eval_summary.json")  # expert ratings (scripts/analyze_human_eval.py), once available
     if os.path.exists(he):
-        F["human_eval"] = json.load(open(he, encoding="utf-8"))
+        H = json.load(open(he, encoding="utf-8"))
+        for k in ("speaker_human_judge_agreement", "speaker_id_judges_same_items"):
+            if isinstance(H.get(k), dict):
+                H[k] = [dict(judge=j, value=v) for j, v in H[k].items()]
+        H["means_by_mode"] = {m["mode"]: {} for m in H.get("means", [])}
+        for m in H.get("means", []):
+            H["means_by_mode"][m["mode"]][m["metric"]] = m["mean"]
+        H["alpha_range"] = dict(min=float(min(H["alpha"].values())), max=float(max(H["alpha"].values()))) if H.get("alpha") else None
+        hj = [r["rho"] for r in H.get("human_vs_judges", []) if r["rho"] == r["rho"]]  # skip undefined (constant) correlations
+        H["judge_rho_range"] = dict(min=float(min(hj)), max=float(max(hj))) if hj else None
+        F["human_eval"] = H
     F["ablation"] = S.get("ablation")
     F["ablation_means"] = S.get("ablation_means")
     for k in ("judge_by_condition_mode", "judge_mode_tests", "judge_perspective_acc", "judge_agreement", "judge_auto_corr",

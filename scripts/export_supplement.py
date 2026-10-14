@@ -149,6 +149,41 @@ def main():
                     parts.append(f"\\item \\textbf{{{esc(t['speaker'])}}}: {esc(t['text'])}{sp}")
                 parts.append("\\end{enumerate}")
 
+    # expert evaluation (scripts/analyze_human_eval.py)
+    hp = os.path.join(R, "human_eval_summary.json")
+    if os.path.exists(hp):
+        H = json.load(open(hp, encoding="utf-8"))
+        lab = {"first_person": "First person", "third_person": "Third person", "third_person_narrated": "Speak-then-narrate"}
+        parts.append("\\section*{S12. Expert evaluation}")
+        parts.append(f"{H['n_raters']} raters with master's degrees in English literature or English drama rated {H['n_sessions']} sessions "
+                     "(four excerpts $\\times$ first-person, standard third-person and speak-then-narrate condition; seed 0, first eight turns) "
+                     f"and identified the speakers of {H['n_turns']} masked turns (turns also rated by the LLM judges), blind to the generating model and the condition. "
+                     "The responses were entered into the rating sheets by one of the authors, who was not blind to the conditions. "
+                     "Condition means are averages over the four excerpts of the per-session means over raters (95\\% bootstrap CIs over excerpts). "
+                     "Item-level ratings are provided in the data files (human\\_eval\\_session\\_ratings.csv, human\\_eval\\_speaker\\_guesses.csv).")
+        m = pd.DataFrame(H["means"])
+        m["mode"] = m["mode"].map(lambda x: lab.get(x, x))
+        m["ci_low"], m["ci_high"] = m.ci.map(lambda c: c[0]), m.ci.map(lambda c: c[1])
+        parts.append(table(m, ["mode", "metric", "n", "mean", "ci_low", "ci_high"], ["Condition", "Scale", "Excerpts", "Mean", "CI low", "CI high"],
+                           "Expert ratings by condition (1--5 scales).", "llrrrr", digits={"n": 0, "mean": 2, "ci_low": 2, "ci_high": 2}))
+        rows = [dict(item=f"Krippendorff's alpha (ordinal), {k}", value=v) for k, v in H.get("alpha", {}).items()]
+        rows.append(dict(item="Krippendorff's alpha (nominal), speaker choice", value=H.get("speaker_alpha_nominal")))
+        rows += [dict(item=f"Narrative form classified as instructed, {lab.get(k, k)}", value=v) for k, v in H.get("form_accuracy", {}).items()]
+        rows += [dict(item=f"Spearman rho with {r['judge']}, {r['metric']} (n = {r['n']})", value=r["rho"]) for r in H.get("human_vs_judges", [])]
+        rows += [dict(item=f"Spearman rho with automatic {k} (n = {H['n_sessions']})", value=v) for k, v in H.get("human_vs_auto", {}).items()]
+        parts.append(table(pd.DataFrame(rows), ["item", "value"], ["Statistic", "Value"],
+                           "Agreement between raters, narrative-form classification and correlations with the LLM judges and the automatic measures (undefined correlations: constant judge ratings).",
+                           "lr", digits={"value": 2}))
+        sp = pd.DataFrame(H["speaker_id"]).merge(pd.DataFrame(H["speaker_id_majority"])[["mode", "acc", "k", "n", "p_above_chance"]], on="mode", suffixes=("", "_maj"))
+        sp["mode"] = sp["mode"].map(lambda x: lab.get(x, x))
+        parts.append(table(sp, ["mode", "n", "acc", "chance", "p_above_chance", "k", "n_maj", "p_above_chance_maj"],
+                           ["Condition", "Judgements", "Accuracy", "Chance", "$p$", "Majority correct", "Turns", "$p$ (majority)"],
+                           "Masked speaker identification by the experts: all rater judgements pooled, and the majority vote per turn (one-sided binomial tests against chance).",
+                           "lrrrrrrr", digits={"n": 0, "k": 0, "n_maj": 0, "acc": 2, "chance": 2}))
+        J = H.get("speaker_id_judges_same_items") or {}
+        if J:
+            parts.append(f"Accuracy of the LLM judges on the same {H['n_turns']} masked turns: " + "; ".join(f"{esc(j)}: {v:.2f}" for j, v in J.items()) + ".")
+
     doc = ("\\documentclass[10pt]{article}\n\\usepackage[margin=2cm]{geometry}\n\\usepackage{booktabs,longtable,array}\n\\usepackage[T1]{fontenc}\n"
            "\\usepackage{times}\n\\usepackage[hidelinks]{hyperref}\n\\setlength{\\LTcapwidth}{\\textwidth}\n"
            "\\title{Supplemental Information\\\\[4pt]\\large An LLM-driven multi-agent simulation framework for quantitative analysis of narrative voice shifts in literary texts}\n"

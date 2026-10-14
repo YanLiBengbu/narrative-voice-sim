@@ -13,7 +13,7 @@ Project page: https://yanlibengbu.github.io/narrative-voice-sim/ (GitHub Pages, 
 3. A **seeded speaker-selection policy** chooses the next speaker (addressee-aware softmax, Eq. 1 of the paper; ablations: uniform, round robin).
 4. The **narrative mode** is controlled by the Director: `first_person` (direct speech), `third_person` (external narrator's report) or `neutral` (no perspective instruction). Every turn is checked; non-compliant turns are regenerated or rewritten, and all of this is logged per turn.
    Two further third-person modes were added to improve the preservation of character voice: `third_person_voice` (voice-preserving narration requested in the Actor prompt) and `third_person_narrated` (speak-then-narrate: the Actor speaks in its own voice and the Director narrates the speech in free indirect style; the original speech is stored with each turn).
-5. **Analysis**: pronoun profile (manipulation check); sentiment (DistilBERT, TextBlob, VADER), subjectivity, utterance length, content-word length and Zipf frequency, MATTR/MTLD; turn-taking measures; Jensen–Shannon character consistency against a between-character baseline; paired Wilcoxon tests with bootstrap CIs, effect sizes, Holm correction and mixed models; LLM-judge evaluation.
+5. **Analysis**: pronoun profile (manipulation check); sentiment (DistilBERT, TextBlob, VADER), subjectivity, utterance length, content-word length and Zipf frequency, MATTR/MTLD; turn-taking measures; Jensen–Shannon character consistency against a between-character baseline; paired Wilcoxon tests with bootstrap CIs, effect sizes, Holm correction and mixed models; LLM-judge evaluation; a small blinded expert evaluation (three raters, 12 sessions, 36 masked turns).
 
 All LLM calls use fixed seeds and are cached (`runs/cache_*.jsonl`), so every number in the paper can be regenerated from the released outputs without re-running the models.
 
@@ -31,6 +31,7 @@ narrsim/            framework package
 scripts/
   run_generation.py generate sessions (main experiment and ablations)
   run_judge.py      LLM-judge evaluation (session ratings, masked speaker identification)
+  analyze_human_eval.py  expert evaluation -> results/human_eval_summary.json, human_eval_*.csv
   eval_extraction.py Director extraction vs. gold quotation attribution
   featurize.py      compute all measures -> results/utterances.csv, sessions.csv
   analyze.py        statistics -> results/table_*.csv, summary.json
@@ -42,7 +43,8 @@ scripts/
 texts/excerpts.json six excerpts with metadata, verified cast lists and gold quotation attributions
 texts/good_earth_release.py, good_earth_manifest.json  restore the copyrighted The Good Earth excerpt (see Data)
 runs/               generated sessions, scene initialisations and LLM response caches
-results/            tables, judge outputs, figures
+results/            tables, judge outputs, expert ratings (anonymized), figures
+expert_evaluation_protocol/  blinded rating sheet (Chinese instructions) and condition key of the expert evaluation
 docs/index.html     project page
 ```
 
@@ -69,6 +71,8 @@ PY=python WORKERS=4 bash scripts/run_narrated.sh
 python scripts/make_figures.py --res results     # figures
 python scripts/make_facts.py --res results       # every number quoted in the paper -> results/facts.json
 ```
+
+The expert evaluation used the rating sheet in `expert_evaluation_protocol/` (12 sessions and 36 masked turns, blind to model and condition). The raters' responses were entered into the sheets by one of the authors; the anonymized item-level ratings are in `results/human_eval_session_ratings.csv` and `results/human_eval_speaker_guesses.csv`, and `scripts/analyze_human_eval.py --key HumanEval_Short_Key.xlsx --kits rater*.xlsx --res results` computes the statistics reported in subsection 3.11 of the paper.
 
 To recompute only the statistics from the released outputs:
 

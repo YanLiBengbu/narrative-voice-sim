@@ -1275,4 +1275,79 @@ residual\_violation & First & Third & 54.000 & 0.001 & 0.000 & 0.001 & 0.000 & 0
 \item \textbf{Elizabeth}: Elizabeth shall hold Mr. Darcy to that. His actions in the future shall determine whether she can ever regard him with anything but disdain. \emph{(Actor's speech: I shall hold you to that, Mr. Darcy. Your actions in the future shall determine whether I can ever regard you with anything but disdain.)}
 
 \end{enumerate}
+
+\section*{S12. Expert evaluation}
+
+3 raters with master's degrees in English literature or English drama rated 12 sessions (four excerpts $\times$ first-person, standard third-person and speak-then-narrate condition; seed 0, first eight turns) and identified the speakers of 36 masked turns (turns also rated by the LLM judges), blind to the generating model and the condition. The responses were entered into the rating sheets by one of the authors, who was not blind to the conditions. Condition means are averages over the four excerpts of the per-session means over raters (95\% bootstrap CIs over excerpts). Item-level ratings are provided in the data files (human\_eval\_session\_ratings.csv, human\_eval\_speaker\_guesses.csv).
+
+{\scriptsize
+\begin{longtable}{llrrrr}
+\caption{Expert ratings by condition (1--5 scales).}\\
+\toprule
+Condition & Scale & Excerpts & Mean & CI low & CI high \\
+\midrule
+\endhead
+First person & coherence & 4 & 3.25 & 2.67 & 3.83 \\
+First person & character\_consistency & 4 & 2.58 & 1.83 & 3.50 \\
+First person & subjectivity & 4 & 4.08 & 2.92 & 4.83 \\
+First person & emotional\_intensity & 4 & 3.50 & 2.67 & 4.17 \\
+Third person & coherence & 4 & 2.83 & 2.25 & 3.25 \\
+Third person & character\_consistency & 4 & 3.17 & 2.67 & 3.67 \\
+Third person & subjectivity & 4 & 3.83 & 2.67 & 4.67 \\
+Third person & emotional\_intensity & 4 & 3.08 & 2.33 & 3.58 \\
+Speak-then-narrate & coherence & 4 & 2.33 & 2.00 & 2.75 \\
+Speak-then-narrate & character\_consistency & 4 & 2.50 & 2.00 & 3.00 \\
+Speak-then-narrate & subjectivity & 4 & 4.17 & 3.25 & 5.00 \\
+Speak-then-narrate & emotional\_intensity & 4 & 3.42 & 2.67 & 4.08 \\
+\bottomrule
+\end{longtable}
+}
+
+
+{\scriptsize
+\begin{longtable}{lr}
+\caption{Agreement between raters, narrative-form classification and correlations with the LLM judges and the automatic measures (undefined correlations: constant judge ratings).}\\
+\toprule
+Statistic & Value \\
+\midrule
+\endhead
+Krippendorff's alpha (ordinal), coherence & 0.79 \\
+Krippendorff's alpha (ordinal), character\_consistency & 0.72 \\
+Krippendorff's alpha (ordinal), subjectivity & 0.78 \\
+Krippendorff's alpha (ordinal), emotional\_intensity & 0.55 \\
+Krippendorff's alpha (nominal), speaker choice & 0.96 \\
+Narrative form classified as instructed, First person & 1.00 \\
+Narrative form classified as instructed, Third person & 0.75 \\
+Narrative form classified as instructed, Speak-then-narrate & 0.75 \\
+Spearman rho with phi4:14b, coherence (n = 12) & 0.45 \\
+Spearman rho with phi4:14b, character\_consistency (n = 12) & -- \\
+Spearman rho with phi4:14b, subjectivity (n = 12) & 0.52 \\
+Spearman rho with phi4:14b, emotional\_intensity (n = 12) & 0.64 \\
+Spearman rho with qwen3.5:9b-q4\_K\_M, coherence (n = 12) & 0.63 \\
+Spearman rho with qwen3.5:9b-q4\_K\_M, character\_consistency (n = 12) & 0.51 \\
+Spearman rho with qwen3.5:9b-q4\_K\_M, subjectivity (n = 12) & 0.47 \\
+Spearman rho with qwen3.5:9b-q4\_K\_M, emotional\_intensity (n = 12) & 0.69 \\
+Spearman rho with automatic subjectivity (n = 12) & 0.68 \\
+Spearman rho with automatic intensity (n = 12) & 0.43 \\
+\bottomrule
+\end{longtable}
+}
+
+
+{\scriptsize
+\begin{longtable}{lrrrrrrr}
+\caption{Masked speaker identification by the experts: all rater judgements pooled, and the majority vote per turn (one-sided binomial tests against chance).}\\
+\toprule
+Condition & Judgements & Accuracy & Chance & $p$ & Majority correct & Turns & $p$ (majority) \\
+\midrule
+\endhead
+First person & 36 & 1.00 & 0.42 & 0.000 & 12 & 12 & 0.000 \\
+Third person & 36 & 0.86 & 0.42 & 0.000 & 10 & 12 & 0.004 \\
+Speak-then-narrate & 36 & 0.97 & 0.42 & 0.000 & 12 & 12 & 0.000 \\
+\bottomrule
+\end{longtable}
+}
+
+
+Accuracy of the LLM judges on the same 36 masked turns: phi4:14b: 0.75; qwen3.5:9b-q4\_K\_M: 0.75.
 \end{document}

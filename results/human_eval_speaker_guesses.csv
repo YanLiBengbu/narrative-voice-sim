@@ -1,0 +1,109 @@
+rater,ID,text_id,mode,judge_key,speaker,guess,correct
+R1,B01,pride_prejudice,third_person,sessions/full/llama3.1_8b/pride_prejudice/third_person_s0.json#8,Elizabeth,Elizabeth,True
+R1,B02,scandal_bohemia,third_person_narrated,sessions/narrated/qwen2.5_14b/scandal_bohemia/third_person_narrated_s0.json#6,the King of Bohemia,the King of Bohemia,True
+R1,B03,scandal_bohemia,third_person_narrated,sessions/narrated/qwen2.5_14b/scandal_bohemia/third_person_narrated_s0.json#0,Dr. Watson,Dr. Watson,True
+R1,B04,pride_prejudice,first_person,sessions/full/llama3.1_8b/pride_prejudice/first_person_s0.json#12,Mr. Darcy,Mr. Darcy,True
+R1,B05,great_expectations,third_person_narrated,sessions/narrated/gemma3_12b/great_expectations/third_person_narrated_s0.json#16,Pip,Pip,True
+R1,B06,home_world,third_person,sessions/full/gemma3_12b/home_world/third_person_s0.json#11,Sandip,Sandip,True
+R1,B07,pride_prejudice,first_person,sessions/full/llama3.1_8b/pride_prejudice/first_person_s0.json#2,Elizabeth,Elizabeth,True
+R1,B08,pride_prejudice,third_person_narrated,sessions/narrated/llama3.1_8b/pride_prejudice/third_person_narrated_s0.json#6,Elizabeth,Elizabeth,True
+R1,B09,home_world,third_person,sessions/full/gemma3_12b/home_world/third_person_s0.json#16,Bimala,Sandip,False
+R1,B10,great_expectations,third_person_narrated,sessions/narrated/gemma3_12b/great_expectations/third_person_narrated_s0.json#4,Pip,Pip,True
+R1,B11,pride_prejudice,third_person,sessions/full/llama3.1_8b/pride_prejudice/third_person_s0.json#13,Elizabeth,Elizabeth,True
+R1,B12,great_expectations,first_person,sessions/full/gemma3_12b/great_expectations/first_person_s0.json#10,Pip,Pip,True
+R1,B13,home_world,third_person_narrated,sessions/narrated/gemma3_12b/home_world/third_person_narrated_s0.json#0,Nikhil,Nikhil,True
+R1,B14,pride_prejudice,third_person,sessions/full/llama3.1_8b/pride_prejudice/third_person_s0.json#0,Elizabeth,Elizabeth,True
+R1,B15,home_world,third_person_narrated,sessions/narrated/gemma3_12b/home_world/third_person_narrated_s0.json#12,Bimala,Nikhil,False
+R1,B16,home_world,third_person,sessions/full/gemma3_12b/home_world/third_person_s0.json#2,Nikhil,Nikhil,True
+R1,B17,home_world,first_person,sessions/full/gemma3_12b/home_world/first_person_s0.json#14,Sandip,Sandip,True
+R1,B18,scandal_bohemia,third_person,sessions/full/qwen2.5_14b/scandal_bohemia/third_person_s0.json#11,Sherlock Holmes,Sherlock Holmes,True
+R1,B19,great_expectations,third_person,sessions/full/gemma3_12b/great_expectations/third_person_s0.json#0,Pip,Pip,True
+R1,B20,scandal_bohemia,first_person,sessions/full/qwen2.5_14b/scandal_bohemia/first_person_s0.json#0,Dr. Watson,Dr. Watson,True
+R1,B21,scandal_bohemia,first_person,sessions/full/qwen2.5_14b/scandal_bohemia/first_person_s0.json#13,Sherlock Holmes,Sherlock Holmes,True
+R1,B22,great_expectations,third_person_narrated,sessions/narrated/gemma3_12b/great_expectations/third_person_narrated_s0.json#14,Pip,Pip,True
+R1,B23,scandal_bohemia,third_person,sessions/full/qwen2.5_14b/scandal_bohemia/third_person_s0.json#7,Dr. Watson,Dr. Watson,True
+R1,B24,great_expectations,first_person,sessions/full/gemma3_12b/great_expectations/first_person_s0.json#3,Miss Havisham,Miss Havisham,True
+R1,B25,scandal_bohemia,third_person_narrated,sessions/narrated/qwen2.5_14b/scandal_bohemia/third_person_narrated_s0.json#8,Sherlock Holmes,Sherlock Holmes,True
+R1,B26,great_expectations,third_person,sessions/full/gemma3_12b/great_expectations/third_person_s0.json#5,Miss Havisham,Miss Havisham,True
+R1,B27,scandal_bohemia,third_person,sessions/full/qwen2.5_14b/scandal_bohemia/third_person_s0.json#9,Dr. Watson,Sherlock Holmes,False
+R1,B28,pride_prejudice,first_person,sessions/full/llama3.1_8b/pride_prejudice/first_person_s0.json#3,Mr. Darcy,Mr. Darcy,True
+R1,B29,pride_prejudice,third_person_narrated,sessions/narrated/llama3.1_8b/pride_prejudice/third_person_narrated_s0.json#13,Elizabeth,Elizabeth,True
+R1,B30,pride_prejudice,third_person_narrated,sessions/narrated/llama3.1_8b/pride_prejudice/third_person_narrated_s0.json#16,Mr. Darcy,Mr. Darcy,True
+R1,B31,great_expectations,third_person,sessions/full/gemma3_12b/great_expectations/third_person_s0.json#1,Miss Havisham,Miss Havisham,True
+R1,B32,home_world,first_person,sessions/full/gemma3_12b/home_world/first_person_s0.json#6,Sandip,Sandip,True
+R1,B33,scandal_bohemia,first_person,sessions/full/qwen2.5_14b/scandal_bohemia/first_person_s0.json#5,Dr. Watson,Dr. Watson,True
+R1,B34,home_world,first_person,sessions/full/gemma3_12b/home_world/first_person_s0.json#0,Nikhil,Nikhil,True
+R1,B35,home_world,third_person_narrated,sessions/narrated/gemma3_12b/home_world/third_person_narrated_s0.json#1,Sandip,Sandip,True
+R1,B36,great_expectations,first_person,sessions/full/gemma3_12b/great_expectations/first_person_s0.json#1,Miss Havisham,Miss Havisham,True
+R2,B01,pride_prejudice,third_person,sessions/full/llama3.1_8b/pride_prejudice/third_person_s0.json#8,Elizabeth,Elizabeth,True
+R2,B02,scandal_bohemia,third_person_narrated,sessions/narrated/qwen2.5_14b/scandal_bohemia/third_person_narrated_s0.json#6,the King of Bohemia,the King of Bohemia,True
+R2,B03,scandal_bohemia,third_person_narrated,sessions/narrated/qwen2.5_14b/scandal_bohemia/third_person_narrated_s0.json#0,Dr. Watson,Dr. Watson,True
+R2,B04,pride_prejudice,first_person,sessions/full/llama3.1_8b/pride_prejudice/first_person_s0.json#12,Mr. Darcy,Mr. Darcy,True
+R2,B05,great_expectations,third_person_narrated,sessions/narrated/gemma3_12b/great_expectations/third_person_narrated_s0.json#16,Pip,Pip,True
+R2,B06,home_world,third_person,sessions/full/gemma3_12b/home_world/third_person_s0.json#11,Sandip,Sandip,True
+R2,B07,pride_prejudice,first_person,sessions/full/llama3.1_8b/pride_prejudice/first_person_s0.json#2,Elizabeth,Elizabeth,True
+R2,B08,pride_prejudice,third_person_narrated,sessions/narrated/llama3.1_8b/pride_prejudice/third_person_narrated_s0.json#6,Elizabeth,Elizabeth,True
+R2,B09,home_world,third_person,sessions/full/gemma3_12b/home_world/third_person_s0.json#16,Bimala,Sandip,False
+R2,B10,great_expectations,third_person_narrated,sessions/narrated/gemma3_12b/great_expectations/third_person_narrated_s0.json#4,Pip,Pip,True
+R2,B11,pride_prejudice,third_person,sessions/full/llama3.1_8b/pride_prejudice/third_person_s0.json#13,Elizabeth,Elizabeth,True
+R2,B12,great_expectations,first_person,sessions/full/gemma3_12b/great_expectations/first_person_s0.json#10,Pip,Pip,True
+R2,B13,home_world,third_person_narrated,sessions/narrated/gemma3_12b/home_world/third_person_narrated_s0.json#0,Nikhil,Nikhil,True
+R2,B14,pride_prejudice,third_person,sessions/full/llama3.1_8b/pride_prejudice/third_person_s0.json#0,Elizabeth,Elizabeth,True
+R2,B15,home_world,third_person_narrated,sessions/narrated/gemma3_12b/home_world/third_person_narrated_s0.json#12,Bimala,Bimala,True
+R2,B16,home_world,third_person,sessions/full/gemma3_12b/home_world/third_person_s0.json#2,Nikhil,Nikhil,True
+R2,B17,home_world,first_person,sessions/full/gemma3_12b/home_world/first_person_s0.json#14,Sandip,Sandip,True
+R2,B18,scandal_bohemia,third_person,sessions/full/qwen2.5_14b/scandal_bohemia/third_person_s0.json#11,Sherlock Holmes,Sherlock Holmes,True
+R2,B19,great_expectations,third_person,sessions/full/gemma3_12b/great_expectations/third_person_s0.json#0,Pip,Pip,True
+R2,B20,scandal_bohemia,first_person,sessions/full/qwen2.5_14b/scandal_bohemia/first_person_s0.json#0,Dr. Watson,Dr. Watson,True
+R2,B21,scandal_bohemia,first_person,sessions/full/qwen2.5_14b/scandal_bohemia/first_person_s0.json#13,Sherlock Holmes,Sherlock Holmes,True
+R2,B22,great_expectations,third_person_narrated,sessions/narrated/gemma3_12b/great_expectations/third_person_narrated_s0.json#14,Pip,Pip,True
+R2,B23,scandal_bohemia,third_person,sessions/full/qwen2.5_14b/scandal_bohemia/third_person_s0.json#7,Dr. Watson,Dr. Watson,True
+R2,B24,great_expectations,first_person,sessions/full/gemma3_12b/great_expectations/first_person_s0.json#3,Miss Havisham,Miss Havisham,True
+R2,B25,scandal_bohemia,third_person_narrated,sessions/narrated/qwen2.5_14b/scandal_bohemia/third_person_narrated_s0.json#8,Sherlock Holmes,Sherlock Holmes,True
+R2,B26,great_expectations,third_person,sessions/full/gemma3_12b/great_expectations/third_person_s0.json#5,Miss Havisham,Miss Havisham,True
+R2,B27,scandal_bohemia,third_person,sessions/full/qwen2.5_14b/scandal_bohemia/third_person_s0.json#9,Dr. Watson,Sherlock Holmes,False
+R2,B28,pride_prejudice,first_person,sessions/full/llama3.1_8b/pride_prejudice/first_person_s0.json#3,Mr. Darcy,Mr. Darcy,True
+R2,B29,pride_prejudice,third_person_narrated,sessions/narrated/llama3.1_8b/pride_prejudice/third_person_narrated_s0.json#13,Elizabeth,Elizabeth,True
+R2,B30,pride_prejudice,third_person_narrated,sessions/narrated/llama3.1_8b/pride_prejudice/third_person_narrated_s0.json#16,Mr. Darcy,Mr. Darcy,True
+R2,B31,great_expectations,third_person,sessions/full/gemma3_12b/great_expectations/third_person_s0.json#1,Miss Havisham,Miss Havisham,True
+R2,B32,home_world,first_person,sessions/full/gemma3_12b/home_world/first_person_s0.json#6,Sandip,Sandip,True
+R2,B33,scandal_bohemia,first_person,sessions/full/qwen2.5_14b/scandal_bohemia/first_person_s0.json#5,Dr. Watson,Dr. Watson,True
+R2,B34,home_world,first_person,sessions/full/gemma3_12b/home_world/first_person_s0.json#0,Nikhil,Nikhil,True
+R2,B35,home_world,third_person_narrated,sessions/narrated/gemma3_12b/home_world/third_person_narrated_s0.json#1,Sandip,Sandip,True
+R2,B36,great_expectations,first_person,sessions/full/gemma3_12b/great_expectations/first_person_s0.json#1,Miss Havisham,Miss Havisham,True
+R3,B01,pride_prejudice,third_person,sessions/full/llama3.1_8b/pride_prejudice/third_person_s0.json#8,Elizabeth,Elizabeth,True
+R3,B02,scandal_bohemia,third_person_narrated,sessions/narrated/qwen2.5_14b/scandal_bohemia/third_person_narrated_s0.json#6,the King of Bohemia,the King of Bohemia,True
+R3,B03,scandal_bohemia,third_person_narrated,sessions/narrated/qwen2.5_14b/scandal_bohemia/third_person_narrated_s0.json#0,Dr. Watson,Dr. Watson,True
+R3,B04,pride_prejudice,first_person,sessions/full/llama3.1_8b/pride_prejudice/first_person_s0.json#12,Mr. Darcy,Mr. Darcy,True
+R3,B05,great_expectations,third_person_narrated,sessions/narrated/gemma3_12b/great_expectations/third_person_narrated_s0.json#16,Pip,Pip,True
+R3,B06,home_world,third_person,sessions/full/gemma3_12b/home_world/third_person_s0.json#11,Sandip,Sandip,True
+R3,B07,pride_prejudice,first_person,sessions/full/llama3.1_8b/pride_prejudice/first_person_s0.json#2,Elizabeth,Elizabeth,True
+R3,B08,pride_prejudice,third_person_narrated,sessions/narrated/llama3.1_8b/pride_prejudice/third_person_narrated_s0.json#6,Elizabeth,Elizabeth,True
+R3,B09,home_world,third_person,sessions/full/gemma3_12b/home_world/third_person_s0.json#16,Bimala,Sandip,False
+R3,B10,great_expectations,third_person_narrated,sessions/narrated/gemma3_12b/great_expectations/third_person_narrated_s0.json#4,Pip,Pip,True
+R3,B11,pride_prejudice,third_person,sessions/full/llama3.1_8b/pride_prejudice/third_person_s0.json#13,Elizabeth,Elizabeth,True
+R3,B12,great_expectations,first_person,sessions/full/gemma3_12b/great_expectations/first_person_s0.json#10,Pip,Pip,True
+R3,B13,home_world,third_person_narrated,sessions/narrated/gemma3_12b/home_world/third_person_narrated_s0.json#0,Nikhil,Nikhil,True
+R3,B14,pride_prejudice,third_person,sessions/full/llama3.1_8b/pride_prejudice/third_person_s0.json#0,Elizabeth,Elizabeth,True
+R3,B15,home_world,third_person_narrated,sessions/narrated/gemma3_12b/home_world/third_person_narrated_s0.json#12,Bimala,Bimala,True
+R3,B16,home_world,third_person,sessions/full/gemma3_12b/home_world/third_person_s0.json#2,Nikhil,Nikhil,True
+R3,B17,home_world,first_person,sessions/full/gemma3_12b/home_world/first_person_s0.json#14,Sandip,Sandip,True
+R3,B18,scandal_bohemia,third_person,sessions/full/qwen2.5_14b/scandal_bohemia/third_person_s0.json#11,Sherlock Holmes,Sherlock Holmes,True
+R3,B19,great_expectations,third_person,sessions/full/gemma3_12b/great_expectations/third_person_s0.json#0,Pip,Pip,True
+R3,B20,scandal_bohemia,first_person,sessions/full/qwen2.5_14b/scandal_bohemia/first_person_s0.json#0,Dr. Watson,Dr. Watson,True
+R3,B21,scandal_bohemia,first_person,sessions/full/qwen2.5_14b/scandal_bohemia/first_person_s0.json#13,Sherlock Holmes,Sherlock Holmes,True
+R3,B22,great_expectations,third_person_narrated,sessions/narrated/gemma3_12b/great_expectations/third_person_narrated_s0.json#14,Pip,Pip,True
+R3,B23,scandal_bohemia,third_person,sessions/full/qwen2.5_14b/scandal_bohemia/third_person_s0.json#7,Dr. Watson,Dr. Watson,True
+R3,B24,great_expectations,first_person,sessions/full/gemma3_12b/great_expectations/first_person_s0.json#3,Miss Havisham,Miss Havisham,True
+R3,B25,scandal_bohemia,third_person_narrated,sessions/narrated/qwen2.5_14b/scandal_bohemia/third_person_narrated_s0.json#8,Sherlock Holmes,Sherlock Holmes,True
+R3,B26,great_expectations,third_person,sessions/full/gemma3_12b/great_expectations/third_person_s0.json#5,Miss Havisham,Miss Havisham,True
+R3,B27,scandal_bohemia,third_person,sessions/full/qwen2.5_14b/scandal_bohemia/third_person_s0.json#9,Dr. Watson,Dr. Watson,True
+R3,B28,pride_prejudice,first_person,sessions/full/llama3.1_8b/pride_prejudice/first_person_s0.json#3,Mr. Darcy,Mr. Darcy,True
+R3,B29,pride_prejudice,third_person_narrated,sessions/narrated/llama3.1_8b/pride_prejudice/third_person_narrated_s0.json#13,Elizabeth,Elizabeth,True
+R3,B30,pride_prejudice,third_person_narrated,sessions/narrated/llama3.1_8b/pride_prejudice/third_person_narrated_s0.json#16,Mr. Darcy,Mr. Darcy,True
+R3,B31,great_expectations,third_person,sessions/full/gemma3_12b/great_expectations/third_person_s0.json#1,Miss Havisham,Miss Havisham,True
+R3,B32,home_world,first_person,sessions/full/gemma3_12b/home_world/first_person_s0.json#6,Sandip,Sandip,True
+R3,B33,scandal_bohemia,first_person,sessions/full/qwen2.5_14b/scandal_bohemia/first_person_s0.json#5,Dr. Watson,Dr. Watson,True
+R3,B34,home_world,first_person,sessions/full/gemma3_12b/home_world/first_person_s0.json#0,Nikhil,Nikhil,True
+R3,B35,home_world,third_person_narrated,sessions/narrated/gemma3_12b/home_world/third_person_narrated_s0.json#1,Sandip,Sandip,True
+R3,B36,great_expectations,first_person,sessions/full/gemma3_12b/great_expectations/first_person_s0.json#1,Miss Havisham,Miss Havisham,True

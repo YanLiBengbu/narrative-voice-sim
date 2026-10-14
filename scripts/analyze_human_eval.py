@@ -26,7 +26,10 @@ from scipy import stats as st
 
 CRIT = {"Coherence (1-5)": "coherence", "Character consistency (1-5)": "character_consistency",
         "Scene fidelity (1-5)": "scene_fidelity", "Subjectivity (1-5)": "subjectivity", "Emotional intensity (1-5)": "emotional_intensity"}
-FORM = {"first": "first_person_direct_speech", "third": "third_person_narration", "mixed": "mixed"}
+CRIT_ZH = {"连贯性\n(1-5)": "coherence", "人物像不像\n(1-5)": "character_consistency", "个人色彩\n(1-5)": "subjectivity",
+           "情绪强度\n(1-5)": "emotional_intensity"}  # short kit (make_human_eval_kit_short.py)
+FORM = {"first": "first_person_direct_speech", "third": "third_person_narration", "mixed": "mixed",
+        "第一人称": "first_person_direct_speech", "第三人称": "third_person_narration", "混合": "mixed"}
 TARGET = {"first_person": "first_person_direct_speech", "third_person": "third_person_narration",
           "third_person_narrated": "third_person_narration"}
 PAIRS = [("first_person", "third_person"), ("first_person", "third_person_narrated"), ("third_person", "third_person_narrated"),
@@ -51,38 +54,54 @@ def main():
     args = ap.parse_args()
     ka = pd.read_excel(args.key, sheet_name="A_Sessions")
     kb = pd.read_excel(args.key, sheet_name="B_Speakers")
-    A, B = [], []
+    A, B, raters = [], [], []
     for k, path in enumerate(args.kits):
         rater = f"R{k + 1}"
-        a = pd.read_excel(path, sheet_name="A_Sessions").rename(columns=CRIT)
-        a["form"] = a["Narrative form (first/third/mixed)"].astype(str).str.strip().str.lower().map(FORM)
-        A.append(a[["ID", *CRIT.values(), "form"]].assign(rater=rater))
-        b = pd.read_excel(path, sheet_name="B_Speakers")
-        B.append(b[["ID", "Speaker", "Subjectivity (1-5)"]].rename(columns={"Speaker": "guess", "Subjectivity (1-5)": "subjectivity"}).assign(rater=rater))
+        sheets = pd.read_excel(path, sheet_name=None)
+        sa = next(v for n, v in sheets.items() if n.startswith("A"))
+        sb = next(v for n, v in sheets.items() if n.startswith("B"))
+        sa, sb = (x.rename(columns={x.columns[0]: "ID"}) for x in (sa, sb))  # item IDs are always in the first column
+        a = sa.rename(columns={**CRIT, **CRIT_ZH, "编号": "ID"})
+        fcol = next(c for c in a.columns if str(c).startswith(("Narrative form", "叙述形式")))
+        a["form"] = a[fcol].astype(str).str.strip().str.lower().map(FORM)
+        crit = [c for c in CRIT.values() if c in a.columns]
+        A.append(a[["ID", *crit, "form"]].assign(rater=rater))
+        b = sb.rename(columns={"编号": "ID", "Speaker": "guess", "说话人（下拉选择）": "guess", "Subjectivity (1-5)": "subjectivity"})
+        if "subjectivity" not in b:
+            b["subjectivity"] = np.nan
+        B.append(b[["ID", "guess", "subjectivity"]].assign(rater=rater))
+        info = next((v for n, v in sheets.items() if n.startswith("评分者信息")), None)  # rater information (short kit)
+        if info is not None:
+            vals = dict(zip(info.iloc[:, 0].astype(str), info.iloc[:, 1]))
+            decl = next((str(v).strip() for q, v in vals.items() if "独立完成" in q), "")
+            raters.append(dict(rater=rater, degree=str(next((v for q, v in vals.items() if "学位" in q), "")), independent_no_ai=decl))
+            if not decl.startswith(("是", "确认")):
+                print(f"WARNING: {rater} ({path}) did not declare independent rating without AI tools: {decl!r}")
     A = pd.concat(A).merge(ka, on="ID")
     B = pd.concat(B).merge(kb, on="ID")
-    for c in CRIT.values():
+    CRIT_USED = [c for c in CRIT.values() if c in A.columns]
+    for c in CRIT_USED:
         A[c] = pd.to_numeric(A[c], errors="coerce")
     B["subjectivity"] = pd.to_numeric(B["subjectivity"], errors="coerce")
     B["correct"] = B.guess.astype(str).str.strip().str.lower() == B.speaker.astype(str).str.strip().str.lower()
-    out = dict(n_raters=len(args.kits), n_sessions=int(ka.shape[0]), n_turns=int(kb.shape[0]))
+    out = dict(n_raters=len(args.kits), n_sessions=int(ka.shape[0]), n_turns=int(kb.shape[0]), raters=raters, scales=CRIT_USED)
 
     # agreement between raters
     if len(args.kits) >= 2:
         import krippendorff
         out["alpha"] = {c: float(krippendorff.alpha(reliability_data=A.pivot_table(index="rater", columns="ID", values=c).to_numpy(),
-                                                     level_of_measurement="ordinal")) for c in CRIT.values()}
+                                                     level_of_measurement="ordinal")) for c in CRIT_USED}
         sp = B.pivot_table(index="ID", columns="rater", values="guess", aggfunc="first")
         out["speaker_raw_agreement"] = float(np.mean([len(set(r.dropna())) == 1 for _, r in sp.iterrows()]))
 
     # condition means (items averaged over raters) and paired tests over excerpts
-    item = A.groupby(["ID", "text_id", "mode"])[list(CRIT.values())].mean().reset_index()
+    item = A.groupby(["ID", "text_id", "mode"])[CRIT_USED].mean().reset_index()
     means, tests = [], []
     for mode, g in item.groupby("mode"):
-        for c in CRIT.values():
+        for c in CRIT_USED:
             means.append(dict(mode=mode, metric=c, mean=float(g[c].mean()), ci=boot_ci(g[c]), n=int(g[c].notna().sum())))
     for a, b in PAIRS:
-        for c in CRIT.values():
+        for c in CRIT_USED:
             w = item.pivot_table(index="text_id", columns="mode", values=c)
             if a in w and b in w:
                 d = (w[a] - w[b]).dropna()
@@ -101,7 +120,7 @@ def main():
         cor = []
         for judge, g in J.groupby("judge"):
             m = item.merge(ka[["ID", "file"]], on="ID").merge(g, on="file", suffixes=("_human", "_judge"))
-            for c in CRIT.values():
+            for c in CRIT_USED:
                 r = st.spearmanr(m[f"{c}_human"], m[f"{c}_judge"], nan_policy="omit")
                 cor.append(dict(judge=judge, metric=c, n=len(m), rho=float(r.correlation), p=float(r.pvalue)))
         out["human_vs_judges"] = cor
@@ -110,9 +129,8 @@ def main():
         ses = pd.read_csv(sp_)
         ses["file"] = ses.file.str.replace("\\\\", "/", regex=True)
         m = item.merge(ka[["ID", "file"]], on="ID").merge(ses[["file", "subjectivity", "intensity"]], on="file", suffixes=("_human", "_auto"))
-        out["human_vs_auto"] = {c: float(st.spearmanr(m[f"{c}_human"], m[f"{c}_auto"], nan_policy="omit").correlation)
-                                for c in ("subjectivity",) if f"{c}_auto" in m} | {
-            "intensity": float(st.spearmanr(m["emotional_intensity"], m["intensity"], nan_policy="omit").correlation)}
+        out["human_vs_auto"] = {"subjectivity": float(st.spearmanr(m["subjectivity_human"], m["subjectivity_auto"], nan_policy="omit").correlation),
+                                "intensity": float(st.spearmanr(m["emotional_intensity"], m["intensity"], nan_policy="omit").correlation)}
 
     # speaker identification
     sid = []
@@ -122,6 +140,20 @@ def main():
                         p_above_chance=float(st.binomtest(k, n, float(g.chance.mean()), alternative="greater").pvalue) if n else None,
                         per_rater={r: float(h.correct.mean()) for r, h in g.groupby("rater")}))
     out["speaker_id"] = sid
+    # raters' answers are not independent: also test the per-item majority vote (ties count as wrong)
+    maj = []
+    for (mode,), g in B.groupby(["mode"]):
+        votes = g.groupby("ID").agg(correct=("correct", "sum"), n=("correct", "size"), chance=("chance", "first"))
+        k, n = int((votes.correct * 2 > votes.n).sum()), len(votes)
+        maj.append(dict(mode=mode, acc=k / n, k=k, n=n, chance=float(votes.chance.mean()),
+                        p_above_chance=float(st.binomtest(k, n, float(votes.chance.mean()), alternative="greater").pvalue)))
+    out["speaker_id_majority"] = maj
+    if len(args.kits) >= 2:
+        import krippendorff
+        codes = {v: i for i, v in enumerate(sorted(B.guess.astype(str).unique()))}
+        out["speaker_alpha_nominal"] = float(krippendorff.alpha(
+            reliability_data=B.assign(code=B.guess.astype(str).map(codes)).pivot_table(index="rater", columns="ID", values="code").to_numpy(),
+            level_of_measurement="nominal"))
     sjp = os.path.join(args.res, "judge_speaker_all.csv")
     if os.path.exists(sjp):
         SJ = pd.read_csv(sjp)
@@ -130,6 +162,12 @@ def main():
         out["speaker_human_judge_agreement"] = {j: float((g.guess.str.lower() == g.guess_judge.str.lower()).mean()) for j, g in m.groupby("judge")}
         out["speaker_id_judges_same_items"] = {j: float(g.drop_duplicates("judge_key").pipe(lambda d: (d.guess_judge.str.lower() == d.speaker.str.lower()).mean()))
                                                for j, g in m.groupby("judge")}
+    # anonymized item-level ratings (rater codes only) for the data release
+    A[["rater", "ID", "text_id", "model", "mode", "file", *CRIT_USED, "form"]].sort_values(["rater", "ID"]).to_csv(
+        os.path.join(args.res, "human_eval_session_ratings.csv"), index=False)
+    B[["rater", "ID", "text_id", "mode", "judge_key", "speaker", "guess", "correct"]].sort_values(["rater", "ID"]).to_csv(
+        os.path.join(args.res, "human_eval_speaker_guesses.csv"), index=False)
+    pd.DataFrame(means).to_csv(os.path.join(args.res, "table_human_eval_means.csv"), index=False)
     pd.DataFrame(tests).to_csv(os.path.join(args.res, "table_human_eval_tests.csv"), index=False)
     pd.DataFrame(sid).to_csv(os.path.join(args.res, "table_human_eval_speaker.csv"), index=False)
     json.dump(out, open(os.path.join(args.res, "human_eval_summary.json"), "w", encoding="utf-8"), indent=1, default=float)
