@@ -72,7 +72,7 @@ python scripts/make_figures.py --res results     # figures
 python scripts/make_facts.py --res results       # every number quoted in the paper -> results/facts.json
 ```
 
-The expert evaluation used the rating sheet in `expert_evaluation_protocol/` (12 sessions and 36 masked turns, blind to model and condition). The raters' responses were entered into the sheets by one of the authors; the anonymized item-level ratings are in `results/human_eval_session_ratings.csv` and `results/human_eval_speaker_guesses.csv`, and `scripts/analyze_human_eval.py --key HumanEval_Short_Key.xlsx --kits rater*.xlsx --res results` computes the statistics reported in subsection 3.11 of the paper.
+The expert evaluation used the rating sheet in `expert_evaluation_protocol/` (12 sessions and 36 masked turns, blind to model and condition). The raters' responses were entered into the sheets by one of the authors; the anonymized item-level ratings are in `results/human_eval_session_ratings.csv` and `results/human_eval_speaker_guesses.csv`, and `scripts/analyze_human_eval.py --key HumanEval_Short_Key.xlsx --kits rater*.xlsx --res results` computes the statistics reported in subsection 3.10 of the paper.
 
 To recompute only the statistics from the released outputs:
 
